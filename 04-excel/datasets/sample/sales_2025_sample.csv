@@ -1,0 +1,21 @@
+﻿OrderID,Date,CustomerName,Product,Category,Price,Quantity,Total,Region,SalesRep,PaymentMethod,OrderStatus
+1,2025-02-27,Customer1,Laptop,Electronics,1113.62,8,8908.96,South,Bob,Net Banking,Delivered
+2,2025-03-01,Customer2,Coffee,Food,49.55,7,346.85,Central,Alice,Net Banking,Delivered
+3,2025-01-02,Customer3,Tea,Food,676.57,9,6089.13,South,Grace,UPI,Delivered
+4,2025-01-27,Customer4,Jeans,Clothing,1436.03,11,15796.33,North,Grace,Credit Card,Delivered
+5,2025-04-28,Customer5,Rug,Home,400.46,2,800.92,Central,Bob,COD,Delivered
+6,2025-05-28,Customer6,Clock,Home,929.69,12,11156.28,South,Bob,Credit Card,Processing
+7,2025-01-26,Customer7,Jacket,Clothing,1477.91,8,11823.28,West,Eve,COD,Processing
+8,2025-06-21,Customer8,Chair,Home,558.42,7,3908.94,East,Bob,Net Banking,Processing
+9,2025-04-29,Customer9,Hat,Clothing,1095.04,6,6570.24,West,Eve,Net Banking,Delivered
+10,2025-03-22,Customer10,Lamp,Home,347.43,2,694.86,West,Eve,Credit Card,Delivered
+11,2025-06-14,Customer11,Chair,Home,984.88,13,12803.44,West,Charlie,UPI,Delivered
+12,2025-05-30,Customer12,Socks,Clothing,844.25,9,7598.25,West,Grace,UPI,Delivered
+13,2025-01-29,Customer13,Hat,Clothing,742.81,2,1485.62,South,Charlie,COD,Shipped
+14,2025-05-16,Customer14,Monitor,Electronics,575.52,15,8632.8,East,Alice,Credit Card,Processing
+15,2025-04-22,Customer15,Clock,Home,513.56,10,5135.6,South,Henry,Credit Card,Processing
+16,2025-01-28,Customer16,Rug,Home,1144.13,17,19450.21,East,Diana,Debit Card,Delivered
+17,2025-01-01,Customer17,Hat,Clothing,1430.48,17,24318.16,Central,Frank,COD,Delivered
+18,2025-03-03,Customer18,Keyboard,Electronics,1318.69,10,13186.9,North,Diana,Net Banking,Delivered
+19,2025-05-17,Customer19,USB Drive,Electronics,731.56,3,2194.68,South,Charlie,COD,Shipped
+20,2025-04-19,Customer20,Jacket,Clothing,793.87,20,15877.4,South,Diana,UPI,Delivered

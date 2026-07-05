@@ -1,0 +1,16 @@
+﻿ID,Name,Email,Phone,Date,Amount,Category,Notes
+1,John Smith,john@gmail.com,555-0100,2025-01-15,100.5,A,
+2,Jane Doe,jane@yahoo.com,555-0200,2025/01/20,200.0,B,Good customer
+3,John Smith,john@gmail.com,555-0100,2025-01-15,100.5,A,
+4,Bob Wilson,bob@,555-0300,2025-01-25,,C,
+5,Alice Brown,alice@company.com,555-0400,25-01-2025,150.0,A,Multiple lines\nhere please
+6,,charlie@test.com,555-0500,2025-02-01,75.0,B,
+7,Diana Prince,diana@work.com,555-0600,2025-02-05,300.0,,
+8,Eve Davis,eve@domain.com,555-0700,2025-02-10,-50.0,A,Negative amount
+9,Frank Miller,frank@mail.com,555-0800,2025-02-15,250.0,B,OK
+10,Grace Lee,grace@site.com,555-0900,2025-02-20,175.0,C,
+11,Henry,henry@corp.com,555-1000,2025-03-01,400.0,A,
+12,Iris Chen,,555-1100,2025-03-05,90.0,B,Missing email
+13,John Smith,john@gmail.com,555-0100,2025-01-15,100.5,A,
+14,Kate Adams,kate@firm.com,555-1200,2025-03-10,600.0,C,VIP
+15,Leo Wang,leo@test.org,555-1300,2025-03-15,220.0,A,
