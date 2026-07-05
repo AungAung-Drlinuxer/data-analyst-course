@@ -1,0 +1,501 @@
+constituency_id,constituency_name,state,total_voters,valid_votes,party,candidate,votes,vote_share_pct,position,election_year,category,winner_margin,result_type
+1,Karaview Constituency,Maharashtra,1087191,789108,AAP,Joel Berger,450266,57.06,4,2019,ST,0,Lost
+2,North Brandon Constituency,West Bengal,677075,414199,Others,Johnny Smith,244967,59.14,5,2024,SC,0,Lost
+3,Tylermouth Constituency,Karnataka,1313609,763463,AAP,Ryan Hill,74936,9.82,4,2014,ST,0,Lost
+4,Michellefurt Constituency,Bihar,2319423,1853953,TDP,Tracy Whitaker,917143,49.47,2,2019,ST,0,Lost
+5,South Michaelstad Constituency,Madhya Pradesh,543520,406079,AAP,James Meyer,218469,53.8,4,2024,ST,0,Lost
+6,Garyville Constituency,Delhi,853172,541994,AIADMK,Nicole Cordova,204048,37.65,5,2014,ST,0,Lost
+7,Ashleyland Constituency,Haryana,1122107,674897,SP,Michaela Collins,101115,14.98,3,2019,General,0,Lost
+8,Murraychester Constituency,Maharashtra,1146129,943184,Shiv Sena,Michael Harmon,508762,53.94,2,2014,ST,0,Lost
+9,East Johnview Constituency,West Bengal,1960757,1157112,Shiv Sena,Laura Lucero,139511,12.06,3,2024,General,0,Lost
+10,Lake Lisafort Constituency,Delhi,1336480,800917,Left Parties,Lisa Carter,184322,23.01,5,2014,General,0,Lost
+11,Martinezhaven Constituency,Gujarat,1237363,810154,Shiv Sena,Angela Williamson,54370,6.71,2,2019,SC,0,Lost
+12,Millshaven Constituency,Haryana,1372912,987686,Others,Morgan Yoder,579088,58.63,6,2024,ST,0,Lost
+13,Josemouth Constituency,West Bengal,1307692,830510,YSRCP,Alisha Oneal,141265,17.01,5,2014,ST,0,Lost
+14,North Brian Constituency,Karnataka,1507418,1254201,JDU,Gabriel Torres,585582,46.69,2,2019,ST,0,Lost
+15,East Anitaport Constituency,Delhi,1499832,1117178,AAP,Katherine Mclaughlin,647185,57.93,2,2014,ST,0,Lost
+16,Ronaldburgh Constituency,Haryana,854738,631314,DMK,Kimberly Sampson,259969,41.18,5,2024,SC,0,Lost
+17,Alexberg Constituency,Andhra Pradesh,2278187,1383387,BJP,Martha Lopez,626468,45.29,6,2024,SC,0,Lost
+18,Jesseview Constituency,Uttar Pradesh,1689890,1197090,JDU,Elizabeth Hawkins,378656,31.63,3,2024,ST,0,Lost
+19,Baileymouth Constituency,Maharashtra,2566728,1463358,TDP,Robert Flores,805365,55.04,1,2024,SC,154510,Won
+20,Pearsonmouth Constituency,Uttar Pradesh,925352,517313,TDP,James Carter,226062,43.7,1,2024,SC,345580,Won
+21,Washingtonchester Constituency,Delhi,1905540,1316361,DMK,Michael Parker,290711,22.08,3,2014,General,0,Lost
+22,Tylerside Constituency,Telangana,1890581,1207827,Shiv Sena,Donna Martin,255678,21.17,1,2014,General,376535,Won
+23,Lisaton Constituency,Andhra Pradesh,2401701,1775518,AAP,Mr. Keith Simpson,961885,54.17,5,2014,General,0,Lost
+24,Jonesbury Constituency,Andhra Pradesh,1493955,1118570,INC,Christopher Brooks,97628,8.73,2,2019,SC,0,Lost
+25,New Nancy Constituency,Madhya Pradesh,1368790,1069794,BSP,Cynthia Mcdonald,128905,12.05,4,2024,ST,0,Lost
+26,Port Stacy Constituency,Delhi,2949522,1856759,Shiv Sena,Christina Ramirez,775162,41.75,6,2024,General,0,Lost
+27,West Shannonshire Constituency,Punjab,1584040,1017659,BJP,Marcia Grimes,332763,32.7,1,2019,ST,338330,Won
+28,Port Michaelstad Constituency,Rajasthan,2537831,1408596,JDU,Keith Clark,694304,49.29,1,2019,ST,401137,Won
+29,Sarahview Constituency,Telangana,1462230,924109,SP,Brandi Bradford,229256,24.81,1,2019,General,348389,Won
+30,South Maurice Constituency,Madhya Pradesh,2505234,1960963,YSRCP,Vincent Flores,176013,8.98,5,2024,General,0,Lost
+31,South Nancy Constituency,Tamil Nadu,2880693,2017354,DMK,Bridget Kirk,737270,36.55,6,2024,ST,0,Lost
+32,Johnsonton Constituency,Delhi,1394887,872815,INC,Albert Mccann,496355,56.87,4,2024,General,0,Lost
+33,Lake Nicholasport Constituency,Delhi,1142602,641884,Left Parties,Jason Wright,345508,53.83,3,2019,SC,0,Lost
+34,Oliverhaven Constituency,Telangana,1913546,1263433,Shiv Sena,Mark Williams,357433,28.29,3,2019,ST,0,Lost
+35,New William Constituency,Haryana,2401447,2009815,AIADMK,Nicole Sanchez,699097,34.78,4,2019,SC,0,Lost
+36,East Stephenport Constituency,Punjab,1721399,1324749,TDP,Angela Walter,422603,31.9,2,2019,SC,0,Lost
+37,Heatherside Constituency,Tamil Nadu,1752520,1304751,YSRCP,Christopher Jacobs,694115,53.2,5,2014,SC,0,Lost
+38,Port Maxwellfort Constituency,Haryana,2201987,1844100,BJP,Courtney Durham,962416,52.19,4,2019,ST,0,Lost
+39,Kennedyport Constituency,Rajasthan,1894223,1324500,Left Parties,Kayla Potts,614978,46.43,4,2019,General,0,Lost
+40,Isabelstad Constituency,Maharashtra,2253484,1502863,SP,James Perry,879184,58.5,3,2024,SC,0,Lost
+41,Scottberg Constituency,Uttar Pradesh,2417757,1583851,INC,Megan Sandoval,249088,15.73,3,2014,General,0,Lost
+42,South David Constituency,Uttar Pradesh,805639,478718,Others,Victoria Black,31982,6.68,3,2019,General,0,Lost
+43,Wilsonville Constituency,Madhya Pradesh,2726681,1591711,AAP,Emily Jones,848717,53.32,4,2019,ST,0,Lost
+44,Chenmouth Constituency,Madhya Pradesh,1922325,1510876,INC,Ashley Blankenship,629964,41.7,5,2024,General,0,Lost
+45,North Herbertmouth Constituency,Kerala,1415147,893850,AAP,Amy Hayes,266297,29.79,6,2024,SC,0,Lost
+46,New Jesus Constituency,Madhya Pradesh,518495,350774,TMC,Tonya Mccarthy,111806,31.87,1,2019,SC,280992,Won
+47,Dayfurt Constituency,Delhi,1793536,1485754,Shiv Sena,Rhonda Garcia,663201,44.64,1,2024,ST,357588,Won
+48,West Ericside Constituency,Odisha,2598322,2017265,Left Parties,Katie Anderson,615421,30.51,1,2024,ST,278239,Won
+49,Jacksonborough Constituency,Gujarat,1264180,1042465,BJP,Justin Williams,214422,20.57,3,2014,SC,0,Lost
+50,Parkerburgh Constituency,Gujarat,2332462,1793617,Shiv Sena,Michael Nelson,604932,33.73,1,2024,SC,130085,Won
+51,Winterstown Constituency,West Bengal,843381,660100,TMC,Patricia Whitney,109628,16.61,3,2019,General,0,Lost
+52,East Rhonda Constituency,Madhya Pradesh,2027792,1583859,TMC,Jeffrey Jones,283625,17.91,5,2014,General,0,Lost
+53,Mezaside Constituency,Bihar,1300570,957344,TDP,Maria Moore,377871,39.47,5,2024,SC,0,Lost
+54,East Danaside Constituency,Gujarat,1529719,890927,TDP,Kelly Matthews,503600,56.53,1,2019,ST,179944,Won
+55,Davidport Constituency,Haryana,2013582,1444935,AAP,Tammy Smith,811734,56.18,2,2024,SC,0,Lost
+56,Rodriguezton Constituency,Karnataka,1935771,1170614,SP,Molly Johnson,619360,52.91,2,2024,SC,0,Lost
+57,Michaelburgh Constituency,Andhra Pradesh,1275989,1047785,DMK,Bryan Foley,508518,48.53,1,2024,SC,382168,Won
+58,North Josephville Constituency,Karnataka,2307299,1703919,BJP,Amy Miranda,866417,50.85,2,2024,SC,0,Lost
+59,Chanshire Constituency,Rajasthan,2412100,1752073,INC,Kyle Hernandez,544953,31.1,1,2024,General,107561,Won
+60,East Julia Constituency,Kerala,1118057,922084,Left Parties,Jamie Beltran,114330,12.4,6,2019,ST,0,Lost
+61,West Felicia Constituency,Telangana,676389,459342,SP,Lisa Hill,163150,35.52,2,2019,ST,0,Lost
+62,East Jennifer Constituency,Maharashtra,2709718,1635653,BJP,Jeffrey Cortez,132955,8.13,6,2024,General,0,Lost
+63,New Elizabeth Constituency,Telangana,2625126,1978743,TMC,John Rodriguez,120083,6.07,5,2014,General,0,Lost
+64,North Martin Constituency,Punjab,860638,645556,TDP,Ashley Tucker,94054,14.57,3,2024,General,0,Lost
+65,Montoyaport Constituency,Kerala,539023,367328,YSRCP,Susan Shepard,114941,31.29,3,2024,General,0,Lost
+66,Austinstad Constituency,Karnataka,1861717,1115892,Others,Taylor Quinn,313903,28.13,5,2019,General,0,Lost
+67,Bellfort Constituency,Gujarat,1767150,1278657,Others,Anthony Melendez,255184,19.96,5,2019,ST,0,Lost
+68,South Amanda Constituency,Madhya Pradesh,2349409,1350666,BSP,Zachary Doyle,555809,41.15,1,2024,SC,84351,Won
+69,Hernandezton Constituency,Maharashtra,2134883,1683933,NCP,Jason Harris,520257,30.9,3,2024,ST,0,Lost
+70,South Stephanieborough Constituency,Kerala,1636285,1026120,JDU,Samuel Hurley,338829,33.02,3,2024,SC,0,Lost
+71,Port Taylorview Constituency,Tamil Nadu,2735610,1758909,Others,Michelle Smith,781592,44.44,2,2024,General,0,Lost
+72,Lake Kelseybury Constituency,Bihar,2998650,1722001,Shiv Sena,Alison Avila,204814,11.89,4,2024,General,0,Lost
+73,Wallerchester Constituency,Gujarat,1412729,954315,TDP,Jose Mooney,277109,29.04,5,2024,ST,0,Lost
+74,Port Isaac Constituency,Rajasthan,1789364,1071788,TMC,Margaret Stuart,630627,58.84,6,2019,General,0,Lost
+75,West Adrianmouth Constituency,Odisha,2614890,2120663,AIADMK,Holly Stein,1059287,49.95,2,2024,General,0,Lost
+76,East Dianeberg Constituency,Tamil Nadu,2568868,1776943,YSRCP,Travis Jackson,731139,41.15,5,2024,SC,0,Lost
+77,Lake Bryan Constituency,Tamil Nadu,1161103,648085,INC,Monica Wood,298113,46.0,3,2014,ST,0,Lost
+78,Fergusonshire Constituency,Haryana,2107868,1392789,AIADMK,Kendra Clark,234226,16.82,2,2024,SC,0,Lost
+79,Laurenshire Constituency,Kerala,1926625,1479964,NCP,Nancy Day,324526,21.93,5,2019,ST,0,Lost
+80,North Kim Constituency,Karnataka,1246796,885296,JDU,Jason Rodriguez,198035,22.37,5,2019,SC,0,Lost
+81,Williamston Constituency,Bihar,1545662,1096391,DMK,Theodore Decker,139397,12.71,2,2019,SC,0,Lost
+82,Lake Richardland Constituency,Andhra Pradesh,2633552,2210999,AAP,Katie Benson,196231,8.88,6,2014,SC,0,Lost
+83,North Cristinafurt Constituency,Kerala,1602818,1248496,BJP,Robert Ruiz,576796,46.2,4,2014,ST,0,Lost
+84,New Wayneville Constituency,Gujarat,2456464,1943876,TMC,Xavier Garner,565346,29.08,5,2024,General,0,Lost
+85,Amandaland Constituency,West Bengal,980105,585043,NCP,Susan Carter,279580,47.79,5,2019,SC,0,Lost
+86,West Erinberg Constituency,Kerala,1887219,1409718,Others,Terry Davis,611297,43.36,1,2024,ST,142543,Won
+87,Rachelstad Constituency,Tamil Nadu,977985,667696,SP,Robin Fuentes,162592,24.35,3,2014,SC,0,Lost
+88,Clarkside Constituency,Tamil Nadu,2888285,2083703,NCP,Matthew Martinez,1228735,58.97,3,2019,General,0,Lost
+89,Kevinland Constituency,Delhi,896809,549205,DMK,Alexandra Graves,178156,32.44,3,2019,General,0,Lost
+90,New William Constituency,Bihar,2821932,2359399,Left Parties,Joy Lee DDS,1260821,53.44,5,2014,ST,0,Lost
+91,Chadberg Constituency,Bihar,940644,744637,Left Parties,Sarah Koch,196195,26.35,4,2024,General,0,Lost
+92,New Brettmouth Constituency,Maharashtra,2406194,1634782,AIADMK,Charles Carpenter,662005,40.5,4,2014,ST,0,Lost
+93,Thomasshire Constituency,Haryana,2137090,1576338,AIADMK,Christopher Dickson,498383,31.62,1,2024,SC,296719,Won
+94,Lake Conniechester Constituency,Tamil Nadu,1437607,821505,INC,Amanda Mitchell,385557,46.93,1,2024,SC,225130,Won
+95,New Daniellebury Constituency,Rajasthan,1816349,1135842,INC,Rhonda Gilbert,558603,49.18,4,2014,ST,0,Lost
+96,Wilsonview Constituency,Haryana,1278876,926719,TDP,Charles Keller,189174,20.41,4,2014,ST,0,Lost
+97,New Williamberg Constituency,Madhya Pradesh,1692720,1007950,NCP,Ashley Anderson,596479,59.18,6,2024,General,0,Lost
+98,Hunterport Constituency,Delhi,900397,501916,Shiv Sena,Jason Hull,142399,28.37,2,2014,General,0,Lost
+99,Adamsfurt Constituency,Uttar Pradesh,2146073,1740819,Others,Stephen Taylor,661367,37.99,5,2024,SC,0,Lost
+100,New Thomaston Constituency,Odisha,1744906,1243404,BSP,Jennifer Meza DVM,539476,43.39,2,2019,ST,0,Lost
+101,Deleonfort Constituency,Kerala,1029995,683368,NCP,Brett Kaiser,170987,25.02,3,2019,SC,0,Lost
+102,Port Sarah Constituency,Andhra Pradesh,861446,659867,Left Parties,John Smith,355062,53.81,6,2014,ST,0,Lost
+103,South Jamietown Constituency,Delhi,1536915,1131322,TDP,Daniel Miller,183184,16.19,3,2024,General,0,Lost
+104,West Alan Constituency,Rajasthan,1787563,1059191,Left Parties,David Freeman,133003,12.56,5,2019,ST,0,Lost
+105,Port Robertville Constituency,West Bengal,856287,536554,BSP,Megan Smith,268090,49.97,3,2014,ST,0,Lost
+106,Guerrerotown Constituency,Odisha,2839953,2310647,BJP,Nicholas Horn,596410,25.81,4,2019,General,0,Lost
+107,West Robert Constituency,Haryana,781657,646240,TDP,Robert Hudson,351268,54.36,2,2019,General,0,Lost
+108,South Coreymouth Constituency,Odisha,2703778,1772092,AIADMK,Brett James,638215,36.01,4,2024,General,0,Lost
+109,South Brandon Constituency,West Bengal,2921247,2362476,Others,Robert Wilson,1027669,43.5,4,2024,ST,0,Lost
+110,South Kimland Constituency,Rajasthan,925401,587467,INC,Yvette King,256515,43.66,5,2014,SC,0,Lost
+111,Higginsland Constituency,Haryana,2552793,1520531,DMK,David Stephens,85298,5.61,3,2014,SC,0,Lost
+112,East Travis Constituency,Kerala,2506217,1607130,AIADMK,Jesus Boyle,138466,8.62,4,2014,ST,0,Lost
+113,Stephaniestad Constituency,Punjab,2188418,1676700,AAP,Matthew Brown,369481,22.04,6,2014,ST,0,Lost
+114,South Willie Constituency,Andhra Pradesh,1090688,659230,Left Parties,Amber Fuller,178310,27.05,6,2019,SC,0,Lost
+115,Hallberg Constituency,Madhya Pradesh,2419318,1915414,AIADMK,Gabrielle Vaughn,711124,37.13,1,2019,General,268713,Won
+116,Lake Annetown Constituency,Haryana,2434201,1724975,BJP,Stephanie Thompson,561210,32.53,5,2019,SC,0,Lost
+117,Donfurt Constituency,Delhi,1703363,952730,Left Parties,Benjamin Garcia,417015,43.77,1,2014,ST,318689,Won
+118,Waltonborough Constituency,Karnataka,2286395,1686577,Shiv Sena,Michael Estrada,106799,6.33,4,2019,ST,0,Lost
+119,Ayalaburgh Constituency,Haryana,1777674,1357486,TMC,Sara Knox,787963,58.05,4,2014,SC,0,Lost
+120,Amandabury Constituency,Gujarat,2720668,1838642,BJP,Samuel Burton,313672,17.06,5,2024,SC,0,Lost
+121,Lake Margaret Constituency,Punjab,1838711,1495014,JDU,Gloria Jackson,369219,24.7,2,2019,ST,0,Lost
+122,New Toddton Constituency,Punjab,1473418,817628,NCP,Angelica Hughes,290297,35.5,3,2024,SC,0,Lost
+123,East Robertmouth Constituency,Tamil Nadu,2284886,1505449,Left Parties,Tamara Lopez,802407,53.3,3,2014,General,0,Lost
+124,Port Theresa Constituency,Delhi,2286102,1351759,SP,Benjamin Mcbride,178790,13.23,2,2014,General,0,Lost
+125,Ericamouth Constituency,Odisha,878930,587396,BSP,Sandra Smith,207992,35.41,4,2024,SC,0,Lost
+126,East Deborah Constituency,Uttar Pradesh,2289058,1403235,Left Parties,Zachary Greene,764634,54.49,5,2024,General,0,Lost
+127,Port Alexandriastad Constituency,Maharashtra,1576840,1009066,Others,Jane Gonzalez,448450,44.44,3,2019,ST,0,Lost
+128,Jeremyfurt Constituency,Kerala,2478570,2033619,JDU,Amanda Spencer,658138,32.36,2,2014,SC,0,Lost
+129,Lake Michaelland Constituency,Uttar Pradesh,2784790,1703395,TDP,Judith Stanley,901240,52.91,6,2014,ST,0,Lost
+130,East Johnfort Constituency,Odisha,2901928,2234593,DMK,Emily Wolf,655535,29.34,2,2019,ST,0,Lost
+131,East Kelly Constituency,Madhya Pradesh,2305365,1849538,SP,Michelle Mullins,589658,31.88,6,2024,ST,0,Lost
+132,Lake Steven Constituency,Karnataka,2365382,1925361,JDU,Jeffrey Alexander,910867,47.31,6,2014,SC,0,Lost
+133,Vangstad Constituency,Telangana,1409832,1013459,BJP,Brandon White,443171,43.73,3,2024,ST,0,Lost
+134,Lake Joseph Constituency,Delhi,1220660,777026,BSP,Debra Foley,183098,23.56,3,2019,General,0,Lost
+135,Port Pamelamouth Constituency,Kerala,746507,566185,SP,Olivia Boyd,195692,34.56,5,2024,SC,0,Lost
+136,Katelynview Constituency,Punjab,1134848,666700,Others,Nancy Williams,268951,40.34,1,2024,SC,365142,Won
+137,North Billy Constituency,Gujarat,1741692,1070881,JDU,Gwendolyn Landry MD,551569,51.51,3,2019,ST,0,Lost
+138,South Christinefort Constituency,Tamil Nadu,2398465,1451655,BJP,Cory Watson,409540,28.21,4,2019,ST,0,Lost
+139,Porterfort Constituency,Andhra Pradesh,2420108,1583897,BJP,Jason George,552935,34.91,2,2014,General,0,Lost
+140,New Jeffreyborough Constituency,Maharashtra,1468140,1182880,JDU,Juan Hanson,437892,37.02,5,2014,General,0,Lost
+141,Pughstad Constituency,Haryana,565263,361632,DMK,Nicole Martin,114420,31.64,3,2019,SC,0,Lost
+142,Riveraland Constituency,Kerala,2096562,1494465,Shiv Sena,Kristin Watson,134950,9.03,4,2024,ST,0,Lost
+143,Lynntown Constituency,Uttar Pradesh,2082266,1512612,AAP,Keith Brown,171535,11.34,1,2014,ST,462345,Won
+144,Kathleenshire Constituency,Rajasthan,2505001,1941646,INC,John Mooney,771629,39.74,2,2014,SC,0,Lost
+145,South Elizabethburgh Constituency,Karnataka,506627,403035,NCP,Wanda Hayes,119122,29.56,5,2014,SC,0,Lost
+146,Port Jacob Constituency,Madhya Pradesh,2969658,2167359,SP,Jose Meyers,489525,22.59,3,2019,SC,0,Lost
+147,Tammieborough Constituency,Gujarat,1610643,975152,INC,Keith Terry,517087,53.03,5,2024,SC,0,Lost
+148,West Natalie Constituency,Rajasthan,2239913,1340969,AIADMK,David Williams,279940,20.88,2,2014,SC,0,Lost
+149,Jamesside Constituency,Rajasthan,2927911,1654305,JDU,Kari Fitzpatrick,196917,11.9,5,2024,ST,0,Lost
+150,Dayshire Constituency,Rajasthan,2646775,1494585,DMK,Lisa Ritter,417278,27.92,4,2019,General,0,Lost
+151,East Dustinburgh Constituency,Madhya Pradesh,1303269,1070102,BJP,Tom Levy,222511,20.79,3,2019,SC,0,Lost
+152,Williamshire Constituency,Kerala,1118364,714666,TDP,Rachel Keller,129094,18.06,5,2014,SC,0,Lost
+153,Anthonyview Constituency,Maharashtra,1089964,613050,YSRCP,Natalie Chung,317091,51.72,2,2014,General,0,Lost
+154,Edwardborough Constituency,Punjab,2714038,1651840,NCP,Thomas Atkins,182264,11.03,6,2019,General,0,Lost
+155,Thomasland Constituency,Telangana,2002415,1560313,BJP,Johnny Frank,232326,14.89,2,2014,ST,0,Lost
+156,Jeremybury Constituency,Karnataka,843981,488682,Shiv Sena,Bailey Hudson,195579,40.02,2,2019,General,0,Lost
+157,Johnsontown Constituency,Uttar Pradesh,1650338,911214,TMC,Natalie Schmidt,219996,24.14,5,2024,General,0,Lost
+158,South Jeremiahmouth Constituency,Gujarat,745109,522010,TMC,Angela Alexander,36707,7.03,4,2024,ST,0,Lost
+159,Jacksonborough Constituency,Rajasthan,2895802,1928193,YSRCP,Julie Cooke,655824,34.01,6,2019,SC,0,Lost
+160,Morrisfort Constituency,Bihar,1159532,790162,AIADMK,Jeffrey Carrillo,105673,13.37,1,2014,General,112493,Won
+161,Sextonfort Constituency,Madhya Pradesh,2300621,1791305,AAP,Kristopher Levine,991302,55.34,5,2024,SC,0,Lost
+162,New Melissaberg Constituency,Punjab,853419,566999,SP,Matthew Alexander,217075,38.28,3,2024,General,0,Lost
+163,South William Constituency,Andhra Pradesh,1551751,1311961,BJP,Debra Taylor,312705,23.83,4,2024,ST,0,Lost
+164,East Brendan Constituency,Madhya Pradesh,516220,378937,AIADMK,Edward Morse,168330,44.42,4,2014,ST,0,Lost
+165,Jasonburgh Constituency,Andhra Pradesh,2418079,1962559,TDP,Miranda Simpson,528615,26.93,2,2024,General,0,Lost
+166,West Mark Constituency,Maharashtra,1905386,1144665,Others,Danielle Harris,655764,57.29,4,2014,SC,0,Lost
+167,Brandytown Constituency,Delhi,2041068,1454076,INC,Katie Ward,459241,31.58,4,2014,General,0,Lost
+168,Nelsontown Constituency,West Bengal,2976238,2101998,JDU,Michael Fox,665095,31.64,6,2024,General,0,Lost
+169,New Emilyview Constituency,Haryana,2825252,1781388,AAP,Anna Jenkins,646586,36.3,4,2019,SC,0,Lost
+170,New John Constituency,West Bengal,2592938,2013244,BSP,Tammy Rodriguez,366083,18.18,3,2024,ST,0,Lost
+171,Port Karen Constituency,Bihar,1814534,1305494,SP,Lisa Vasquez,269180,20.62,4,2014,ST,0,Lost
+172,Lake James Constituency,Madhya Pradesh,898780,506497,DMK,Stephanie Prince,214631,42.38,5,2014,SC,0,Lost
+173,Tinachester Constituency,Uttar Pradesh,2123072,1526333,BSP,Robert Zimmerman,289114,18.94,5,2014,SC,0,Lost
+174,Lake Randy Constituency,Karnataka,2768068,2146926,SP,John Clark,189675,8.83,4,2019,General,0,Lost
+175,New Victor Constituency,Andhra Pradesh,2930394,2255391,NCP,Brittany Hayes,178968,7.94,3,2024,SC,0,Lost
+176,Port Ricky Constituency,Maharashtra,2288178,1815904,AIADMK,Abigail Austin,703790,38.76,5,2024,ST,0,Lost
+177,West Jessica Constituency,Telangana,2606149,2090361,AIADMK,Mark Chen,502292,24.03,5,2024,General,0,Lost
+178,Jameston Constituency,Punjab,1191875,723667,Others,Jessica Cooper,419515,57.97,5,2024,ST,0,Lost
+179,South Markfurt Constituency,Haryana,2422487,1508326,AIADMK,Adam Anthony,744698,49.37,6,2019,General,0,Lost
+180,Paulmouth Constituency,Bihar,2350291,1715247,INC,Steve Miller,556437,32.44,6,2014,General,0,Lost
+181,Susanbury Constituency,Maharashtra,1485315,1193507,NCP,James Mckay,195883,16.41,3,2019,SC,0,Lost
+182,Jacquelinehaven Constituency,Tamil Nadu,604581,444971,NCP,Darlene Moss,263023,59.11,5,2024,General,0,Lost
+183,Matthewchester Constituency,West Bengal,2801840,2293464,INC,Sheri Holt,703599,30.68,5,2024,ST,0,Lost
+184,Port Michelleport Constituency,Odisha,500983,412160,TDP,Bobby Barron,159567,38.71,4,2014,General,0,Lost
+185,East Wayneborough Constituency,Karnataka,1880562,1366566,Shiv Sena,Lisa Harris,355908,26.04,6,2024,General,0,Lost
+186,Lake Jonathanshire Constituency,Delhi,2153040,1268975,Left Parties,Deborah Sanders,133895,10.55,4,2019,SC,0,Lost
+187,Trevorbury Constituency,Gujarat,1343799,1089464,AAP,Jennifer Ingram,346117,31.77,3,2014,SC,0,Lost
+188,East Cheryltown Constituency,Punjab,1219534,730332,NCP,Gregory King,432712,59.25,6,2019,ST,0,Lost
+189,Cranebury Constituency,Punjab,2379680,2006908,SP,Cindy Patrick,809340,40.33,6,2019,SC,0,Lost
+190,North Steven Constituency,Bihar,2109717,1419600,AAP,Christopher Galvan,584778,41.19,1,2019,SC,399287,Won
+191,North Christopher Constituency,Delhi,1223551,735766,Shiv Sena,Lauren Thomas,188783,25.66,4,2014,General,0,Lost
+192,East Maryview Constituency,Haryana,1050791,705149,NCP,Brandon Nguyen,181877,25.79,5,2024,General,0,Lost
+193,Evelynchester Constituency,Tamil Nadu,1946021,1444167,YSRCP,Cody Sims,740628,51.28,2,2014,ST,0,Lost
+194,North Colin Constituency,Uttar Pradesh,2516744,2134587,JDU,Crystal Brown,842359,39.46,1,2024,General,164351,Won
+195,East Vanessa Constituency,Haryana,2993731,2080674,YSRCP,Terri Vaughn,883554,42.46,2,2014,SC,0,Lost
+196,Simonfurt Constituency,Karnataka,1073282,708055,DMK,Sara Daniel,250393,35.36,2,2014,General,0,Lost
+197,Port Evelyn Constituency,Delhi,782440,481451,BJP,Todd Davis,35045,7.28,2,2019,ST,0,Lost
+198,South Reginaview Constituency,Delhi,2225413,1651099,NCP,Glenn Olson,274574,16.63,4,2014,SC,0,Lost
+199,New Amyville Constituency,Kerala,2912929,1821981,TMC,Steven Taylor,231622,12.71,5,2014,ST,0,Lost
+200,Lake Stephanie Constituency,Gujarat,1734466,1194808,JDU,Matthew Parker,658114,55.08,4,2019,SC,0,Lost
+201,Salinasfort Constituency,Andhra Pradesh,2553156,1872641,Left Parties,Sean Preston,309252,16.51,4,2024,SC,0,Lost
+202,Keithside Constituency,Haryana,759257,533138,Left Parties,Brandi Newton,111248,20.87,3,2024,ST,0,Lost
+203,Davisville Constituency,Andhra Pradesh,1507023,1100895,Left Parties,Melissa Dickerson,73029,6.63,2,2014,SC,0,Lost
+204,Rossshire Constituency,Rajasthan,1239505,796595,NCP,Suzanne Hamilton,181993,22.85,6,2014,ST,0,Lost
+205,Jamesmouth Constituency,Punjab,1791105,1054277,AAP,Lucas Hayes,445139,42.22,2,2014,ST,0,Lost
+206,Thomasfort Constituency,Haryana,2857863,1795124,NCP,Charles Barber,332928,18.55,3,2014,ST,0,Lost
+207,North Susanville Constituency,Karnataka,2793232,2070698,Others,Eileen Jones,390192,18.84,2,2014,ST,0,Lost
+208,Lake Michael Constituency,Maharashtra,1786930,1404099,BJP,Katherine Freeman,569525,40.56,5,2019,General,0,Lost
+209,Raymondberg Constituency,Bihar,2397480,1544274,SP,Melody Miller,795824,51.53,4,2024,ST,0,Lost
+210,Carrieport Constituency,Odisha,1349774,1030116,BJP,Raymond Garza,361342,35.08,2,2014,SC,0,Lost
+211,Greenstad Constituency,Madhya Pradesh,2559771,1559292,JDU,Ashley Mcguire,229407,14.71,5,2024,General,0,Lost
+212,Bartonberg Constituency,Rajasthan,2116056,1764726,SP,Mr. Christopher Torres MD,672033,38.08,2,2024,ST,0,Lost
+213,North Emilyberg Constituency,Madhya Pradesh,864513,492393,Shiv Sena,Audrey Mccoy,178136,36.18,6,2024,SC,0,Lost
+214,Williamsontown Constituency,Bihar,2988509,1948697,SP,Joseph Horton,227650,11.68,2,2024,SC,0,Lost
+215,Christineberg Constituency,Rajasthan,1239245,989447,SP,Haley Brooks,52791,5.34,6,2019,SC,0,Lost
+216,South Carol Constituency,Karnataka,1460854,1237783,TDP,Tiffany Smith,601283,48.58,2,2024,General,0,Lost
+217,Adamsview Constituency,Madhya Pradesh,1002700,684928,Shiv Sena,Kristi Weiss,298156,43.53,4,2019,SC,0,Lost
+218,Port Matthew Constituency,Kerala,2514407,2075651,YSRCP,Mary Jones,664361,32.01,2,2014,ST,0,Lost
+219,East Lauren Constituency,West Bengal,1291489,948274,DMK,Kristina Jackson,215946,22.77,2,2014,General,0,Lost
+220,East Steven Constituency,Punjab,1932035,1501524,DMK,Ronald Robertson,323580,21.55,4,2019,ST,0,Lost
+221,South Danielton Constituency,Telangana,2945265,1992551,Left Parties,Michael Hale,487234,24.45,2,2024,SC,0,Lost
+222,Hugheshaven Constituency,Haryana,2422079,1589231,DMK,Joyce Branch,829586,52.2,5,2024,SC,0,Lost
+223,New Crystal Constituency,Kerala,2694847,1658294,AAP,David Glover,855078,51.56,4,2019,ST,0,Lost
+224,East Crystalchester Constituency,Uttar Pradesh,2070292,1413697,Others,Catherine Foley,338716,23.96,5,2014,ST,0,Lost
+225,West Robin Constituency,Gujarat,1084008,662921,SP,Stephanie Jones,186252,28.1,3,2024,ST,0,Lost
+226,Lanebury Constituency,Delhi,1513413,1159966,INC,Christopher Nelson,134810,11.62,5,2024,General,0,Lost
+227,Dylanbury Constituency,Delhi,1714180,1236945,TDP,Henry Hatfield,715826,57.87,2,2019,General,0,Lost
+228,Lake Raymond Constituency,Telangana,1398465,866580,BJP,Gina Murray,219997,25.39,5,2024,General,0,Lost
+229,Sotoshire Constituency,Delhi,600731,464248,TDP,Christy Lewis,85664,18.45,4,2019,General,0,Lost
+230,North Christophermouth Constituency,Bihar,835534,527293,INC,Barry Duffy,226028,42.87,6,2024,ST,0,Lost
+231,Heatherbury Constituency,Maharashtra,2237627,1659973,AAP,John Yu,891713,53.72,6,2024,ST,0,Lost
+232,West Bruceland Constituency,Tamil Nadu,2220248,1597612,TDP,Dr. Kimberly Castillo DVM,854547,53.49,5,2014,ST,0,Lost
+233,Cherylview Constituency,Odisha,1722379,960726,Left Parties,Jennifer Valenzuela,322688,33.59,4,2014,ST,0,Lost
+234,South Emilyside Constituency,West Bengal,2189640,1797089,TDP,Amber Fischer,697116,38.79,2,2014,SC,0,Lost
+235,Richardburgh Constituency,Karnataka,1332439,1050326,AAP,Jessica Bailey,163273,15.54,4,2019,General,0,Lost
+236,Taylorborough Constituency,Punjab,534277,300868,TDP,Edward Baker,99652,33.12,1,2024,SC,442282,Won
+237,South Paul Constituency,Maharashtra,2627762,1677873,NCP,Jessica Willis,709584,42.29,1,2019,ST,445298,Won
+238,Anitachester Constituency,Andhra Pradesh,1145636,669750,SP,Thomas Barker,320028,47.78,5,2014,ST,0,Lost
+239,Goodwinshire Constituency,Odisha,1035660,813307,DMK,Amber Cooper,294328,36.19,2,2019,SC,0,Lost
+240,Jonathanton Constituency,Odisha,1174117,852894,AAP,Frank Cunningham,231556,27.15,3,2019,ST,0,Lost
+241,Port Johnberg Constituency,West Bengal,1682391,1172709,YSRCP,Dennis Brown,514804,43.9,2,2014,SC,0,Lost
+242,New Carolyn Constituency,Rajasthan,2560335,1660962,DMK,Jason Frazier,735492,44.28,6,2024,SC,0,Lost
+243,West Michael Constituency,Karnataka,507440,301152,BSP,Jerry Waters,53061,17.62,1,2019,General,326242,Won
+244,Port Aaronhaven Constituency,Kerala,1223089,978365,YSRCP,Eric Contreras MD,113518,11.6,5,2024,ST,0,Lost
+245,Williamsmouth Constituency,Kerala,2847943,2248722,YSRCP,Barbara Stewart,204076,9.08,1,2014,ST,297843,Won
+246,Hoffmanview Constituency,Odisha,1556261,1293378,BJP,Benjamin Obrien,534988,41.36,2,2019,SC,0,Lost
+247,West Rachelview Constituency,Kerala,900021,686777,BSP,Kimberly Olsen,244202,35.56,4,2019,SC,0,Lost
+248,Jimmystad Constituency,Gujarat,1034981,590384,TDP,Ryan Evans,234557,39.73,3,2014,SC,0,Lost
+249,East Margaretchester Constituency,Delhi,2313859,1790245,TDP,Alison Decker,992738,55.45,6,2014,SC,0,Lost
+250,Timothyton Constituency,Haryana,2150612,1255194,BJP,Amy Owen,169461,13.5,6,2014,ST,0,Lost
+251,Priscillaland Constituency,Madhya Pradesh,1127973,943493,JDU,Kristin Forbes,67206,7.12,1,2024,ST,497408,Won
+252,Bethview Constituency,Punjab,1901820,1494320,SP,Veronica Liu,378576,25.33,4,2019,SC,0,Lost
+253,Kimton Constituency,Gujarat,2258682,1260893,AIADMK,Dylan Walters,117016,9.28,2,2019,General,0,Lost
+254,West Lacey Constituency,Kerala,2422226,1697547,BJP,James Garcia,994587,58.59,2,2014,General,0,Lost
+255,Michaeltown Constituency,Telangana,2202614,1401092,Left Parties,Daniel Ruiz,601460,42.93,4,2019,ST,0,Lost
+256,Thomaschester Constituency,Odisha,2535495,1767404,YSRCP,Randy Brown,185533,10.5,1,2019,ST,340480,Won
+257,Miahaven Constituency,Gujarat,1446838,869383,TMC,Ricky Warren,401028,46.13,1,2014,ST,343293,Won
+258,Kleinport Constituency,Karnataka,909431,689357,INC,Cindy Stone,289661,42.02,6,2019,ST,0,Lost
+259,Charlesville Constituency,Haryana,2860037,2048513,Left Parties,Jennifer Lucas,714240,34.87,1,2024,General,354247,Won
+260,Bradleyshire Constituency,Delhi,2683580,2172395,NCP,Jeff Petersen,816761,37.6,6,2019,General,0,Lost
+261,Jostad Constituency,Andhra Pradesh,1766806,1276937,BSP,Matthew Strong,648066,50.75,6,2019,SC,0,Lost
+262,Browntown Constituency,Punjab,1619434,1349504,DMK,Victor Johnson,664419,49.23,4,2024,SC,0,Lost
+263,Carrberg Constituency,Madhya Pradesh,2778513,2316111,AAP,Daniel Robinson,969680,41.87,6,2014,General,0,Lost
+264,Aimeeshire Constituency,Rajasthan,1923969,1329550,INC,Andrew Mcfarland,389581,29.3,1,2024,ST,481843,Won
+265,Margaretchester Constituency,Karnataka,2781016,2267330,YSRCP,Shelley Lynch,765352,33.76,4,2024,ST,0,Lost
+266,Jennifershire Constituency,Punjab,845741,525461,SP,Jessica Arias,219560,41.78,5,2014,General,0,Lost
+267,West Emily Constituency,West Bengal,1923360,1605409,NCP,Thomas Stewart,940737,58.6,4,2019,SC,0,Lost
+268,Lake James Constituency,Odisha,988519,741764,TMC,James Martin,437231,58.94,1,2014,ST,65796,Won
+269,Josephshire Constituency,Tamil Nadu,500867,324436,TMC,Ryan Coleman,152508,47.01,5,2024,SC,0,Lost
+270,North Carolmouth Constituency,Madhya Pradesh,550039,423271,YSRCP,Andrew Jones,144796,34.21,5,2019,ST,0,Lost
+271,East Jeremy Constituency,Haryana,2230957,1437429,YSRCP,Dwayne Singh,429278,29.86,3,2014,General,0,Lost
+272,Lake Kevin Constituency,Karnataka,2191796,1324642,Others,Sandra James,460566,34.77,5,2014,SC,0,Lost
+273,Hartville Constituency,Haryana,2315615,1402233,BJP,Michael Sanchez,381456,27.2,6,2024,SC,0,Lost
+274,Jacksonton Constituency,Bihar,2348115,1419628,Left Parties,Mrs. Ashley Howard,333795,23.51,2,2024,General,0,Lost
+275,Vincentborough Constituency,Haryana,740740,593112,NCP,Christopher Davis,243848,41.11,4,2019,General,0,Lost
+276,Washingtonhaven Constituency,Delhi,2214877,1693302,Others,Jodi Hall,419861,24.8,5,2019,ST,0,Lost
+277,Port Natasha Constituency,Odisha,2658357,1667547,INC,Robert Carr,387528,23.24,4,2019,ST,0,Lost
+278,New Bradleymouth Constituency,Punjab,2782439,2363111,AAP,Donna Sullivan,540920,22.89,4,2024,SC,0,Lost
+279,Leonberg Constituency,Karnataka,1506905,1268435,Left Parties,Steven Murphy,220501,17.38,2,2019,ST,0,Lost
+280,East Seanshire Constituency,Bihar,2934886,1892618,YSRCP,Mark Wilkins,1029297,54.38,4,2024,ST,0,Lost
+281,East Diana Constituency,Maharashtra,2509044,2042300,JDU,Victoria Franco,622804,30.5,1,2014,General,130280,Won
+282,Kevinshire Constituency,West Bengal,1210825,810769,JDU,Jack Rhodes,413633,51.02,2,2019,ST,0,Lost
+283,North Monique Constituency,Uttar Pradesh,2888096,1638050,Others,Kimberly Bryant,428655,26.17,1,2019,General,439110,Won
+284,North Lorettamouth Constituency,Punjab,838958,636064,INC,Lisa Haynes,252495,39.7,4,2019,SC,0,Lost
+285,West Jessetown Constituency,Gujarat,985059,735486,JDU,Mary Monroe,52102,7.08,3,2019,ST,0,Lost
+286,Murraychester Constituency,West Bengal,1150084,878401,TMC,Elizabeth Johnson,217684,24.78,2,2014,ST,0,Lost
+287,West Justinton Constituency,Uttar Pradesh,536563,346599,BSP,Summer Norman,39998,11.54,3,2019,ST,0,Lost
+288,Phillipston Constituency,Odisha,2514719,1933389,Others,Amanda Gutierrez,467667,24.19,4,2024,SC,0,Lost
+289,Ashleyburgh Constituency,Uttar Pradesh,566259,475135,AAP,Martin Johnson,279264,58.78,3,2014,ST,0,Lost
+290,Port Coltonberg Constituency,Madhya Pradesh,2045666,1368959,Others,Christina Murphy,433055,31.63,5,2024,General,0,Lost
+291,Lake Jennifermouth Constituency,Kerala,2011783,1631803,Others,Kenneth White,424290,26.0,5,2019,ST,0,Lost
+292,Dalemouth Constituency,Tamil Nadu,2134938,1332295,NCP,Michelle Stewart,731669,54.92,6,2019,SC,0,Lost
+293,New Douglas Constituency,Andhra Pradesh,1475622,1135420,AIADMK,Omar Sims,595469,52.44,4,2014,General,0,Lost
+294,East Alexandra Constituency,Andhra Pradesh,1625012,1022509,SP,Walter Clarke,224088,21.92,6,2024,ST,0,Lost
+295,Shepardfort Constituency,Andhra Pradesh,2241248,1472426,DMK,Makayla Barnes,744934,50.59,6,2024,ST,0,Lost
+296,Port Scottchester Constituency,Delhi,709299,463156,JDU,Michael Coleman,99499,21.48,6,2014,SC,0,Lost
+297,Port Michellefurt Constituency,Rajasthan,860108,602827,TMC,Kenneth Johnson,204382,33.9,6,2014,ST,0,Lost
+298,Katieland Constituency,Punjab,1381012,1031892,DMK,Phillip Kramer,87264,8.46,4,2024,ST,0,Lost
+299,Bennettchester Constituency,West Bengal,694296,416931,AIADMK,Jessica Carlson,155138,37.21,1,2014,ST,263127,Won
+300,South David Constituency,Uttar Pradesh,2030063,1527240,Left Parties,Thomas Gates,520958,34.11,3,2014,SC,0,Lost
+301,Anthonyfort Constituency,Rajasthan,885295,548329,YSRCP,Bryan Smith,292866,53.41,2,2019,General,0,Lost
+302,West Charlesside Constituency,West Bengal,2786976,1948152,INC,Kelly Hansen,214379,11.0,5,2024,General,0,Lost
+303,Lake Jodyfurt Constituency,Maharashtra,2349547,1873923,NCP,Jeremy Robertson,788762,42.09,5,2019,ST,0,Lost
+304,West Sydneyport Constituency,Madhya Pradesh,2257740,1247432,BSP,Amy Walsh,643508,51.59,6,2019,General,0,Lost
+305,Mcintoshmouth Constituency,Gujarat,944918,745946,Left Parties,Austin Chen,340100,45.59,3,2024,ST,0,Lost
+306,Davidberg Constituency,Madhya Pradesh,2345499,1726966,YSRCP,Ann Klein,246980,14.3,6,2024,General,0,Lost
+307,South Crystalfurt Constituency,Tamil Nadu,2902430,1741365,AIADMK,Sandra Short,366479,21.05,2,2019,SC,0,Lost
+308,North Andreaview Constituency,Andhra Pradesh,1216433,758019,Others,Jane Romero,113457,14.97,6,2014,SC,0,Lost
+309,Kylechester Constituency,Kerala,2075395,1211907,BSP,Kurt Robbins,605843,49.99,6,2014,SC,0,Lost
+310,North Rachelmouth Constituency,Andhra Pradesh,1715720,1285208,AIADMK,Frederick Dean,107429,8.36,2,2014,SC,0,Lost
+311,East Kennethhaven Constituency,Madhya Pradesh,539135,353545,AIADMK,Kevin Barker,73213,20.71,4,2014,SC,0,Lost
+312,Lake Eileen Constituency,Karnataka,2526640,1806062,Others,Maria Walker,363168,20.11,6,2019,ST,0,Lost
+313,South Adamland Constituency,Telangana,631778,483101,DMK,Abigail Boyle,181633,37.6,1,2014,SC,101682,Won
+314,Shannonchester Constituency,Punjab,1985261,1527520,Left Parties,Sarah Juarez,739359,48.4,4,2014,SC,0,Lost
+315,Alexborough Constituency,Bihar,933690,613518,TDP,Leah Lopez,111014,18.09,5,2024,General,0,Lost
+316,North Kimberlychester Constituency,Uttar Pradesh,2150495,1827020,YSRCP,Sandra Burgess,504745,27.63,2,2014,ST,0,Lost
+317,Chandlerborough Constituency,Karnataka,1375679,758497,AAP,Laura Archer,123334,16.26,2,2014,General,0,Lost
+318,Joeville Constituency,Delhi,965695,623953,Left Parties,Manuel Anderson MD,236705,37.94,2,2024,General,0,Lost
+319,Colonshire Constituency,West Bengal,713894,596328,JDU,Lori Martinez,128423,21.54,2,2014,ST,0,Lost
+320,Jackberg Constituency,Karnataka,724836,432516,TMC,Shane Aguilar,213931,49.46,5,2024,SC,0,Lost
+321,Lake Glenn Constituency,Haryana,2571767,2084681,NCP,David Thomas,808654,38.79,1,2014,ST,395443,Won
+322,South Jeffery Constituency,Madhya Pradesh,2122854,1733782,Left Parties,Donald Cline,368329,21.24,4,2014,General,0,Lost
+323,Armstrongfort Constituency,Kerala,2775080,1843449,TMC,Erik Clark,147134,7.98,4,2024,SC,0,Lost
+324,Joshuaport Constituency,Haryana,2230599,1876314,INC,Andrew Jordan,627922,33.47,6,2014,General,0,Lost
+325,Guerreroside Constituency,West Bengal,746208,593752,AAP,Elizabeth Sullivan,222172,37.42,6,2024,General,0,Lost
+326,Reneeberg Constituency,Bihar,2743133,2320213,Others,Haley Phillips,304969,13.14,5,2019,General,0,Lost
+327,South Victoria Constituency,West Bengal,2973473,2514466,AAP,Thomas Taylor,1004633,39.95,5,2019,General,0,Lost
+328,North Crystalmouth Constituency,Kerala,2150856,1542559,BSP,Jessica Olson,306919,19.9,5,2019,SC,0,Lost
+329,Danielborough Constituency,West Bengal,1598902,1036517,Shiv Sena,Melissa Stevenson,202424,19.53,6,2019,SC,0,Lost
+330,East Caitlin Constituency,Odisha,2499230,1704104,AAP,Lisa Anderson,351761,20.64,6,2014,General,0,Lost
+331,Josephmouth Constituency,Punjab,1947845,1356806,AIADMK,Tiffany Chapman,369031,27.2,4,2024,SC,0,Lost
+332,Andrewburgh Constituency,Bihar,1849027,1313681,AIADMK,Christopher Stewart,541473,41.22,5,2024,General,0,Lost
+333,Jordanburgh Constituency,Kerala,699414,389907,YSRCP,Brandon Richardson,222704,57.12,5,2024,ST,0,Lost
+334,Evansside Constituency,Maharashtra,1833136,1261256,YSRCP,Debra Martin,178608,14.16,6,2019,SC,0,Lost
+335,Glendaton Constituency,Kerala,2062442,1171392,BSP,Katie Poole,408846,34.9,1,2019,ST,233072,Won
+336,Hancockport Constituency,Punjab,934030,732254,YSRCP,Jonathan Chandler,321257,43.87,5,2014,SC,0,Lost
+337,East Jennifer Constituency,Haryana,2059578,1738287,Others,Keith Smith,984344,56.63,1,2019,ST,175398,Won
+338,West Samantha Constituency,Haryana,1408822,985780,YSRCP,Carlos White,111676,11.33,6,2014,SC,0,Lost
+339,West Donna Constituency,Haryana,2452252,1491579,AAP,Barbara Schultz,547679,36.72,5,2019,General,0,Lost
+340,Michaelhaven Constituency,Gujarat,1255839,1043755,AAP,Desiree Roberts,206054,19.74,4,2019,SC,0,Lost
+341,East Geoffreyland Constituency,Odisha,2849425,2002536,Shiv Sena,Heather Harrell,802902,40.09,4,2019,SC,0,Lost
+342,Port Christopher Constituency,Uttar Pradesh,920854,644381,Left Parties,Charles Cervantes,211868,32.88,3,2024,ST,0,Lost
+343,Howardland Constituency,Telangana,1463682,1194176,DMK,Robert Gray,132030,11.06,2,2024,SC,0,Lost
+344,Bishopshire Constituency,Haryana,1931494,1304957,INC,Jesus Freeman,252292,19.33,3,2014,ST,0,Lost
+345,West Gary Constituency,Odisha,1453267,1189867,Left Parties,Austin Schultz,80695,6.78,1,2014,SC,246435,Won
+346,Francisburgh Constituency,Andhra Pradesh,583449,328810,AAP,David Galvan,135318,41.15,2,2014,General,0,Lost
+347,Kathleenport Constituency,Kerala,1910385,1075298,AIADMK,Kelly Long,424218,39.45,4,2014,SC,0,Lost
+348,Matthewland Constituency,Kerala,2817371,2128395,NCP,Erica Jones,602819,28.32,6,2024,ST,0,Lost
+349,North Darrell Constituency,Delhi,1522704,942119,YSRCP,Douglas Rodriguez,511096,54.25,6,2014,SC,0,Lost
+350,West Christinaview Constituency,Karnataka,818607,558060,AIADMK,Nicholas Owens,125698,22.52,1,2019,ST,347619,Won
+351,New Amber Constituency,Kerala,1567222,1246978,AAP,Guy James,373940,29.99,1,2019,General,465505,Won
+352,Thompsonborough Constituency,Tamil Nadu,1772021,1180280,AAP,Angela Murphy,653612,55.38,1,2024,SC,38702,Won
+353,Lake Katherinestad Constituency,West Bengal,1071018,637130,BSP,George Warren,342305,53.73,6,2019,ST,0,Lost
+354,Port Tiffany Constituency,Gujarat,1437407,1052939,AAP,Michael Turner,411705,39.1,1,2014,SC,283214,Won
+355,South Raymond Constituency,Delhi,2805454,1803121,Others,Jason Clark,933071,51.75,6,2019,General,0,Lost
+356,West Carol Constituency,Haryana,2714316,1751252,SP,Charles Lee,888970,50.76,5,2014,ST,0,Lost
+357,Christopherton Constituency,Delhi,850667,665146,TDP,Brandon Sanders,373465,56.15,3,2014,General,0,Lost
+358,New Brandon Constituency,Punjab,849751,593748,BSP,Howard Lewis,97063,16.35,4,2019,General,0,Lost
+359,New Georgeborough Constituency,Andhra Pradesh,2128030,1440045,TDP,Megan Gomez,384536,26.7,3,2024,General,0,Lost
+360,Kevinchester Constituency,Gujarat,1565574,903418,TMC,Wendy Young,112235,12.42,5,2014,SC,0,Lost
+361,South Nicole Constituency,Odisha,831785,649244,Left Parties,George Cantrell Jr.,141780,21.84,3,2014,General,0,Lost
+362,Thomashaven Constituency,Madhya Pradesh,1779663,1486703,JDU,Gary Horton,732733,49.29,4,2024,General,0,Lost
+363,Santiagoshire Constituency,Bihar,1355623,746085,Others,Isaac Snow,147051,19.71,3,2024,ST,0,Lost
+364,Gonzalezstad Constituency,Maharashtra,2539748,1768288,TDP,Joseph Solis,488062,27.6,1,2014,ST,239928,Won
+365,West Laura Constituency,Bihar,608421,340263,Others,Steven Bender,92354,27.14,1,2024,ST,214256,Won
+366,North Evelyn Constituency,Maharashtra,2595070,1592758,INC,Lisa Robertson,211565,13.28,5,2019,General,0,Lost
+367,Skinnerview Constituency,Andhra Pradesh,2740405,2107932,DMK,Emily Conley,594685,28.21,3,2019,ST,0,Lost
+368,East Jaclynfort Constituency,Rajasthan,2985653,2249895,YSRCP,William Smith,286384,12.73,3,2014,SC,0,Lost
+369,Saramouth Constituency,Telangana,676876,404523,TMC,David Shelton,227613,56.27,5,2024,General,0,Lost
+370,Lake Bobbytown Constituency,Kerala,1935102,1465418,Shiv Sena,Mr. David Beltran,642566,43.85,4,2014,SC,0,Lost
+371,Port Aimee Constituency,Punjab,2317811,1384241,NCP,Tony Morrison,505773,36.54,1,2019,General,218812,Won
+372,Owensbury Constituency,Haryana,679238,436245,AAP,Thomas Montgomery,66814,15.32,5,2024,General,0,Lost
+373,Toddstad Constituency,Tamil Nadu,2891072,2388014,AAP,Elizabeth Turner,801988,33.58,4,2024,ST,0,Lost
+374,New Ellenfort Constituency,Haryana,1739048,1362652,Shiv Sena,Sara Clark,351836,25.82,1,2019,SC,410428,Won
+375,Clarkeshire Constituency,Madhya Pradesh,2820659,2266547,SP,Carlos Munoz,696792,30.74,4,2019,SC,0,Lost
+376,Laurenfort Constituency,Uttar Pradesh,1843167,1475015,DMK,Tony Franklin,582548,39.49,3,2019,General,0,Lost
+377,East Jeffrey Constituency,West Bengal,2188813,1688506,TMC,Evan White,548834,32.5,6,2014,ST,0,Lost
+378,West Deanbury Constituency,Odisha,564840,314340,BJP,Samuel Trujillo,170952,54.38,6,2019,ST,0,Lost
+379,Port Crystalstad Constituency,West Bengal,2527933,1913104,BSP,Keith Bolton,392611,20.52,4,2014,SC,0,Lost
+380,Port Ana Constituency,Uttar Pradesh,1343353,869718,BJP,Thomas Berry,299835,34.47,5,2024,SC,0,Lost
+381,South Lisa Constituency,West Bengal,2288087,1831995,JDU,Suzanne Rosario,642200,35.05,6,2019,General,0,Lost
+382,Timothystad Constituency,West Bengal,1020878,777017,BSP,Kelsey Espinoza,80857,10.41,6,2024,SC,0,Lost
+383,West Barrymouth Constituency,Bihar,1519806,1057076,AAP,Shelby Thomas,618515,58.51,3,2014,SC,0,Lost
+384,Port Paulview Constituency,Odisha,2481416,1594281,INC,Melinda Pratt,109912,6.89,2,2014,SC,0,Lost
+385,North Angelaburgh Constituency,West Bengal,2197692,1597845,INC,George Owens,684151,42.82,2,2019,General,0,Lost
+386,Lake Timothy Constituency,Andhra Pradesh,975166,560415,NCP,Kyle Vega,210704,37.6,2,2024,General,0,Lost
+387,New Aarontown Constituency,Telangana,2372956,1537795,AIADMK,Vincent Smith,240223,15.62,2,2019,General,0,Lost
+388,Williamborough Constituency,Rajasthan,1551273,1054366,JDU,Christopher Cox,302974,28.74,5,2019,SC,0,Lost
+389,East Vanessa Constituency,Uttar Pradesh,1737965,1055286,INC,Suzanne Bishop,433755,41.1,6,2014,SC,0,Lost
+390,Scottmouth Constituency,Gujarat,2475982,1364240,BJP,Amy Rivera,406302,29.78,2,2024,General,0,Lost
+391,Susantown Constituency,Delhi,854365,701618,SP,Mr. John Key,151609,21.61,1,2019,ST,285036,Won
+392,Lake Josetown Constituency,Rajasthan,2645637,1696901,AAP,Mackenzie Coffey,370909,21.86,5,2019,ST,0,Lost
+393,North Chase Constituency,Bihar,2278287,1613195,AAP,Tina Logan,918206,56.92,4,2019,SC,0,Lost
+394,Port Anthony Constituency,Punjab,2361126,1864981,JDU,Mitchell Ward,488728,26.21,4,2019,SC,0,Lost
+395,Williamsfort Constituency,Delhi,2503144,1840657,DMK,Ernest Martinez,206983,11.25,1,2014,SC,484866,Won
+396,North George Constituency,Madhya Pradesh,1426056,1056000,INC,James Marshall,291499,27.6,1,2019,ST,424552,Won
+397,Choichester Constituency,Gujarat,1377652,986906,Left Parties,Amanda Olson,319841,32.41,1,2014,SC,43110,Won
+398,Ramosfurt Constituency,Kerala,705145,511887,AAP,Paige Jones,263821,51.54,5,2024,General,0,Lost
+399,East Johnchester Constituency,West Bengal,2579822,1949061,AIADMK,Jimmy Long,927243,47.57,3,2014,ST,0,Lost
+400,South Brendastad Constituency,Tamil Nadu,523425,435321,AIADMK,Kelsey Luna,133537,30.68,2,2024,ST,0,Lost
+401,Lake Michael Constituency,West Bengal,1812195,1319828,AIADMK,Molly Jones,90743,6.88,1,2024,ST,205646,Won
+402,Joannhaven Constituency,Kerala,1501670,1168870,NCP,Samuel Wilson,410309,35.1,3,2024,SC,0,Lost
+403,Reedstad Constituency,Rajasthan,2271021,1393323,NCP,Shawn Flores,375258,26.93,2,2014,General,0,Lost
+404,Jessicamouth Constituency,Odisha,2010464,1490234,Shiv Sena,Stephanie Lester,263507,17.68,4,2024,General,0,Lost
+405,South Scottmouth Constituency,Punjab,2037038,1493326,AAP,Ariel Ford MD,592997,39.71,5,2014,SC,0,Lost
+406,New Monica Constituency,Odisha,2957182,2248312,Others,Justin Aguirre,470317,20.92,4,2024,ST,0,Lost
+407,North Connor Constituency,Madhya Pradesh,2194654,1574513,DMK,Christopher Mendoza,380669,24.18,1,2014,General,54486,Won
+408,East Michael Constituency,Uttar Pradesh,1689906,1028088,Left Parties,Joseph Harper,599801,58.34,2,2019,General,0,Lost
+409,Aaronfurt Constituency,Odisha,831837,596609,TMC,Nathan Soto,165894,27.81,3,2014,SC,0,Lost
+410,Romeroburgh Constituency,Delhi,2079889,1467433,DMK,James Woodward,646719,44.07,6,2014,ST,0,Lost
+411,West Cynthiamouth Constituency,Punjab,1058252,809079,BSP,Jennifer Rodriguez,222335,27.48,5,2019,General,0,Lost
+412,Ambershire Constituency,Rajasthan,1881747,1168684,BJP,Timothy Scott,97984,8.38,5,2019,SC,0,Lost
+413,Alecmouth Constituency,Telangana,2245331,1346762,Shiv Sena,Blake Johnson,693259,51.48,6,2024,ST,0,Lost
+414,Anitastad Constituency,West Bengal,2670054,1649888,NCP,Matthew Cameron,234884,14.24,6,2024,SC,0,Lost
+415,Port John Constituency,Odisha,1419427,828995,NCP,Kelly Johnson,488088,58.88,4,2024,SC,0,Lost
+416,Port Erik Constituency,Bihar,790876,528972,YSRCP,Patrick Thomas,119303,22.55,2,2019,SC,0,Lost
+417,Richardfort Constituency,West Bengal,861341,477257,Shiv Sena,Veronica Miller,232333,48.68,3,2014,ST,0,Lost
+418,New Erica Constituency,West Bengal,2167685,1790105,DMK,Melanie Webster,188011,10.5,4,2019,ST,0,Lost
+419,Bryantburgh Constituency,Delhi,1441974,814597,INC,Kimberly Hunt,317747,39.01,3,2014,ST,0,Lost
+420,North Davidville Constituency,Tamil Nadu,1404617,1040683,Left Parties,Colton Thompson,201552,19.37,3,2019,General,0,Lost
+421,Hebertfort Constituency,Odisha,619759,458410,AAP,Lance Osborne,168777,36.82,5,2019,ST,0,Lost
+422,Lorettamouth Constituency,Uttar Pradesh,2071076,1348336,DMK,Christina Edwards,585570,43.43,6,2024,SC,0,Lost
+423,South Adrianland Constituency,Bihar,1856689,1386155,Shiv Sena,Margaret Welch,305820,22.06,3,2019,General,0,Lost
+424,Mezahaven Constituency,Delhi,1186903,868951,YSRCP,Steven Rodriguez,94615,10.89,6,2024,SC,0,Lost
+425,Brownland Constituency,Rajasthan,2465737,1500886,AAP,Pam Juarez,557208,37.13,1,2014,ST,415225,Won
+426,Davidland Constituency,Telangana,504534,410416,TMC,Austin Harrison,221537,53.98,4,2024,SC,0,Lost
+427,Barronville Constituency,Gujarat,2380796,1486306,JDU,Deborah Boyle,320374,21.56,4,2019,ST,0,Lost
+428,Michaeltown Constituency,Uttar Pradesh,2445279,2072481,TMC,Angela Bell,424412,20.48,2,2014,ST,0,Lost
+429,Mitchellport Constituency,Karnataka,1413269,1034408,DMK,Danielle Stein,397586,38.44,4,2014,ST,0,Lost
+430,West Markmouth Constituency,Haryana,2916279,1726270,Others,Tonya Hays,332343,19.25,4,2014,General,0,Lost
+431,South Elainetown Constituency,Odisha,1499910,1184820,SP,Erica Foster,671085,56.64,5,2014,SC,0,Lost
+432,New Gary Constituency,Punjab,1237163,738522,TDP,Theresa Molina,105757,14.32,3,2019,SC,0,Lost
+433,Lake Jacquelineville Constituency,Haryana,2232061,1884680,Shiv Sena,Michelle Moran,943345,50.05,6,2019,General,0,Lost
+434,East Loriborough Constituency,Telangana,881076,739597,BSP,Benjamin Deleon,143116,19.35,1,2019,SC,151563,Won
+435,Davidtown Constituency,West Bengal,961171,761521,YSRCP,James Wilson,371895,48.84,1,2014,ST,381406,Won
+436,New Robertport Constituency,Telangana,2109785,1697138,TMC,James Owens,340748,20.08,6,2024,ST,0,Lost
+437,Mckinneyburgh Constituency,Uttar Pradesh,2738706,1741546,JDU,Dr. Andrew Bryan,905021,51.97,1,2024,ST,264081,Won
+438,Lake Deborahton Constituency,Maharashtra,2542984,2078750,Others,Andrew Jackson,524720,25.24,6,2014,SC,0,Lost
+439,North Madisonton Constituency,Tamil Nadu,1235726,968914,TMC,Mary Taylor,491375,50.71,2,2024,SC,0,Lost
+440,Morrisside Constituency,Bihar,1097715,904781,JDU,Kyle Ballard,542815,59.99,5,2019,ST,0,Lost
+441,North Antonio Constituency,Odisha,2941084,2068435,BJP,Roy Smith,205268,9.92,3,2014,ST,0,Lost
+442,Olsonside Constituency,Rajasthan,1234039,917121,YSRCP,Jessica Morse,380562,41.5,3,2024,ST,0,Lost
+443,Port Jasonton Constituency,West Bengal,2717970,2096411,JDU,Jessica Lewis,1095212,52.24,3,2024,ST,0,Lost
+444,New Meagan Constituency,Haryana,2802169,1997012,INC,Jamie Keller,762623,38.19,6,2019,General,0,Lost
+445,East Lori Constituency,Odisha,2088333,1642687,AAP,Michael Fields,920779,56.05,5,2019,General,0,Lost
+446,Pearsonfort Constituency,Karnataka,1998711,1315372,TMC,Regina Flores,325601,24.75,1,2024,General,112567,Won
+447,Maryport Constituency,Delhi,2725270,2034706,NCP,William Sanchez,564970,27.77,6,2014,General,0,Lost
+448,East Angela Constituency,Punjab,1644872,929739,SP,Jason Stanley,92514,9.95,2,2024,ST,0,Lost
+449,Port Nicole Constituency,Madhya Pradesh,2983000,2137067,DMK,Eric Hernandez,396628,18.56,3,2024,General,0,Lost
+450,West Nicholas Constituency,West Bengal,2468113,1765709,BSP,Cory Davis,387412,21.94,5,2014,SC,0,Lost
+451,West Ryanfurt Constituency,Andhra Pradesh,1277558,724098,SP,Colleen Sanchez,37328,5.16,3,2014,ST,0,Lost
+452,Washingtonstad Constituency,Rajasthan,2952181,2154413,Shiv Sena,Natalie Rogers,595408,27.64,3,2019,SC,0,Lost
+453,Andreahaven Constituency,Telangana,1803560,1171282,AIADMK,James Adams,363540,31.04,2,2019,SC,0,Lost
+454,Madisonmouth Constituency,Karnataka,2125865,1441886,AIADMK,David Kelley,855890,59.36,6,2024,ST,0,Lost
+455,Crystalfurt Constituency,Maharashtra,2117511,1474999,SP,Margaret Turner,326455,22.13,3,2019,General,0,Lost
+456,West Matthewshire Constituency,Telangana,821718,653046,YSRCP,Kelly Cruz,182908,28.01,1,2024,General,403183,Won
+457,South Brandon Constituency,Madhya Pradesh,1550008,1207580,TDP,Kevin Garner,260686,21.59,2,2019,General,0,Lost
+458,East Michael Constituency,Karnataka,632718,348924,NCP,Christopher Robinson,141130,40.45,3,2019,General,0,Lost
+459,Mcdanielland Constituency,Andhra Pradesh,683080,392979,Others,Laura Collins,57637,14.67,5,2024,ST,0,Lost
+460,New Christopher Constituency,Maharashtra,1837232,1381295,BJP,Erica Marshall,312359,22.61,6,2019,ST,0,Lost
+461,Sharonstad Constituency,West Bengal,503739,360912,TDP,Nicholas Atkinson,135641,37.58,4,2024,SC,0,Lost
+462,Jonestown Constituency,Odisha,2187142,1827999,SP,Kelsey Morgan,738087,40.38,5,2014,ST,0,Lost
+463,South Jessicastad Constituency,Haryana,1468846,924462,DMK,Erika Wilkins,170761,18.47,2,2019,SC,0,Lost
+464,Oconnellchester Constituency,Tamil Nadu,2626416,1985351,SP,Daniel Hughes,748821,37.72,1,2019,SC,276084,Won
+465,Thompsonburgh Constituency,Rajasthan,859072,717047,BSP,Kenneth Estes,353441,49.29,1,2014,ST,432250,Won
+466,South Michael Constituency,Uttar Pradesh,1440886,1033546,INC,Shannon Cooper,514717,49.8,1,2024,ST,133318,Won
+467,Lake Danielle Constituency,Haryana,523752,402587,BSP,Evan Nielsen,69504,17.26,2,2024,General,0,Lost
+468,Jamestown Constituency,Punjab,2012658,1391752,SP,Mrs. Tina Bell DDS,637529,45.81,4,2019,General,0,Lost
+469,Fletcherview Constituency,Bihar,2067688,1373701,AIADMK,James Hernandez,681120,49.58,6,2019,General,0,Lost
+470,Port Julialand Constituency,Kerala,2533991,1822467,INC,Madison Brooks,520365,28.55,3,2024,SC,0,Lost
+471,South Michael Constituency,Karnataka,1079841,802629,AIADMK,Marcus Andersen,390437,48.64,1,2019,SC,271959,Won
+472,South Jamesport Constituency,Punjab,741122,628834,TDP,Joanne Burch,167825,26.69,2,2024,SC,0,Lost
+473,West Janet Constituency,Tamil Nadu,923577,611668,Shiv Sena,David Knapp,241715,39.52,1,2019,SC,472739,Won
+474,Johnsonton Constituency,Karnataka,1874942,1256182,Shiv Sena,Pamela Fuller DVM,215435,17.15,2,2019,SC,0,Lost
+475,Larryburgh Constituency,Bihar,2793252,2309876,Shiv Sena,Barry Murphy,168248,7.28,6,2014,SC,0,Lost
+476,Kyleburgh Constituency,Punjab,1969730,1333224,YSRCP,Michael Molina,593720,44.53,5,2014,SC,0,Lost
+477,Shortchester Constituency,Andhra Pradesh,817250,586411,JDU,Steven Bowers,45149,7.7,6,2024,General,0,Lost
+478,Robertside Constituency,Odisha,2586089,1633346,Others,Darryl Beard,445754,27.29,6,2024,ST,0,Lost
+479,West Matthewmouth Constituency,Bihar,666172,404062,SP,Matthew Mcdonald,133263,32.98,1,2024,General,312928,Won
+480,Francoport Constituency,Karnataka,1136211,946770,TDP,Michael Hayes,242306,25.59,6,2024,SC,0,Lost
+481,Anthonyhaven Constituency,Karnataka,1981757,1118915,Others,John Miles,390417,34.89,4,2024,SC,0,Lost
+482,Lake Anne Constituency,Gujarat,1875555,1386160,YSRCP,Denise Cooper,783828,56.55,6,2014,SC,0,Lost
+483,Port William Constituency,Telangana,709747,407681,SP,Michael Harper,151113,37.07,4,2024,ST,0,Lost
+484,Williamton Constituency,West Bengal,1936387,1558809,AIADMK,Jennifer Baker,324419,20.81,4,2014,SC,0,Lost
+485,South Cody Constituency,Odisha,2109649,1444044,NCP,Joanna Williams,796662,55.17,3,2024,ST,0,Lost
+486,Elizabethfurt Constituency,Punjab,1587308,1007922,AIADMK,Janice Hall,577338,57.28,5,2019,ST,0,Lost
+487,Paulabury Constituency,Bihar,1976405,1320193,JDU,Tina Ferguson,679094,51.44,4,2014,SC,0,Lost
+488,Jaredmouth Constituency,Maharashtra,2928420,2413509,Others,Kimberly Johnson,898110,37.21,5,2024,General,0,Lost
+489,South Rachelborough Constituency,Rajasthan,2741464,1767428,INC,Michael Robinson,248400,14.05,4,2019,ST,0,Lost
+490,South Isabella Constituency,Delhi,1458692,956406,BSP,Jeremy Johnson,203653,21.29,3,2014,ST,0,Lost
+491,Lisatown Constituency,Kerala,2897213,1952390,Left Parties,Lindsey Guerrero,660317,33.82,6,2014,ST,0,Lost
+492,West Heather Constituency,Bihar,1052211,868690,Shiv Sena,Melissa Thomas,66645,7.67,6,2014,General,0,Lost
+493,Lake Chad Constituency,Madhya Pradesh,2351664,1739349,TDP,Anna Matthews,966789,55.58,3,2019,General,0,Lost
+494,Nguyenburgh Constituency,Haryana,2803074,2057588,YSRCP,Marissa Collins,752875,36.59,2,2014,SC,0,Lost
+495,Amberport Constituency,Haryana,2244000,1678630,NCP,Kyle Strong,203851,12.14,5,2019,SC,0,Lost
+496,Port Kathleenport Constituency,West Bengal,597618,348551,AIADMK,Samuel Barry,195012,55.95,4,2019,ST,0,Lost
+497,Nicholasfurt Constituency,Odisha,709159,404944,BSP,Tina Hansen,25598,6.32,3,2024,ST,0,Lost
+498,Brandonfort Constituency,Gujarat,2574806,1633403,AAP,Shannon Lee,828834,50.74,1,2014,ST,59149,Won
+499,New Philiptown Constituency,Haryana,1117034,857320,AAP,Tony Martin,230898,26.93,6,2024,General,0,Lost
+500,Dominguezhaven Constituency,Rajasthan,2586954,1885659,Others,John Flowers,524247,27.8,1,2014,SC,196178,Won

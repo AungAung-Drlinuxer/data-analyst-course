@@ -1,0 +1,501 @@
+loan_id,customer_id,customer_name,age,income,credit_score,loan_amount,loan_term_months,interest_rate,loan_purpose,loan_type,region,employment_status,debt_to_income_ratio,loan_status,approval_date,funded_date
+1,CUST0001,Michael Freeman,62,54184,325,393786,36,6.07,Home,Business,North,Retired,15.6,Approved,2024-11-17,2025-05-11
+2,CUST0002,Isaac Cox,27,82314,538,269951,60,3.78,Debt Consolidation,Business,West,Self-Employed,18.0,Under Review,2023-01-20,
+3,CUST0003,Rodney Perez,39,26703,463,371026,48,7.07,Education,Personal,North,Retired,16.2,Approved,2024-08-29,2024-11-25
+4,CUST0004,Colleen Schultz,44,183263,570,428167,12,11.16,Business,Personal,Central,Unemployed,31.4,Rejected,2024-05-20,
+5,CUST0005,Lucas Patterson,61,119800,496,374398,12,3.98,Education,Personal,South,Employed,19.1,Under Review,2024-04-21,
+6,CUST0006,Holly Fowler,51,191640,673,90277,36,7.23,Debt Consolidation,Personal,Central,Self-Employed,36.8,Approved,2023-08-25,2024-06-11
+7,CUST0007,Patrick Waters,37,67834,773,203943,36,13.89,Personal,Mortgage,East,Employed,35.6,Approved,2024-09-15,2024-09-17
+8,CUST0008,Charles Ramirez,24,107694,710,145373,12,5.72,Debt Consolidation,Auto,South,Retired,47.7,Under Review,2023-08-19,
+9,CUST0009,Andrew White,63,145285,446,143873,24,6.09,Education,Business,West,Retired,32.5,Under Review,2024-01-10,
+10,CUST0010,Kimberly Villanueva,30,158569,805,52662,12,12.54,Auto,Student,Central,Employed,16.1,Approved,2023-08-07,2024-08-28
+11,CUST0011,Sarah Smith,46,125039,779,282408,36,13.7,Home,Personal,Central,Unemployed,44.4,Rejected,2024-01-26,
+12,CUST0012,Jacob Curtis,43,54242,600,232942,24,8.26,Debt Consolidation,Auto,Central,Self-Employed,48.2,Rejected,2023-11-06,
+13,CUST0013,Tiffany Richardson,28,188918,605,446277,60,9.89,Auto,Business,Central,Employed,16.1,Approved,2023-07-27,2024-05-29
+14,CUST0014,Lisa Smith,53,30105,414,492115,36,12.73,Education,Mortgage,North,Self-Employed,43.3,Rejected,2023-08-12,
+15,CUST0015,Melissa Dean,27,47453,797,432831,12,13.77,Auto,Mortgage,West,Self-Employed,31.3,Approved,2023-04-19,2024-02-15
+16,CUST0016,Michael Wiley,60,135923,516,492018,60,11.43,Debt Consolidation,Auto,West,Unemployed,37.6,Under Review,2023-12-24,
+17,CUST0017,Amy Allison,55,143354,423,134973,24,4.17,Personal,Mortgage,Central,Self-Employed,10.8,Approved,2023-03-27,2023-09-16
+18,CUST0018,Jacqueline Robinson,62,40433,534,40337,12,12.53,Auto,Auto,West,Self-Employed,12.8,Rejected,2024-07-12,
+19,CUST0019,Taylor Frost,58,176050,784,132400,48,11.98,Home,Student,East,Retired,17.6,Approved,2023-07-20,2025-05-28
+20,CUST0020,Michael Reed,48,147427,355,358036,12,4.14,Home,Mortgage,South,Self-Employed,39.1,Rejected,2023-05-10,
+21,CUST0021,Eric Howard,30,135593,487,151037,48,6.12,Business,Business,North,Employed,46.9,Rejected,2024-05-23,
+22,CUST0022,Gregory Castillo,56,28868,395,490683,24,5.25,Auto,Student,North,Self-Employed,29.4,Under Review,2023-01-27,
+23,CUST0023,Mark Yang,46,94521,765,154552,48,10.81,Personal,Student,South,Self-Employed,39.2,Approved,2023-02-26,2023-09-26
+24,CUST0024,Jason Peterson,25,176828,362,397154,36,4.1,Personal,Business,South,Employed,33.4,Rejected,2024-02-08,
+25,CUST0025,Derrick Wyatt,27,73712,370,316969,12,10.59,Home,Business,South,Employed,19.4,Rejected,2024-04-16,
+26,CUST0026,Jessica Hansen,48,197326,835,170868,36,5.64,Auto,Auto,West,Self-Employed,38.6,Under Review,2024-05-24,
+27,CUST0027,Jay Mathews,41,144858,623,492073,12,3.6,Personal,Personal,North,Self-Employed,34.8,Approved,2024-05-03,2024-10-24
+28,CUST0028,David Holmes,30,116490,370,465990,24,7.38,Personal,Auto,Central,Employed,16.3,Rejected,2024-10-19,
+29,CUST0029,Joseph Davis,57,103480,406,497269,24,6.28,Debt Consolidation,Business,South,Unemployed,45.6,Under Review,2024-02-20,
+30,CUST0030,Allison Shaffer,35,114884,508,365446,36,8.81,Home,Personal,West,Unemployed,20.0,Approved,2023-12-11,2024-10-13
+31,CUST0031,Raven Norman,43,59293,568,89715,48,9.29,Home,Personal,North,Self-Employed,27.1,Rejected,2023-10-16,
+32,CUST0032,Lisa Moody,45,177701,451,230332,24,3.94,Home,Auto,South,Self-Employed,24.6,Rejected,2023-03-16,
+33,CUST0033,Katie Lewis,44,171770,716,330405,24,13.22,Auto,Mortgage,West,Employed,19.5,Approved,2023-03-28,2024-07-20
+34,CUST0034,Michelle Hawkins,33,112080,721,425602,24,6.3,Home,Student,North,Retired,41.5,Under Review,2024-10-28,
+35,CUST0035,Joseph Chang,51,116660,612,435197,24,5.84,Business,Auto,East,Employed,36.4,Rejected,2023-08-05,
+36,CUST0036,Lisa Mccullough,39,117050,821,214546,60,6.98,Education,Mortgage,Central,Unemployed,11.1,Approved,2023-06-10,2024-12-15
+37,CUST0037,Monica Watkins,24,53417,744,186239,36,8.08,Home,Student,Central,Self-Employed,49.4,Under Review,2023-10-30,
+38,CUST0038,Kenneth Jackson,49,25443,832,490267,60,10.71,Debt Consolidation,Mortgage,East,Retired,47.6,Approved,2023-08-06,2024-04-29
+39,CUST0039,Jeffrey Boyd,64,111559,621,352806,12,11.06,Education,Student,East,Retired,22.0,Under Review,2024-03-28,
+40,CUST0040,Heather Martin,57,58367,496,225434,48,10.61,Personal,Business,East,Retired,46.1,Rejected,2023-07-02,
+41,CUST0041,Thomas Cole,22,104658,593,115196,48,11.75,Education,Student,West,Retired,34.3,Rejected,2024-04-26,
+42,CUST0042,Terri Martinez,54,149042,473,350427,12,6.48,Personal,Auto,North,Self-Employed,36.6,Rejected,2024-02-02,
+43,CUST0043,Marissa Hernandez,36,77200,450,17805,12,6.07,Home,Student,West,Self-Employed,29.0,Rejected,2023-03-09,
+44,CUST0044,Julia White,46,154598,709,132918,24,10.39,Home,Student,South,Self-Employed,10.2,Approved,2024-11-12,2025-05-30
+45,CUST0045,Linda Brooks,55,146778,351,297241,24,13.13,Auto,Student,Central,Unemployed,14.9,Rejected,2024-06-30,
+46,CUST0046,Amy Ashley,50,185603,816,228735,60,8.18,Business,Student,East,Self-Employed,16.4,Approved,2024-09-01,2025-02-05
+47,CUST0047,Nathan Taylor,62,97695,833,259068,24,6.38,Education,Mortgage,East,Unemployed,13.1,Approved,2024-07-27,2024-12-15
+48,CUST0048,Erin Adams,42,166597,382,77547,24,5.93,Debt Consolidation,Mortgage,North,Retired,37.8,Under Review,2024-06-02,
+49,CUST0049,Nicole Johnson,56,147139,725,37645,24,12.25,Personal,Personal,Central,Retired,25.6,Approved,2024-06-15,2025-01-20
+50,CUST0050,Anthony Durham,52,26545,660,161559,48,12.46,Business,Business,Central,Self-Employed,48.1,Under Review,2024-05-25,
+51,CUST0051,Robert Clark,39,139251,797,20217,48,7.03,Business,Mortgage,West,Self-Employed,37.2,Rejected,2024-10-25,
+52,CUST0052,Alexander Bass,56,32069,703,315322,60,10.46,Business,Mortgage,West,Self-Employed,13.4,Approved,2024-02-14,2025-02-07
+53,CUST0053,Sarah Bell,25,93198,688,176627,24,8.27,Business,Auto,West,Unemployed,23.5,Under Review,2024-02-24,
+54,CUST0054,Andrew Edwards,52,30081,353,188480,24,10.33,Debt Consolidation,Personal,North,Self-Employed,41.2,Approved,2023-12-28,2025-03-07
+55,CUST0055,Kelly Casey,23,187879,456,130066,24,8.47,Auto,Student,East,Unemployed,14.6,Approved,2023-02-21,2023-07-04
+56,CUST0056,John Jones,60,55024,467,168073,12,9.58,Personal,Student,West,Self-Employed,47.2,Approved,2023-06-20,2024-03-30
+57,CUST0057,Daniel Wilson,62,88661,404,370529,36,12.43,Home,Business,North,Unemployed,34.0,Rejected,2024-05-23,
+58,CUST0058,Jacob Shaffer,64,122142,370,270269,36,3.63,Business,Personal,West,Unemployed,26.8,Rejected,2023-06-17,
+59,CUST0059,Sarah Boone,51,65105,745,97346,60,13.64,Personal,Student,West,Retired,20.8,Approved,2023-05-23,2025-05-07
+60,CUST0060,Jamie Wright,59,95358,630,451542,24,12.22,Business,Mortgage,West,Retired,13.5,Approved,2023-10-16,2025-03-04
+61,CUST0061,Nancy Pacheco,53,110200,486,260616,24,7.23,Education,Business,East,Employed,20.3,Rejected,2023-07-26,
+62,CUST0062,Kim Campbell,34,47442,547,382526,48,8.63,Debt Consolidation,Student,West,Retired,40.3,Rejected,2024-04-14,
+63,CUST0063,Richard Reyes,27,102132,526,217022,24,6.72,Business,Business,Central,Unemployed,33.3,Under Review,2024-09-07,
+64,CUST0064,James Chambers,57,111714,660,373498,48,6.34,Home,Mortgage,East,Employed,20.1,Under Review,2023-01-03,
+65,CUST0065,Ann Cowan,33,75211,521,392241,48,6.4,Personal,Business,East,Employed,33.6,Rejected,2024-12-26,
+66,CUST0066,Karen Dalton,40,84633,669,99079,36,3.65,Education,Personal,North,Unemployed,31.4,Under Review,2024-07-25,
+67,CUST0067,Craig Garrett,30,192213,802,58785,12,9.53,Business,Auto,South,Employed,28.8,Approved,2023-05-13,2024-01-19
+68,CUST0068,John Adams,38,150233,416,436025,12,7.71,Debt Consolidation,Personal,South,Self-Employed,13.0,Rejected,2023-09-10,
+69,CUST0069,Thomas Garcia,41,47329,554,67102,60,11.53,Personal,Mortgage,Central,Retired,34.3,Under Review,2023-07-04,
+70,CUST0070,Destiny Holland,50,102949,739,165107,60,10.02,Debt Consolidation,Personal,South,Self-Employed,34.4,Approved,2023-12-14,2024-03-31
+71,CUST0071,Rebecca Montes,27,66171,545,96128,60,4.29,Business,Business,West,Unemployed,10.1,Approved,2024-02-28,2024-09-07
+72,CUST0072,Breanna Jones,40,99112,764,42318,24,13.2,Debt Consolidation,Business,South,Retired,41.5,Approved,2023-01-24,2024-12-26
+73,CUST0073,Christy Miller,36,194773,452,481269,36,12.18,Auto,Auto,Central,Unemployed,12.9,Under Review,2024-02-02,
+74,CUST0074,Anthony Martinez,51,104715,712,499233,36,8.75,Home,Business,North,Retired,29.8,Approved,2024-09-26,2025-05-25
+75,CUST0075,Angie Cantu,42,183259,556,18560,12,5.9,Personal,Business,North,Unemployed,37.0,Rejected,2024-02-12,
+76,CUST0076,Kim Newton,33,148338,831,346578,48,13.12,Personal,Student,West,Employed,17.3,Approved,2024-01-12,2024-08-12
+77,CUST0077,Marcus Cross,52,116215,718,179749,36,10.54,Education,Student,West,Unemployed,44.3,Rejected,2023-07-12,
+78,CUST0078,Kelly Anderson,47,169204,337,243459,12,6.8,Business,Business,North,Retired,22.9,Under Review,2023-09-13,
+79,CUST0079,Samuel Navarro Jr.,34,160905,670,331439,48,10.07,Auto,Auto,Central,Self-Employed,40.4,Rejected,2023-01-21,
+80,CUST0080,Laura Hamilton,50,152064,424,20135,60,11.89,Education,Business,North,Retired,38.4,Approved,2024-08-24,2025-03-11
+81,CUST0081,Barry Johnson,29,145965,420,344586,24,8.73,Personal,Auto,West,Retired,38.7,Rejected,2023-11-17,
+82,CUST0082,Alison Bryant,37,144743,448,206109,24,13.18,Auto,Personal,East,Retired,30.3,Under Review,2024-02-10,
+83,CUST0083,Thomas Fields,54,95037,302,153289,36,12.29,Debt Consolidation,Student,South,Retired,33.2,Rejected,2024-12-05,
+84,CUST0084,Elizabeth Nelson,44,112147,686,243731,36,12.63,Auto,Business,West,Self-Employed,49.2,Rejected,2023-09-26,
+85,CUST0085,Christopher Wells,48,36441,625,395439,48,10.9,Business,Mortgage,West,Employed,42.5,Approved,2023-11-24,2025-03-31
+86,CUST0086,Craig Stone,59,112030,402,463327,48,4.55,Home,Mortgage,West,Self-Employed,46.4,Approved,2023-07-06,2024-12-16
+87,CUST0087,Alexander Small,38,113751,707,345701,12,12.44,Personal,Student,East,Retired,44.1,Rejected,2023-05-31,
+88,CUST0088,Alexander Sullivan,24,186863,370,128087,36,13.97,Business,Personal,North,Retired,39.9,Approved,2024-07-05,2024-10-22
+89,CUST0089,Kendra Delacruz,41,32588,347,175065,12,6.58,Auto,Mortgage,Central,Retired,25.0,Rejected,2024-08-04,
+90,CUST0090,Terri Duarte,33,69560,479,46402,60,12.64,Auto,Student,Central,Self-Employed,34.8,Under Review,2023-06-03,
+91,CUST0091,Stacie Long,62,91578,770,138864,12,12.94,Education,Business,South,Employed,28.6,Approved,2023-05-05,2025-02-22
+92,CUST0092,Chad Anderson,50,115587,606,339987,48,10.75,Education,Mortgage,West,Retired,28.3,Approved,2023-05-12,2025-04-08
+93,CUST0093,Lori Moore,46,174926,667,306366,36,13.92,Debt Consolidation,Student,East,Employed,21.8,Approved,2024-06-15,2024-12-03
+94,CUST0094,Carmen Nelson,65,37856,808,441647,36,11.65,Education,Mortgage,South,Unemployed,19.2,Approved,2024-09-25,2024-10-31
+95,CUST0095,Beth Lynch,65,197800,440,334382,12,12.99,Education,Student,North,Unemployed,35.9,Rejected,2024-06-13,
+96,CUST0096,Michelle Robinson,27,102361,634,396895,48,5.34,Personal,Auto,Central,Unemployed,15.3,Under Review,2023-08-15,
+97,CUST0097,Rebecca Miller,38,151313,602,396412,36,11.94,Home,Mortgage,South,Retired,28.7,Rejected,2023-05-13,
+98,CUST0098,Carla Gomez,57,120885,392,419545,48,3.65,Business,Auto,East,Retired,31.5,Rejected,2024-03-31,
+99,CUST0099,Nicole Jones,45,53402,539,252189,12,10.01,Education,Business,South,Employed,47.7,Rejected,2023-09-22,
+100,CUST0100,Gregory Ryan,51,104217,718,66171,24,3.98,Business,Personal,North,Self-Employed,11.5,Approved,2023-05-10,2024-09-08
+101,CUST0101,Jasmine Simpson,56,60563,697,242839,36,10.54,Personal,Student,Central,Self-Employed,39.7,Under Review,2023-03-05,
+102,CUST0102,Jose Perkins,63,50957,801,327779,48,13.36,Debt Consolidation,Auto,South,Retired,21.2,Approved,2024-01-11,2025-02-02
+103,CUST0103,Kristine Juarez,50,86895,671,57090,36,9.22,Education,Personal,West,Unemployed,49.1,Approved,2024-01-31,2024-02-08
+104,CUST0104,Thomas Hodges,29,144201,393,352481,24,10.24,Home,Personal,East,Self-Employed,33.9,Rejected,2023-03-16,
+105,CUST0105,Ashley Wong,58,78793,370,440063,60,5.68,Auto,Auto,South,Employed,18.6,Under Review,2023-09-17,
+106,CUST0106,Nancy Garcia,31,59076,556,423651,24,4.65,Auto,Personal,East,Self-Employed,44.7,Rejected,2023-05-11,
+107,CUST0107,David Mitchell,23,70677,571,32472,24,11.29,Debt Consolidation,Personal,West,Retired,31.0,Rejected,2024-11-11,
+108,CUST0108,Thomas Jensen,54,180625,411,241981,60,5.83,Debt Consolidation,Business,East,Retired,34.6,Rejected,2023-09-07,
+109,CUST0109,Amanda Gould,23,40945,790,449228,48,7.98,Debt Consolidation,Student,North,Employed,14.3,Approved,2023-11-21,2025-01-19
+110,CUST0110,Paul Johnson,42,184461,451,39436,24,6.39,Personal,Auto,West,Unemployed,35.3,Under Review,2023-12-14,
+111,CUST0111,John Cummings,60,137774,401,420810,12,12.45,Personal,Mortgage,West,Retired,36.0,Rejected,2023-08-25,
+112,CUST0112,Heather Delgado DDS,48,113848,764,214049,48,11.16,Education,Auto,East,Self-Employed,22.5,Approved,2024-08-16,2024-09-25
+113,CUST0113,Jane Rogers,65,149326,368,52828,12,4.48,Debt Consolidation,Auto,South,Employed,13.9,Rejected,2024-12-07,
+114,CUST0114,Matthew Lee,57,172241,637,356279,12,7.81,Business,Personal,East,Unemployed,44.9,Under Review,2023-07-27,
+115,CUST0115,Renee Simmons,58,158015,517,86123,48,5.85,Personal,Auto,North,Unemployed,14.3,Rejected,2023-10-15,
+116,CUST0116,Jennifer Miranda,49,172053,326,324288,36,3.8,Education,Auto,East,Employed,20.9,Approved,2023-02-04,2024-08-24
+117,CUST0117,Alexa Hamilton,31,173457,710,41482,24,11.28,Home,Business,South,Retired,48.9,Under Review,2023-07-29,
+118,CUST0118,Dr. Todd Benton,43,66263,678,168387,36,11.66,Home,Personal,South,Self-Employed,32.7,Under Review,2023-12-04,
+119,CUST0119,Madison Cervantes,25,46386,578,237318,48,8.6,Education,Mortgage,Central,Employed,27.7,Under Review,2023-07-03,
+120,CUST0120,Jeremy Wang,29,99251,798,281265,36,3.98,Personal,Personal,North,Self-Employed,25.8,Approved,2024-08-04,2024-09-27
+121,CUST0121,Samuel Martin,41,80373,440,405640,36,6.54,Business,Student,South,Self-Employed,14.8,Under Review,2023-05-27,
+122,CUST0122,Christopher Bennett,36,156140,662,42788,48,12.55,Home,Student,North,Unemployed,11.7,Approved,2024-10-05,2025-05-11
+123,CUST0123,Jeffery Johnson,58,131017,727,156789,12,7.75,Auto,Business,West,Unemployed,48.6,Approved,2023-05-07,2024-06-12
+124,CUST0124,Sydney Stuart,28,88783,746,313738,48,9.0,Education,Auto,South,Unemployed,25.8,Approved,2023-01-17,2025-04-28
+125,CUST0125,Kim Price,32,45022,822,336992,12,9.07,Education,Auto,South,Self-Employed,17.8,Approved,2024-07-29,2024-12-21
+126,CUST0126,Thomas Martinez,28,63389,562,108427,24,9.83,Debt Consolidation,Personal,South,Retired,40.4,Under Review,2023-08-05,
+127,CUST0127,Lawrence Porter,58,176904,759,362110,60,10.25,Education,Auto,South,Retired,49.5,Approved,2024-06-01,2024-10-22
+128,CUST0128,Cody Mcintyre,50,190513,610,422506,36,9.71,Home,Auto,West,Retired,24.1,Approved,2023-03-16,2024-01-17
+129,CUST0129,David Hanson,45,100255,378,342990,12,9.96,Business,Business,Central,Employed,30.3,Under Review,2024-07-04,
+130,CUST0130,Theresa Herman,58,195875,492,173572,60,8.49,Home,Student,North,Unemployed,16.0,Rejected,2023-08-21,
+131,CUST0131,Abigail Gardner,27,157264,476,25521,24,10.93,Personal,Business,Central,Self-Employed,49.6,Under Review,2024-02-08,
+132,CUST0132,William Clark,40,126558,718,411042,36,10.63,Debt Consolidation,Auto,North,Unemployed,12.1,Approved,2023-04-24,2023-06-09
+133,CUST0133,Jimmy Bridges,28,171266,695,153974,36,11.1,Personal,Mortgage,East,Employed,36.3,Approved,2023-09-03,2024-04-27
+134,CUST0134,Scott Doyle,31,116703,617,348961,48,4.85,Home,Auto,Central,Retired,38.4,Under Review,2024-04-22,
+135,CUST0135,Jose Barnes,43,58500,839,53996,48,8.84,Education,Mortgage,South,Unemployed,10.7,Approved,2023-10-28,2024-10-29
+136,CUST0136,Christopher Mcfarland,53,75333,531,77123,24,4.31,Home,Business,Central,Employed,43.8,Rejected,2023-04-03,
+137,CUST0137,Dennis Maxwell,61,59353,685,85872,24,5.4,Personal,Mortgage,West,Employed,37.7,Approved,2023-05-05,2024-12-31
+138,CUST0138,Gina Ferguson,65,87267,754,325127,36,11.4,Auto,Business,South,Unemployed,41.4,Rejected,2024-11-15,
+139,CUST0139,Jared Kim,52,75860,676,360628,60,13.84,Education,Student,Central,Retired,28.5,Rejected,2023-08-20,
+140,CUST0140,William Harding,34,183508,441,462704,36,4.05,Education,Business,North,Employed,29.2,Under Review,2024-03-07,
+141,CUST0141,Michael Hamilton,32,96510,760,479641,60,5.05,Auto,Student,East,Employed,27.5,Approved,2023-10-03,2023-10-04
+142,CUST0142,Sarah Porter,48,38960,705,268196,36,5.98,Education,Mortgage,North,Unemployed,49.8,Rejected,2024-04-17,
+143,CUST0143,Hannah Clark,63,112894,449,77141,12,6.51,Debt Consolidation,Mortgage,West,Retired,43.2,Rejected,2023-01-27,
+144,CUST0144,Christopher Love,27,29981,562,118065,24,9.26,Personal,Student,North,Unemployed,39.1,Under Review,2024-04-25,
+145,CUST0145,Megan Berry,29,37517,544,225109,60,8.3,Business,Business,Central,Employed,14.4,Rejected,2023-04-27,
+146,CUST0146,Jose Vasquez,58,88422,447,157710,48,3.52,Personal,Student,South,Employed,24.1,Rejected,2024-09-17,
+147,CUST0147,Brandi Roth,45,42741,838,290255,60,11.76,Home,Student,West,Employed,30.3,Under Review,2023-06-05,
+148,CUST0148,Michael Brown,45,91492,316,192220,12,7.12,Debt Consolidation,Personal,Central,Unemployed,39.3,Approved,2023-02-26,2025-04-18
+149,CUST0149,Tina Church,44,168134,646,431512,24,12.22,Debt Consolidation,Student,South,Self-Employed,37.4,Approved,2024-12-16,2025-04-23
+150,CUST0150,Nancy Young,51,34695,600,110691,12,11.81,Education,Auto,Central,Retired,45.4,Rejected,2023-10-17,
+151,CUST0151,Mike Thomas,56,149098,559,24199,24,6.5,Home,Auto,East,Employed,44.5,Rejected,2024-09-15,
+152,CUST0152,Isaac Lara,49,129863,750,474047,48,7.06,Debt Consolidation,Student,East,Unemployed,17.5,Approved,2024-07-19,2024-12-10
+153,CUST0153,Theodore Mcgee,27,136280,380,230762,60,13.95,Education,Auto,North,Employed,17.2,Under Review,2024-05-11,
+154,CUST0154,Brendan Wilson,40,105346,756,320947,48,5.25,Business,Personal,East,Retired,27.8,Approved,2023-07-12,2025-01-24
+155,CUST0155,Deanna Flores,39,192633,358,44343,48,7.31,Debt Consolidation,Mortgage,North,Self-Employed,42.0,Rejected,2023-01-11,
+156,CUST0156,Mrs. Samantha Benitez,65,139864,335,71180,12,5.98,Education,Student,Central,Employed,35.8,Rejected,2023-07-05,
+157,CUST0157,Leslie Willis,65,142944,679,200042,48,11.51,Personal,Auto,West,Unemployed,33.0,Under Review,2023-09-02,
+158,CUST0158,Rebecca Gilmore,37,54739,326,390705,24,8.74,Personal,Personal,East,Unemployed,25.5,Rejected,2024-06-22,
+159,CUST0159,Richard Johnson,35,185399,592,368845,48,5.6,Home,Student,South,Retired,15.4,Rejected,2023-09-07,
+160,CUST0160,Sherry Kidd,65,108778,655,377003,12,9.27,Education,Mortgage,South,Unemployed,21.6,Approved,2023-07-23,2025-05-07
+161,CUST0161,Derek Hill,29,77685,442,129117,48,3.78,Education,Student,Central,Self-Employed,32.2,Rejected,2023-06-13,
+162,CUST0162,David Rodriguez,27,42235,616,213750,48,9.02,Personal,Personal,South,Unemployed,40.8,Rejected,2024-07-11,
+163,CUST0163,Rachael Banks,50,147115,829,185624,24,12.72,Debt Consolidation,Business,South,Self-Employed,41.2,Under Review,2024-11-03,
+164,CUST0164,Rebecca Williams,25,57548,830,85224,36,5.23,Debt Consolidation,Mortgage,East,Unemployed,22.9,Approved,2024-10-18,2024-11-06
+165,CUST0165,John Morris,27,90694,501,337952,60,6.38,Personal,Business,North,Self-Employed,35.0,Rejected,2024-04-13,
+166,CUST0166,John Wilkerson,59,65421,475,350365,60,11.07,Personal,Personal,North,Employed,34.2,Approved,2023-04-10,2025-05-04
+167,CUST0167,Monique Perez,63,176197,571,346379,24,11.55,Debt Consolidation,Personal,West,Unemployed,26.7,Rejected,2023-07-20,
+168,CUST0168,Curtis Dawson,41,151601,550,426888,48,6.62,Home,Mortgage,West,Retired,12.9,Under Review,2023-08-17,
+169,CUST0169,Amy Whitaker,35,114179,447,168883,36,11.21,Business,Mortgage,East,Employed,44.4,Under Review,2023-08-09,
+170,CUST0170,Justin James,51,57118,573,240717,24,4.98,Business,Business,West,Self-Employed,12.0,Rejected,2023-08-12,
+171,CUST0171,Shelly Gordon,32,110835,620,104527,24,8.73,Business,Auto,West,Employed,30.6,Approved,2024-04-26,2024-06-18
+172,CUST0172,Jack Maxwell,47,157499,768,131211,24,9.63,Education,Student,Central,Retired,11.9,Approved,2023-08-01,2023-10-17
+173,CUST0173,Samantha Thomas,40,165690,308,449162,12,8.02,Debt Consolidation,Auto,West,Unemployed,45.3,Approved,2024-09-19,2024-12-31
+174,CUST0174,Mr. James Moon,25,174495,499,195066,60,6.53,Business,Business,East,Employed,25.5,Approved,2023-04-29,2025-05-10
+175,CUST0175,Amy Johnson,28,128259,682,421755,36,9.36,Auto,Mortgage,Central,Retired,24.6,Approved,2023-07-05,2024-01-22
+176,CUST0176,Angela Hill,24,35201,440,379127,36,11.94,Auto,Business,Central,Self-Employed,30.8,Under Review,2024-11-24,
+177,CUST0177,Rachel Colon,61,108500,466,211021,60,11.26,Education,Business,Central,Retired,22.0,Rejected,2024-04-17,
+178,CUST0178,Wendy Higgins,41,149490,317,198125,36,10.57,Personal,Auto,North,Retired,49.2,Under Review,2023-01-05,
+179,CUST0179,Tyrone Case,63,176643,533,383221,12,9.63,Debt Consolidation,Business,West,Self-Employed,16.8,Rejected,2023-08-05,
+180,CUST0180,Rachel Carey,37,33276,412,105025,12,8.13,Business,Mortgage,West,Retired,26.8,Rejected,2023-09-16,
+181,CUST0181,Carolyn Sharp,25,61197,831,113706,60,6.91,Personal,Student,East,Self-Employed,36.5,Approved,2024-07-20,2024-09-19
+182,CUST0182,Mrs. Natalie Larson,56,114738,662,359349,36,9.91,Auto,Auto,Central,Unemployed,17.7,Approved,2024-10-07,2024-10-16
+183,CUST0183,Denise Griffin,41,100760,512,366884,48,6.83,Debt Consolidation,Auto,East,Employed,24.0,Rejected,2024-04-25,
+184,CUST0184,Justin Frazier,56,124534,704,434065,36,13.52,Education,Personal,East,Employed,42.2,Under Review,2023-06-28,
+185,CUST0185,Anthony White,50,196959,562,396820,48,5.75,Education,Business,East,Self-Employed,43.1,Approved,2024-11-13,2025-02-04
+186,CUST0186,Robert Young,59,87726,548,31615,60,5.87,Home,Student,East,Retired,19.3,Approved,2023-03-25,2023-05-06
+187,CUST0187,Nicholas Chavez,30,26358,461,218336,48,8.51,Education,Auto,East,Employed,18.0,Rejected,2023-03-27,
+188,CUST0188,Tyler Landry,27,195996,537,285573,12,13.09,Auto,Personal,West,Retired,17.0,Approved,2024-12-29,2025-01-19
+189,CUST0189,Cindy Brown,40,34821,309,161443,60,9.83,Education,Auto,West,Retired,47.1,Rejected,2023-12-05,
+190,CUST0190,Greg Valenzuela,30,157176,779,148045,24,11.99,Debt Consolidation,Student,East,Self-Employed,23.2,Approved,2024-05-27,2024-06-05
+191,CUST0191,Sandra Rodriguez,22,113371,602,302680,24,5.34,Business,Student,Central,Unemployed,44.2,Approved,2024-04-08,2025-05-01
+192,CUST0192,Rebecca Cruz,64,50004,489,78721,48,6.9,Education,Student,South,Retired,19.9,Rejected,2023-01-22,
+193,CUST0193,Paul Stevenson,43,104153,311,142129,36,10.77,Home,Student,East,Self-Employed,12.5,Under Review,2023-09-12,
+194,CUST0194,Ashley Caldwell,54,106521,420,339868,36,7.36,Auto,Student,South,Retired,18.8,Rejected,2023-07-16,
+195,CUST0195,Samantha King,60,122943,725,373019,60,13.08,Debt Consolidation,Mortgage,South,Employed,40.3,Rejected,2024-02-03,
+196,CUST0196,Ian Maldonado,55,119839,379,485900,60,4.68,Personal,Mortgage,Central,Self-Employed,43.2,Approved,2023-05-19,2023-10-26
+197,CUST0197,Jasmine Yang MD,55,140825,419,361670,24,11.03,Personal,Student,North,Retired,29.6,Approved,2024-12-23,2025-03-29
+198,CUST0198,Heather Liu,48,144746,359,297970,48,10.56,Home,Student,East,Employed,22.3,Rejected,2023-08-14,
+199,CUST0199,Angela Simon,59,44144,346,227139,36,10.85,Home,Personal,West,Employed,31.6,Under Review,2023-02-13,
+200,CUST0200,Joseph Morgan,33,60501,730,201325,48,8.21,Business,Student,North,Self-Employed,46.7,Rejected,2024-05-13,
+201,CUST0201,Erik Morse,44,56098,482,286678,48,9.05,Auto,Personal,North,Unemployed,39.1,Under Review,2024-12-04,
+202,CUST0202,Misty George,56,136182,844,203850,24,6.1,Education,Mortgage,North,Employed,23.8,Approved,2024-07-19,2024-11-24
+203,CUST0203,Taylor Johnston,64,134901,316,131178,24,4.21,Business,Business,North,Self-Employed,33.8,Rejected,2024-09-18,
+204,CUST0204,Jessica Craig,47,140071,539,287989,24,11.42,Auto,Business,East,Self-Employed,41.0,Rejected,2023-06-12,
+205,CUST0205,Elizabeth Riley,58,108598,628,129205,36,12.7,Personal,Mortgage,West,Unemployed,49.4,Under Review,2024-04-22,
+206,CUST0206,Donna Watts,57,180101,479,333200,48,9.34,Education,Student,Central,Unemployed,11.9,Rejected,2023-09-21,
+207,CUST0207,Ariel Valenzuela,48,64116,607,202373,24,11.42,Auto,Auto,South,Retired,28.9,Rejected,2023-11-29,
+208,CUST0208,Jennifer Meyers,57,133180,726,297178,60,4.91,Auto,Auto,North,Retired,19.7,Approved,2024-08-21,2025-01-17
+209,CUST0209,Samantha Perez,45,49238,848,384891,24,4.04,Personal,Business,North,Employed,25.1,Approved,2023-10-25,2025-05-13
+210,CUST0210,Carlos Ward,34,179031,522,256340,24,12.63,Home,Mortgage,South,Employed,23.3,Rejected,2024-04-30,
+211,CUST0211,James Hunter,52,88594,509,212949,24,9.3,Business,Student,Central,Unemployed,41.0,Under Review,2024-10-25,
+212,CUST0212,Christina Ford,45,159431,809,249320,12,11.93,Education,Mortgage,East,Unemployed,38.9,Approved,2024-06-07,2025-05-25
+213,CUST0213,Anne Pratt,58,83005,449,13503,36,9.31,Debt Consolidation,Student,East,Self-Employed,33.4,Approved,2024-03-22,2024-12-07
+214,CUST0214,Catherine Rodriguez,36,124572,551,266777,60,10.37,Education,Student,West,Retired,37.4,Approved,2024-02-10,2024-11-07
+215,CUST0215,Jade Kaiser,44,69371,443,382651,60,8.63,Personal,Personal,Central,Employed,46.7,Rejected,2024-07-01,
+216,CUST0216,Kelly Ayers,26,37717,306,221212,24,12.35,Debt Consolidation,Mortgage,North,Self-Employed,19.3,Rejected,2023-01-11,
+217,CUST0217,John Robinson,45,40846,794,350654,48,3.67,Business,Personal,North,Unemployed,31.3,Approved,2023-11-27,2024-08-18
+218,CUST0218,Elizabeth Freeman,40,29493,814,431328,48,11.96,Home,Personal,Central,Self-Employed,46.4,Under Review,2023-12-26,
+219,CUST0219,Kimberly Thornton,61,163007,558,432407,36,6.31,Education,Student,West,Self-Employed,25.9,Rejected,2024-05-19,
+220,CUST0220,Peter Cooper,36,103636,382,347745,12,4.48,Personal,Student,North,Employed,25.2,Rejected,2024-12-18,
+221,CUST0221,Dwayne Wise,27,156034,744,343117,36,9.44,Home,Business,North,Self-Employed,44.3,Under Review,2023-10-28,
+222,CUST0222,Dr. Andrea Brown MD,58,149649,577,29411,12,10.69,Personal,Business,North,Self-Employed,21.2,Rejected,2024-07-19,
+223,CUST0223,Joseph Pearson,42,29104,512,312775,24,11.4,Business,Personal,East,Self-Employed,38.5,Rejected,2024-09-13,
+224,CUST0224,Adam Schmitt,58,127015,639,206245,24,11.8,Home,Business,East,Employed,37.6,Approved,2023-11-05,2024-01-01
+225,CUST0225,Joshua Vargas,36,44927,648,322282,60,13.53,Education,Personal,East,Retired,25.9,Approved,2024-10-01,2025-02-27
+226,CUST0226,David Wade,44,169975,684,231412,24,10.64,Home,Business,East,Self-Employed,36.4,Under Review,2024-06-26,
+227,CUST0227,Mitchell Lowe,27,95247,457,204229,24,11.27,Home,Personal,North,Unemployed,22.7,Under Review,2023-01-24,
+228,CUST0228,Brittany Rivera,39,51799,435,50768,24,8.03,Personal,Student,North,Employed,32.3,Approved,2024-10-09,2025-03-29
+229,CUST0229,Cody Stephens,57,49396,632,457837,48,3.63,Home,Business,South,Self-Employed,26.6,Under Review,2023-04-17,
+230,CUST0230,Brittany Roberts,32,61396,575,162879,36,8.68,Business,Auto,West,Unemployed,12.5,Under Review,2024-12-06,
+231,CUST0231,Jason Atkins,26,119666,557,134284,48,9.73,Home,Mortgage,East,Employed,17.8,Rejected,2023-05-31,
+232,CUST0232,Rebecca Miller,43,187579,689,426567,36,8.12,Debt Consolidation,Business,South,Unemployed,27.2,Approved,2023-06-28,2024-09-18
+233,CUST0233,Kristen Cooper,34,150569,621,98133,48,13.67,Debt Consolidation,Student,Central,Self-Employed,21.7,Approved,2024-01-07,2024-10-05
+234,CUST0234,Ashley Simpson,39,128005,673,64710,60,5.6,Auto,Business,North,Retired,49.9,Rejected,2023-11-03,
+235,CUST0235,Jose Carrillo,35,139938,598,440831,12,12.1,Business,Student,South,Unemployed,41.8,Under Review,2024-01-25,
+236,CUST0236,Jennifer Thornton,64,65407,733,418703,48,4.28,Business,Business,West,Retired,49.6,Rejected,2024-04-29,
+237,CUST0237,Curtis Trujillo,45,165746,387,62341,24,10.4,Debt Consolidation,Business,North,Retired,24.2,Rejected,2024-06-23,
+238,CUST0238,Jeremy Collins,43,137841,408,10530,12,6.22,Personal,Business,Central,Self-Employed,30.4,Under Review,2024-06-06,
+239,CUST0239,Bethany Phelps,47,146389,812,84033,36,13.98,Education,Student,North,Employed,29.3,Approved,2023-08-23,2024-02-25
+240,CUST0240,Jennifer Hayes DVM,31,116312,619,184865,48,11.73,Education,Student,North,Retired,30.8,Under Review,2024-09-25,
+241,CUST0241,Justin Carey,50,108600,368,162424,12,12.01,Education,Personal,South,Self-Employed,14.6,Rejected,2024-09-17,
+242,CUST0242,Cassandra Davis,57,66978,638,298522,48,13.56,Business,Mortgage,South,Retired,19.3,Approved,2023-06-05,2024-11-14
+243,CUST0243,Earl Torres,61,76727,760,315485,48,7.58,Auto,Auto,North,Employed,38.2,Under Review,2023-12-07,
+244,CUST0244,Paul Coffey,56,74010,674,175909,24,8.3,Business,Business,East,Retired,20.5,Under Review,2023-07-20,
+245,CUST0245,Janet Young,59,54945,656,189541,48,9.98,Debt Consolidation,Auto,Central,Employed,42.5,Rejected,2023-04-18,
+246,CUST0246,Greg Padilla,42,55896,544,165107,12,5.42,Personal,Student,West,Self-Employed,37.7,Rejected,2024-01-31,
+247,CUST0247,Raymond Harding,49,73694,798,338185,60,10.78,Auto,Business,South,Retired,35.8,Approved,2024-12-01,2025-05-01
+248,CUST0248,David Leon,33,107465,761,329749,12,12.59,Business,Mortgage,South,Retired,48.1,Rejected,2023-12-12,
+249,CUST0249,Michael Werner,54,196198,806,219504,48,7.86,Business,Mortgage,North,Employed,43.6,Rejected,2024-07-14,
+250,CUST0250,Joshua Cortez,36,101569,333,149102,24,9.14,Business,Business,West,Employed,16.7,Rejected,2024-09-21,
+251,CUST0251,Kayla Farrell,39,167372,675,289186,12,11.48,Auto,Student,North,Self-Employed,27.7,Approved,2024-08-11,2024-09-07
+252,CUST0252,Sierra Shannon,24,142894,569,187754,12,8.11,Auto,Mortgage,Central,Unemployed,49.8,Rejected,2024-03-10,
+253,CUST0253,Ashley Anderson,61,190877,738,92022,60,4.96,Auto,Personal,Central,Unemployed,18.3,Approved,2024-03-04,2024-06-25
+254,CUST0254,Douglas Moore,56,98684,472,174687,36,6.54,Personal,Personal,South,Retired,20.7,Rejected,2024-02-25,
+255,CUST0255,Erika Bass,39,196939,429,372749,24,6.12,Auto,Student,West,Self-Employed,38.5,Rejected,2023-05-15,
+256,CUST0256,Chad Santos,39,189577,724,201698,48,4.29,Home,Student,Central,Unemployed,41.8,Rejected,2023-04-25,
+257,CUST0257,Phillip Mcknight,45,144195,799,176593,60,3.53,Debt Consolidation,Personal,West,Unemployed,41.0,Rejected,2024-12-31,
+258,CUST0258,John Brown,56,129258,523,230256,24,8.69,Education,Auto,Central,Self-Employed,22.9,Rejected,2024-02-08,
+259,CUST0259,David Hernandez,53,115109,349,29087,12,10.07,Home,Personal,South,Retired,43.5,Under Review,2024-11-07,
+260,CUST0260,James Mullins,49,78036,435,467499,36,5.17,Education,Personal,East,Unemployed,47.3,Approved,2023-11-08,2024-08-12
+261,CUST0261,Amy Hodges,64,195108,469,32151,48,10.07,Auto,Student,North,Employed,39.0,Approved,2024-09-13,2024-10-31
+262,CUST0262,Donald Bartlett MD,52,45431,435,316259,24,8.95,Home,Auto,North,Retired,27.8,Rejected,2024-05-09,
+263,CUST0263,George Russell,52,43567,534,205838,12,11.17,Education,Auto,East,Self-Employed,14.1,Under Review,2023-01-02,
+264,CUST0264,Stacy Mcdaniel,30,193185,446,40867,60,9.41,Auto,Student,East,Self-Employed,34.4,Rejected,2023-03-18,
+265,CUST0265,Brian Price,31,132927,753,455868,24,4.41,Home,Business,West,Unemployed,14.0,Approved,2023-09-08,2025-02-24
+266,CUST0266,Mrs. Danielle Rodriguez,49,107445,443,134911,36,10.27,Personal,Business,Central,Unemployed,19.9,Rejected,2023-09-20,
+267,CUST0267,Phillip Obrien,23,197597,608,112712,60,9.87,Business,Auto,North,Self-Employed,17.5,Approved,2024-09-07,2025-01-02
+268,CUST0268,Dana Lawson,29,88198,811,339538,60,4.25,Home,Auto,East,Self-Employed,45.5,Under Review,2023-01-30,
+269,CUST0269,Debra Myers,58,135326,674,291448,24,11.51,Home,Personal,Central,Employed,48.2,Approved,2023-08-14,2024-10-01
+270,CUST0270,Maria Edwards,35,35440,361,418815,48,8.82,Personal,Student,West,Retired,35.1,Approved,2024-08-16,2024-10-17
+271,CUST0271,Joseph Cervantes,56,165943,456,150473,12,6.75,Auto,Mortgage,Central,Unemployed,30.5,Under Review,2024-07-25,
+272,CUST0272,Clarence Olsen,62,195351,367,167618,48,11.16,Home,Mortgage,North,Retired,43.9,Approved,2023-11-06,2025-01-12
+273,CUST0273,Denise Armstrong,61,184601,356,167157,24,4.75,Debt Consolidation,Personal,South,Retired,38.3,Rejected,2024-04-25,
+274,CUST0274,Sandra Salazar,55,160586,565,92536,36,4.83,Education,Personal,North,Unemployed,41.2,Rejected,2024-11-24,
+275,CUST0275,Tiffany Campbell,39,162325,365,142861,60,10.09,Personal,Auto,North,Retired,29.8,Rejected,2024-04-20,
+276,CUST0276,Jeffrey Dominguez,32,121387,461,138754,12,12.89,Home,Mortgage,Central,Employed,37.0,Approved,2024-09-08,2025-03-11
+277,CUST0277,Jacob Barton,22,89107,347,252340,36,7.52,Home,Business,West,Self-Employed,16.0,Under Review,2023-07-24,
+278,CUST0278,Joshua Williamson,48,108869,577,438060,12,9.5,Debt Consolidation,Personal,South,Self-Employed,14.8,Rejected,2024-07-31,
+279,CUST0279,James Smith,24,130100,370,464795,48,12.59,Education,Auto,North,Retired,40.9,Approved,2024-05-11,2024-10-05
+280,CUST0280,Kelsey Castro,34,101439,611,392750,60,6.05,Business,Mortgage,Central,Self-Employed,24.7,Approved,2024-09-07,2024-12-06
+281,CUST0281,Tony Nash,48,31267,538,288925,36,10.18,Home,Auto,North,Retired,37.7,Rejected,2024-09-28,
+282,CUST0282,Megan Morris,41,52249,510,282775,24,7.91,Auto,Auto,North,Employed,48.4,Rejected,2024-07-27,
+283,CUST0283,Elizabeth Hernandez DVM,55,133280,681,245364,12,9.6,Debt Consolidation,Student,North,Employed,30.2,Approved,2023-07-15,2023-07-25
+284,CUST0284,Penny Alvarado,30,87068,598,141834,36,13.22,Debt Consolidation,Auto,East,Retired,25.7,Under Review,2023-06-03,
+285,CUST0285,Mark Williams,26,78139,439,413911,60,4.64,Business,Student,East,Retired,14.2,Approved,2024-10-24,2025-05-13
+286,CUST0286,Monique Ward,44,79430,762,166642,48,6.28,Auto,Auto,Central,Employed,14.8,Approved,2024-04-26,2024-12-03
+287,CUST0287,Linda Hill,35,110929,451,52821,24,13.67,Home,Auto,East,Self-Employed,25.8,Approved,2023-04-16,2025-03-02
+288,CUST0288,Sierra Cox,47,143541,555,54663,48,4.57,Home,Personal,North,Self-Employed,41.8,Approved,2024-04-03,2024-09-26
+289,CUST0289,Crystal Bishop,47,122580,386,310305,60,6.22,Home,Personal,South,Retired,42.5,Rejected,2024-03-02,
+290,CUST0290,Jessica Riley,27,111913,425,27385,48,4.03,Business,Student,West,Employed,47.0,Under Review,2023-03-31,
+291,CUST0291,Daniel Jones,49,70300,662,117573,24,6.39,Auto,Personal,Central,Self-Employed,27.8,Under Review,2024-05-15,
+292,CUST0292,Madeline Holland,53,133001,790,36970,12,6.44,Auto,Business,South,Employed,15.5,Approved,2024-09-06,2025-03-22
+293,CUST0293,James Lewis,46,119139,791,290484,48,7.11,Education,Student,East,Self-Employed,32.6,Approved,2023-05-30,2023-11-15
+294,CUST0294,Joseph Williamson,60,82414,330,474638,36,4.12,Personal,Auto,Central,Self-Employed,49.7,Rejected,2024-01-04,
+295,CUST0295,Mary Harris,28,89974,546,144736,60,12.07,Home,Mortgage,Central,Retired,46.7,Under Review,2023-09-11,
+296,CUST0296,Timothy Cook,33,71163,542,315650,36,11.97,Personal,Personal,East,Self-Employed,37.9,Rejected,2024-09-16,
+297,CUST0297,Anita Rogers,34,154034,616,97042,48,3.9,Personal,Mortgage,North,Retired,12.2,Approved,2023-06-10,2025-05-02
+298,CUST0298,Miss Catherine Maldonado,61,77812,433,183655,24,13.15,Education,Personal,North,Self-Employed,43.8,Rejected,2024-01-16,
+299,CUST0299,Richard Johnson,31,54077,838,456238,36,13.59,Debt Consolidation,Student,Central,Employed,24.9,Approved,2024-11-18,2025-05-15
+300,CUST0300,Scott Price,43,104105,630,76539,24,11.19,Debt Consolidation,Student,East,Self-Employed,27.5,Under Review,2023-02-07,
+301,CUST0301,Andre Mendoza,57,185880,665,122040,60,12.05,Debt Consolidation,Auto,South,Self-Employed,25.1,Under Review,2024-05-15,
+302,CUST0302,Cassie Ibarra,58,127655,333,100463,60,6.84,Personal,Mortgage,Central,Employed,42.4,Rejected,2024-03-19,
+303,CUST0303,Christopher Jackson,31,111813,379,129778,36,13.81,Home,Auto,West,Employed,16.7,Under Review,2023-12-24,
+304,CUST0304,Nicole Smith,37,42771,658,139562,12,11.06,Business,Student,South,Retired,11.9,Approved,2023-09-24,2024-02-16
+305,CUST0305,Nichole Dodson,46,117073,684,58177,48,11.78,Debt Consolidation,Mortgage,South,Retired,33.1,Approved,2024-04-25,2024-08-26
+306,CUST0306,Morgan Simmons,24,102308,320,172099,36,13.49,Auto,Student,South,Employed,13.0,Rejected,2024-02-09,
+307,CUST0307,Charles Brown,27,113591,794,374363,12,8.03,Personal,Student,South,Employed,36.1,Approved,2024-02-25,2025-04-21
+308,CUST0308,Angela Andersen,35,74803,719,370531,60,11.08,Education,Auto,East,Self-Employed,39.2,Approved,2023-06-16,2024-11-13
+309,CUST0309,Brandy Crosby,47,174886,802,85525,12,7.29,Education,Business,West,Self-Employed,27.1,Approved,2023-09-23,2024-11-20
+310,CUST0310,Amy Brown DDS,28,31746,511,94565,36,13.76,Home,Auto,West,Retired,28.9,Under Review,2024-03-10,
+311,CUST0311,Sonya Lane,64,94469,393,341522,60,7.57,Business,Auto,South,Retired,24.8,Approved,2024-05-28,2024-09-27
+312,CUST0312,Danielle Hayes,50,146912,569,123616,36,9.42,Debt Consolidation,Personal,North,Unemployed,16.0,Rejected,2023-10-28,
+313,CUST0313,Brianna Allen,48,179593,532,295246,12,12.33,Business,Business,West,Self-Employed,42.7,Under Review,2023-08-27,
+314,CUST0314,Michael Mcintyre,27,128495,335,268245,60,12.95,Debt Consolidation,Business,South,Employed,42.0,Rejected,2023-07-29,
+315,CUST0315,Daniel Chung,50,70319,471,116091,24,4.82,Debt Consolidation,Student,South,Self-Employed,26.9,Rejected,2024-10-01,
+316,CUST0316,Karen Salas,38,108820,368,50627,48,9.34,Education,Business,West,Employed,32.1,Rejected,2024-11-17,
+317,CUST0317,Mark Nguyen,61,179029,835,414828,48,4.68,Personal,Business,Central,Employed,16.0,Approved,2024-04-07,2024-07-21
+318,CUST0318,Raymond Swanson,28,172504,403,416957,36,12.61,Business,Auto,West,Retired,45.2,Rejected,2024-02-29,
+319,CUST0319,Robert Schultz,52,34821,476,149396,48,5.01,Debt Consolidation,Student,North,Retired,34.3,Rejected,2023-01-19,
+320,CUST0320,Frank Stephens,43,87279,350,395987,48,13.17,Home,Auto,East,Unemployed,45.9,Under Review,2024-03-04,
+321,CUST0321,Michael Meyer,53,50747,533,75456,36,13.73,Education,Auto,West,Employed,27.7,Approved,2023-12-30,2024-03-20
+322,CUST0322,Jennifer Baker DDS,35,131737,796,403193,60,12.61,Personal,Mortgage,North,Unemployed,42.8,Rejected,2024-10-10,
+323,CUST0323,Michelle Norris,47,60559,836,466023,60,3.8,Auto,Personal,South,Employed,17.7,Approved,2023-04-30,2024-10-12
+324,CUST0324,Todd Cunningham,51,38253,669,374431,24,6.38,Personal,Student,North,Employed,42.9,Under Review,2024-02-16,
+325,CUST0325,Tara Jones,53,180724,756,98104,48,9.66,Auto,Auto,North,Unemployed,24.0,Approved,2024-12-06,2024-12-19
+326,CUST0326,Amber Jackson,23,126335,350,90410,60,11.69,Auto,Mortgage,South,Unemployed,18.6,Rejected,2024-09-06,
+327,CUST0327,Nathaniel Clements,54,30256,309,253563,24,10.3,Home,Mortgage,East,Unemployed,34.0,Rejected,2024-08-06,
+328,CUST0328,Michael Stewart,63,97188,733,474490,48,12.44,Auto,Student,East,Retired,28.4,Approved,2024-07-22,2024-10-09
+329,CUST0329,Brenda Moran,59,51820,307,273180,36,9.4,Education,Auto,North,Retired,33.8,Approved,2024-06-03,2024-06-14
+330,CUST0330,Miranda Sweeney,39,192928,632,456669,36,6.24,Debt Consolidation,Auto,South,Self-Employed,38.4,Approved,2023-11-20,2024-11-16
+331,CUST0331,Catherine Hoffman,37,39883,713,351308,36,10.65,Debt Consolidation,Student,East,Unemployed,38.9,Rejected,2023-09-09,
+332,CUST0332,Danielle Mcclain,47,126783,336,310672,60,12.07,Debt Consolidation,Mortgage,Central,Retired,23.7,Rejected,2023-03-29,
+333,CUST0333,Rebecca Cooper,64,118977,819,162388,24,12.33,Auto,Auto,North,Retired,45.1,Approved,2023-04-02,2024-05-15
+334,CUST0334,Zachary Ashley,38,171546,487,361365,36,10.37,Auto,Auto,West,Unemployed,18.9,Under Review,2024-07-22,
+335,CUST0335,Meghan Sanchez,59,102083,774,451281,12,8.44,Personal,Business,Central,Employed,44.7,Under Review,2024-02-22,
+336,CUST0336,Jennifer Huynh,34,156197,422,459818,48,9.06,Auto,Mortgage,South,Unemployed,26.5,Under Review,2023-05-22,
+337,CUST0337,Wesley Edwards,58,144949,446,170876,24,11.68,Debt Consolidation,Mortgage,East,Employed,29.5,Approved,2024-07-09,2025-01-18
+338,CUST0338,Jennifer Sexton,39,79888,472,307136,24,8.64,Home,Mortgage,Central,Retired,40.5,Rejected,2023-11-30,
+339,CUST0339,Laura Yates,47,137466,788,205968,12,3.9,Education,Personal,East,Self-Employed,18.0,Approved,2023-08-06,2024-04-03
+340,CUST0340,Daniel Blanchard,23,26081,554,123628,36,6.78,Personal,Business,East,Self-Employed,14.1,Approved,2024-04-26,2024-11-18
+341,CUST0341,Miss Jennifer Johnson,24,103171,597,244036,60,9.76,Debt Consolidation,Mortgage,East,Retired,23.5,Under Review,2024-05-18,
+342,CUST0342,Sarah Davis,34,68223,713,15026,24,5.86,Auto,Personal,Central,Self-Employed,49.4,Approved,2023-01-21,2025-04-12
+343,CUST0343,Jordan Barajas,63,34794,684,464561,36,11.6,Personal,Personal,North,Employed,34.9,Approved,2024-02-10,2024-11-07
+344,CUST0344,Michelle Melton,29,134255,754,204362,12,9.25,Auto,Mortgage,North,Unemployed,29.0,Approved,2023-08-16,2024-04-23
+345,CUST0345,Luis Hughes,48,198451,403,352331,60,6.33,Auto,Student,North,Employed,34.2,Under Review,2023-11-26,
+346,CUST0346,Christian Robinson,28,155479,503,324292,24,11.67,Auto,Auto,West,Unemployed,43.3,Approved,2024-03-16,2025-01-29
+347,CUST0347,Joshua Golden,57,155116,512,365817,48,6.97,Debt Consolidation,Personal,North,Retired,10.1,Approved,2024-07-26,2025-02-07
+348,CUST0348,Kathleen Mathews,27,159140,376,384355,12,13.0,Business,Auto,East,Retired,35.8,Approved,2023-05-23,2024-05-29
+349,CUST0349,Robert Malone Jr.,33,35340,597,193856,36,7.97,Home,Personal,South,Self-Employed,14.6,Under Review,2024-05-11,
+350,CUST0350,Sharon Williams,50,188002,574,465574,12,7.41,Home,Student,West,Retired,23.7,Under Review,2024-09-10,
+351,CUST0351,Alyssa Conrad,46,150369,731,345182,24,4.69,Home,Mortgage,North,Retired,37.8,Rejected,2023-06-07,
+352,CUST0352,David Powell,52,174145,748,100032,60,7.49,Home,Mortgage,West,Retired,24.3,Approved,2023-08-23,2024-06-20
+353,CUST0353,Brett Villegas,29,132815,751,29102,12,6.25,Debt Consolidation,Business,Central,Self-Employed,22.6,Approved,2023-12-10,2024-12-07
+354,CUST0354,David Daniel,64,113683,831,279256,60,4.5,Auto,Student,East,Retired,36.5,Approved,2023-09-17,2024-12-18
+355,CUST0355,Lori Wheeler,57,185671,355,11105,24,8.81,Business,Mortgage,North,Retired,28.8,Under Review,2023-06-07,
+356,CUST0356,Michael Flores,43,97917,351,270776,24,9.28,Auto,Personal,West,Retired,25.1,Rejected,2023-08-08,
+357,CUST0357,John Donaldson,50,48073,810,239392,36,4.75,Debt Consolidation,Personal,North,Retired,29.9,Approved,2024-02-20,2024-06-21
+358,CUST0358,Rebecca Moore,48,34393,300,438014,12,11.81,Debt Consolidation,Auto,Central,Self-Employed,48.5,Rejected,2023-04-30,
+359,CUST0359,Brittany Schneider,51,114352,672,437700,12,12.07,Education,Business,Central,Retired,43.8,Rejected,2023-07-06,
+360,CUST0360,Kathleen Hunter,45,143628,416,56085,24,3.52,Debt Consolidation,Auto,Central,Unemployed,24.2,Rejected,2024-11-01,
+361,CUST0361,Kimberly Schroeder,24,68032,804,78635,48,4.62,Auto,Personal,West,Self-Employed,34.4,Approved,2024-02-14,2025-01-09
+362,CUST0362,Patricia Butler,34,113587,410,401964,48,3.99,Debt Consolidation,Business,North,Retired,35.3,Under Review,2024-02-28,
+363,CUST0363,Jackie Maldonado,59,157172,437,266529,12,9.07,Business,Business,West,Self-Employed,11.9,Rejected,2024-11-17,
+364,CUST0364,Crystal Kennedy,33,58654,406,208112,60,9.86,Business,Student,Central,Self-Employed,22.9,Under Review,2024-03-15,
+365,CUST0365,Nathan Carlson,43,102115,763,426945,24,4.95,Debt Consolidation,Business,East,Unemployed,34.1,Under Review,2024-07-25,
+366,CUST0366,Tammie Johnson,57,190827,522,110323,24,10.05,Education,Mortgage,South,Unemployed,21.6,Rejected,2024-06-06,
+367,CUST0367,Alexandra Kramer,44,172398,791,310558,60,13.4,Debt Consolidation,Business,East,Retired,38.4,Under Review,2024-02-12,
+368,CUST0368,Craig Fletcher,55,52910,325,204685,24,4.06,Education,Mortgage,East,Unemployed,12.3,Approved,2024-11-25,2024-12-11
+369,CUST0369,James Wood,25,102369,508,400100,60,3.84,Home,Business,Central,Self-Employed,42.6,Rejected,2024-02-06,
+370,CUST0370,Mrs. Alyssa Scott,57,126944,543,272870,36,10.78,Business,Student,West,Unemployed,11.9,Rejected,2024-11-21,
+371,CUST0371,Kyle Davis,25,28398,557,111476,60,12.62,Business,Mortgage,East,Self-Employed,44.4,Rejected,2024-03-16,
+372,CUST0372,Justin Jordan,34,102116,759,98022,12,5.46,Personal,Personal,West,Employed,17.0,Approved,2024-11-17,2025-01-03
+373,CUST0373,Sarah Stephenson,49,98167,570,73192,24,9.63,Education,Student,South,Employed,20.2,Approved,2023-07-21,2023-09-05
+374,CUST0374,Yolanda Winters,42,181468,352,410621,60,12.35,Personal,Business,East,Employed,22.0,Rejected,2024-03-25,
+375,CUST0375,Todd Morris,42,162729,525,101400,60,4.22,Business,Business,Central,Retired,30.2,Approved,2024-06-11,2024-08-13
+376,CUST0376,Darlene Harrington,36,80929,639,178574,36,6.58,Personal,Business,West,Employed,48.0,Approved,2023-10-11,2024-02-06
+377,CUST0377,Judy Jones,44,141828,546,479216,60,13.15,Home,Auto,West,Employed,19.8,Under Review,2023-05-16,
+378,CUST0378,Cassandra Harris,56,99141,325,482802,60,12.13,Personal,Student,West,Employed,25.0,Under Review,2023-03-03,
+379,CUST0379,Lee Jackson,63,75465,628,274428,12,13.46,Personal,Business,North,Employed,16.7,Approved,2023-12-04,2024-12-10
+380,CUST0380,Becky Aguilar,62,80882,734,443129,12,5.66,Debt Consolidation,Student,North,Self-Employed,43.1,Approved,2024-03-24,2025-03-05
+381,CUST0381,Tracy Marquez,43,34931,389,43403,12,5.37,Home,Business,South,Unemployed,20.1,Under Review,2024-01-14,
+382,CUST0382,Manuel Holland,50,190207,714,232029,36,3.68,Personal,Personal,Central,Employed,36.9,Under Review,2024-02-07,
+383,CUST0383,Keith Miller,59,36931,374,192537,60,4.61,Education,Business,North,Unemployed,41.5,Rejected,2024-03-27,
+384,CUST0384,Jane Bell,50,124985,704,436028,12,8.48,Auto,Student,Central,Unemployed,31.3,Rejected,2024-08-25,
+385,CUST0385,Patricia Roberson,31,103133,682,10845,60,12.69,Home,Personal,Central,Retired,15.7,Approved,2024-07-04,2024-10-27
+386,CUST0386,Cynthia Wagner,27,104872,515,397322,36,5.72,Personal,Mortgage,South,Self-Employed,46.2,Under Review,2024-11-29,
+387,CUST0387,James Bautista,38,75941,417,100083,60,12.45,Personal,Student,Central,Employed,44.1,Under Review,2024-04-20,
+388,CUST0388,Ronald Daniels,26,90716,400,108503,60,8.62,Auto,Mortgage,North,Unemployed,23.2,Rejected,2024-07-28,
+389,CUST0389,Rebekah Ware,34,108305,797,241268,36,9.97,Personal,Mortgage,Central,Unemployed,22.2,Approved,2023-11-10,2024-01-30
+390,CUST0390,Michael Jones,42,137278,472,7533,36,6.08,Debt Consolidation,Student,East,Unemployed,18.9,Approved,2024-12-05,2025-03-12
+391,CUST0391,Sabrina Robertson,43,150817,773,238495,36,11.64,Home,Mortgage,Central,Employed,29.5,Approved,2024-01-30,2025-05-25
+392,CUST0392,James Perry,39,61700,501,143010,12,11.14,Personal,Personal,Central,Retired,45.7,Rejected,2023-11-02,
+393,CUST0393,Dustin Thomas,35,34609,566,289934,60,8.46,Education,Student,South,Unemployed,41.0,Approved,2024-11-27,2025-03-21
+394,CUST0394,Carolyn Blackwell,54,158801,392,213029,36,8.77,Personal,Mortgage,Central,Self-Employed,36.5,Under Review,2023-05-20,
+395,CUST0395,Lisa Adams,33,173467,449,390833,48,13.36,Business,Mortgage,North,Unemployed,11.6,Under Review,2024-02-10,
+396,CUST0396,Anthony Flynn,24,79204,830,480909,36,7.57,Home,Personal,East,Employed,46.7,Rejected,2023-01-15,
+397,CUST0397,Scott Sanchez,55,191085,580,442713,36,9.58,Business,Student,East,Employed,32.8,Rejected,2024-06-29,
+398,CUST0398,Jerry Peters,46,83431,828,217778,36,12.08,Business,Business,North,Self-Employed,23.8,Approved,2024-12-17,2025-02-22
+399,CUST0399,Mark Chase,50,68412,535,45416,60,10.26,Auto,Mortgage,East,Employed,18.5,Rejected,2023-11-13,
+400,CUST0400,Jean Harris,48,111566,416,257453,48,8.53,Debt Consolidation,Student,North,Self-Employed,33.6,Approved,2024-04-14,2025-01-04
+401,CUST0401,Katrina Flores,58,180280,464,75634,60,3.91,Home,Mortgage,East,Self-Employed,32.9,Rejected,2023-06-11,
+402,CUST0402,Nicholas Flores,47,182117,319,465591,36,13.45,Personal,Student,West,Self-Employed,18.7,Under Review,2023-09-22,
+403,CUST0403,Elizabeth Johnson,48,182506,446,421607,60,12.11,Debt Consolidation,Business,East,Self-Employed,17.3,Rejected,2024-08-26,
+404,CUST0404,Lisa Swanson,43,143874,370,125488,48,7.55,Auto,Business,Central,Retired,14.3,Rejected,2024-07-13,
+405,CUST0405,Daniel Hodge,60,50244,481,254492,60,9.8,Personal,Business,North,Employed,45.1,Under Review,2024-05-23,
+406,CUST0406,Jody Hines,30,183197,301,475270,48,8.98,Home,Business,West,Self-Employed,24.8,Rejected,2023-07-19,
+407,CUST0407,Rodney Garcia,52,124938,658,313830,60,4.53,Business,Mortgage,North,Unemployed,15.4,Approved,2023-04-01,2025-02-11
+408,CUST0408,Brandon Spears MD,56,132124,563,104101,12,10.95,Personal,Business,North,Employed,41.6,Under Review,2023-01-09,
+409,CUST0409,Christopher Blackburn,35,107811,718,194933,12,5.13,Education,Auto,Central,Retired,36.1,Approved,2023-04-13,2025-03-31
+410,CUST0410,Emma Larsen,61,97236,706,400822,24,7.84,Business,Mortgage,East,Retired,41.4,Under Review,2024-03-04,
+411,CUST0411,Kimberly Miller,41,176427,652,410900,48,11.23,Debt Consolidation,Personal,South,Retired,44.2,Rejected,2023-06-21,
+412,CUST0412,Thomas Mccarthy,32,51287,519,271518,48,11.75,Personal,Personal,South,Retired,42.0,Rejected,2024-03-03,
+413,CUST0413,Teresa Bryant,22,48878,448,252290,60,8.07,Auto,Auto,North,Employed,12.6,Rejected,2023-06-18,
+414,CUST0414,Caroline Carter,47,185947,833,155192,60,4.1,Auto,Student,West,Employed,40.9,Under Review,2024-08-13,
+415,CUST0415,Matthew Nelson,64,160830,592,107103,12,11.73,Debt Consolidation,Mortgage,Central,Self-Employed,30.4,Rejected,2023-04-20,
+416,CUST0416,Alexander Sanchez,45,87719,300,87546,12,13.97,Education,Student,West,Self-Employed,41.2,Rejected,2023-08-14,
+417,CUST0417,Gina Brown,26,48636,591,385705,60,13.11,Education,Mortgage,Central,Self-Employed,23.9,Under Review,2023-01-27,
+418,CUST0418,Bailey Davis,47,175708,304,141895,24,7.77,Home,Business,East,Unemployed,14.3,Rejected,2024-09-15,
+419,CUST0419,Felicia Curtis,54,92552,850,431323,60,6.13,Business,Business,West,Self-Employed,27.7,Approved,2023-03-17,2025-05-19
+420,CUST0420,Nicole Perez,43,145284,771,475036,60,12.55,Education,Personal,West,Self-Employed,29.3,Approved,2023-04-29,2024-10-24
+421,CUST0421,Margaret Hunt,65,85274,623,221229,36,8.92,Education,Mortgage,East,Employed,10.4,Approved,2023-04-05,2024-06-26
+422,CUST0422,Robert Davis,43,44930,482,254852,36,7.21,Education,Mortgage,South,Retired,45.8,Rejected,2024-07-21,
+423,CUST0423,Kelly Williams,37,88453,571,113411,24,5.63,Personal,Auto,South,Employed,20.0,Approved,2023-11-16,2024-04-26
+424,CUST0424,Randall Ross,27,198912,804,326822,12,11.52,Home,Student,East,Unemployed,31.7,Approved,2023-03-06,2024-09-13
+425,CUST0425,Maria Haynes,58,97019,802,100877,60,6.44,Personal,Mortgage,North,Retired,18.9,Approved,2024-09-26,2025-04-05
+426,CUST0426,Jamie Lewis,52,166759,333,268441,36,7.63,Auto,Student,North,Retired,37.5,Under Review,2024-08-15,
+427,CUST0427,Joseph Hill,22,28098,515,203929,60,4.56,Education,Mortgage,Central,Unemployed,24.5,Under Review,2023-03-26,
+428,CUST0428,David Kline,52,185716,651,196849,24,8.74,Debt Consolidation,Auto,East,Retired,18.4,Approved,2024-10-31,2025-05-06
+429,CUST0429,Brittney Smith,33,174791,434,306933,24,12.05,Auto,Business,West,Retired,38.8,Approved,2024-10-26,2024-12-19
+430,CUST0430,Andrea Hunter,31,148990,309,97593,48,8.75,Debt Consolidation,Business,Central,Unemployed,49.8,Rejected,2024-07-17,
+431,CUST0431,James Martinez V,41,90791,348,213877,12,10.75,Education,Student,North,Retired,12.4,Rejected,2023-10-21,
+432,CUST0432,Nicole Jones,38,119624,668,298784,60,13.28,Home,Student,North,Unemployed,20.3,Under Review,2023-07-22,
+433,CUST0433,Jose Oliver,60,77155,478,414106,36,7.23,Business,Student,North,Retired,36.9,Rejected,2024-04-25,
+434,CUST0434,Robert Gray,51,190599,448,460217,24,10.23,Business,Business,Central,Retired,47.1,Rejected,2023-09-17,
+435,CUST0435,Melvin Ponce,26,45738,465,185158,24,6.79,Debt Consolidation,Auto,Central,Retired,36.1,Under Review,2024-08-18,
+436,CUST0436,Andrew Benson,50,120201,833,241080,48,5.26,Auto,Mortgage,East,Employed,44.2,Under Review,2023-11-05,
+437,CUST0437,John Simpson,47,52003,397,38445,48,9.26,Business,Business,North,Employed,11.1,Under Review,2023-03-07,
+438,CUST0438,Kevin Robinson,31,47101,699,167199,24,6.1,Debt Consolidation,Mortgage,South,Self-Employed,21.4,Approved,2024-10-12,2024-11-17
+439,CUST0439,Jessica Williams,64,118543,633,458111,48,8.41,Education,Business,West,Self-Employed,44.8,Rejected,2023-02-09,
+440,CUST0440,Kimberly Glover,56,71409,767,335850,60,8.07,Personal,Auto,East,Retired,35.6,Approved,2024-04-20,2025-04-14
+441,CUST0441,William Martin DDS,27,140831,615,196775,48,6.23,Home,Business,South,Unemployed,22.1,Approved,2024-08-13,2024-12-22
+442,CUST0442,John Robinson,56,27180,803,401085,48,6.65,Education,Business,South,Employed,40.6,Rejected,2024-08-16,
+443,CUST0443,Robert Estrada,34,132934,747,211963,24,5.21,Business,Student,South,Unemployed,39.5,Approved,2024-09-04,2024-09-11
+444,CUST0444,Misty Flores,62,87799,829,405838,60,11.98,Education,Business,East,Retired,37.4,Approved,2024-08-04,2025-01-26
+445,CUST0445,Alexis Graham,26,72816,439,156831,12,10.19,Education,Business,West,Self-Employed,34.7,Under Review,2024-04-11,
+446,CUST0446,Rita Delgado,31,38010,847,16602,24,13.71,Auto,Student,North,Self-Employed,21.3,Approved,2024-01-30,2024-06-28
+447,CUST0447,Nicole Holmes,27,64500,315,263777,24,7.09,Business,Auto,West,Employed,22.5,Under Review,2023-09-20,
+448,CUST0448,Michael Ray,31,39690,572,411665,48,4.25,Auto,Auto,West,Employed,28.8,Approved,2024-12-30,2025-01-21
+449,CUST0449,Ruth Neal,37,125872,753,134584,12,5.59,Home,Business,South,Retired,39.4,Approved,2023-03-25,2024-07-14
+450,CUST0450,Michele Gallegos,41,109689,462,334863,12,11.32,Home,Auto,West,Unemployed,32.0,Approved,2024-04-13,2024-08-24
+451,CUST0451,Matthew Peters,25,199770,523,64207,24,10.15,Auto,Auto,Central,Employed,23.0,Under Review,2023-06-08,
+452,CUST0452,Victoria Rice,37,27340,343,309651,48,10.73,Home,Mortgage,South,Retired,16.2,Approved,2024-12-05,2025-01-07
+453,CUST0453,Robert Woods PhD,61,113715,361,36339,36,10.27,Home,Mortgage,West,Self-Employed,38.1,Under Review,2024-09-18,
+454,CUST0454,Nancy Davis,57,193990,655,427327,48,11.2,Business,Auto,South,Unemployed,10.9,Under Review,2024-12-27,
+455,CUST0455,Steven Scott,53,139688,601,289548,48,5.49,Education,Auto,West,Unemployed,17.5,Under Review,2024-05-26,
+456,CUST0456,Ronald Oliver,60,170364,464,41111,60,5.13,Education,Business,East,Retired,21.8,Approved,2024-01-21,2024-02-02
+457,CUST0457,Deanna Alvarez,62,157633,688,389647,24,12.77,Education,Business,South,Unemployed,34.8,Under Review,2023-06-14,
+458,CUST0458,Denise Reyes,64,166284,696,104546,60,10.67,Auto,Business,East,Unemployed,40.6,Under Review,2024-10-26,
+459,CUST0459,Amy Roberts,42,53957,398,279307,12,3.96,Auto,Personal,South,Employed,47.5,Under Review,2024-07-08,
+460,CUST0460,John Holland,28,33340,697,349940,48,9.02,Education,Personal,East,Self-Employed,38.1,Under Review,2024-10-10,
+461,CUST0461,Dr. Mitchell Melton,26,28430,513,348801,48,13.25,Business,Personal,East,Retired,43.3,Rejected,2023-04-07,
+462,CUST0462,Andrea Ramirez,25,186725,572,282359,12,11.21,Home,Mortgage,Central,Employed,43.4,Approved,2023-04-04,2024-08-02
+463,CUST0463,Brandi Jones,36,164371,694,104331,24,9.03,Debt Consolidation,Mortgage,Central,Retired,20.0,Under Review,2023-03-27,
+464,CUST0464,Donna Meyer,62,176142,666,358628,48,10.88,Home,Mortgage,South,Retired,27.1,Approved,2024-09-03,2024-11-27
+465,CUST0465,Alan Jackson,64,66465,846,319528,48,13.3,Personal,Auto,East,Retired,46.1,Rejected,2024-11-15,
+466,CUST0466,Michael Sanchez,49,109790,546,300250,60,5.75,Debt Consolidation,Auto,East,Retired,40.6,Under Review,2024-02-17,
+467,CUST0467,Christopher Lucas,47,25051,335,154150,60,3.67,Education,Personal,East,Self-Employed,15.4,Under Review,2024-10-17,
+468,CUST0468,Natalie Smith,42,30688,582,486879,60,8.87,Personal,Mortgage,North,Employed,32.8,Under Review,2024-11-21,
+469,CUST0469,Yolanda Rice,31,61282,571,197457,60,6.12,Education,Personal,Central,Retired,20.2,Rejected,2024-07-26,
+470,CUST0470,Sandra Moore,35,45237,632,420710,48,5.32,Debt Consolidation,Business,North,Unemployed,43.0,Approved,2023-09-01,2024-08-16
+471,CUST0471,Christina Shepherd,58,125020,380,414008,12,13.18,Business,Student,North,Self-Employed,23.4,Rejected,2023-01-19,
+472,CUST0472,Christina Lee,60,27997,691,33378,36,9.01,Personal,Mortgage,East,Self-Employed,22.8,Approved,2024-02-02,2024-06-16
+473,CUST0473,Kimberly Hall,65,127991,756,399705,60,9.54,Business,Auto,West,Self-Employed,13.6,Approved,2023-06-10,2024-12-19
+474,CUST0474,Gregory Saunders,30,113124,384,254484,60,11.33,Education,Personal,West,Retired,31.9,Rejected,2024-12-06,
+475,CUST0475,Anthony Mitchell,30,60355,792,298232,24,8.62,Auto,Business,Central,Self-Employed,36.1,Approved,2024-11-30,2025-03-19
+476,CUST0476,Derek Ramirez,39,137739,631,363999,60,4.44,Business,Auto,East,Self-Employed,36.9,Approved,2024-01-19,2024-02-29
+477,CUST0477,Angela Gonzalez,60,196811,324,408534,36,5.28,Business,Business,South,Retired,24.0,Approved,2024-04-28,2025-04-11
+478,CUST0478,Sarah Wolfe,36,77346,682,86784,12,4.68,Personal,Mortgage,East,Employed,12.2,Approved,2024-07-10,2025-04-16
+479,CUST0479,Douglas Smith,29,104984,760,252039,12,6.98,Auto,Mortgage,Central,Unemployed,39.6,Approved,2023-07-17,2024-05-28
+480,CUST0480,Robert Lopez,61,62053,318,202450,60,13.01,Education,Mortgage,North,Unemployed,31.1,Under Review,2023-02-20,
+481,CUST0481,Gregory Brennan,61,96114,354,248773,12,4.2,Debt Consolidation,Auto,North,Employed,36.4,Under Review,2024-04-20,
+482,CUST0482,Kim Houston,63,126324,536,204597,60,13.75,Education,Student,Central,Employed,14.0,Approved,2023-04-12,2024-10-07
+483,CUST0483,Jeanne Smith,54,145058,322,25841,24,13.18,Business,Student,South,Employed,22.2,Under Review,2024-04-20,
+484,CUST0484,Steven Barnett,44,118160,609,128839,60,6.4,Education,Student,North,Unemployed,12.5,Approved,2023-11-30,2024-03-05
+485,CUST0485,Ronald Johnson,43,127982,440,51029,48,8.97,Debt Consolidation,Mortgage,West,Self-Employed,37.1,Rejected,2023-12-05,
+486,CUST0486,Michael Newman,49,106889,637,240494,60,4.88,Personal,Business,South,Self-Employed,36.1,Approved,2023-02-26,2025-02-14
+487,CUST0487,William Rich,55,60455,740,481578,24,10.39,Auto,Auto,North,Employed,32.6,Approved,2024-05-14,2024-10-26
+488,CUST0488,Kim Collins,31,32728,626,466442,48,13.59,Debt Consolidation,Auto,South,Self-Employed,22.1,Approved,2024-05-28,2025-01-16
+489,CUST0489,Marvin Leach,33,31867,573,322511,60,9.93,Auto,Personal,East,Employed,33.9,Rejected,2024-02-26,
+490,CUST0490,Michelle Guerra,52,60150,814,448620,60,8.42,Auto,Student,West,Retired,36.0,Approved,2024-04-13,2025-05-30
+491,CUST0491,David Rodriguez,34,84316,333,219218,12,13.22,Auto,Mortgage,South,Employed,48.0,Approved,2024-09-29,2024-11-25
+492,CUST0492,Joseph Cook,50,186758,801,365638,36,12.6,Business,Student,North,Retired,45.5,Rejected,2024-06-06,
+493,CUST0493,Bryan Wells,47,185302,849,280372,12,8.97,Home,Mortgage,Central,Retired,28.1,Approved,2024-04-02,2025-03-02
+494,CUST0494,Karla Shelton,24,171197,696,275599,12,5.49,Education,Auto,West,Self-Employed,27.6,Approved,2024-02-18,2025-02-25
+495,CUST0495,Heather Moore,61,39299,829,478786,24,8.37,Home,Business,North,Self-Employed,35.8,Under Review,2023-06-04,
+496,CUST0496,Eddie Atkinson,56,60469,702,221824,36,8.23,Personal,Mortgage,West,Employed,17.2,Approved,2023-12-21,2025-05-31
+497,CUST0497,Miguel Ayala,38,109954,467,381635,12,4.46,Debt Consolidation,Auto,North,Retired,38.2,Rejected,2024-03-02,
+498,CUST0498,Nathaniel Martin,54,185451,463,203536,60,7.5,Education,Business,South,Self-Employed,40.7,Rejected,2023-02-16,
+499,CUST0499,Crystal Nielsen,33,38450,729,166513,36,11.17,Education,Mortgage,North,Self-Employed,48.4,Rejected,2024-05-28,
+500,CUST0500,Deborah Ramirez,22,188200,559,11400,48,8.73,Home,Business,West,Self-Employed,29.9,Under Review,2023-07-26,

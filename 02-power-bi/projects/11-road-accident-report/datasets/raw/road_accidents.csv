@@ -1,0 +1,1001 @@
+accident_id,accident_date,accident_time,day_of_week,weather_condition,road_type,speed_limit,road_surface,light_condition,number_of_vehicles,number_of_casualties,severity,latitude,longitude,location_district,location_city,accident_reason,police_region
+1,2024-03-29,11:47,Sat,Snow,A-Road,50,Mud,Darkness - Lighting Unknown,4,6,Serious,52.7999,-3.3291,Michaelmouth District,Curtisbury,Vehicle Fault,West Region
+2,2023-08-27,12:01,Sat,Fog,Roundabout,52,Wet,Twilight,5,4,Slight,51.16,-0.1637,Port Danny District,Lake Brittany,Unknown,South Region
+3,2024-06-13,12:53,Mon,Fog,Dual Carriageway,32,Snow,Darkness - No Lighting,3,3,Slight,52.3557,0.587,Kristymouth District,Davidview,Driver Error,West Region
+4,2024-05-15,23:48,Tue,Rain,Roundabout,23,Flood,Daylight,5,4,Slight,50.3324,-1.6716,South Kristyfort District,North Katrinaborough,Speeding,Metropolitan
+5,2024-05-22,10:11,Sun,Hail,Junction,24,Ice,Daylight,2,5,Slight,51.3931,-0.104,South Gregoryfurt District,Zacharyborough,Unknown,West Region
+6,2024-03-13,16:45,Thu,Fog,Roundabout,50,Dry,Twilight,4,2,Serious,50.4238,-4.7631,Christopherchester District,Brettfort,Unknown,South Region
+7,2023-01-06,09:19,Mon,Hail,Motorway,64,Snow,Darkness - Lighting Unknown,2,4,Slight,51.7455,-3.4508,North Melissa District,Jenniferborough,Weather Conditions,East Region
+8,2023-10-16,07:22,Tue,Snow,Motorway,39,Mud,Darkness - Lights Lit,1,3,Serious,55.2867,-0.218,Powellville District,Port Rhondaville,Unknown,Metropolitan
+9,2024-01-01,22:59,Sun,Snow,B-Road,30,Snow,Darkness - Lights Lit,5,5,Slight,55.1711,1.7241,Davidton District,Lindseyville,Driver Error,South Region
+10,2025-06-22,08:34,Tue,Windy,One Way Street,56,Flood,Twilight,5,6,Slight,55.4286,1.7379,New Jenniferfurt District,Johnsonhaven,Pedestrian Error,West Region
+11,2023-05-17,09:12,Fri,Fog,Motorway,52,Ice,Daylight,2,0,Fatal,56.2437,-4.414,Samuelfort District,Port Lisatown,Pedestrian Error,South Region
+12,2024-01-14,12:03,Sun,Rain,Junction,54,Ice,Darkness - No Lighting,2,0,Serious,54.2763,-1.5435,Lake Michaeltown District,Shawbury,Vehicle Fault,East Region
+13,2023-02-14,04:22,Thu,Snow,Junction,23,Snow,Darkness - No Lighting,1,0,Slight,54.4563,-1.5331,Michellebury District,New Thomasburgh,Vehicle Fault,West Region
+14,2024-06-16,00:41,Tue,Snow,Junction,32,Flood,Twilight,2,4,Slight,56.1849,-1.7076,Lewisfort District,North Mary,Vehicle Fault,South Region
+15,2024-07-22,16:34,Tue,Fine,Junction,46,Dry,Darkness - Lights Lit,5,2,Slight,52.2131,-2.8335,Lake Robertside District,New Jason,Road Condition,Metropolitan
+16,2023-07-17,01:04,Sat,Windy,A-Road,65,Wet,Darkness - Lights Lit,1,6,Slight,56.0189,-0.6306,Blackwellmouth District,Martineztown,Driver Error,North Region
+17,2023-01-01,09:41,Wed,Windy,Motorway,63,Wet,Daylight,3,3,Slight,54.6226,0.9763,West Carolmouth District,East Michael,Road Condition,South Region
+18,2024-05-23,10:58,Wed,Snow,Dual Carriageway,24,Dry,Darkness - No Lighting,1,2,Slight,56.2914,-2.5579,East Brendafort District,Joshuaside,Weather Conditions,South Region
+19,2025-03-31,04:17,Thu,Rain,Motorway,27,Dry,Darkness - Lights Lit,5,6,Slight,54.7374,-4.3208,Emmaland District,New Timothy,Pedestrian Error,North Region
+20,2023-05-26,05:00,Fri,Snow,One Way Street,28,Wet,Darkness - Lights Lit,3,4,Slight,56.1861,-0.7435,Flemingtown District,New Haley,Weather Conditions,Metropolitan
+21,2023-06-05,01:03,Tue,Fine,Dual Carriageway,45,Wet,Daylight,3,5,Serious,57.3987,-4.6167,Susanhaven District,Port Jason,Distracted Driving,East Region
+22,2025-04-17,16:57,Thu,Fine,Junction,63,Flood,Darkness - Lighting Unknown,3,1,Slight,51.7244,1.5967,Fordchester District,West Danielle,Pedestrian Error,West Region
+23,2023-04-27,04:09,Wed,Windy,Junction,64,Flood,Daylight,3,6,Slight,56.3954,-3.1473,Kristinhaven District,Brownport,Road Condition,East Region
+24,2023-04-27,23:35,Mon,Fog,One Way Street,48,Flood,Daylight,5,2,Slight,51.1478,1.8377,Bradymouth District,Carolberg,Distracted Driving,North Region
+25,2024-12-15,08:29,Sun,Hail,Roundabout,67,Wet,Darkness - Lighting Unknown,1,3,Slight,52.9148,-4.6308,Charlesstad District,Hunterville,Road Condition,North Region
+26,2024-09-01,16:47,Sat,Fog,Motorway,66,Wet,Darkness - Lights Lit,4,1,Serious,51.1228,-3.6703,New Brandi District,South Davidside,Unknown,West Region
+27,2024-01-05,17:30,Wed,Fog,Dual Carriageway,44,Mud,Twilight,3,2,Slight,57.5026,-1.9821,North Robertville District,Port Jonathan,Weather Conditions,Metropolitan
+28,2023-06-19,20:28,Sat,Hail,B-Road,59,Mud,Twilight,4,3,Serious,56.399,-4.5743,Denisestad District,Sandovalport,Unknown,South Region
+29,2024-10-20,22:33,Mon,Fog,Roundabout,52,Flood,Daylight,3,6,Slight,51.3994,-2.5084,Lake Bonnietown District,Jacksonland,Pedestrian Error,West Region
+30,2025-01-10,20:17,Wed,Snow,Dual Carriageway,61,Flood,Darkness - No Lighting,2,0,Slight,52.2575,1.9093,Johnsontown District,Lauraberg,Vehicle Fault,North Region
+31,2024-01-13,08:25,Wed,Fine,Motorway,21,Dry,Twilight,5,3,Slight,51.5989,1.3362,Port Melissa District,Westhaven,Speeding,East Region
+32,2023-10-31,19:55,Wed,Fog,Dual Carriageway,24,Ice,Darkness - Lighting Unknown,3,0,Fatal,55.3408,-4.6759,Lake Tracy District,Parsonsport,Driver Error,North Region
+33,2024-06-02,18:09,Fri,Windy,One Way Street,39,Ice,Darkness - Lighting Unknown,5,2,Serious,57.0327,-3.0745,Georgeside District,Port Taylormouth,Weather Conditions,Metropolitan
+34,2023-08-08,17:03,Wed,Unknown,A-Road,39,Flood,Darkness - No Lighting,2,0,Slight,52.8501,1.5074,East Caitlinport District,Port Amandafort,Pedestrian Error,West Region
+35,2024-01-23,12:34,Mon,Fog,B-Road,42,Mud,Twilight,2,2,Slight,50.0219,0.1833,New Mary District,Hernandezfort,Road Condition,West Region
+36,2024-01-25,12:14,Tue,Snow,Dual Carriageway,37,Wet,Twilight,4,4,Slight,53.1982,-4.5889,Jessicaton District,Nealfort,Unknown,North Region
+37,2023-06-03,07:29,Fri,Fog,A-Road,37,Ice,Darkness - No Lighting,3,5,Slight,56.5774,-4.261,Samanthaborough District,East Mikeburgh,Drunk Driving,West Region
+38,2025-04-28,02:22,Sun,Rain,Dual Carriageway,49,Wet,Darkness - Lights Lit,3,4,Serious,56.3569,-3.3002,Whitneyberg District,Elizabethville,Unknown,Metropolitan
+39,2024-09-30,15:21,Fri,Rain,A-Road,42,Wet,Darkness - Lighting Unknown,3,2,Serious,51.7392,-1.288,South Eric District,East Destiny,Distracted Driving,East Region
+40,2025-03-19,15:25,Sat,Rain,Dual Carriageway,22,Mud,Daylight,1,4,Slight,51.6105,-2.2265,South Emily District,New Cynthia,Distracted Driving,East Region
+41,2024-12-03,14:43,Sun,Unknown,A-Road,63,Wet,Daylight,1,0,Slight,56.5994,-4.3014,Gabrielleside District,Wrightstad,Driver Error,West Region
+42,2024-03-06,00:48,Thu,Snow,B-Road,44,Mud,Darkness - No Lighting,4,1,Slight,51.116,-0.0977,Lake Darinport District,East Danielshire,Weather Conditions,East Region
+43,2025-05-16,23:42,Wed,Snow,A-Road,49,Dry,Twilight,5,3,Serious,54.0677,-2.5131,Lake Teresaland District,Gonzalezshire,Distracted Driving,West Region
+44,2023-10-22,22:33,Tue,Hail,B-Road,59,Mud,Darkness - No Lighting,4,0,Slight,52.8076,0.2425,West Meredith District,Stevensborough,Weather Conditions,East Region
+45,2023-07-19,19:09,Tue,Hail,One Way Street,39,Snow,Darkness - Lights Lit,4,1,Slight,57.648,1.0049,Benjaminberg District,Vincentberg,Distracted Driving,West Region
+46,2023-09-03,04:01,Wed,Fog,Motorway,55,Wet,Daylight,3,0,Slight,51.3965,-1.119,Jeffreymouth District,Huntchester,Distracted Driving,South Region
+47,2023-06-23,22:22,Fri,Fine,Roundabout,55,Flood,Darkness - Lighting Unknown,2,0,Slight,56.3832,-1.0377,Lake Elizabeth District,Grantchester,Weather Conditions,West Region
+48,2024-08-18,22:50,Thu,Snow,A-Road,28,Flood,Daylight,2,4,Slight,56.0018,-2.5215,Port Tony District,Harryberg,Vehicle Fault,West Region
+49,2023-02-18,02:41,Fri,Windy,B-Road,24,Mud,Daylight,5,0,Serious,50.6025,1.2,West Jose District,Port Gloriaview,Distracted Driving,North Region
+50,2025-05-12,01:24,Fri,Unknown,B-Road,23,Snow,Twilight,3,3,Serious,54.9095,0.4676,West Melanie District,Lake Erichaven,Vehicle Fault,South Region
+51,2023-08-07,17:08,Tue,Rain,Junction,38,Dry,Darkness - Lights Lit,4,3,Slight,54.5266,-2.3505,West Michael District,Gregorybury,Vehicle Fault,West Region
+52,2025-01-07,00:19,Tue,Windy,A-Road,42,Flood,Darkness - Lights Lit,3,6,Slight,52.1343,-4.1212,Davismouth District,Port Jared,Distracted Driving,North Region
+53,2023-09-24,20:25,Wed,Hail,A-Road,68,Ice,Daylight,3,6,Serious,54.9755,-3.8031,East Paulaview District,West Alexville,Pedestrian Error,South Region
+54,2023-03-17,11:26,Fri,Rain,Junction,27,Wet,Darkness - Lighting Unknown,2,2,Slight,55.6392,-1.4984,Brandonport District,Taylorbury,Vehicle Fault,South Region
+55,2023-04-11,21:43,Tue,Rain,Motorway,49,Flood,Darkness - Lights Lit,4,1,Slight,53.144,1.2313,Schroederside District,New Waynefurt,Pedestrian Error,West Region
+56,2025-01-17,15:23,Fri,Hail,One Way Street,21,Flood,Darkness - No Lighting,5,3,Slight,53.6572,-0.9131,South Carla District,East Sheri,Speeding,West Region
+57,2024-03-10,14:50,Tue,Rain,One Way Street,54,Flood,Darkness - No Lighting,4,5,Serious,55.8783,-0.4983,East Walter District,South Teresa,Road Condition,South Region
+58,2023-04-08,10:47,Wed,Snow,A-Road,21,Dry,Twilight,2,4,Slight,56.577,-0.9891,West Kelly District,Port John,Speeding,West Region
+59,2024-11-30,10:57,Thu,Snow,Junction,21,Wet,Darkness - Lighting Unknown,2,4,Slight,51.5137,-0.8853,New Zachary District,New Miguelport,Driver Error,South Region
+60,2023-10-11,12:19,Wed,Rain,B-Road,48,Ice,Twilight,5,6,Serious,54.4413,1.6958,Johnsonport District,Port Terry,Road Condition,West Region
+61,2024-09-07,23:49,Sun,Windy,Roundabout,22,Dry,Darkness - No Lighting,2,3,Slight,56.9743,0.199,Port Grantbury District,Toddchester,Weather Conditions,Metropolitan
+62,2024-04-28,01:33,Fri,Windy,Junction,41,Wet,Darkness - Lights Lit,5,2,Slight,50.219,1.8689,Melindaville District,Carrmouth,Distracted Driving,West Region
+63,2023-01-01,02:55,Sat,Fog,One Way Street,28,Flood,Twilight,3,4,Slight,54.5928,1.5416,North Brandonmouth District,East Mark,Drunk Driving,South Region
+64,2025-05-05,01:34,Sun,Fine,B-Road,29,Mud,Twilight,5,6,Slight,55.5697,-0.4708,New Ashley District,North Mathew,Speeding,Metropolitan
+65,2023-10-21,16:17,Sun,Fog,Motorway,24,Mud,Darkness - No Lighting,3,6,Serious,54.798,-4.0821,Richardville District,North Joshuatown,Speeding,Metropolitan
+66,2023-02-23,01:56,Mon,Rain,B-Road,25,Wet,Twilight,3,4,Slight,55.0985,0.9495,Port Christopher District,Johntown,Driver Error,South Region
+67,2023-08-08,12:41,Mon,Snow,Junction,33,Dry,Twilight,4,2,Slight,55.1475,-3.2386,North Jasmine District,Lancestad,Speeding,South Region
+68,2024-11-09,21:14,Thu,Windy,Dual Carriageway,50,Ice,Darkness - Lighting Unknown,5,2,Serious,53.8296,-4.3288,Brooksshire District,Port Ianfort,Driver Error,North Region
+69,2025-02-13,07:56,Wed,Fog,Motorway,34,Dry,Twilight,3,5,Serious,52.0349,0.8732,Brittanyberg District,Tiffanyhaven,Road Condition,East Region
+70,2025-02-21,18:59,Sun,Fog,A-Road,23,Snow,Darkness - Lighting Unknown,2,3,Serious,52.778,-0.7463,Danielbury District,South James,Weather Conditions,West Region
+71,2024-08-22,03:13,Thu,Unknown,Motorway,32,Wet,Daylight,5,0,Slight,50.0745,0.1187,North Willie District,South Robin,Speeding,West Region
+72,2023-06-25,14:19,Fri,Snow,One Way Street,46,Wet,Twilight,4,0,Slight,56.8514,-2.6464,North Randall District,Tranhaven,Drunk Driving,West Region
+73,2024-08-26,11:34,Mon,Fine,Roundabout,29,Flood,Darkness - Lights Lit,4,5,Serious,53.8248,-1.6111,Andreastad District,Lake Christinashire,Road Condition,North Region
+74,2024-05-18,07:36,Sat,Snow,One Way Street,27,Flood,Darkness - Lighting Unknown,2,5,Serious,57.0123,-3.8619,Lake Deanna District,East Kevin,Distracted Driving,West Region
+75,2023-08-10,12:24,Sun,Fog,B-Road,44,Flood,Daylight,5,2,Fatal,50.7049,-1.1594,Colemanstad District,Mitchelltown,Weather Conditions,North Region
+76,2024-03-15,13:20,Fri,Snow,Junction,22,Flood,Twilight,4,1,Slight,53.3148,-3.7027,Beanmouth District,North Justinchester,Distracted Driving,North Region
+77,2023-04-11,10:04,Fri,Fog,Roundabout,67,Flood,Daylight,3,5,Slight,51.6523,-0.4104,New Kevinfurt District,Rickyfurt,Vehicle Fault,East Region
+78,2025-01-31,10:13,Sun,Fog,Roundabout,53,Dry,Daylight,3,2,Serious,55.4089,-3.828,East Amandaburgh District,Whitakerhaven,Road Condition,West Region
+79,2023-06-22,20:01,Wed,Fine,Motorway,58,Flood,Darkness - Lights Lit,2,1,Slight,57.5192,-2.9241,North Pamelafurt District,Pageborough,Unknown,West Region
+80,2025-01-27,04:32,Mon,Hail,A-Road,44,Wet,Darkness - Lights Lit,4,5,Fatal,57.4906,-3.7982,Port Jamesfort District,Willieland,Distracted Driving,North Region
+81,2025-05-17,15:37,Fri,Snow,B-Road,23,Flood,Darkness - Lights Lit,2,6,Slight,54.5419,1.8288,New Biancafort District,Kathymouth,Weather Conditions,West Region
+82,2025-04-25,20:09,Sat,Windy,B-Road,27,Dry,Darkness - Lighting Unknown,1,3,Slight,56.49,-0.3785,Port Kathryn District,Lake Brittany,Unknown,North Region
+83,2024-09-13,15:44,Fri,Hail,Roundabout,22,Mud,Twilight,5,6,Slight,50.7088,-4.5149,Lake Danielberg District,South Robert,Unknown,Metropolitan
+84,2024-01-25,13:45,Fri,Snow,B-Road,29,Dry,Daylight,5,1,Slight,55.1868,-0.9306,East Christopher District,Port Derek,Driver Error,East Region
+85,2025-05-25,02:21,Fri,Rain,Roundabout,32,Snow,Twilight,1,6,Slight,53.7748,-4.6425,Herrerahaven District,Lopezchester,Weather Conditions,East Region
+86,2023-07-28,06:54,Mon,Unknown,Motorway,70,Flood,Darkness - Lights Lit,3,6,Slight,53.3866,-1.152,Ramireztown District,West Tara,Drunk Driving,North Region
+87,2025-04-14,14:03,Thu,Fog,Dual Carriageway,22,Mud,Darkness - No Lighting,5,3,Serious,57.9364,0.74,Lake Stanleyburgh District,Bishopbury,Vehicle Fault,Metropolitan
+88,2025-05-31,04:30,Sun,Windy,Roundabout,70,Flood,Darkness - Lights Lit,4,4,Serious,55.7231,0.6958,South Evanborough District,North Monicamouth,Speeding,East Region
+89,2024-11-06,19:48,Fri,Hail,B-Road,27,Ice,Darkness - No Lighting,4,0,Serious,53.2778,-0.7199,North Jessicashire District,Lake Rachelport,Unknown,East Region
+90,2024-02-03,01:53,Sat,Windy,Junction,33,Wet,Darkness - Lights Lit,5,6,Slight,51.5784,0.0751,New Mackenzie District,New Anthony,Drunk Driving,West Region
+91,2025-05-08,16:05,Tue,Hail,Motorway,53,Wet,Daylight,3,1,Slight,53.4839,-0.7444,Williamville District,Alejandromouth,Vehicle Fault,Metropolitan
+92,2024-11-16,05:09,Wed,Fine,Roundabout,22,Mud,Darkness - Lights Lit,1,2,Fatal,56.3173,-4.5695,Stevenbury District,South Larryville,Speeding,Metropolitan
+93,2023-10-07,17:21,Mon,Unknown,Dual Carriageway,30,Wet,Darkness - No Lighting,5,1,Slight,50.6161,-0.8589,Chapmanton District,Theresaville,Driver Error,South Region
+94,2023-07-21,18:07,Mon,Rain,Roundabout,30,Mud,Darkness - No Lighting,3,2,Slight,54.1575,-4.5327,East Jamesport District,Port Brittany,Drunk Driving,West Region
+95,2024-05-21,22:19,Sun,Fog,Roundabout,55,Ice,Darkness - Lights Lit,4,4,Slight,54.96,1.7632,East Roystad District,South Sandraside,Driver Error,South Region
+96,2023-12-21,15:26,Wed,Hail,Dual Carriageway,33,Flood,Twilight,5,3,Fatal,57.6217,-2.6411,West Daniel District,West Elizabeth,Distracted Driving,Metropolitan
+97,2024-09-21,23:31,Tue,Fine,Roundabout,22,Wet,Darkness - Lights Lit,2,2,Slight,57.7169,-1.9513,North Joseph District,Fisherport,Vehicle Fault,West Region
+98,2025-04-05,11:41,Thu,Snow,A-Road,66,Ice,Darkness - No Lighting,2,3,Slight,57.2028,-1.4587,Vazquezton District,Kirstenshire,Distracted Driving,North Region
+99,2023-03-10,11:22,Sat,Fog,Junction,66,Ice,Darkness - Lights Lit,1,0,Slight,55.4956,-4.3553,East Sarah District,Glennview,Vehicle Fault,Metropolitan
+100,2023-12-29,18:21,Wed,Snow,A-Road,50,Flood,Darkness - Lighting Unknown,2,0,Slight,55.8503,-2.7886,Osbornebury District,Hallshire,Road Condition,South Region
+101,2023-05-29,09:04,Sun,Snow,A-Road,31,Mud,Twilight,4,5,Slight,55.296,-1.709,Andrewschester District,Ashleyhaven,Pedestrian Error,South Region
+102,2023-01-02,12:49,Sat,Snow,B-Road,33,Wet,Daylight,3,3,Serious,50.204,-3.7736,Ashleyside District,Harrisfort,Road Condition,South Region
+103,2025-01-02,02:33,Mon,Fog,One Way Street,66,Ice,Darkness - No Lighting,4,2,Slight,50.2854,-3.7024,Port Linda District,Lake Carrieburgh,Drunk Driving,West Region
+104,2024-02-15,17:08,Sat,Hail,One Way Street,46,Flood,Daylight,3,4,Slight,51.4946,-4.6582,North Taramouth District,Nicholaschester,Vehicle Fault,North Region
+105,2025-06-19,01:41,Tue,Windy,Dual Carriageway,55,Ice,Daylight,1,2,Fatal,57.6489,1.4053,Alvaradoville District,New Patrick,Speeding,East Region
+106,2024-04-08,17:40,Thu,Unknown,Roundabout,54,Flood,Twilight,5,6,Slight,51.566,-0.2809,North Jason District,Jamesside,Distracted Driving,South Region
+107,2024-04-06,13:09,Sat,Unknown,A-Road,57,Dry,Darkness - Lights Lit,2,4,Slight,54.8582,-2.1366,Robertside District,Paulside,Vehicle Fault,South Region
+108,2023-12-05,09:45,Wed,Windy,Dual Carriageway,66,Flood,Darkness - Lights Lit,3,4,Slight,55.2802,-1.0324,South William District,Lake Carlaview,Unknown,South Region
+109,2025-04-18,01:34,Sat,Snow,Roundabout,21,Dry,Daylight,1,0,Slight,55.1862,-2.1392,Kellymouth District,Mendozaside,Drunk Driving,West Region
+110,2023-11-04,18:18,Thu,Fog,One Way Street,33,Wet,Darkness - No Lighting,4,1,Serious,55.8958,-3.1873,North Kelly District,North Craigmouth,Road Condition,Metropolitan
+111,2023-03-26,08:27,Sun,Snow,Dual Carriageway,32,Snow,Daylight,5,4,Serious,53.3619,1.967,Michaelchester District,North Patricia,Unknown,West Region
+112,2025-05-22,12:38,Sat,Rain,A-Road,34,Dry,Darkness - Lighting Unknown,3,6,Serious,51.1443,-0.1928,West Marychester District,North Joy,Road Condition,South Region
+113,2023-08-13,07:45,Tue,Rain,Motorway,33,Mud,Darkness - Lights Lit,3,2,Slight,52.5616,-1.6354,Jordanstad District,Johnville,Unknown,East Region
+114,2025-01-17,21:31,Sun,Fog,Junction,62,Snow,Darkness - No Lighting,3,1,Slight,57.6585,-1.5488,South Loriport District,South Amber,Weather Conditions,Metropolitan
+115,2024-08-07,06:14,Mon,Snow,Dual Carriageway,65,Flood,Darkness - No Lighting,2,5,Slight,50.071,-3.2595,Harrismouth District,Lindseyside,Pedestrian Error,North Region
+116,2024-09-15,10:28,Thu,Snow,Roundabout,59,Snow,Darkness - No Lighting,1,5,Slight,55.6133,-4.2724,Rossmouth District,Reyesstad,Road Condition,North Region
+117,2024-05-09,17:47,Sat,Unknown,B-Road,57,Dry,Twilight,1,4,Slight,50.2344,-0.5126,New Jacktown District,Jacobmouth,Vehicle Fault,Metropolitan
+118,2024-09-17,04:21,Sun,Fog,Roundabout,30,Dry,Darkness - Lighting Unknown,5,0,Serious,53.1748,-4.1493,Josephmouth District,East Edwin,Pedestrian Error,East Region
+119,2025-03-14,06:48,Wed,Unknown,Motorway,67,Mud,Darkness - Lighting Unknown,3,0,Serious,51.7408,-3.385,North Edward District,Pattontown,Road Condition,Metropolitan
+120,2023-12-25,09:27,Fri,Rain,Motorway,65,Mud,Darkness - No Lighting,4,6,Serious,56.3209,-2.8554,North Sara District,Port Erik,Pedestrian Error,East Region
+121,2024-04-17,11:03,Fri,Rain,Roundabout,47,Snow,Twilight,4,3,Slight,56.3001,1.7375,Jeffreyborough District,Lake John,Speeding,Metropolitan
+122,2023-03-10,02:11,Sat,Hail,Junction,43,Snow,Twilight,3,6,Slight,54.4531,-2.5385,Hunterberg District,Lake Amy,Pedestrian Error,East Region
+123,2024-09-15,18:28,Sun,Hail,One Way Street,44,Wet,Darkness - Lighting Unknown,2,1,Slight,53.9831,-2.8239,Ashleyside District,Mathewshire,Speeding,South Region
+124,2024-09-03,15:45,Sat,Windy,Motorway,35,Wet,Darkness - Lighting Unknown,4,3,Serious,55.633,-1.3723,Patriciamouth District,Marquezhaven,Weather Conditions,Metropolitan
+125,2023-07-23,07:38,Fri,Windy,B-Road,28,Dry,Darkness - No Lighting,5,4,Serious,57.0438,1.23,South Robertview District,Katiechester,Pedestrian Error,West Region
+126,2024-06-22,09:51,Fri,Snow,A-Road,42,Mud,Darkness - Lighting Unknown,4,6,Slight,54.0571,0.8152,New Benjamintown District,Theresaview,Distracted Driving,West Region
+127,2024-10-11,04:56,Sun,Fine,Dual Carriageway,54,Wet,Darkness - Lighting Unknown,2,5,Serious,55.5133,1.2982,Mitchellfort District,Lake Jonland,Weather Conditions,Metropolitan
+128,2025-02-28,02:20,Mon,Rain,Motorway,67,Ice,Darkness - No Lighting,5,2,Slight,55.0416,0.4894,North Lori District,Smallberg,Unknown,North Region
+129,2024-04-06,06:00,Sun,Windy,Junction,28,Mud,Darkness - Lighting Unknown,3,6,Slight,57.1669,0.457,Morenoshire District,New Meghanview,Vehicle Fault,Metropolitan
+130,2023-07-26,04:52,Mon,Fine,Dual Carriageway,65,Flood,Darkness - Lights Lit,4,5,Slight,56.6917,1.3685,West Gregory District,Pattersonchester,Speeding,West Region
+131,2025-01-13,17:35,Tue,Unknown,Roundabout,60,Wet,Darkness - No Lighting,3,0,Slight,53.9282,0.0087,Laurenland District,Port Mirandaside,Road Condition,South Region
+132,2025-04-11,01:35,Sun,Hail,A-Road,54,Snow,Darkness - No Lighting,4,3,Slight,52.0613,-0.1883,New Jennifer District,Smithchester,Driver Error,South Region
+133,2024-05-31,02:25,Mon,Fine,Dual Carriageway,20,Flood,Twilight,2,3,Slight,55.2748,0.7054,Hernandezmouth District,Perezberg,Weather Conditions,East Region
+134,2024-06-07,18:17,Fri,Fog,Roundabout,69,Mud,Darkness - Lighting Unknown,2,0,Serious,54.5057,-2.9165,Jonathanbury District,Lyonsview,Drunk Driving,North Region
+135,2023-07-30,23:50,Fri,Fine,Motorway,34,Snow,Twilight,1,3,Slight,55.8757,1.7119,West Traci District,Ericamouth,Unknown,North Region
+136,2024-07-27,09:44,Sun,Fog,Motorway,60,Flood,Daylight,5,3,Serious,56.0532,-1.5377,Angelicabury District,Thomasberg,Road Condition,South Region
+137,2024-08-25,09:53,Sat,Unknown,Junction,59,Snow,Darkness - No Lighting,2,3,Slight,54.1605,0.2743,Port Carlos District,North Jamesberg,Pedestrian Error,Metropolitan
+138,2025-05-08,13:39,Sat,Snow,Junction,40,Dry,Daylight,2,4,Serious,57.3111,-3.1231,Lake Ashleyfurt District,Lake Ashley,Driver Error,South Region
+139,2024-05-17,10:54,Fri,Windy,A-Road,69,Snow,Twilight,3,4,Serious,55.6077,-4.9586,Port Dominique District,South Kristinefurt,Speeding,Metropolitan
+140,2024-04-24,22:41,Wed,Unknown,Junction,32,Dry,Darkness - Lights Lit,4,1,Slight,50.9038,-2.6391,Marthahaven District,East Isabellamouth,Distracted Driving,Metropolitan
+141,2024-12-06,03:32,Fri,Snow,One Way Street,58,Flood,Twilight,2,1,Slight,52.208,-3.7289,East Pennyburgh District,Cummingsberg,Pedestrian Error,West Region
+142,2024-09-16,18:59,Mon,Fog,Dual Carriageway,44,Ice,Twilight,4,1,Slight,51.3183,-0.5531,Lake Lindsey District,West Eric,Speeding,East Region
+143,2024-05-15,05:55,Sat,Rain,B-Road,47,Mud,Twilight,2,2,Serious,53.2874,-3.4621,Port Lori District,Nicholasmouth,Pedestrian Error,West Region
+144,2024-09-20,02:47,Mon,Windy,Junction,29,Wet,Darkness - No Lighting,2,1,Slight,51.0712,-2.6394,East Zachary District,Phillipsshire,Vehicle Fault,South Region
+145,2023-10-13,06:51,Fri,Hail,Junction,48,Snow,Twilight,3,5,Slight,52.9753,-0.5141,Penningtonview District,South Jessica,Drunk Driving,South Region
+146,2024-12-07,16:33,Thu,Fog,Motorway,50,Snow,Twilight,4,1,Slight,53.5035,1.8963,Phillipville District,Cameronton,Drunk Driving,North Region
+147,2025-04-20,05:12,Fri,Windy,A-Road,26,Flood,Twilight,3,4,Serious,57.4337,-0.7026,West Dianeside District,South Brooke,Vehicle Fault,Metropolitan
+148,2024-10-29,10:49,Sun,Windy,A-Road,48,Wet,Darkness - No Lighting,3,5,Slight,53.8921,-0.5155,New Marissastad District,Lake Janicefort,Vehicle Fault,West Region
+149,2023-09-04,10:33,Sun,Fog,Dual Carriageway,65,Flood,Daylight,1,5,Serious,51.5583,-3.5246,East Timothy District,New Stephaniefurt,Distracted Driving,East Region
+150,2025-04-14,04:31,Fri,Hail,B-Road,70,Ice,Daylight,1,3,Serious,51.1739,0.4304,West Amanda District,Lake Jackville,Weather Conditions,West Region
+151,2024-10-01,05:07,Thu,Windy,Roundabout,46,Mud,Darkness - Lights Lit,5,2,Slight,57.5454,-1.9747,Christinefort District,North Samantha,Drunk Driving,East Region
+152,2025-03-08,15:37,Fri,Fine,Motorway,61,Ice,Darkness - Lights Lit,1,5,Slight,57.5829,-4.2273,Owensmouth District,Robertmouth,Weather Conditions,South Region
+153,2024-11-27,09:33,Sat,Snow,Roundabout,37,Dry,Darkness - Lighting Unknown,1,4,Slight,50.2818,-1.5427,Williamchester District,Carlsontown,Distracted Driving,West Region
+154,2024-12-19,19:19,Mon,Fine,Dual Carriageway,45,Flood,Darkness - Lights Lit,4,4,Slight,54.8668,-1.247,Port John District,Jonesport,Vehicle Fault,Metropolitan
+155,2023-07-11,07:52,Fri,Hail,One Way Street,36,Flood,Twilight,1,2,Slight,53.7716,0.8342,Port George District,Collierchester,Drunk Driving,West Region
+156,2024-05-06,14:15,Sun,Hail,Roundabout,65,Dry,Darkness - Lighting Unknown,1,3,Slight,55.8439,-0.5927,Williamsonhaven District,Lake Robinland,Road Condition,Metropolitan
+157,2023-04-26,03:57,Fri,Rain,One Way Street,21,Mud,Darkness - No Lighting,1,6,Serious,57.4506,0.7825,South Timothy District,West Andrewmouth,Drunk Driving,North Region
+158,2023-05-11,13:59,Mon,Fog,One Way Street,43,Flood,Twilight,4,3,Fatal,51.6097,-0.7132,Kellyhaven District,Cooktown,Drunk Driving,West Region
+159,2024-03-19,11:05,Fri,Hail,One Way Street,44,Dry,Darkness - Lights Lit,5,0,Slight,54.2501,0.8855,West Rodney District,Tiffanybury,Drunk Driving,South Region
+160,2024-01-21,19:11,Sat,Rain,B-Road,60,Flood,Twilight,3,2,Slight,55.8762,-0.999,West Davidhaven District,Thompsonland,Unknown,North Region
+161,2024-01-31,20:54,Thu,Windy,Dual Carriageway,66,Flood,Darkness - No Lighting,2,5,Slight,50.5377,-0.9405,Patriciastad District,South Ricky,Pedestrian Error,Metropolitan
+162,2023-07-24,14:30,Thu,Fine,B-Road,38,Flood,Darkness - Lights Lit,4,2,Serious,51.3424,-2.1141,East Christina District,Jacquelinefort,Unknown,East Region
+163,2023-05-03,22:11,Thu,Windy,Dual Carriageway,39,Snow,Darkness - Lighting Unknown,2,5,Slight,55.2533,-1.8079,New Kimberly District,East Kaitlyn,Pedestrian Error,South Region
+164,2025-01-22,09:30,Tue,Windy,Junction,32,Mud,Darkness - Lights Lit,3,0,Slight,50.3541,1.198,South Kurtfurt District,Newtontown,Pedestrian Error,Metropolitan
+165,2024-10-20,17:47,Wed,Snow,B-Road,36,Dry,Darkness - No Lighting,4,3,Serious,53.625,-1.8637,Taylorton District,Port Jessicaberg,Unknown,Metropolitan
+166,2023-01-23,01:46,Sat,Hail,Motorway,25,Wet,Darkness - Lights Lit,3,4,Serious,51.4578,-1.2699,Nguyenland District,Jodyville,Vehicle Fault,North Region
+167,2025-03-19,21:31,Fri,Rain,Roundabout,47,Dry,Darkness - Lighting Unknown,1,5,Slight,50.9775,-3.9982,Bishopfort District,Port Sarah,Weather Conditions,North Region
+168,2023-10-03,18:08,Sun,Snow,Dual Carriageway,21,Flood,Darkness - No Lighting,3,4,Fatal,57.8942,0.3633,South Donaldton District,North Katrina,Weather Conditions,North Region
+169,2025-01-20,15:16,Thu,Hail,B-Road,29,Snow,Twilight,4,2,Slight,54.3142,1.4453,Theresafort District,West Kevin,Pedestrian Error,Metropolitan
+170,2023-07-10,15:25,Tue,Windy,A-Road,31,Mud,Daylight,3,5,Serious,57.5644,-2.6829,South Reneetown District,East Melindaburgh,Vehicle Fault,East Region
+171,2024-01-05,23:59,Fri,Snow,A-Road,70,Mud,Darkness - Lighting Unknown,1,1,Slight,52.1044,1.0975,Jamesfort District,Angelamouth,Distracted Driving,South Region
+172,2025-05-11,21:54,Tue,Snow,Roundabout,42,Flood,Twilight,1,6,Serious,50.5886,-2.5826,West Charleston District,South Monicaside,Vehicle Fault,North Region
+173,2024-06-08,02:15,Sat,Unknown,Motorway,64,Ice,Daylight,1,5,Slight,50.7633,-4.0135,North Brianberg District,New Susanborough,Speeding,Metropolitan
+174,2024-07-20,07:55,Thu,Fine,One Way Street,46,Wet,Darkness - No Lighting,5,6,Serious,55.1941,1.7606,Cartershire District,Kaylaborough,Drunk Driving,Metropolitan
+175,2024-11-01,02:17,Mon,Unknown,Junction,31,Wet,Darkness - Lighting Unknown,2,6,Slight,50.9205,-0.9172,Emilyton District,Tonystad,Speeding,North Region
+176,2023-07-24,21:30,Mon,Rain,Roundabout,65,Snow,Twilight,2,4,Serious,54.6392,-3.2513,Paulview District,Evansmouth,Weather Conditions,East Region
+177,2023-12-27,21:37,Tue,Windy,One Way Street,55,Wet,Darkness - No Lighting,4,3,Slight,56.3633,1.4431,Popebury District,Ramirezport,Distracted Driving,West Region
+178,2024-06-25,18:00,Thu,Fog,B-Road,33,Dry,Darkness - Lights Lit,3,1,Slight,56.0105,-0.9251,Oliviaton District,South Richard,Driver Error,North Region
+179,2024-06-19,22:39,Sat,Rain,B-Road,29,Wet,Darkness - Lighting Unknown,2,0,Serious,50.7859,1.8507,Port Davidtown District,East Carolside,Road Condition,West Region
+180,2025-01-28,17:37,Sun,Fine,Motorway,65,Mud,Darkness - No Lighting,4,4,Slight,55.2483,1.2693,Williamsmouth District,Lake Matthewberg,Vehicle Fault,Metropolitan
+181,2024-05-19,14:44,Wed,Unknown,Junction,38,Ice,Darkness - Lighting Unknown,2,3,Slight,53.7968,-3.6665,North Ashleyborough District,Whiteshire,Unknown,South Region
+182,2024-06-28,02:10,Thu,Unknown,Junction,56,Mud,Darkness - No Lighting,4,3,Serious,57.7689,0.8288,Port Leslieborough District,Hollandfurt,Vehicle Fault,North Region
+183,2023-05-26,19:20,Sun,Fog,Dual Carriageway,65,Wet,Daylight,1,1,Serious,55.2067,1.7565,Bryantville District,Arielberg,Driver Error,East Region
+184,2024-12-15,23:55,Tue,Windy,A-Road,24,Dry,Darkness - Lighting Unknown,2,5,Slight,55.2295,-1.9869,Jorgeton District,Chelseabury,Speeding,Metropolitan
+185,2025-03-28,17:07,Wed,Rain,A-Road,29,Snow,Darkness - Lighting Unknown,1,6,Slight,52.7956,-0.3959,North Katie District,Smithtown,Speeding,West Region
+186,2025-02-16,14:44,Sat,Snow,One Way Street,68,Ice,Twilight,2,6,Slight,51.9166,-4.5083,East Ryan District,New Gary,Distracted Driving,West Region
+187,2024-06-09,09:54,Sat,Fog,Dual Carriageway,59,Wet,Darkness - Lighting Unknown,3,3,Slight,52.4167,-2.5256,Lake Abigail District,Lake Joann,Unknown,North Region
+188,2025-05-15,11:45,Mon,Fog,A-Road,30,Flood,Darkness - Lights Lit,2,5,Slight,52.2184,-2.0329,Ryanbury District,New Terry,Weather Conditions,West Region
+189,2025-06-01,20:44,Mon,Hail,Dual Carriageway,62,Wet,Darkness - Lights Lit,2,4,Slight,57.4542,1.0349,North Sylviaview District,Terrellchester,Weather Conditions,North Region
+190,2023-10-14,18:50,Sat,Fine,Motorway,50,Ice,Darkness - Lighting Unknown,5,3,Serious,53.7098,-2.3305,Johnsonbury District,South Sydney,Road Condition,East Region
+191,2024-05-08,15:38,Sat,Rain,Dual Carriageway,67,Dry,Twilight,5,4,Slight,57.6093,-1.9503,North Anthonyport District,Ryanhaven,Road Condition,West Region
+192,2025-03-15,17:07,Mon,Snow,Motorway,61,Dry,Darkness - Lights Lit,1,4,Slight,55.5365,0.5311,Lake Samantha District,Whiteberg,Unknown,Metropolitan
+193,2023-11-23,02:11,Sun,Windy,Roundabout,70,Mud,Darkness - Lighting Unknown,5,5,Slight,52.1306,-4.2763,East Stacy District,South Suzanne,Distracted Driving,South Region
+194,2024-08-31,01:35,Wed,Fine,Roundabout,58,Snow,Darkness - Lights Lit,3,5,Slight,50.0329,-4.0606,Wolfeburgh District,Nicolestad,Vehicle Fault,South Region
+195,2024-10-17,08:53,Mon,Windy,Roundabout,22,Mud,Darkness - Lighting Unknown,5,5,Slight,56.6124,0.4106,South Rebeccatown District,West Tiffany,Weather Conditions,West Region
+196,2023-10-17,01:03,Wed,Windy,Motorway,58,Mud,Daylight,4,0,Slight,50.1706,0.1309,Lake Danielside District,Port Emily,Speeding,Metropolitan
+197,2024-03-31,10:05,Thu,Fog,Motorway,68,Snow,Darkness - Lighting Unknown,1,6,Slight,56.9106,0.2035,Rojasshire District,Marcusberg,Unknown,South Region
+198,2024-09-23,06:17,Sat,Snow,One Way Street,48,Wet,Darkness - Lighting Unknown,4,5,Slight,56.6646,0.5711,North Robinberg District,Foxhaven,Driver Error,West Region
+199,2024-06-29,20:00,Tue,Fog,Motorway,31,Flood,Darkness - Lights Lit,5,1,Serious,50.9086,-0.8835,Natashaport District,South Laurie,Distracted Driving,Metropolitan
+200,2024-07-02,23:47,Tue,Hail,B-Road,70,Mud,Darkness - Lighting Unknown,1,4,Fatal,57.5844,0.0373,Carlaberg District,South Noah,Unknown,South Region
+201,2024-03-15,13:15,Fri,Windy,Roundabout,53,Mud,Darkness - Lighting Unknown,3,6,Slight,55.585,0.4313,South James District,Ballardberg,Speeding,West Region
+202,2024-06-02,03:37,Wed,Fine,B-Road,52,Ice,Darkness - Lights Lit,5,4,Slight,51.5409,-1.313,Johntown District,Mitchellview,Weather Conditions,East Region
+203,2025-06-05,07:38,Fri,Rain,Dual Carriageway,47,Snow,Daylight,2,4,Serious,53.4615,-4.8307,New Christopherton District,Lake Kimberly,Speeding,Metropolitan
+204,2023-12-08,14:24,Tue,Snow,A-Road,43,Ice,Darkness - Lights Lit,5,1,Slight,56.724,1.7203,Port Bradley District,Ricefurt,Pedestrian Error,North Region
+205,2024-11-18,18:26,Wed,Hail,Roundabout,63,Dry,Daylight,2,4,Serious,57.9931,-0.6768,Nicoleshire District,East Chad,Weather Conditions,Metropolitan
+206,2023-06-15,20:29,Wed,Windy,Roundabout,29,Mud,Darkness - Lights Lit,1,0,Fatal,55.1713,-4.5538,Brianbury District,Albertfort,Unknown,South Region
+207,2023-11-11,21:36,Sat,Unknown,Junction,58,Snow,Daylight,5,2,Slight,54.6931,-0.0445,New Caroline District,Kimberlyshire,Road Condition,West Region
+208,2023-10-23,06:45,Tue,Unknown,Junction,30,Dry,Daylight,4,6,Serious,51.6731,-3.0704,New Daniel District,West April,Weather Conditions,East Region
+209,2024-07-31,22:38,Thu,Fine,Motorway,60,Ice,Darkness - Lights Lit,3,4,Serious,56.6847,-2.7507,Lake Patriciaton District,Charlesbury,Unknown,West Region
+210,2023-09-23,17:07,Tue,Fine,Motorway,21,Wet,Darkness - Lights Lit,3,6,Slight,52.0636,0.2781,Robertland District,Sheltonview,Weather Conditions,West Region
+211,2023-02-16,16:34,Thu,Windy,A-Road,32,Snow,Twilight,4,5,Slight,57.4702,-1.8934,East Carla District,West Amyton,Speeding,East Region
+212,2024-04-25,08:38,Sun,Hail,Dual Carriageway,60,Dry,Darkness - Lights Lit,3,4,Serious,54.72,-2.7697,Jenniferhaven District,Lake Matthew,Speeding,West Region
+213,2023-04-01,21:32,Sun,Unknown,B-Road,42,Snow,Daylight,4,1,Slight,51.8852,-1.427,East Lori District,Ryanhaven,Drunk Driving,East Region
+214,2023-02-09,05:11,Tue,Rain,Roundabout,46,Flood,Darkness - No Lighting,1,6,Fatal,57.7942,-4.0899,Websterfort District,North Michael,Speeding,South Region
+215,2024-12-19,19:54,Fri,Snow,One Way Street,64,Wet,Darkness - Lights Lit,3,5,Slight,51.126,-2.6186,New Margaretshire District,North Lindsey,Weather Conditions,East Region
+216,2025-06-07,13:03,Tue,Hail,Motorway,28,Dry,Twilight,5,0,Slight,56.7532,-1.2263,New Crystal District,Lebury,Unknown,Metropolitan
+217,2024-08-07,22:46,Mon,Snow,Roundabout,47,Snow,Darkness - Lighting Unknown,3,2,Slight,51.9939,-3.0278,North Billy District,Palmermouth,Unknown,West Region
+218,2023-10-25,09:14,Thu,Snow,Dual Carriageway,23,Ice,Darkness - Lights Lit,4,1,Serious,50.1173,-0.2874,South Shawn District,South Ericaborough,Vehicle Fault,North Region
+219,2024-03-13,12:19,Mon,Rain,Motorway,32,Wet,Twilight,1,6,Slight,51.4175,-2.1472,Port Erika District,South Jesse,Pedestrian Error,East Region
+220,2024-05-08,23:17,Mon,Unknown,Dual Carriageway,52,Flood,Darkness - Lighting Unknown,1,0,Serious,51.5905,-1.7437,Brookeside District,Christinaport,Drunk Driving,South Region
+221,2023-01-28,11:29,Thu,Fine,A-Road,44,Ice,Darkness - No Lighting,4,6,Slight,54.1586,-1.9432,Lake Richard District,Lake Jenniferview,Distracted Driving,West Region
+222,2024-04-02,22:12,Sun,Fog,Dual Carriageway,20,Mud,Darkness - Lighting Unknown,5,5,Slight,51.4084,0.7946,East Nicole District,Patricialand,Vehicle Fault,East Region
+223,2024-05-31,03:14,Fri,Rain,Motorway,24,Snow,Darkness - Lighting Unknown,2,4,Slight,57.145,1.0195,Dominiqueview District,Rodriguezmouth,Weather Conditions,South Region
+224,2023-08-17,13:10,Mon,Fine,B-Road,31,Wet,Daylight,3,5,Serious,50.6847,-2.1111,New Nancy District,East Shawnmouth,Drunk Driving,Metropolitan
+225,2025-06-24,02:22,Sun,Rain,A-Road,51,Snow,Darkness - Lighting Unknown,4,2,Slight,51.7091,0.7694,New Annmouth District,Nathanielburgh,Weather Conditions,South Region
+226,2024-09-19,21:53,Sat,Rain,B-Road,70,Dry,Darkness - Lights Lit,2,2,Slight,54.5165,-1.5742,Sydneyfort District,Dominguezberg,Pedestrian Error,East Region
+227,2024-06-10,08:08,Fri,Fine,Roundabout,28,Dry,Daylight,4,0,Slight,52.3288,-3.4716,Wilsonhaven District,Watkinstown,Driver Error,West Region
+228,2024-12-13,04:50,Thu,Fine,B-Road,47,Mud,Darkness - Lighting Unknown,4,3,Slight,51.816,-3.541,North Manuelburgh District,East Gregoryland,Drunk Driving,North Region
+229,2024-08-19,23:58,Thu,Rain,Junction,43,Wet,Daylight,1,2,Slight,53.9285,-3.6692,Gutierrezborough District,Fullerfort,Road Condition,South Region
+230,2023-04-24,00:36,Tue,Rain,A-Road,62,Mud,Darkness - No Lighting,3,6,Serious,53.8646,-1.9518,Williamshire District,Alvarezshire,Unknown,West Region
+231,2025-06-25,22:39,Thu,Windy,Dual Carriageway,66,Flood,Darkness - Lighting Unknown,2,5,Serious,56.6897,1.3684,Port Cherylburgh District,Lake Jordan,Distracted Driving,West Region
+232,2023-03-11,13:30,Sat,Rain,Roundabout,47,Mud,Darkness - Lights Lit,2,3,Slight,56.8463,1.1296,New Sydneystad District,Staceyfort,Unknown,North Region
+233,2023-11-02,11:03,Mon,Hail,One Way Street,34,Mud,Darkness - Lighting Unknown,5,0,Slight,52.8132,-0.2567,Amandaton District,East Julie,Unknown,South Region
+234,2023-11-08,12:31,Sat,Fine,B-Road,28,Snow,Darkness - Lighting Unknown,1,3,Slight,50.2327,-1.8715,East Erikafort District,Port Morgan,Drunk Driving,South Region
+235,2023-08-31,04:18,Sun,Unknown,B-Road,21,Wet,Darkness - Lights Lit,5,2,Serious,54.6365,1.3277,Johnsonburgh District,Willistown,Driver Error,East Region
+236,2025-03-18,08:35,Tue,Fine,A-Road,67,Flood,Daylight,1,2,Slight,55.2499,-2.271,Morenobury District,East Alicefort,Road Condition,West Region
+237,2024-11-28,06:37,Tue,Hail,A-Road,38,Ice,Twilight,4,2,Slight,54.5156,0.3937,Dayton District,Katrinachester,Road Condition,East Region
+238,2024-12-05,17:09,Sun,Fine,B-Road,31,Mud,Twilight,1,0,Slight,57.1063,1.886,North Denise District,Evansland,Pedestrian Error,North Region
+239,2023-03-21,06:04,Fri,Rain,B-Road,20,Mud,Twilight,5,3,Slight,56.9662,-3.469,New Justin District,East Ryanborough,Vehicle Fault,East Region
+240,2024-07-01,03:56,Mon,Rain,Dual Carriageway,56,Wet,Daylight,5,4,Fatal,56.874,-1.2848,Staffordstad District,Kellyside,Unknown,South Region
+241,2023-10-29,09:50,Sat,Windy,Junction,58,Flood,Darkness - Lights Lit,5,1,Fatal,56.1873,-3.7714,Mistychester District,South Abigailburgh,Distracted Driving,Metropolitan
+242,2023-07-29,12:11,Thu,Snow,Junction,28,Ice,Darkness - Lights Lit,2,2,Serious,56.5757,0.791,North Sandraborough District,Port Sarahtown,Driver Error,Metropolitan
+243,2023-07-22,01:55,Mon,Fine,A-Road,66,Wet,Daylight,3,1,Serious,57.5195,-0.3812,Franklinborough District,Amyhaven,Pedestrian Error,North Region
+244,2025-06-28,00:43,Sat,Unknown,Motorway,66,Flood,Daylight,4,0,Slight,57.9122,1.2962,Lynchfort District,New Melissa,Unknown,South Region
+245,2024-02-20,09:46,Fri,Snow,A-Road,54,Dry,Daylight,3,2,Fatal,52.0621,0.4985,Williamborough District,Port Joseph,Pedestrian Error,South Region
+246,2023-12-24,10:02,Thu,Fog,A-Road,57,Ice,Twilight,1,0,Slight,54.815,-1.643,New Ashley District,Port Derekstad,Driver Error,East Region
+247,2023-10-04,09:21,Tue,Snow,Dual Carriageway,28,Snow,Darkness - Lights Lit,1,6,Slight,53.6672,1.6236,Vanessahaven District,Lake Roberthaven,Road Condition,North Region
+248,2025-02-13,17:06,Fri,Hail,Roundabout,65,Ice,Twilight,2,1,Serious,52.766,-1.2047,West Benjamin District,Josephmouth,Driver Error,South Region
+249,2025-04-05,21:15,Mon,Rain,One Way Street,25,Snow,Twilight,2,2,Slight,54.2985,-4.8309,Gravesmouth District,South Lisaborough,Speeding,North Region
+250,2023-03-28,18:08,Tue,Snow,Junction,64,Ice,Darkness - Lights Lit,5,1,Slight,52.9704,-2.1113,Chandlerstad District,Tracychester,Unknown,East Region
+251,2025-06-04,06:52,Fri,Windy,A-Road,38,Mud,Darkness - No Lighting,5,6,Slight,56.2478,1.2813,North Calebland District,Kennethtown,Unknown,South Region
+252,2023-12-24,03:52,Thu,Fine,Junction,64,Dry,Twilight,1,6,Slight,54.6797,0.98,Davidville District,Port Jeffreytown,Unknown,West Region
+253,2023-08-15,09:02,Thu,Unknown,One Way Street,65,Wet,Darkness - No Lighting,3,1,Slight,51.6112,-3.4198,West Michaelmouth District,Lake Leslie,Speeding,West Region
+254,2023-04-30,11:19,Tue,Fog,Junction,43,Dry,Daylight,3,3,Slight,54.6672,0.6933,New Benjamin District,Garnerhaven,Vehicle Fault,East Region
+255,2023-06-05,18:06,Sun,Windy,A-Road,26,Snow,Darkness - Lights Lit,1,0,Slight,55.7754,0.1085,South Gregory District,Port Lisashire,Pedestrian Error,South Region
+256,2024-01-06,01:41,Wed,Fine,Junction,51,Dry,Darkness - No Lighting,3,6,Slight,57.4072,1.6356,Taylorhaven District,East Rachaelville,Unknown,Metropolitan
+257,2023-05-02,15:14,Thu,Unknown,Junction,37,Snow,Darkness - Lighting Unknown,2,4,Slight,56.4219,1.1377,Cummingsstad District,Lake Travis,Pedestrian Error,Metropolitan
+258,2023-03-31,21:24,Thu,Fine,A-Road,21,Wet,Darkness - Lighting Unknown,5,3,Slight,52.5397,-2.1155,Mcphersonfort District,Lake Roberthaven,Drunk Driving,South Region
+259,2024-06-28,23:06,Thu,Hail,Motorway,29,Ice,Twilight,4,4,Serious,57.5571,-3.2333,North Josephhaven District,Tabithastad,Pedestrian Error,West Region
+260,2023-03-17,19:06,Wed,Fog,Roundabout,29,Dry,Daylight,2,6,Slight,53.9902,-2.9172,Lake Eileen District,Nicholaston,Distracted Driving,East Region
+261,2023-12-29,10:38,Tue,Windy,B-Road,67,Dry,Daylight,1,6,Slight,53.3137,-1.1115,Davisland District,Robertburgh,Distracted Driving,East Region
+262,2024-02-11,05:40,Wed,Unknown,A-Road,40,Dry,Daylight,4,3,Slight,51.1625,-1.6021,Lake Renee District,South Louis,Vehicle Fault,South Region
+263,2025-06-08,10:39,Sat,Rain,Motorway,70,Ice,Daylight,1,3,Slight,50.6021,-1.2908,Port Johnhaven District,Crawfordmouth,Pedestrian Error,South Region
+264,2023-10-19,03:04,Thu,Fine,Junction,54,Wet,Darkness - No Lighting,5,1,Slight,54.6484,-4.4598,Lake Ethan District,North Megan,Vehicle Fault,North Region
+265,2024-12-31,02:52,Mon,Rain,B-Road,31,Snow,Darkness - No Lighting,4,6,Slight,53.1669,-0.5538,West Brittany District,Joannamouth,Pedestrian Error,Metropolitan
+266,2025-03-21,10:17,Mon,Hail,Junction,67,Snow,Daylight,5,4,Slight,55.7896,0.4325,Alexisfort District,South Johnmouth,Speeding,Metropolitan
+267,2023-02-08,16:05,Mon,Fine,One Way Street,62,Snow,Daylight,5,2,Slight,55.4116,1.736,West Sherri District,West Ryanville,Vehicle Fault,North Region
+268,2024-03-04,05:42,Tue,Fine,B-Road,65,Mud,Daylight,2,4,Slight,54.3641,-4.8947,North David District,Mitchellside,Weather Conditions,West Region
+269,2023-12-07,12:28,Fri,Fine,Motorway,23,Ice,Twilight,4,3,Slight,52.5468,-3.2816,Hensleyborough District,Port Kellychester,Driver Error,South Region
+270,2024-05-03,18:11,Sat,Unknown,Motorway,32,Ice,Daylight,5,6,Serious,57.2433,-4.9291,Thompsonchester District,Jessicaland,Road Condition,North Region
+271,2025-05-12,16:53,Sat,Fog,Dual Carriageway,61,Flood,Darkness - Lighting Unknown,4,1,Slight,57.8519,-3.7307,Jordanfort District,West Anthony,Road Condition,East Region
+272,2025-01-04,12:46,Mon,Windy,One Way Street,40,Ice,Darkness - Lighting Unknown,1,2,Slight,53.1879,0.9673,New Connor District,Mosleyfurt,Pedestrian Error,East Region
+273,2024-10-23,13:19,Mon,Fine,A-Road,36,Snow,Twilight,5,5,Slight,57.0623,-2.246,East Jamestown District,Josephfurt,Vehicle Fault,North Region
+274,2024-02-21,20:00,Wed,Rain,A-Road,39,Snow,Darkness - Lights Lit,2,4,Slight,55.7278,-4.074,Marcberg District,Coxhaven,Unknown,North Region
+275,2023-11-06,19:24,Tue,Fine,A-Road,37,Flood,Darkness - No Lighting,4,5,Serious,55.488,1.7562,Mccoyville District,New Oliviahaven,Road Condition,West Region
+276,2023-05-20,18:39,Tue,Hail,One Way Street,28,Flood,Daylight,1,4,Slight,56.8501,-0.9891,Jonesbury District,Maddoxville,Weather Conditions,West Region
+277,2023-01-26,14:18,Fri,Fine,Junction,41,Wet,Daylight,5,3,Fatal,53.5128,0.112,West Johnchester District,Lake Zacharychester,Drunk Driving,South Region
+278,2024-10-11,02:38,Fri,Hail,One Way Street,62,Dry,Darkness - Lighting Unknown,3,0,Slight,52.1333,-1.2373,South Terrence District,Palmerbury,Road Condition,East Region
+279,2025-01-02,20:19,Fri,Fine,One Way Street,43,Mud,Darkness - No Lighting,5,5,Slight,51.8352,-2.3908,Perkinsland District,East Katelyn,Road Condition,North Region
+280,2023-08-01,23:15,Wed,Rain,A-Road,28,Ice,Darkness - Lights Lit,2,4,Slight,53.0701,-4.4476,Nancyside District,Melissatown,Distracted Driving,South Region
+281,2024-11-03,15:26,Thu,Snow,Junction,66,Flood,Daylight,2,5,Slight,53.443,-4.9078,North Christopherview District,Simpsonmouth,Unknown,Metropolitan
+282,2024-12-18,17:36,Wed,Fog,Roundabout,46,Flood,Darkness - Lights Lit,4,3,Slight,50.9283,-0.429,Klinestad District,Lake Jason,Driver Error,South Region
+283,2024-06-13,14:37,Sun,Fine,Dual Carriageway,69,Wet,Darkness - No Lighting,3,0,Serious,50.3842,1.383,Jimenezside District,Port Tammy,Drunk Driving,East Region
+284,2025-03-01,16:05,Sat,Snow,Dual Carriageway,66,Snow,Darkness - Lighting Unknown,4,5,Serious,57.8301,1.054,Kimbury District,New Heather,Speeding,West Region
+285,2023-06-03,19:35,Sun,Fine,Roundabout,67,Flood,Darkness - Lights Lit,5,1,Serious,55.2728,-0.2405,Olsonmouth District,Donaldburgh,Vehicle Fault,North Region
+286,2025-05-20,08:46,Wed,Fine,One Way Street,39,Ice,Twilight,1,4,Slight,55.3085,0.1311,North John District,Port Allison,Road Condition,West Region
+287,2023-11-27,09:17,Sat,Rain,Roundabout,33,Wet,Darkness - No Lighting,1,5,Slight,54.167,-2.8436,South Dwayne District,North Richard,Road Condition,East Region
+288,2024-01-15,21:15,Fri,Fog,Dual Carriageway,48,Flood,Daylight,5,5,Slight,50.5493,-0.5757,Meredithmouth District,South Chadchester,Vehicle Fault,Metropolitan
+289,2024-09-05,11:01,Sat,Rain,B-Road,57,Mud,Darkness - No Lighting,2,5,Slight,51.4884,-4.0723,Jonburgh District,Lake Jessica,Distracted Driving,West Region
+290,2023-09-06,19:11,Fri,Hail,A-Road,23,Wet,Darkness - No Lighting,3,3,Serious,51.0557,-2.2121,West Paulborough District,Millerbury,Driver Error,North Region
+291,2025-06-26,22:32,Mon,Hail,A-Road,31,Ice,Darkness - Lighting Unknown,2,1,Serious,53.4274,-1.007,Candaceview District,Wongport,Weather Conditions,East Region
+292,2023-06-27,16:26,Wed,Rain,Roundabout,25,Dry,Twilight,5,3,Slight,51.7601,-2.5004,Amandafort District,North Jessicashire,Speeding,West Region
+293,2024-10-12,09:40,Thu,Unknown,B-Road,42,Mud,Darkness - Lights Lit,5,3,Slight,56.4987,0.7738,New Timothyville District,South Karenbury,Speeding,East Region
+294,2025-05-29,18:57,Mon,Fine,B-Road,67,Snow,Darkness - Lighting Unknown,5,2,Slight,54.2062,1.0245,Tuckerborough District,Hoganfurt,Vehicle Fault,West Region
+295,2024-05-17,04:32,Fri,Windy,Roundabout,64,Snow,Twilight,3,4,Slight,54.7162,-4.523,Carlamouth District,West Edwardstad,Vehicle Fault,South Region
+296,2024-04-25,08:02,Fri,Rain,Junction,49,Flood,Darkness - Lighting Unknown,1,4,Slight,54.1105,0.4718,Pittsville District,Perrymouth,Driver Error,East Region
+297,2024-04-17,14:59,Wed,Unknown,One Way Street,66,Flood,Daylight,4,4,Slight,53.1862,-3.3966,Sharonview District,Kennethland,Weather Conditions,North Region
+298,2024-04-03,22:25,Sun,Hail,B-Road,42,Dry,Darkness - Lights Lit,5,0,Slight,54.7943,-3.6226,New Kelseyburgh District,New Elizabeth,Weather Conditions,North Region
+299,2024-01-29,00:22,Thu,Unknown,Motorway,41,Flood,Twilight,4,2,Serious,54.3454,-3.6184,Port Carolview District,Christopherstad,Driver Error,Metropolitan
+300,2023-12-23,22:18,Thu,Fog,Motorway,39,Snow,Darkness - No Lighting,1,3,Fatal,52.0557,0.3897,East William District,Calhounton,Driver Error,Metropolitan
+301,2023-09-17,02:33,Sun,Unknown,Motorway,42,Flood,Darkness - No Lighting,3,0,Serious,56.193,1.8725,Nancyberg District,Lake Joel,Road Condition,Metropolitan
+302,2023-10-12,23:13,Sat,Fine,Dual Carriageway,39,Snow,Darkness - Lights Lit,2,1,Slight,56.5499,-2.0838,Kevinmouth District,Stephaniestad,Speeding,West Region
+303,2023-10-11,10:08,Sun,Unknown,One Way Street,58,Flood,Darkness - No Lighting,2,5,Serious,55.6037,-2.3699,Lake Michael District,Nelsonville,Road Condition,West Region
+304,2024-03-19,17:42,Tue,Windy,Junction,52,Mud,Twilight,1,1,Slight,51.7554,-2.5809,Port Tina District,New Gregoryton,Drunk Driving,North Region
+305,2025-06-13,10:26,Thu,Hail,Motorway,50,Wet,Darkness - No Lighting,5,6,Slight,52.7785,-2.3586,Richardsonfurt District,North Steven,Road Condition,East Region
+306,2024-08-29,19:28,Wed,Windy,Roundabout,69,Mud,Daylight,2,2,Slight,54.9919,-4.3682,Jesusberg District,Tracyshire,Unknown,South Region
+307,2023-05-23,07:42,Sun,Snow,Roundabout,40,Ice,Darkness - Lights Lit,1,1,Slight,56.637,-0.7106,East Christine District,New Christopherville,Unknown,East Region
+308,2024-04-03,21:18,Sat,Snow,Junction,54,Ice,Darkness - Lighting Unknown,1,4,Slight,57.9992,-3.3274,Maryfort District,East Patrick,Weather Conditions,North Region
+309,2025-04-07,00:36,Wed,Hail,One Way Street,50,Dry,Twilight,5,0,Slight,55.5478,-4.501,Leahbury District,East Kimmouth,Drunk Driving,East Region
+310,2024-11-11,22:59,Sun,Snow,One Way Street,37,Wet,Twilight,1,3,Serious,57.364,-3.5735,West Wendymouth District,New Haleyview,Pedestrian Error,South Region
+311,2023-06-02,13:36,Mon,Hail,Motorway,70,Flood,Darkness - Lighting Unknown,3,4,Slight,52.5132,-3.2103,Morrismouth District,East Gregorystad,Pedestrian Error,South Region
+312,2024-04-13,22:22,Thu,Fine,Roundabout,54,Wet,Darkness - Lights Lit,5,3,Slight,51.1898,-4.2334,West Ryanville District,South Amanda,Road Condition,North Region
+313,2023-08-09,06:38,Sat,Fog,B-Road,68,Mud,Darkness - No Lighting,2,0,Slight,52.6075,-2.8758,Nancyview District,Martinstad,Unknown,South Region
+314,2023-12-24,02:31,Tue,Snow,Junction,30,Flood,Darkness - Lights Lit,4,6,Serious,52.2599,1.2092,Judybury District,Toddchester,Unknown,South Region
+315,2025-02-18,19:43,Wed,Fine,A-Road,28,Flood,Darkness - No Lighting,1,5,Slight,53.078,-4.8476,East Heather District,East Patrick,Pedestrian Error,West Region
+316,2023-01-29,21:32,Sun,Unknown,B-Road,35,Flood,Darkness - Lights Lit,1,5,Serious,51.0404,-4.8554,North Christophermouth District,Port Craig,Speeding,Metropolitan
+317,2024-03-03,23:38,Wed,Windy,Junction,27,Dry,Twilight,5,2,Slight,53.7556,-2.4126,East Lisa District,East Natalie,Unknown,South Region
+318,2023-09-13,02:17,Mon,Rain,One Way Street,23,Ice,Darkness - No Lighting,2,2,Serious,52.9285,-1.6521,Amandastad District,Lewisbury,Driver Error,North Region
+319,2024-04-16,12:06,Wed,Snow,Motorway,37,Flood,Darkness - No Lighting,4,1,Slight,55.065,-3.4668,East Andrew District,North John,Distracted Driving,West Region
+320,2024-01-06,10:10,Fri,Snow,One Way Street,38,Flood,Twilight,2,0,Slight,53.5183,0.4819,New Ericborough District,West Erin,Vehicle Fault,East Region
+321,2025-01-31,13:54,Fri,Fog,Motorway,43,Flood,Twilight,5,4,Slight,54.765,-3.1137,East John District,Lawrencechester,Drunk Driving,North Region
+322,2023-10-24,11:07,Sun,Snow,Roundabout,52,Flood,Darkness - No Lighting,1,1,Slight,56.0395,-4.349,Tinaberg District,North Natalietown,Drunk Driving,Metropolitan
+323,2023-03-23,13:39,Thu,Fog,Motorway,52,Flood,Darkness - Lights Lit,4,5,Slight,55.4636,0.4008,West Daniel District,Connershire,Pedestrian Error,West Region
+324,2023-06-13,11:38,Fri,Windy,One Way Street,36,Wet,Daylight,4,6,Slight,51.0886,-3.6214,Williamsborough District,West Anthonyburgh,Vehicle Fault,Metropolitan
+325,2024-03-06,06:49,Thu,Snow,Junction,55,Snow,Darkness - Lights Lit,1,4,Serious,50.6164,1.1364,South Curtisborough District,Port Courtney,Driver Error,East Region
+326,2025-03-20,20:40,Wed,Fine,Dual Carriageway,67,Ice,Twilight,1,6,Slight,50.0461,1.2742,Starkside District,West Johnview,Pedestrian Error,North Region
+327,2023-03-05,21:21,Fri,Hail,A-Road,31,Flood,Darkness - Lighting Unknown,4,5,Slight,51.9967,0.663,Taraland District,North Katie,Vehicle Fault,Metropolitan
+328,2023-07-20,12:38,Wed,Snow,Junction,26,Dry,Darkness - No Lighting,1,4,Slight,53.9926,0.3095,Jacobsshire District,Lake Hollyland,Speeding,East Region
+329,2024-10-12,17:57,Mon,Fine,Roundabout,58,Dry,Darkness - Lighting Unknown,5,4,Serious,50.583,-3.6833,Robertberg District,Lake Stephanie,Vehicle Fault,Metropolitan
+330,2024-06-03,03:00,Tue,Windy,Roundabout,42,Flood,Darkness - Lights Lit,5,3,Serious,50.5121,0.0766,Moralesburgh District,North Robin,Vehicle Fault,North Region
+331,2024-03-28,02:37,Wed,Unknown,Junction,42,Dry,Daylight,4,6,Fatal,52.3037,1.3442,South Gina District,New Jacquelinefurt,Driver Error,Metropolitan
+332,2023-03-18,05:11,Mon,Hail,Dual Carriageway,36,Ice,Twilight,3,4,Serious,55.8499,-0.2482,Laurabury District,Port Ericmouth,Speeding,West Region
+333,2024-01-20,22:43,Tue,Snow,Motorway,26,Snow,Darkness - No Lighting,1,2,Serious,51.8474,0.8477,Webstershire District,Carrberg,Pedestrian Error,East Region
+334,2023-06-03,04:09,Fri,Rain,A-Road,38,Ice,Darkness - Lighting Unknown,2,6,Slight,57.4568,-2.3074,Lake Jamesbury District,Hendersonmouth,Vehicle Fault,South Region
+335,2025-02-20,01:51,Mon,Unknown,One Way Street,64,Wet,Darkness - Lights Lit,2,6,Slight,56.4537,0.3929,North Oscar District,Williamsmouth,Speeding,South Region
+336,2024-05-27,09:02,Sat,Unknown,Motorway,43,Flood,Twilight,1,5,Slight,57.4101,-3.4626,New Jillville District,Maryberg,Drunk Driving,Metropolitan
+337,2024-08-04,14:49,Fri,Fine,One Way Street,56,Ice,Darkness - Lights Lit,5,3,Slight,50.2817,-1.3559,Coryfurt District,South Shawnmouth,Weather Conditions,West Region
+338,2023-01-06,11:46,Thu,Unknown,Motorway,28,Mud,Darkness - Lighting Unknown,3,0,Serious,53.3494,-0.6701,Brownfurt District,Lake Heather,Weather Conditions,East Region
+339,2023-12-04,18:05,Tue,Rain,A-Road,32,Wet,Darkness - No Lighting,3,5,Slight,55.4607,-1.0384,Mitchellburgh District,Markport,Pedestrian Error,South Region
+340,2025-04-25,06:33,Sun,Rain,A-Road,26,Mud,Darkness - No Lighting,3,0,Fatal,53.1607,-3.2418,Hodgeview District,Port Danielmouth,Weather Conditions,South Region
+341,2023-07-04,16:01,Wed,Snow,One Way Street,48,Ice,Twilight,3,3,Fatal,50.9541,0.2148,Robertmouth District,Lake Emma,Road Condition,South Region
+342,2024-02-26,04:09,Mon,Rain,One Way Street,41,Snow,Darkness - Lights Lit,3,2,Slight,56.7123,-2.9948,Lake Sean District,New Davidfort,Pedestrian Error,South Region
+343,2023-07-31,11:04,Mon,Fine,Motorway,58,Ice,Darkness - Lights Lit,5,3,Fatal,53.8538,-4.4663,Aaronfurt District,Allentown,Speeding,North Region
+344,2024-01-21,11:35,Sun,Snow,A-Road,27,Snow,Twilight,3,2,Serious,57.1314,-1.329,East Mistybury District,East Amandaville,Speeding,South Region
+345,2024-12-07,18:18,Mon,Snow,Motorway,62,Snow,Twilight,3,1,Slight,52.739,-4.7083,Robertsmouth District,Alexandraside,Unknown,East Region
+346,2023-11-25,19:20,Fri,Fog,Motorway,33,Ice,Twilight,1,3,Serious,57.8575,0.5198,Meghanfurt District,Masonport,Distracted Driving,South Region
+347,2025-01-01,02:57,Thu,Fine,Roundabout,69,Snow,Daylight,5,2,Serious,54.3177,0.8473,South Jeremymouth District,Barnesshire,Weather Conditions,East Region
+348,2024-03-27,07:20,Fri,Windy,One Way Street,47,Wet,Darkness - Lights Lit,4,1,Slight,57.1269,-2.4207,Port Mercedes District,Lake Kristenborough,Pedestrian Error,North Region
+349,2023-02-24,18:34,Fri,Rain,A-Road,53,Snow,Daylight,5,5,Slight,52.0393,-1.4855,Ericamouth District,Michaelfort,Unknown,Metropolitan
+350,2024-10-30,07:12,Mon,Fine,One Way Street,50,Flood,Darkness - Lights Lit,1,4,Slight,54.1789,1.8641,New Thomasport District,Jacksonborough,Road Condition,West Region
+351,2024-10-11,02:05,Sun,Fine,Dual Carriageway,32,Flood,Darkness - No Lighting,5,5,Serious,50.015,-2.1263,Port Davidstad District,North Jeffrey,Road Condition,Metropolitan
+352,2023-09-24,15:04,Thu,Fine,One Way Street,51,Ice,Daylight,1,6,Serious,55.1894,-2.0047,Rodneyville District,Martinezchester,Driver Error,South Region
+353,2023-06-15,15:04,Thu,Fog,B-Road,35,Ice,Darkness - Lights Lit,4,5,Serious,51.1519,1.4266,East Amandaborough District,Jacksonberg,Vehicle Fault,South Region
+354,2023-08-05,12:44,Mon,Snow,One Way Street,69,Ice,Twilight,2,6,Serious,51.0969,-2.8327,Cisnerosshire District,Castillohaven,Unknown,West Region
+355,2025-05-21,14:27,Wed,Hail,Dual Carriageway,25,Mud,Darkness - Lighting Unknown,5,3,Slight,51.1178,-3.7735,Stevenfurt District,Palmerstad,Drunk Driving,South Region
+356,2025-03-21,18:30,Thu,Rain,Junction,31,Mud,Darkness - Lighting Unknown,4,6,Serious,54.5255,-1.9624,Leonardside District,North Angela,Drunk Driving,East Region
+357,2024-09-21,22:03,Sun,Windy,B-Road,45,Dry,Twilight,5,2,Serious,57.3425,-2.48,Grahamstad District,Rhondaview,Drunk Driving,South Region
+358,2025-06-19,13:05,Fri,Unknown,Roundabout,44,Snow,Darkness - Lighting Unknown,4,2,Slight,57.1407,-2.2538,Russellview District,Daniellemouth,Driver Error,South Region
+359,2025-03-21,07:51,Fri,Windy,A-Road,54,Snow,Twilight,4,4,Slight,54.2827,1.115,Clarkland District,West Christopher,Drunk Driving,West Region
+360,2023-08-28,18:48,Wed,Windy,B-Road,34,Ice,Darkness - Lighting Unknown,5,4,Slight,50.7819,-2.6317,Robertsmouth District,Lake Zacharyburgh,Driver Error,Metropolitan
+361,2024-02-22,20:47,Fri,Fog,A-Road,61,Ice,Daylight,3,2,Slight,54.8534,-0.6283,Greeneberg District,Bakerfort,Pedestrian Error,North Region
+362,2024-06-07,13:04,Sat,Unknown,B-Road,49,Ice,Darkness - Lights Lit,4,3,Slight,57.3759,-4.0228,East Jenniferhaven District,Lake Rachel,Road Condition,West Region
+363,2025-03-05,23:18,Tue,Hail,Motorway,57,Mud,Darkness - Lighting Unknown,2,5,Slight,55.4391,1.9317,South Barry District,East Yvonneside,Weather Conditions,Metropolitan
+364,2023-06-24,00:11,Mon,Rain,A-Road,43,Snow,Darkness - Lighting Unknown,3,1,Slight,57.2533,-3.7362,Port Justin District,East Adamfurt,Unknown,West Region
+365,2024-07-12,13:43,Wed,Unknown,A-Road,64,Ice,Darkness - No Lighting,2,6,Serious,50.4118,-2.0542,Ericborough District,Port Jamesview,Distracted Driving,Metropolitan
+366,2024-04-08,10:35,Fri,Rain,A-Road,47,Wet,Twilight,2,0,Slight,50.1755,1.4415,Johnsonchester District,South Emily,Distracted Driving,Metropolitan
+367,2023-07-27,01:19,Wed,Hail,B-Road,67,Ice,Darkness - Lights Lit,4,1,Slight,57.1209,1.3625,Port Curtis District,East Michaelland,Speeding,North Region
+368,2023-06-28,02:00,Thu,Fine,One Way Street,52,Ice,Darkness - No Lighting,4,3,Slight,57.4538,-0.4048,Fordmouth District,Richardstad,Unknown,North Region
+369,2024-03-29,06:33,Tue,Fine,A-Road,33,Flood,Twilight,4,2,Slight,51.4928,-2.1207,New Sarah District,Port Adriennetown,Drunk Driving,Metropolitan
+370,2024-04-28,15:46,Sun,Unknown,Roundabout,47,Ice,Darkness - No Lighting,2,3,Slight,52.7354,-1.39,Herreramouth District,New Robert,Drunk Driving,North Region
+371,2023-12-05,13:47,Wed,Windy,B-Road,26,Snow,Daylight,1,2,Slight,54.7568,-2.9023,Sierrastad District,Jacksonmouth,Unknown,Metropolitan
+372,2023-01-30,11:32,Sun,Fog,Dual Carriageway,38,Wet,Darkness - Lighting Unknown,1,6,Slight,57.7513,-2.4598,Michaelhaven District,Port Kennethchester,Drunk Driving,West Region
+373,2023-03-08,00:55,Thu,Snow,B-Road,53,Mud,Daylight,1,6,Slight,54.756,0.4791,South Gina District,Lorishire,Distracted Driving,East Region
+374,2024-03-17,15:36,Fri,Snow,Dual Carriageway,37,Wet,Darkness - Lights Lit,5,4,Fatal,57.214,-4.5582,Jameshaven District,Perkinsfort,Drunk Driving,West Region
+375,2023-02-19,13:34,Fri,Hail,Dual Carriageway,55,Ice,Darkness - Lights Lit,4,6,Slight,54.2974,-1.6429,Pottschester District,West Davidton,Unknown,East Region
+376,2024-11-10,07:24,Fri,Windy,B-Road,34,Snow,Darkness - Lights Lit,5,5,Serious,57.7741,-3.0301,West Ryan District,Brownland,Driver Error,Metropolitan
+377,2024-11-07,05:17,Sun,Fine,Motorway,24,Snow,Darkness - Lights Lit,4,4,Slight,51.2385,0.5464,Port Robert District,Austinside,Speeding,South Region
+378,2023-08-14,16:16,Mon,Fine,Motorway,40,Dry,Darkness - Lighting Unknown,2,3,Slight,57.3396,-1.2823,Elliottfort District,Bartlettton,Weather Conditions,East Region
+379,2024-01-17,15:20,Thu,Fine,B-Road,63,Ice,Darkness - No Lighting,4,0,Slight,50.3059,1.8921,Parksstad District,Port Julie,Speeding,South Region
+380,2024-07-25,00:59,Sun,Snow,A-Road,37,Flood,Darkness - No Lighting,3,6,Slight,55.2744,-4.5663,Josechester District,West Lisachester,Vehicle Fault,East Region
+381,2023-01-18,16:25,Tue,Fog,B-Road,33,Snow,Twilight,1,2,Slight,52.2975,-0.1911,Lunashire District,Lopezborough,Driver Error,South Region
+382,2025-04-03,12:11,Thu,Hail,A-Road,20,Dry,Darkness - Lighting Unknown,2,0,Slight,52.084,-1.025,Hannahburgh District,Hallberg,Speeding,North Region
+383,2024-10-16,21:09,Sat,Windy,Motorway,22,Mud,Darkness - Lighting Unknown,5,1,Slight,52.0205,0.3898,West Christopherfurt District,Medinafort,Weather Conditions,Metropolitan
+384,2023-11-21,14:42,Tue,Fine,One Way Street,24,Flood,Darkness - Lighting Unknown,3,2,Serious,52.7897,-0.9125,North Jacobchester District,New Meredithville,Vehicle Fault,North Region
+385,2023-11-02,17:57,Mon,Unknown,Dual Carriageway,64,Ice,Darkness - No Lighting,2,6,Serious,57.3326,-3.3363,Lake Janet District,North Kevin,Vehicle Fault,West Region
+386,2023-03-04,13:13,Sun,Windy,Motorway,43,Wet,Darkness - Lights Lit,3,1,Serious,53.4607,-0.9206,West Diane District,West Craigtown,Speeding,West Region
+387,2023-07-28,21:28,Sat,Rain,B-Road,68,Flood,Twilight,3,6,Fatal,50.1283,-0.9888,Howellland District,Brownville,Weather Conditions,East Region
+388,2023-09-03,15:59,Sun,Snow,Junction,67,Dry,Daylight,5,2,Serious,50.1545,-3.9466,Hayesmouth District,Brownfurt,Vehicle Fault,Metropolitan
+389,2023-05-13,12:31,Sat,Snow,Dual Carriageway,48,Dry,Twilight,2,4,Serious,56.2634,-4.2932,Lake Teresa District,North Angelachester,Vehicle Fault,South Region
+390,2024-04-29,20:35,Tue,Fog,One Way Street,22,Snow,Twilight,4,2,Slight,52.0537,-0.7855,Markchester District,Leburgh,Vehicle Fault,West Region
+391,2023-03-08,01:40,Tue,Windy,Motorway,22,Ice,Darkness - Lights Lit,3,1,Fatal,52.6819,-4.1387,South Rachel District,Harrisport,Road Condition,East Region
+392,2023-11-20,09:12,Wed,Fog,Motorway,22,Flood,Twilight,2,1,Slight,57.0733,-2.1986,West Davidville District,Karenshire,Driver Error,West Region
+393,2024-06-21,00:12,Sun,Unknown,Dual Carriageway,41,Snow,Darkness - Lighting Unknown,5,0,Slight,55.5007,1.0349,Sheilaside District,North Tammy,Distracted Driving,West Region
+394,2024-12-19,13:12,Mon,Windy,One Way Street,66,Ice,Darkness - Lighting Unknown,5,0,Slight,54.4065,-1.462,Holmesburgh District,South Stevenfort,Pedestrian Error,Metropolitan
+395,2023-07-30,06:11,Tue,Hail,A-Road,70,Dry,Daylight,1,3,Serious,53.9966,-2.2848,Carrollborough District,East Lauriefort,Pedestrian Error,North Region
+396,2023-02-05,07:01,Mon,Fog,Motorway,25,Mud,Darkness - Lights Lit,2,2,Slight,52.9648,1.3761,New Valerie District,Cruzmouth,Unknown,South Region
+397,2024-01-16,20:00,Thu,Hail,Roundabout,25,Dry,Darkness - Lights Lit,4,3,Serious,51.1477,-2.2044,South Melissa District,Sheashire,Weather Conditions,Metropolitan
+398,2025-05-05,00:18,Sun,Unknown,Roundabout,42,Dry,Darkness - No Lighting,3,5,Slight,56.815,0.6258,Port Julian District,Brandonfort,Drunk Driving,East Region
+399,2024-08-28,05:52,Sun,Snow,Motorway,55,Ice,Darkness - No Lighting,3,2,Slight,51.1683,-4.5773,Lake Jennifer District,Darrylstad,Drunk Driving,South Region
+400,2024-06-08,12:33,Sat,Hail,Junction,55,Mud,Daylight,5,6,Slight,54.6976,0.497,East Teresaborough District,Joneston,Speeding,Metropolitan
+401,2025-03-05,06:34,Sat,Rain,Dual Carriageway,34,Dry,Darkness - Lights Lit,4,0,Slight,56.9842,-4.4996,Chambersville District,Jaimeville,Road Condition,East Region
+402,2023-07-29,17:32,Sat,Unknown,Motorway,52,Dry,Darkness - Lighting Unknown,4,0,Slight,52.9946,-3.0673,East Henry District,Padillaborough,Drunk Driving,West Region
+403,2023-01-10,20:00,Tue,Unknown,Motorway,39,Mud,Daylight,5,3,Slight,52.7883,-4.9906,New Rose District,West Bruce,Drunk Driving,South Region
+404,2023-01-16,00:25,Tue,Fog,Motorway,42,Snow,Daylight,2,1,Slight,53.2926,0.7179,Josephton District,Vincentberg,Road Condition,West Region
+405,2024-05-17,15:27,Fri,Fog,B-Road,46,Dry,Darkness - Lighting Unknown,3,3,Serious,54.257,-0.1692,Kimberlyfurt District,Port Brian,Road Condition,Metropolitan
+406,2025-05-09,13:13,Thu,Snow,Roundabout,33,Flood,Darkness - No Lighting,4,2,Slight,50.4758,-3.6696,New Tracy District,Conniebury,Drunk Driving,Metropolitan
+407,2024-10-14,16:06,Mon,Snow,Junction,51,Mud,Darkness - Lights Lit,2,0,Serious,53.4224,-2.9832,Jessicafurt District,Anthonyville,Vehicle Fault,South Region
+408,2023-04-19,09:37,Mon,Rain,A-Road,54,Wet,Darkness - Lights Lit,4,3,Serious,56.8673,0.137,South Maureen District,Michellebury,Vehicle Fault,Metropolitan
+409,2025-01-07,23:49,Sat,Rain,A-Road,40,Ice,Daylight,1,5,Slight,50.9768,-3.3235,Adamsview District,Haydenton,Pedestrian Error,West Region
+410,2025-01-19,08:31,Fri,Fog,One Way Street,57,Snow,Darkness - Lights Lit,1,0,Slight,56.4829,1.2248,Nelsonfurt District,Thompsonstad,Vehicle Fault,North Region
+411,2025-06-08,15:34,Sun,Unknown,One Way Street,66,Ice,Darkness - Lighting Unknown,2,1,Slight,54.321,-3.9505,Lake Kristen District,Brooksview,Drunk Driving,North Region
+412,2024-09-14,08:26,Mon,Hail,One Way Street,42,Dry,Darkness - No Lighting,3,2,Slight,53.7621,-1.2901,Port Brittany District,Campbellborough,Distracted Driving,North Region
+413,2023-12-30,22:15,Sat,Fog,Motorway,20,Ice,Darkness - Lights Lit,1,2,Serious,54.0317,0.9793,New Gary District,Andrewstad,Distracted Driving,South Region
+414,2023-12-29,08:46,Sun,Snow,One Way Street,66,Snow,Twilight,1,2,Slight,56.8484,-4.506,North William District,Deanland,Speeding,Metropolitan
+415,2024-05-25,07:24,Wed,Fine,A-Road,57,Mud,Darkness - No Lighting,3,2,Slight,51.1385,-2.192,New Brian District,Jesushaven,Weather Conditions,East Region
+416,2024-12-22,02:21,Sun,Fine,Roundabout,70,Snow,Darkness - Lighting Unknown,2,3,Serious,54.4334,-3.3406,Ericberg District,Erikfort,Road Condition,Metropolitan
+417,2023-10-05,14:53,Thu,Windy,Junction,22,Snow,Darkness - No Lighting,5,1,Serious,57.1454,-2.4806,Hollyland District,Karashire,Vehicle Fault,North Region
+418,2023-03-29,00:18,Fri,Rain,Motorway,58,Dry,Darkness - Lights Lit,1,2,Serious,57.9025,0.6251,South Raymond District,Jacksonhaven,Speeding,North Region
+419,2024-06-16,01:39,Fri,Rain,One Way Street,50,Mud,Darkness - Lighting Unknown,2,4,Slight,55.3646,-4.0055,Lake Alexandria District,East Ronaldside,Pedestrian Error,South Region
+420,2023-08-10,15:10,Sat,Rain,Dual Carriageway,62,Flood,Darkness - Lighting Unknown,1,0,Slight,50.326,-2.4457,New Moniquehaven District,West James,Weather Conditions,North Region
+421,2023-01-29,18:05,Sun,Fine,Junction,48,Ice,Darkness - Lighting Unknown,4,4,Serious,56.1719,-1.1972,East Cameron District,Paulamouth,Distracted Driving,North Region
+422,2025-04-05,00:29,Thu,Rain,One Way Street,61,Snow,Darkness - Lighting Unknown,4,3,Slight,56.4854,-3.5398,Christophermouth District,Danielmouth,Pedestrian Error,Metropolitan
+423,2024-02-15,13:31,Fri,Fog,A-Road,65,Snow,Darkness - Lights Lit,1,1,Slight,51.2208,-3.4238,New Jorge District,New Monicaport,Speeding,East Region
+424,2023-07-22,21:53,Thu,Snow,One Way Street,31,Wet,Daylight,3,1,Slight,52.2921,-1.054,Velazquezland District,Carterburgh,Distracted Driving,South Region
+425,2025-02-20,05:58,Wed,Unknown,Motorway,34,Mud,Daylight,3,6,Slight,54.3542,1.683,New Jacksontown District,South Dawn,Vehicle Fault,South Region
+426,2024-09-11,12:46,Sat,Fine,One Way Street,54,Flood,Twilight,5,6,Slight,55.8305,-4.1529,West James District,Lake Andrew,Distracted Driving,West Region
+427,2024-03-30,16:06,Sat,Rain,A-Road,31,Dry,Twilight,1,1,Slight,50.0176,-0.7675,New Allison District,Sarastad,Speeding,East Region
+428,2023-04-22,18:23,Fri,Snow,One Way Street,37,Mud,Darkness - No Lighting,3,2,Slight,57.4703,-4.5457,Jonesview District,Lake Karenmouth,Weather Conditions,South Region
+429,2023-01-09,17:28,Sun,Unknown,B-Road,62,Wet,Darkness - No Lighting,4,2,Slight,55.6091,-2.3023,Hardytown District,Duncanton,Drunk Driving,Metropolitan
+430,2025-03-01,00:18,Mon,Snow,Motorway,45,Wet,Daylight,5,3,Slight,55.4728,-2.2559,North Mark District,Ronniebury,Weather Conditions,Metropolitan
+431,2023-04-09,12:52,Sun,Rain,B-Road,29,Mud,Darkness - Lights Lit,1,3,Slight,51.976,-2.0111,West Mike District,South Alexanderville,Drunk Driving,North Region
+432,2024-12-08,16:28,Tue,Fog,B-Road,52,Flood,Daylight,5,2,Slight,57.2872,0.111,Jasonborough District,West Matthew,Distracted Driving,Metropolitan
+433,2023-12-14,02:45,Mon,Fine,Junction,69,Snow,Darkness - No Lighting,4,5,Slight,50.8579,-2.3384,West Jillfort District,Craneburgh,Road Condition,North Region
+434,2023-06-15,20:46,Sun,Unknown,Motorway,40,Dry,Daylight,5,4,Serious,57.3619,-4.9514,Lydiaside District,Stewartborough,Road Condition,West Region
+435,2023-12-15,16:07,Wed,Fog,A-Road,28,Ice,Darkness - No Lighting,5,4,Serious,51.8657,-4.0197,New Andreachester District,Christinaton,Speeding,West Region
+436,2023-01-22,03:13,Mon,Rain,A-Road,69,Ice,Daylight,2,1,Serious,57.5217,1.6079,Simpsonshire District,Smithborough,Drunk Driving,South Region
+437,2023-01-20,16:04,Sun,Hail,Motorway,65,Dry,Darkness - No Lighting,2,5,Slight,55.0959,-1.1805,Byrdfort District,Christiebury,Distracted Driving,South Region
+438,2025-05-03,23:52,Mon,Fine,Roundabout,34,Wet,Darkness - Lights Lit,3,1,Slight,51.9572,-3.7657,Greenhaven District,Laurenmouth,Vehicle Fault,West Region
+439,2024-09-07,18:47,Tue,Rain,Dual Carriageway,42,Ice,Twilight,4,2,Slight,50.0242,-2.3899,Sarahbury District,Angelafort,Unknown,West Region
+440,2024-01-23,00:54,Sun,Unknown,Dual Carriageway,29,Snow,Daylight,2,3,Slight,53.0122,-1.8053,Scottview District,Richmondside,Speeding,Metropolitan
+441,2023-03-30,03:25,Wed,Fog,One Way Street,27,Mud,Darkness - Lights Lit,1,4,Slight,51.9813,-1.6719,Riveraton District,South Stephenberg,Speeding,North Region
+442,2023-04-02,08:46,Sat,Fine,Motorway,57,Snow,Darkness - Lights Lit,5,2,Slight,57.7727,-4.8066,West Lauren District,Connerville,Driver Error,South Region
+443,2023-12-27,00:28,Sat,Hail,A-Road,70,Wet,Darkness - No Lighting,1,0,Serious,52.2062,-2.7888,Turnermouth District,Connerville,Driver Error,Metropolitan
+444,2024-11-12,11:58,Wed,Windy,Dual Carriageway,55,Mud,Daylight,5,6,Slight,51.1283,-4.8083,Port Luis District,Leeton,Pedestrian Error,South Region
+445,2023-01-25,10:29,Sun,Fog,One Way Street,36,Flood,Daylight,4,2,Slight,50.1413,-2.3175,Valdezfurt District,Millerstad,Pedestrian Error,Metropolitan
+446,2024-05-01,23:08,Tue,Snow,Roundabout,32,Snow,Twilight,5,6,Serious,54.7728,-4.738,Fowlerborough District,Jacksonchester,Pedestrian Error,North Region
+447,2024-12-22,13:28,Fri,Hail,Roundabout,48,Ice,Twilight,1,0,Slight,52.3773,-1.2024,Port David District,Port Kyle,Vehicle Fault,Metropolitan
+448,2023-11-09,08:29,Tue,Windy,Motorway,44,Wet,Daylight,2,0,Slight,50.946,-2.3397,Port Jasonview District,Jonesborough,Drunk Driving,West Region
+449,2025-01-18,11:03,Sun,Snow,B-Road,68,Ice,Daylight,3,0,Fatal,54.3447,-4.0644,Gonzalesburgh District,Vaughnbury,Driver Error,South Region
+450,2024-12-17,17:25,Sat,Fine,Roundabout,25,Flood,Darkness - Lights Lit,1,2,Slight,55.1551,-4.3178,Hallland District,Luketown,Drunk Driving,Metropolitan
+451,2024-10-29,08:58,Mon,Unknown,Dual Carriageway,25,Ice,Darkness - No Lighting,4,5,Slight,57.1599,1.4208,New Mercedestown District,South Melissamouth,Pedestrian Error,West Region
+452,2023-12-24,20:34,Tue,Rain,Junction,70,Mud,Daylight,2,2,Slight,54.0923,-3.2872,North Michaelchester District,Williamsshire,Vehicle Fault,South Region
+453,2024-12-26,16:55,Thu,Fine,B-Road,56,Dry,Darkness - No Lighting,4,2,Slight,51.3347,0.9093,Johnnyburgh District,Port Greggfort,Weather Conditions,South Region
+454,2024-05-01,06:14,Sun,Windy,Dual Carriageway,66,Snow,Darkness - Lights Lit,5,0,Slight,52.1627,0.2935,North Amanda District,Mclaughlinmouth,Unknown,Metropolitan
+455,2023-02-11,12:54,Wed,Unknown,One Way Street,26,Snow,Daylight,2,4,Slight,52.6718,-0.3788,Jenkinshaven District,Jonathanbury,Pedestrian Error,North Region
+456,2024-06-29,19:08,Wed,Windy,A-Road,51,Dry,Daylight,2,0,Serious,51.7339,-3.7816,Tylermouth District,South Ginastad,Distracted Driving,West Region
+457,2023-07-13,16:43,Fri,Rain,One Way Street,61,Mud,Daylight,3,5,Slight,56.4386,-2.2272,Reedberg District,Port Ann,Road Condition,North Region
+458,2025-06-19,04:53,Mon,Hail,B-Road,40,Flood,Darkness - No Lighting,3,0,Slight,51.0076,-2.0293,West Karen District,Christinatown,Road Condition,East Region
+459,2024-10-04,18:51,Tue,Fine,Dual Carriageway,51,Dry,Darkness - No Lighting,3,5,Slight,56.6049,-3.8756,Jodyfort District,South Deborahhaven,Drunk Driving,East Region
+460,2023-08-04,03:41,Fri,Unknown,One Way Street,45,Flood,Daylight,4,4,Fatal,52.535,-3.6422,Perrymouth District,Gilmoreton,Unknown,North Region
+461,2023-11-28,11:18,Tue,Fine,Dual Carriageway,34,Dry,Twilight,1,4,Fatal,57.8179,1.6877,New Ricardomouth District,North Cynthia,Drunk Driving,West Region
+462,2023-09-29,03:19,Tue,Unknown,Motorway,48,Wet,Darkness - Lights Lit,1,0,Slight,54.3485,-4.8145,West Spencerstad District,North Melissabury,Vehicle Fault,South Region
+463,2023-04-07,11:40,Wed,Windy,Roundabout,62,Dry,Darkness - Lighting Unknown,3,3,Slight,55.6963,-2.7611,Crystalmouth District,Tonyahaven,Weather Conditions,West Region
+464,2024-11-05,01:15,Sun,Fog,Junction,22,Wet,Twilight,1,0,Slight,51.1727,-2.2956,Tracyton District,New Christine,Weather Conditions,South Region
+465,2023-03-17,20:49,Wed,Fine,Junction,64,Flood,Darkness - No Lighting,3,6,Serious,51.8419,1.1628,Michelleland District,Lake Davidshire,Vehicle Fault,Metropolitan
+466,2024-06-01,08:55,Fri,Fog,Junction,53,Mud,Twilight,4,6,Slight,53.1308,-0.5443,Port Shannon District,Port Stephaniehaven,Weather Conditions,West Region
+467,2023-10-16,11:17,Tue,Unknown,Motorway,27,Dry,Twilight,5,2,Slight,53.8723,-0.2627,Sanchezport District,Lake Dawnville,Road Condition,Metropolitan
+468,2024-01-06,23:48,Wed,Unknown,B-Road,69,Flood,Twilight,4,4,Slight,53.7098,-4.0205,Tiffanyland District,South Bruce,Distracted Driving,West Region
+469,2023-08-14,05:43,Fri,Unknown,A-Road,52,Mud,Darkness - Lighting Unknown,2,6,Slight,50.8585,0.4993,Lake Jessica District,Walterstown,Vehicle Fault,East Region
+470,2025-01-11,14:31,Sun,Unknown,Roundabout,42,Ice,Darkness - No Lighting,3,4,Serious,57.8971,1.0507,Lake Staceyfurt District,Kyleborough,Road Condition,South Region
+471,2024-02-08,02:18,Fri,Windy,Dual Carriageway,61,Dry,Twilight,3,0,Serious,53.4063,1.2751,Janestad District,West Keithmouth,Vehicle Fault,East Region
+472,2025-06-04,06:31,Sat,Unknown,B-Road,36,Ice,Darkness - No Lighting,4,4,Slight,55.2594,-0.5853,Brookeshire District,Jenniferview,Weather Conditions,West Region
+473,2025-05-19,00:29,Mon,Windy,Roundabout,27,Snow,Darkness - Lighting Unknown,4,0,Slight,53.4381,0.3506,Shermanview District,Calhounmouth,Speeding,South Region
+474,2025-04-21,23:30,Mon,Snow,Roundabout,39,Ice,Darkness - Lights Lit,1,1,Serious,54.9821,-1.5841,Rodriguezshire District,Nancyton,Weather Conditions,East Region
+475,2024-05-04,18:12,Thu,Fog,B-Road,70,Ice,Darkness - Lights Lit,1,2,Fatal,50.603,1.8532,Lake Jonathanport District,Claytonfort,Unknown,South Region
+476,2023-09-07,09:39,Thu,Rain,A-Road,49,Flood,Darkness - Lighting Unknown,3,5,Slight,55.9845,0.9112,Joshuachester District,Port Luis,Drunk Driving,Metropolitan
+477,2024-08-14,06:53,Tue,Unknown,Junction,45,Flood,Darkness - Lighting Unknown,5,5,Slight,51.8576,-4.1481,Wrightstad District,Coopermouth,Speeding,West Region
+478,2024-04-10,03:17,Sun,Hail,Dual Carriageway,26,Dry,Daylight,2,6,Slight,53.8372,-3.1126,Greenport District,Lauraborough,Pedestrian Error,South Region
+479,2023-08-16,04:02,Sun,Unknown,Roundabout,40,Mud,Twilight,5,3,Slight,57.774,-0.9941,New Josephstad District,Amyburgh,Distracted Driving,East Region
+480,2025-02-13,08:26,Sat,Fine,Motorway,36,Flood,Twilight,5,0,Serious,51.1888,-4.5582,Victoriashire District,Lake Gregory,Road Condition,West Region
+481,2025-06-12,19:54,Wed,Rain,Motorway,48,Ice,Daylight,2,5,Slight,50.9058,-2.7412,Chadburgh District,Hernandezland,Driver Error,North Region
+482,2023-10-28,01:03,Sun,Snow,Dual Carriageway,61,Ice,Darkness - Lights Lit,4,5,Slight,54.3694,-2.0928,South Christopher District,South Curtisberg,Drunk Driving,East Region
+483,2024-09-06,13:48,Wed,Snow,Junction,37,Snow,Twilight,5,3,Slight,56.9048,-4.9949,Port Carolynville District,Port Kimberlyburgh,Pedestrian Error,East Region
+484,2025-06-11,02:09,Mon,Fog,A-Road,25,Mud,Darkness - No Lighting,4,5,Slight,50.7433,-3.714,Colonfort District,Elizabethville,Pedestrian Error,South Region
+485,2023-07-29,11:42,Sat,Rain,Junction,36,Wet,Darkness - Lights Lit,3,5,Serious,55.044,-4.0418,North Tiffanyberg District,Crawfordside,Pedestrian Error,North Region
+486,2024-11-28,21:21,Sun,Unknown,A-Road,36,Ice,Darkness - Lights Lit,3,3,Slight,50.3339,-3.5386,Jordanton District,Lake Kathryn,Road Condition,North Region
+487,2023-01-02,13:52,Sun,Fine,One Way Street,49,Flood,Twilight,4,0,Slight,50.1805,0.7685,Port Sarahview District,Kylemouth,Unknown,West Region
+488,2023-05-08,13:29,Mon,Fog,A-Road,54,Wet,Darkness - Lighting Unknown,3,3,Serious,53.7635,-3.1133,Robinsonfurt District,Pierceport,Drunk Driving,East Region
+489,2023-12-22,09:07,Thu,Rain,One Way Street,57,Ice,Darkness - No Lighting,1,5,Slight,51.9766,-1.5281,Shaffermouth District,Jadefort,Road Condition,Metropolitan
+490,2024-10-26,15:38,Fri,Unknown,B-Road,43,Ice,Darkness - Lighting Unknown,1,0,Serious,54.9803,-3.6345,East Justin District,Jonathanhaven,Distracted Driving,East Region
+491,2024-04-01,22:06,Fri,Unknown,Roundabout,23,Flood,Darkness - Lighting Unknown,4,6,Slight,53.7225,-0.9286,South Samantha District,Jackland,Unknown,South Region
+492,2024-05-11,04:17,Sun,Snow,Junction,53,Flood,Darkness - Lights Lit,3,2,Slight,52.3378,-3.9325,Heathbury District,Aliciaburgh,Distracted Driving,East Region
+493,2025-01-17,14:13,Sat,Unknown,Junction,23,Snow,Darkness - Lighting Unknown,4,5,Serious,50.0081,-0.0254,Lake Sarahmouth District,Port Shellyview,Drunk Driving,North Region
+494,2024-07-04,01:03,Mon,Hail,One Way Street,44,Dry,Twilight,3,4,Slight,51.4484,-1.869,New Roy District,New Tiffany,Pedestrian Error,North Region
+495,2023-11-25,05:18,Fri,Hail,Dual Carriageway,48,Flood,Darkness - No Lighting,3,4,Slight,56.8156,-1.9787,Serranomouth District,Wellsville,Vehicle Fault,West Region
+496,2023-02-13,12:21,Tue,Windy,One Way Street,32,Flood,Twilight,3,3,Slight,53.9983,1.484,Maryport District,Sheriton,Weather Conditions,South Region
+497,2024-12-02,02:11,Mon,Unknown,Roundabout,43,Dry,Darkness - No Lighting,4,1,Slight,56.5999,0.769,Bradleyton District,Deborahberg,Road Condition,West Region
+498,2024-11-23,14:45,Wed,Unknown,One Way Street,34,Mud,Twilight,4,3,Fatal,51.2553,-4.9793,East Jay District,West Parker,Speeding,West Region
+499,2023-01-06,23:32,Wed,Fog,Motorway,52,Snow,Darkness - Lighting Unknown,2,0,Slight,51.3893,-1.5845,New Kerriborough District,Jenniferfort,Distracted Driving,North Region
+500,2023-10-25,02:17,Mon,Fine,Dual Carriageway,54,Wet,Darkness - Lighting Unknown,2,0,Slight,57.9304,-1.6961,West Courtneyland District,Mossfurt,Distracted Driving,Metropolitan
+501,2025-03-27,04:02,Tue,Fine,B-Road,31,Flood,Darkness - Lighting Unknown,1,4,Serious,51.5125,-2.9963,Port Rebecca District,Lake Davidhaven,Pedestrian Error,Metropolitan
+502,2023-11-23,23:46,Mon,Snow,Junction,54,Flood,Twilight,2,6,Slight,56.3108,-2.9528,North Jeffreychester District,West Aaronchester,Vehicle Fault,South Region
+503,2024-10-10,13:45,Tue,Fine,Roundabout,56,Mud,Twilight,4,5,Slight,56.5631,-3.6694,West Kathrynchester District,Lopezside,Drunk Driving,East Region
+504,2023-02-24,13:55,Mon,Rain,Junction,38,Dry,Darkness - Lighting Unknown,3,1,Slight,51.5715,0.5159,West Kimberlyport District,Maryton,Road Condition,East Region
+505,2024-07-06,17:09,Tue,Unknown,One Way Street,21,Mud,Darkness - No Lighting,2,6,Slight,51.6566,-1.204,South Brian District,South Michaelville,Driver Error,West Region
+506,2024-03-02,20:53,Sat,Snow,Junction,40,Wet,Darkness - No Lighting,5,6,Slight,51.2718,-0.2751,Port Ronald District,South Dustinmouth,Road Condition,North Region
+507,2024-04-17,08:25,Fri,Fine,Motorway,40,Flood,Daylight,1,3,Slight,57.8518,-3.9738,Stewartfurt District,Johnhaven,Road Condition,West Region
+508,2025-02-28,05:28,Tue,Unknown,One Way Street,30,Ice,Twilight,4,3,Slight,50.6467,-2.1561,East Robertburgh District,Madisonmouth,Vehicle Fault,Metropolitan
+509,2024-06-16,16:35,Thu,Fine,Roundabout,33,Wet,Darkness - Lights Lit,1,3,Slight,51.488,0.5271,Thomasbury District,Tiffanymouth,Pedestrian Error,West Region
+510,2023-02-01,12:04,Tue,Unknown,One Way Street,42,Ice,Darkness - No Lighting,5,4,Slight,52.0528,-3.4467,Holtmouth District,Joshuaview,Weather Conditions,West Region
+511,2024-10-22,13:40,Tue,Hail,One Way Street,49,Flood,Daylight,2,3,Slight,50.4722,-4.573,Joelview District,Port Evanberg,Unknown,North Region
+512,2023-03-11,15:38,Sun,Unknown,A-Road,49,Mud,Twilight,3,5,Serious,52.6103,0.3926,West Anneberg District,Johnsonmouth,Road Condition,Metropolitan
+513,2023-04-20,16:36,Mon,Fine,One Way Street,50,Flood,Daylight,3,6,Slight,50.1038,0.2992,Davisside District,East Elizabeth,Distracted Driving,North Region
+514,2024-05-12,00:22,Wed,Rain,Dual Carriageway,64,Dry,Darkness - Lighting Unknown,4,5,Serious,53.7295,1.6817,Lake Karen District,Port Jacobbury,Weather Conditions,Metropolitan
+515,2023-03-18,22:11,Sun,Hail,Roundabout,68,Snow,Darkness - Lighting Unknown,5,2,Slight,52.3,-3.4865,Rodriguezport District,Ryanmouth,Drunk Driving,East Region
+516,2023-02-16,10:50,Thu,Windy,Motorway,48,Flood,Darkness - Lights Lit,1,3,Slight,55.1619,-4.4097,Davidbury District,East Kelsey,Vehicle Fault,East Region
+517,2024-05-22,09:48,Tue,Snow,A-Road,61,Dry,Twilight,5,0,Serious,56.6505,-4.4999,Medinaport District,Lake Josephland,Unknown,West Region
+518,2023-09-17,15:10,Tue,Unknown,One Way Street,39,Wet,Darkness - Lighting Unknown,5,5,Serious,55.4274,-0.5836,East Caroline District,Samuelton,Pedestrian Error,South Region
+519,2023-04-23,12:28,Wed,Fine,B-Road,39,Ice,Darkness - Lights Lit,2,4,Slight,51.9631,-0.2858,North Mark District,Jenniferchester,Speeding,Metropolitan
+520,2023-05-11,23:51,Wed,Fine,Dual Carriageway,47,Snow,Daylight,2,1,Slight,57.3523,1.2707,Valeriehaven District,West Timothystad,Pedestrian Error,Metropolitan
+521,2023-10-13,03:53,Fri,Windy,A-Road,46,Ice,Darkness - No Lighting,1,3,Slight,53.5144,-3.342,Jamesfort District,Waynemouth,Road Condition,East Region
+522,2023-02-05,19:53,Fri,Snow,Motorway,50,Dry,Daylight,5,3,Slight,54.6994,1.1585,New Caitlinport District,Rayport,Road Condition,North Region
+523,2023-01-17,06:49,Fri,Fog,A-Road,59,Snow,Darkness - No Lighting,1,2,Slight,53.9129,-2.4065,Rebeccaberg District,Tammyville,Unknown,East Region
+524,2023-08-23,23:52,Mon,Rain,A-Road,57,Snow,Twilight,3,0,Slight,50.3292,-2.8751,Yuside District,Kylechester,Drunk Driving,East Region
+525,2023-02-09,07:06,Wed,Snow,Roundabout,46,Dry,Twilight,4,2,Slight,56.3375,-3.119,West Reginaton District,Hullborough,Drunk Driving,North Region
+526,2024-04-29,12:59,Tue,Fine,Roundabout,47,Ice,Darkness - Lighting Unknown,1,0,Serious,52.4569,-0.4236,South Jasonmouth District,North Kyleside,Drunk Driving,South Region
+527,2025-05-23,07:19,Wed,Snow,Junction,59,Mud,Daylight,5,2,Slight,50.6247,-4.4839,Cassiebury District,South Ericside,Weather Conditions,Metropolitan
+528,2024-09-08,21:21,Thu,Rain,Roundabout,54,Flood,Daylight,2,5,Slight,53.8868,-2.3018,Port Matthewhaven District,Port John,Distracted Driving,Metropolitan
+529,2023-03-15,09:11,Thu,Snow,Roundabout,61,Mud,Twilight,5,4,Slight,56.9817,1.1103,Smithmouth District,New Steven,Pedestrian Error,North Region
+530,2024-02-05,10:42,Mon,Fine,Dual Carriageway,26,Snow,Darkness - Lighting Unknown,3,1,Slight,55.8614,0.7941,Patriciashire District,Josephfurt,Distracted Driving,South Region
+531,2025-05-27,15:41,Wed,Windy,A-Road,63,Flood,Darkness - Lights Lit,4,5,Serious,50.236,-3.5838,South Lauraland District,Lake Ginashire,Driver Error,Metropolitan
+532,2023-10-27,14:14,Sat,Unknown,One Way Street,51,Mud,Daylight,1,4,Slight,55.4239,-2.8507,Carolynmouth District,Lake Bruceland,Speeding,South Region
+533,2023-03-17,04:53,Sun,Rain,B-Road,35,Snow,Darkness - Lighting Unknown,3,1,Slight,50.7129,-0.3307,Gregland District,Kathychester,Distracted Driving,Metropolitan
+534,2024-03-14,08:59,Sun,Fine,Motorway,40,Wet,Daylight,5,3,Serious,57.1359,-1.4514,Smithborough District,Smithburgh,Driver Error,North Region
+535,2024-03-31,00:01,Sat,Unknown,Motorway,58,Mud,Darkness - Lighting Unknown,3,0,Serious,53.3694,-4.5148,Port Ginaport District,East Justinchester,Unknown,West Region
+536,2023-05-14,05:33,Wed,Unknown,Junction,40,Wet,Darkness - Lighting Unknown,5,1,Slight,55.2187,-0.6766,Chungberg District,Lewiston,Driver Error,Metropolitan
+537,2025-03-01,00:29,Fri,Fog,B-Road,38,Snow,Darkness - Lights Lit,5,6,Slight,57.8259,-4.4517,New Monicamouth District,Josephberg,Distracted Driving,West Region
+538,2025-01-27,18:09,Sun,Windy,A-Road,51,Mud,Darkness - No Lighting,4,6,Serious,52.212,0.0419,Spencerport District,Cassidyhaven,Drunk Driving,East Region
+539,2025-05-29,08:31,Wed,Snow,A-Road,30,Snow,Darkness - No Lighting,4,3,Serious,51.927,0.3006,East Matthew District,Lake Jeffreyshire,Speeding,East Region
+540,2024-04-14,10:34,Sun,Rain,B-Road,22,Ice,Daylight,5,6,Slight,54.4232,-1.2783,Port Taylorfurt District,Feliciastad,Pedestrian Error,West Region
+541,2024-07-21,00:49,Sat,Rain,A-Road,43,Wet,Twilight,1,0,Serious,52.4222,-1.1522,Jamesmouth District,Lauraview,Drunk Driving,South Region
+542,2023-04-10,19:19,Mon,Unknown,Dual Carriageway,63,Dry,Darkness - Lighting Unknown,2,3,Fatal,53.7544,-2.452,Marcstad District,Ashleyland,Drunk Driving,North Region
+543,2023-07-17,15:43,Wed,Rain,Dual Carriageway,38,Ice,Twilight,4,4,Slight,57.6322,-0.4,Port Heidi District,Michaelview,Driver Error,West Region
+544,2024-04-06,00:58,Tue,Unknown,Dual Carriageway,25,Dry,Daylight,5,6,Slight,52.8223,0.4299,Debrastad District,Lake Reginaldport,Pedestrian Error,East Region
+545,2025-02-28,16:19,Tue,Windy,B-Road,23,Dry,Darkness - Lights Lit,5,2,Fatal,51.8848,-4.5315,Port Erin District,Albertshire,Unknown,South Region
+546,2023-10-04,22:42,Mon,Unknown,Roundabout,46,Wet,Darkness - Lighting Unknown,3,1,Slight,50.9072,-2.5445,Nashberg District,Tapiamouth,Driver Error,North Region
+547,2024-08-12,12:09,Mon,Fine,Junction,65,Flood,Darkness - Lighting Unknown,4,2,Slight,50.5801,-1.1821,Rodriguezmouth District,Penaview,Drunk Driving,East Region
+548,2024-02-29,15:35,Mon,Rain,Junction,50,Dry,Daylight,3,3,Slight,52.9387,-4.3445,Wolfeside District,Robertborough,Speeding,Metropolitan
+549,2025-05-07,22:40,Mon,Rain,Motorway,70,Ice,Darkness - Lighting Unknown,5,0,Slight,57.4596,0.1,Port Jennabury District,Morenoview,Distracted Driving,North Region
+550,2023-10-20,22:55,Wed,Fog,Motorway,39,Snow,Darkness - No Lighting,5,1,Slight,54.7212,-2.7055,New Ryan District,Kathleenberg,Driver Error,North Region
+551,2024-01-10,14:42,Sat,Fine,Roundabout,44,Snow,Daylight,5,4,Slight,52.8983,-1.0391,South Christinaberg District,Owensberg,Speeding,East Region
+552,2023-11-01,17:31,Wed,Unknown,Junction,48,Mud,Daylight,5,0,Slight,53.4749,-2.7891,Donaldport District,Port Mark,Driver Error,West Region
+553,2025-03-26,10:46,Tue,Fine,Junction,42,Ice,Darkness - Lighting Unknown,5,6,Serious,52.5172,0.6101,Kellyshire District,West Amy,Pedestrian Error,North Region
+554,2025-02-11,14:45,Wed,Rain,One Way Street,49,Flood,Darkness - Lights Lit,3,1,Slight,52.7716,-2.5308,Ianside District,North Donald,Road Condition,Metropolitan
+555,2024-10-16,08:51,Sat,Snow,Junction,47,Snow,Darkness - Lighting Unknown,5,0,Slight,57.3801,-4.2272,South Robertland District,Bowenborough,Unknown,East Region
+556,2025-03-30,06:15,Sat,Fog,Motorway,57,Wet,Darkness - Lights Lit,1,6,Slight,54.4099,0.9667,Brightmouth District,South Jamesshire,Unknown,North Region
+557,2023-12-06,18:42,Sun,Snow,Junction,51,Mud,Daylight,1,6,Slight,57.7588,-3.3344,North Miranda District,Lake Seanstad,Driver Error,South Region
+558,2024-06-11,06:19,Sun,Windy,One Way Street,62,Wet,Twilight,4,0,Slight,57.2447,-3.5228,Port Markton District,South Shannonborough,Weather Conditions,Metropolitan
+559,2024-12-09,13:55,Tue,Snow,Junction,49,Flood,Darkness - Lights Lit,5,2,Slight,51.2116,-1.0774,North April District,North Jonathonhaven,Distracted Driving,East Region
+560,2023-04-23,18:43,Sun,Windy,Roundabout,60,Flood,Darkness - Lights Lit,3,6,Serious,56.399,-0.1601,Raymondton District,Murphyfort,Driver Error,North Region
+561,2025-03-09,21:05,Sun,Snow,Junction,49,Wet,Darkness - Lights Lit,1,0,Serious,54.7413,-0.4681,South Samantha District,Lake Jonborough,Unknown,North Region
+562,2025-03-30,02:45,Mon,Hail,B-Road,48,Mud,Darkness - Lights Lit,3,0,Slight,50.7394,-2.6181,Stevensonhaven District,Jasonmouth,Speeding,North Region
+563,2023-07-02,22:59,Sun,Fine,Roundabout,25,Snow,Darkness - Lighting Unknown,5,2,Slight,51.1429,0.6581,Williamstown District,Lake Thomasport,Speeding,North Region
+564,2023-03-27,11:38,Sun,Unknown,A-Road,22,Ice,Twilight,3,5,Slight,54.9432,-2.5069,Edwardton District,New Aprilfort,Weather Conditions,East Region
+565,2025-04-02,12:40,Thu,Snow,B-Road,32,Snow,Twilight,3,0,Serious,55.4601,-4.5193,South Matthewmouth District,Samanthatown,Drunk Driving,East Region
+566,2024-09-05,12:00,Thu,Snow,A-Road,32,Mud,Twilight,3,4,Slight,57.8551,-4.8154,North Josephborough District,Lake Andrew,Vehicle Fault,North Region
+567,2024-11-24,00:09,Wed,Fine,Motorway,22,Wet,Twilight,1,0,Serious,56.4668,-0.8709,Sandersstad District,North Cynthia,Driver Error,South Region
+568,2024-05-29,13:57,Fri,Hail,Roundabout,43,Flood,Darkness - Lights Lit,5,1,Fatal,55.1873,1.4137,North Bridget District,Dianebury,Driver Error,East Region
+569,2024-03-05,23:01,Thu,Rain,Dual Carriageway,53,Dry,Daylight,3,4,Fatal,50.2509,0.1012,North Jasonchester District,Erinstad,Unknown,East Region
+570,2023-12-21,00:02,Tue,Fog,Junction,24,Dry,Twilight,4,0,Serious,51.4253,-3.2026,South Anthony District,West Nicholas,Road Condition,East Region
+571,2023-05-23,09:17,Mon,Fine,Motorway,65,Ice,Twilight,2,4,Slight,53.4213,0.7452,Jamesland District,Lawrenceburgh,Vehicle Fault,South Region
+572,2024-05-19,13:57,Sun,Fine,A-Road,47,Mud,Twilight,2,1,Slight,57.9151,-2.9183,New Juliebury District,Boydchester,Speeding,North Region
+573,2024-02-21,20:42,Tue,Fog,Junction,41,Snow,Twilight,5,2,Serious,55.8234,0.1434,West Allen District,Stephanieville,Road Condition,South Region
+574,2024-05-10,20:50,Tue,Fine,B-Road,30,Flood,Darkness - Lights Lit,1,1,Slight,51.4551,-1.6769,West Christina District,Frankshire,Vehicle Fault,North Region
+575,2024-11-21,19:53,Mon,Fog,Motorway,21,Wet,Twilight,1,2,Slight,56.7434,-1.6526,Port Frankbury District,South Saraborough,Distracted Driving,Metropolitan
+576,2024-03-03,13:40,Mon,Windy,One Way Street,69,Mud,Daylight,4,4,Serious,57.9489,1.737,East Annettestad District,Thompsonmouth,Vehicle Fault,East Region
+577,2023-06-22,19:48,Sun,Windy,B-Road,36,Snow,Daylight,2,6,Serious,51.8599,-4.6939,Blackburnfurt District,Wardmouth,Pedestrian Error,South Region
+578,2024-05-07,23:03,Sat,Hail,Junction,68,Snow,Darkness - Lighting Unknown,2,1,Slight,55.8722,1.4167,Deborahfurt District,Davidbury,Weather Conditions,South Region
+579,2024-04-28,08:09,Fri,Unknown,Junction,28,Dry,Twilight,2,5,Slight,51.5879,-4.2715,New Allison District,West Tammy,Unknown,Metropolitan
+580,2025-02-02,14:19,Sun,Fog,B-Road,44,Ice,Darkness - Lights Lit,1,0,Slight,56.3524,-0.8339,Ballardland District,New Melissaburgh,Drunk Driving,North Region
+581,2023-05-22,08:37,Sun,Windy,Dual Carriageway,58,Mud,Darkness - Lighting Unknown,4,0,Serious,54.1846,-0.7717,Susanmouth District,Chambersland,Driver Error,South Region
+582,2023-10-13,06:55,Sat,Snow,One Way Street,38,Wet,Daylight,5,6,Slight,52.0377,1.3766,Bullockstad District,Billybury,Road Condition,North Region
+583,2024-12-05,07:36,Mon,Hail,Roundabout,51,Ice,Darkness - Lighting Unknown,2,0,Slight,56.5338,-1.7791,Darrenbury District,Saraberg,Road Condition,South Region
+584,2025-05-14,13:42,Thu,Unknown,Motorway,45,Flood,Twilight,1,5,Slight,54.2335,-2.9838,Mckaytown District,South Karen,Vehicle Fault,East Region
+585,2025-03-22,05:46,Sun,Rain,Dual Carriageway,35,Dry,Daylight,1,5,Serious,54.3803,-2.0497,South Jessica District,North Michaelport,Unknown,East Region
+586,2023-03-13,14:20,Wed,Snow,Junction,69,Wet,Darkness - No Lighting,1,2,Slight,56.0156,1.6518,South Victoria District,Westfort,Drunk Driving,Metropolitan
+587,2024-06-09,05:24,Sun,Fine,Junction,56,Wet,Darkness - No Lighting,3,1,Slight,51.2016,-0.2061,North Kristinville District,Cantuville,Speeding,North Region
+588,2023-06-01,20:51,Thu,Rain,Roundabout,23,Wet,Darkness - Lighting Unknown,2,6,Fatal,54.7094,-2.851,Vasquezfurt District,Mandyport,Speeding,West Region
+589,2023-10-16,07:24,Fri,Snow,A-Road,52,Mud,Darkness - Lights Lit,4,4,Serious,50.1674,0.4929,New Lisa District,New Karenchester,Drunk Driving,North Region
+590,2025-06-26,08:41,Wed,Rain,One Way Street,30,Flood,Darkness - No Lighting,1,0,Slight,52.8234,-3.7054,Mistyberg District,Thomasmouth,Drunk Driving,Metropolitan
+591,2024-05-26,08:07,Tue,Rain,Junction,55,Mud,Darkness - Lighting Unknown,2,4,Slight,51.3018,0.302,Port Phyllis District,Kelseyside,Driver Error,North Region
+592,2024-04-20,23:38,Tue,Hail,A-Road,47,Flood,Darkness - Lights Lit,1,5,Serious,56.1832,-1.4483,Thompsonmouth District,East Dale,Vehicle Fault,South Region
+593,2023-03-03,07:25,Wed,Fine,B-Road,43,Wet,Darkness - No Lighting,3,3,Serious,56.5529,-4.3003,North Kylefurt District,East Juliemouth,Road Condition,South Region
+594,2023-10-16,11:31,Tue,Fine,Dual Carriageway,66,Ice,Darkness - Lights Lit,4,0,Slight,55.7897,1.1136,Cameronfurt District,West Ryan,Road Condition,Metropolitan
+595,2025-06-02,19:11,Wed,Snow,One Way Street,33,Ice,Darkness - Lights Lit,4,3,Slight,57.7679,0.5262,West Deannaport District,East Denisefort,Drunk Driving,East Region
+596,2024-06-09,07:08,Fri,Snow,One Way Street,22,Flood,Twilight,3,6,Slight,51.5035,-0.3925,East Jeremy District,Lake Aaronborough,Speeding,South Region
+597,2024-04-13,16:56,Sun,Unknown,Dual Carriageway,65,Mud,Darkness - No Lighting,3,2,Slight,56.5409,-0.1482,North Carmenmouth District,Davidshire,Driver Error,East Region
+598,2024-03-02,18:31,Wed,Unknown,One Way Street,67,Dry,Darkness - Lighting Unknown,5,1,Serious,52.2275,-3.5795,North Christinamouth District,Margaretfort,Unknown,North Region
+599,2023-04-10,20:30,Mon,Windy,Junction,33,Wet,Darkness - Lights Lit,4,0,Serious,55.1605,-3.4106,New Andrea District,Port Colin,Unknown,West Region
+600,2024-11-23,02:49,Sun,Hail,Junction,25,Flood,Twilight,5,5,Slight,55.7643,-1.4309,Port Marcusburgh District,Julianmouth,Driver Error,West Region
+601,2023-06-30,19:55,Mon,Snow,A-Road,29,Snow,Darkness - Lighting Unknown,4,0,Serious,53.8662,-0.464,North Heidihaven District,Lindaburgh,Pedestrian Error,East Region
+602,2025-05-15,04:19,Wed,Unknown,One Way Street,37,Flood,Darkness - Lighting Unknown,3,1,Fatal,55.8197,-4.748,South Daniel District,New Matthew,Pedestrian Error,North Region
+603,2023-07-07,01:46,Wed,Rain,Dual Carriageway,20,Flood,Darkness - No Lighting,2,0,Serious,55.0124,1.6159,New Michaelbury District,New Lancemouth,Weather Conditions,East Region
+604,2023-02-27,16:43,Sat,Unknown,Junction,30,Ice,Darkness - Lights Lit,5,0,Slight,53.1306,-1.029,Jefferyfurt District,Hurleytown,Speeding,North Region
+605,2023-02-20,21:14,Wed,Hail,One Way Street,46,Snow,Twilight,3,6,Serious,57.791,-1.0484,Williamsmouth District,Andersonville,Drunk Driving,West Region
+606,2024-01-31,03:35,Tue,Fog,B-Road,20,Mud,Daylight,1,2,Serious,54.6282,0.4641,North Elizabeth District,Samanthamouth,Drunk Driving,North Region
+607,2023-12-10,11:23,Sun,Hail,One Way Street,40,Dry,Darkness - Lighting Unknown,1,0,Serious,52.8009,-3.0799,North Michaelmouth District,Cruzburgh,Unknown,South Region
+608,2023-08-31,13:06,Mon,Windy,Motorway,40,Snow,Daylight,5,6,Serious,53.5219,-4.8633,Tamarashire District,Castroborough,Road Condition,East Region
+609,2024-12-05,23:00,Thu,Unknown,B-Road,39,Flood,Daylight,5,3,Serious,57.7039,-1.9905,Paulachester District,New Jessica,Drunk Driving,West Region
+610,2023-09-11,20:55,Tue,Fog,B-Road,54,Dry,Darkness - No Lighting,1,6,Serious,50.8968,-3.1906,North Ann District,North Katelynton,Distracted Driving,East Region
+611,2025-06-16,20:00,Fri,Fine,One Way Street,21,Wet,Darkness - Lighting Unknown,3,6,Slight,51.3335,0.2686,Stevenshire District,West Jasmine,Weather Conditions,Metropolitan
+612,2024-02-18,10:24,Sun,Windy,A-Road,47,Dry,Twilight,2,4,Serious,52.7186,-4.7476,Lake Leslieport District,Gordonhaven,Weather Conditions,North Region
+613,2023-04-25,04:57,Sat,Snow,Dual Carriageway,66,Dry,Daylight,4,6,Slight,53.3543,-3.9977,Lake Allisonview District,Jacksonberg,Drunk Driving,South Region
+614,2024-08-03,07:51,Sun,Fog,Roundabout,35,Wet,Darkness - Lights Lit,2,4,Slight,55.6867,-1.5815,South Richard District,Matthewchester,Pedestrian Error,West Region
+615,2023-07-28,15:39,Thu,Snow,One Way Street,59,Mud,Darkness - No Lighting,5,2,Slight,55.2973,-4.973,Jamesview District,New Ryanborough,Road Condition,East Region
+616,2025-03-14,01:55,Thu,Hail,One Way Street,42,Wet,Darkness - Lighting Unknown,3,2,Slight,51.5986,1.3378,South Luke District,Jonesberg,Drunk Driving,Metropolitan
+617,2024-02-28,19:35,Mon,Fine,One Way Street,33,Snow,Twilight,2,2,Slight,51.2606,-2.3425,Suarezton District,Port Stephanieside,Speeding,East Region
+618,2024-12-26,05:11,Tue,Fog,B-Road,26,Wet,Darkness - Lighting Unknown,3,4,Slight,54.2019,-2.5803,Alexanderfurt District,Collinsstad,Vehicle Fault,Metropolitan
+619,2024-09-28,06:12,Wed,Unknown,Junction,22,Mud,Daylight,2,1,Slight,52.8578,-3.3405,West Yolanda District,Colleenbury,Drunk Driving,West Region
+620,2025-04-11,20:20,Fri,Fog,A-Road,28,Mud,Daylight,4,0,Slight,57.1903,1.254,Lake Williamland District,West Robertchester,Road Condition,Metropolitan
+621,2023-04-26,21:12,Thu,Windy,One Way Street,40,Snow,Daylight,1,0,Slight,55.3442,-0.8279,Loganton District,Pittmanton,Unknown,West Region
+622,2023-02-20,12:58,Thu,Unknown,Junction,43,Mud,Twilight,2,2,Slight,52.1318,-1.3706,Loweburgh District,North Tracy,Weather Conditions,North Region
+623,2023-06-18,21:54,Fri,Rain,B-Road,57,Flood,Darkness - No Lighting,4,0,Slight,53.1469,-1.0324,Port Natalie District,Johnsonport,Weather Conditions,North Region
+624,2025-01-03,01:21,Sat,Snow,One Way Street,39,Mud,Darkness - Lights Lit,3,2,Slight,52.2644,-2.9083,West Robertland District,Angelaburgh,Driver Error,North Region
+625,2024-01-19,00:59,Fri,Rain,B-Road,49,Flood,Darkness - Lights Lit,5,0,Slight,55.8327,-0.1241,North David District,Port Alicia,Drunk Driving,South Region
+626,2025-01-03,05:38,Fri,Rain,Dual Carriageway,34,Ice,Daylight,5,5,Slight,50.7996,1.1152,Ashleyhaven District,Codychester,Speeding,East Region
+627,2023-11-15,15:18,Tue,Fog,Roundabout,54,Flood,Daylight,2,2,Slight,54.3563,-3.8949,East Steven District,Wrightborough,Weather Conditions,East Region
+628,2023-03-26,19:47,Sun,Hail,Roundabout,21,Wet,Darkness - No Lighting,5,4,Serious,56.0258,0.3177,Acostatown District,North Markhaven,Distracted Driving,North Region
+629,2024-08-17,06:43,Sat,Unknown,A-Road,45,Mud,Darkness - Lighting Unknown,5,4,Slight,50.7273,0.634,Edwardmouth District,Nicholasmouth,Distracted Driving,Metropolitan
+630,2023-04-20,17:42,Fri,Unknown,One Way Street,63,Wet,Darkness - Lights Lit,3,5,Slight,53.3714,-4.6194,New Pedrostad District,East Julie,Pedestrian Error,Metropolitan
+631,2025-02-09,18:26,Wed,Fog,One Way Street,24,Ice,Darkness - Lights Lit,3,3,Serious,50.4043,-3.3386,Josephport District,Jessebury,Speeding,South Region
+632,2023-03-12,09:28,Sat,Windy,Junction,55,Mud,Darkness - Lights Lit,4,2,Slight,53.189,-1.5016,Kristymouth District,Curryberg,Speeding,North Region
+633,2024-06-07,16:06,Wed,Unknown,B-Road,31,Flood,Darkness - No Lighting,1,6,Serious,55.9272,-2.8269,Allisonside District,Hayneston,Distracted Driving,West Region
+634,2024-12-02,10:54,Sat,Fog,B-Road,50,Ice,Daylight,4,4,Slight,54.3301,-2.0698,Santiagohaven District,Nathanielmouth,Pedestrian Error,West Region
+635,2025-04-22,02:14,Wed,Hail,One Way Street,68,Wet,Twilight,5,0,Serious,57.5093,-4.3254,West Anna District,North Tiffany,Unknown,Metropolitan
+636,2023-06-27,11:57,Mon,Unknown,Dual Carriageway,37,Ice,Darkness - Lighting Unknown,2,5,Slight,53.7041,-1.8756,North Cindystad District,North Nancy,Drunk Driving,East Region
+637,2023-06-15,00:51,Mon,Fog,Motorway,31,Ice,Twilight,5,0,Slight,56.7478,1.8988,Schultzchester District,Johnsonshire,Distracted Driving,East Region
+638,2023-11-30,16:29,Tue,Unknown,A-Road,46,Wet,Darkness - Lights Lit,4,2,Slight,53.9756,-1.5356,Davidsonmouth District,Lake Brittneyfort,Drunk Driving,East Region
+639,2023-04-16,19:46,Wed,Rain,Motorway,23,Snow,Twilight,3,0,Fatal,54.562,-3.3268,Sarahburgh District,West Josephshire,Drunk Driving,Metropolitan
+640,2023-12-27,17:43,Fri,Unknown,A-Road,48,Snow,Darkness - Lights Lit,1,3,Slight,52.1387,-4.9385,Fowlerbury District,Rachelbury,Unknown,South Region
+641,2024-01-27,15:28,Wed,Rain,Roundabout,43,Snow,Daylight,5,3,Slight,53.837,-3.1348,West Brittany District,Nolanshire,Road Condition,East Region
+642,2024-02-10,17:30,Sun,Windy,Motorway,51,Dry,Daylight,1,2,Slight,54.5575,-2.5924,Heatherburgh District,Ellisburgh,Speeding,Metropolitan
+643,2025-03-26,17:40,Thu,Unknown,Motorway,39,Snow,Daylight,2,2,Slight,54.6544,1.103,West Jay District,Larafurt,Pedestrian Error,South Region
+644,2024-01-25,05:11,Sat,Hail,Motorway,27,Flood,Darkness - Lighting Unknown,2,2,Slight,51.9127,-4.1367,Port Larryville District,Bradleyton,Weather Conditions,Metropolitan
+645,2023-12-06,13:48,Mon,Fine,Motorway,30,Ice,Darkness - No Lighting,5,1,Slight,54.4387,-2.426,East Emilyside District,Lake Anthony,Distracted Driving,Metropolitan
+646,2025-03-19,12:02,Wed,Fine,A-Road,36,Wet,Darkness - No Lighting,4,2,Serious,54.626,-3.8648,Jasonbury District,North Jessica,Speeding,Metropolitan
+647,2025-03-10,10:47,Fri,Rain,Junction,40,Snow,Darkness - Lighting Unknown,1,0,Serious,54.1152,-0.6867,West Jacobville District,Mackbury,Speeding,North Region
+648,2024-01-22,02:25,Tue,Hail,B-Road,55,Wet,Twilight,4,6,Slight,54.3077,0.9585,Destinytown District,Amandaview,Drunk Driving,North Region
+649,2025-02-09,00:34,Thu,Fog,Roundabout,49,Dry,Darkness - Lighting Unknown,2,5,Fatal,56.0076,-4.9227,North Lisaview District,Huberburgh,Drunk Driving,Metropolitan
+650,2025-05-06,09:49,Mon,Snow,A-Road,21,Wet,Daylight,3,4,Slight,54.2304,-1.1117,Lake Abigail District,South Jenniferberg,Weather Conditions,East Region
+651,2025-03-08,12:59,Wed,Hail,Roundabout,40,Flood,Darkness - No Lighting,3,2,Serious,56.5767,0.1239,South Cherylchester District,West Laurenton,Weather Conditions,North Region
+652,2024-12-05,18:37,Tue,Unknown,B-Road,46,Mud,Darkness - No Lighting,3,4,Serious,54.0165,-3.9908,Brandimouth District,Derrickmouth,Weather Conditions,Metropolitan
+653,2025-02-12,04:18,Mon,Unknown,Roundabout,40,Flood,Darkness - No Lighting,1,0,Slight,51.727,1.4784,Brendafurt District,Adrianachester,Road Condition,West Region
+654,2025-04-20,16:22,Tue,Fine,One Way Street,62,Snow,Darkness - Lights Lit,5,5,Slight,57.0504,-2.3614,West Aaronshire District,South James,Weather Conditions,Metropolitan
+655,2024-11-07,13:12,Sat,Snow,Junction,22,Ice,Twilight,2,6,Serious,53.0885,1.4086,Heathershire District,East Brianside,Pedestrian Error,South Region
+656,2025-03-15,00:31,Sun,Fog,Roundabout,67,Ice,Daylight,1,0,Slight,53.3025,-3.0522,North Whitney District,New Caitlynmouth,Weather Conditions,North Region
+657,2023-12-14,14:23,Sun,Unknown,Roundabout,46,Ice,Daylight,4,6,Serious,54.6821,-0.5565,Port Davidchester District,Port Aprilchester,Pedestrian Error,West Region
+658,2023-10-22,03:57,Wed,Fog,Dual Carriageway,62,Ice,Darkness - No Lighting,1,2,Slight,55.8511,-1.9028,Vasquezhaven District,Carrchester,Driver Error,North Region
+659,2023-04-10,22:18,Tue,Unknown,Dual Carriageway,44,Dry,Darkness - No Lighting,5,0,Serious,57.2413,-0.2925,West Bradley District,Priceton,Distracted Driving,South Region
+660,2025-01-06,05:39,Wed,Fog,Motorway,54,Dry,Darkness - Lights Lit,2,0,Slight,57.8031,-2.131,Lake William District,Katieport,Vehicle Fault,North Region
+661,2024-10-19,02:36,Fri,Unknown,Junction,59,Dry,Darkness - Lights Lit,1,5,Slight,54.5978,-2.5205,Patelberg District,North Philip,Driver Error,North Region
+662,2024-05-10,23:37,Tue,Fog,A-Road,55,Wet,Daylight,3,5,Serious,57.7608,-2.093,West Matthewhaven District,Robertsonberg,Unknown,Metropolitan
+663,2024-12-13,00:21,Fri,Windy,Roundabout,20,Ice,Darkness - No Lighting,1,3,Slight,51.5975,-1.3606,Paulville District,North Hannahchester,Vehicle Fault,Metropolitan
+664,2024-12-26,23:34,Mon,Fine,One Way Street,55,Mud,Daylight,3,2,Slight,57.6804,-2.7027,New John District,South Travisfort,Driver Error,Metropolitan
+665,2025-06-05,12:08,Tue,Fine,Dual Carriageway,51,Snow,Darkness - No Lighting,5,0,Slight,55.2321,-4.4939,South Terryburgh District,Leebury,Pedestrian Error,Metropolitan
+666,2024-10-03,18:51,Thu,Fog,A-Road,68,Dry,Darkness - Lighting Unknown,2,2,Serious,54.0084,-0.8734,Robertshire District,Jonathonmouth,Drunk Driving,South Region
+667,2024-01-17,14:58,Sat,Fog,Roundabout,38,Ice,Daylight,2,5,Slight,52.5786,0.8942,New John District,Munozberg,Vehicle Fault,Metropolitan
+668,2023-10-21,09:29,Sat,Hail,A-Road,38,Snow,Darkness - No Lighting,3,5,Slight,56.4273,0.1116,Whiteberg District,Washingtonberg,Driver Error,South Region
+669,2023-05-15,04:28,Thu,Snow,Motorway,52,Mud,Darkness - No Lighting,5,3,Slight,52.0271,0.9402,Blakemouth District,North Danielleshire,Weather Conditions,West Region
+670,2025-05-06,15:25,Mon,Snow,One Way Street,69,Snow,Twilight,1,4,Slight,54.6989,-4.6678,South Jenniferbury District,New Jasonborough,Distracted Driving,West Region
+671,2025-04-25,18:31,Wed,Fine,Dual Carriageway,54,Dry,Darkness - Lights Lit,3,3,Serious,50.0948,-4.5999,Lake Connie District,Joseshire,Driver Error,North Region
+672,2024-06-11,09:02,Mon,Unknown,Motorway,70,Mud,Darkness - Lighting Unknown,2,4,Serious,51.2235,-2.5029,New Christopher District,Berrytown,Road Condition,West Region
+673,2025-01-08,20:48,Fri,Fog,Junction,31,Mud,Twilight,3,1,Slight,50.915,-3.5965,Michaelchester District,East Andrestad,Pedestrian Error,South Region
+674,2023-04-09,07:04,Fri,Snow,Motorway,24,Ice,Darkness - Lighting Unknown,1,3,Slight,57.6438,-3.3651,West Matthew District,Hunterville,Drunk Driving,West Region
+675,2023-05-08,10:36,Sat,Unknown,A-Road,44,Mud,Daylight,4,2,Slight,54.4967,0.0625,Lake Derekville District,Johnburgh,Drunk Driving,East Region
+676,2025-04-21,08:12,Wed,Unknown,Junction,23,Dry,Darkness - No Lighting,5,6,Slight,50.1462,1.2737,Davidtown District,West Rodneyview,Road Condition,South Region
+677,2025-05-01,14:32,Sun,Fog,A-Road,41,Flood,Twilight,3,6,Slight,56.5734,0.0856,West Nicholasport District,Cruzberg,Weather Conditions,Metropolitan
+678,2024-09-12,07:18,Wed,Unknown,Motorway,46,Mud,Twilight,2,2,Slight,51.9854,-4.5212,East Taylorshire District,South Dustinchester,Speeding,Metropolitan
+679,2023-07-05,16:25,Tue,Fog,Motorway,20,Wet,Darkness - No Lighting,3,4,Slight,56.3376,-2.3407,East Bryan District,Josephhaven,Distracted Driving,East Region
+680,2023-09-20,06:02,Mon,Snow,Motorway,63,Mud,Twilight,3,4,Fatal,52.1889,-3.0126,North Thomas District,Port Cody,Unknown,South Region
+681,2023-01-31,06:41,Wed,Hail,Roundabout,43,Dry,Darkness - Lighting Unknown,1,6,Slight,57.4886,-0.4326,New Kylehaven District,South Jeromeberg,Speeding,North Region
+682,2024-10-21,13:46,Sun,Rain,B-Road,46,Wet,Darkness - Lights Lit,4,5,Slight,53.4717,-4.3296,Smithstad District,Marthafurt,Weather Conditions,West Region
+683,2024-03-23,22:05,Sat,Hail,A-Road,39,Mud,Darkness - No Lighting,2,1,Slight,50.9037,1.3999,West Shannon District,East Amanda,Speeding,North Region
+684,2023-12-18,17:34,Sun,Fine,Junction,47,Mud,Twilight,3,0,Serious,50.9554,-1.1997,Janetville District,Hamiltonchester,Speeding,North Region
+685,2023-10-18,23:53,Wed,Fog,Dual Carriageway,33,Snow,Daylight,5,0,Serious,57.4796,-4.5882,North Michelleberg District,South Christophermouth,Speeding,West Region
+686,2025-01-14,15:03,Sat,Snow,B-Road,40,Flood,Darkness - Lighting Unknown,2,4,Slight,53.4495,-4.6357,Lake Shannonbury District,Jameston,Driver Error,East Region
+687,2024-08-24,10:22,Tue,Rain,Junction,59,Wet,Darkness - Lighting Unknown,1,0,Slight,53.3656,-2.0316,North Marisa District,Port Joseph,Unknown,East Region
+688,2025-03-11,04:19,Sat,Fog,A-Road,56,Ice,Darkness - Lights Lit,1,6,Slight,55.81,-1.4093,Port Christinaville District,South Robert,Distracted Driving,Metropolitan
+689,2025-02-21,03:13,Tue,Windy,Roundabout,42,Snow,Daylight,5,1,Slight,57.3526,-4.7421,Port Jamesview District,Ashleyfurt,Speeding,West Region
+690,2025-01-23,02:57,Thu,Hail,Dual Carriageway,52,Snow,Darkness - Lighting Unknown,4,1,Slight,54.8434,-0.1711,Davidfurt District,West Brandon,Pedestrian Error,West Region
+691,2024-06-11,19:32,Wed,Fog,A-Road,44,Wet,Darkness - Lighting Unknown,2,2,Slight,53.1608,-1.9714,Laurenmouth District,Wandafurt,Road Condition,East Region
+692,2023-12-25,17:42,Tue,Fog,Dual Carriageway,54,Flood,Twilight,4,6,Slight,53.4964,-3.8672,North Cody District,New David,Distracted Driving,Metropolitan
+693,2023-05-28,11:13,Sat,Windy,Dual Carriageway,54,Mud,Twilight,5,5,Serious,57.68,0.2507,Clarkchester District,Christopherside,Pedestrian Error,North Region
+694,2025-01-30,14:49,Mon,Unknown,Roundabout,33,Snow,Darkness - No Lighting,5,5,Serious,56.4368,-4.9069,Murphyborough District,South Rebeccamouth,Driver Error,Metropolitan
+695,2025-02-23,07:28,Sat,Fog,A-Road,42,Wet,Darkness - Lighting Unknown,4,4,Slight,56.2762,-2.1793,Port Stephaniemouth District,Allenburgh,Weather Conditions,East Region
+696,2023-02-19,03:58,Fri,Snow,A-Road,66,Snow,Darkness - Lighting Unknown,4,5,Slight,50.6314,-2.799,Barrton District,Isaacland,Driver Error,Metropolitan
+697,2023-05-20,13:13,Sun,Hail,Motorway,27,Dry,Darkness - Lights Lit,4,0,Slight,56.0391,-0.1894,West Ruth District,Zimmermanfort,Pedestrian Error,North Region
+698,2024-02-05,06:32,Sat,Hail,Roundabout,56,Snow,Darkness - Lighting Unknown,3,4,Slight,55.505,-3.3608,Westside District,Lake Mathew,Road Condition,West Region
+699,2024-05-19,20:30,Mon,Fine,A-Road,22,Ice,Daylight,3,4,Slight,55.5414,-2.53,Jeremiahland District,Lake Michael,Distracted Driving,South Region
+700,2023-04-20,01:51,Fri,Hail,One Way Street,27,Ice,Darkness - No Lighting,1,1,Serious,54.1858,-3.0164,Maryfurt District,South Nicoleberg,Drunk Driving,East Region
+701,2024-09-30,18:21,Tue,Snow,One Way Street,39,Snow,Daylight,1,1,Slight,51.5957,-1.8522,East Alexander District,Lake Martinport,Pedestrian Error,East Region
+702,2023-12-19,23:46,Fri,Unknown,One Way Street,30,Wet,Darkness - No Lighting,4,5,Slight,56.9273,-0.287,Port Davidton District,Lake Donna,Unknown,East Region
+703,2025-01-14,09:03,Sun,Fog,Motorway,53,Snow,Darkness - Lighting Unknown,4,1,Serious,50.6766,-4.517,Nicolefort District,East Sean,Speeding,East Region
+704,2024-08-13,17:49,Wed,Snow,Motorway,52,Ice,Darkness - No Lighting,1,1,Slight,54.1438,1.2433,West Emily District,North Jessica,Unknown,South Region
+705,2024-08-02,09:20,Sat,Windy,Roundabout,59,Dry,Twilight,1,3,Slight,50.136,1.2733,Toddtown District,South Jaimemouth,Weather Conditions,East Region
+706,2023-03-09,13:05,Thu,Fog,Dual Carriageway,66,Snow,Twilight,4,5,Slight,50.2161,-3.2125,Cardenasshire District,Robertsstad,Distracted Driving,West Region
+707,2023-11-09,15:29,Sun,Unknown,Roundabout,40,Dry,Daylight,3,5,Serious,54.4147,-0.21,Wardchester District,North Christopherberg,Distracted Driving,South Region
+708,2024-08-12,05:18,Sat,Snow,B-Road,20,Ice,Darkness - Lighting Unknown,4,2,Slight,54.2652,-2.1851,North Sharonhaven District,Stevensonchester,Unknown,West Region
+709,2024-07-27,15:50,Tue,Fog,Roundabout,40,Mud,Twilight,5,5,Slight,52.5479,-4.5261,Jenniferborough District,East Amyborough,Unknown,South Region
+710,2024-01-23,07:36,Sun,Fog,Motorway,40,Ice,Twilight,4,1,Slight,56.8509,-3.3797,West Robertshire District,Laurashire,Road Condition,South Region
+711,2024-08-03,09:54,Wed,Windy,One Way Street,28,Wet,Darkness - Lights Lit,5,0,Slight,51.8226,-1.1733,Andrewside District,Juliemouth,Driver Error,South Region
+712,2025-03-31,17:31,Thu,Snow,One Way Street,67,Ice,Daylight,4,6,Slight,57.4443,-0.3101,New Lynnfort District,Walkerport,Weather Conditions,West Region
+713,2023-02-11,13:51,Mon,Windy,One Way Street,66,Mud,Darkness - No Lighting,2,2,Slight,57.2212,-3.3814,East Briana District,Amandahaven,Weather Conditions,West Region
+714,2024-07-23,01:14,Thu,Fog,One Way Street,52,Dry,Twilight,4,0,Serious,53.8049,-1.351,Jasonview District,Lake Collinchester,Driver Error,East Region
+715,2024-08-20,18:22,Tue,Rain,Dual Carriageway,37,Dry,Daylight,2,0,Slight,52.7513,-4.7441,Wrightborough District,Lake Haleychester,Weather Conditions,Metropolitan
+716,2024-06-27,07:42,Tue,Hail,A-Road,69,Mud,Darkness - No Lighting,1,2,Slight,52.5495,1.4771,Harmonport District,Haydenmouth,Driver Error,Metropolitan
+717,2024-07-17,21:36,Thu,Fog,Motorway,55,Dry,Darkness - No Lighting,3,0,Slight,51.2513,-2.1338,Barbaramouth District,New Kathleenhaven,Unknown,North Region
+718,2025-05-17,18:55,Fri,Hail,Dual Carriageway,34,Dry,Twilight,5,5,Slight,50.2883,-3.0821,North Meganland District,Dominguezfurt,Drunk Driving,North Region
+719,2024-09-09,18:35,Tue,Rain,Dual Carriageway,26,Wet,Darkness - Lighting Unknown,1,5,Slight,53.2485,-4.8246,Adamsberg District,Danielport,Distracted Driving,West Region
+720,2023-01-25,19:32,Thu,Fog,A-Road,67,Ice,Darkness - No Lighting,3,1,Slight,50.7329,-4.4739,New Christopher District,West Davidville,Distracted Driving,East Region
+721,2025-01-28,12:51,Wed,Rain,Motorway,52,Snow,Daylight,4,5,Serious,52.213,-2.5768,Greeneville District,Brownstad,Weather Conditions,South Region
+722,2024-04-21,12:21,Mon,Windy,B-Road,65,Snow,Darkness - Lights Lit,1,3,Slight,50.2977,-2.0445,Port Melissa District,Anitafort,Vehicle Fault,East Region
+723,2025-06-04,17:29,Thu,Fog,Junction,31,Flood,Darkness - Lights Lit,3,5,Slight,54.0685,1.2028,Port Timothy District,Walshshire,Unknown,West Region
+724,2023-03-25,13:52,Fri,Fog,B-Road,31,Wet,Darkness - No Lighting,1,6,Slight,56.8837,-3.8914,South David District,Taylormouth,Speeding,East Region
+725,2024-08-08,18:20,Thu,Unknown,A-Road,62,Wet,Darkness - Lighting Unknown,2,4,Slight,57.2367,-0.5357,New Vickie District,Hannahshire,Weather Conditions,Metropolitan
+726,2024-07-23,16:06,Sun,Rain,B-Road,25,Wet,Darkness - Lights Lit,2,3,Slight,54.1471,-1.6158,Brandonport District,North Timothytown,Drunk Driving,Metropolitan
+727,2023-12-08,06:54,Tue,Unknown,A-Road,29,Ice,Darkness - Lights Lit,4,3,Serious,50.2902,-0.9819,South Deborah District,Johnsonhaven,Drunk Driving,East Region
+728,2025-03-13,14:00,Fri,Windy,A-Road,28,Mud,Darkness - Lights Lit,2,3,Serious,54.5674,-1.335,Armstrongton District,Williamsbury,Driver Error,West Region
+729,2023-03-28,08:28,Sat,Hail,B-Road,58,Ice,Darkness - Lighting Unknown,4,0,Serious,56.5187,-0.9393,North Edward District,Smithport,Speeding,West Region
+730,2025-03-01,09:03,Thu,Fog,B-Road,24,Snow,Darkness - Lights Lit,3,1,Serious,57.0962,-4.272,Clarkside District,West Melissaview,Speeding,West Region
+731,2024-03-30,13:09,Wed,Fog,Roundabout,27,Snow,Daylight,4,5,Slight,54.2904,0.615,East James District,Kingtown,Road Condition,Metropolitan
+732,2024-10-30,16:11,Wed,Fine,A-Road,56,Mud,Daylight,3,4,Serious,52.8837,-2.5788,Jennamouth District,East Michael,Speeding,Metropolitan
+733,2025-06-19,03:11,Sat,Fog,One Way Street,31,Mud,Daylight,5,1,Slight,57.4614,-0.0532,Smithville District,South Nicholasbury,Vehicle Fault,North Region
+734,2024-10-30,04:42,Sun,Windy,Junction,45,Snow,Darkness - Lighting Unknown,1,0,Slight,57.9077,-2.0513,Lake Jackton District,Kristiemouth,Vehicle Fault,South Region
+735,2024-10-13,13:47,Mon,Snow,Roundabout,46,Flood,Darkness - Lighting Unknown,2,1,Serious,57.6991,-2.8368,Griffithberg District,Jenniferland,Distracted Driving,Metropolitan
+736,2024-05-01,02:10,Mon,Snow,Dual Carriageway,46,Wet,Daylight,1,1,Slight,52.1886,0.5161,West Robin District,Lake Abigailland,Vehicle Fault,South Region
+737,2024-04-09,06:35,Mon,Rain,A-Road,39,Ice,Darkness - Lights Lit,1,5,Slight,50.6679,-3.6042,New Evanhaven District,Colonfort,Pedestrian Error,South Region
+738,2024-11-20,07:30,Thu,Fine,Dual Carriageway,20,Snow,Darkness - No Lighting,3,3,Serious,55.2628,-1.8974,East Brianville District,West Juliefort,Drunk Driving,West Region
+739,2024-02-25,19:46,Fri,Rain,Motorway,31,Snow,Daylight,2,3,Slight,52.8963,-2.7481,New Gina District,New James,Vehicle Fault,West Region
+740,2025-06-23,13:07,Sat,Snow,A-Road,28,Wet,Twilight,4,5,Slight,54.3364,-1.3756,New Andreamouth District,Johnsonville,Pedestrian Error,West Region
+741,2023-08-23,23:57,Thu,Fog,B-Road,63,Wet,Daylight,3,1,Serious,53.7733,0.1722,Lake Jessicamouth District,New Johnville,Road Condition,Metropolitan
+742,2024-09-30,13:06,Wed,Windy,Motorway,27,Mud,Daylight,5,1,Slight,50.3463,1.9365,Kimview District,Davidport,Unknown,West Region
+743,2023-09-19,13:04,Tue,Hail,Dual Carriageway,26,Wet,Daylight,2,4,Serious,50.96,1.0266,North Matthew District,Sarahtown,Unknown,Metropolitan
+744,2024-03-05,15:14,Thu,Fine,B-Road,59,Wet,Twilight,5,1,Serious,56.8919,1.52,East Patriciaberg District,Kimberlymouth,Road Condition,North Region
+745,2024-03-16,13:12,Wed,Hail,Dual Carriageway,61,Mud,Daylight,3,2,Slight,51.3941,-2.9083,Rachelland District,Justinshire,Driver Error,Metropolitan
+746,2024-12-10,03:32,Thu,Windy,Motorway,51,Flood,Darkness - Lights Lit,2,2,Serious,51.9377,-4.5969,East Allisonport District,Schmidtshire,Weather Conditions,Metropolitan
+747,2025-04-06,02:27,Sat,Unknown,A-Road,32,Flood,Darkness - Lights Lit,1,0,Slight,56.8793,1.5573,New Jasmine District,South Jonathan,Weather Conditions,Metropolitan
+748,2025-05-30,04:59,Wed,Unknown,B-Road,20,Flood,Darkness - No Lighting,5,3,Fatal,57.899,-2.5662,Brandichester District,Lake Gary,Distracted Driving,Metropolitan
+749,2024-08-19,19:23,Tue,Fog,One Way Street,46,Snow,Darkness - Lights Lit,3,6,Serious,51.735,-0.7496,West Erinborough District,Lopezport,Pedestrian Error,South Region
+750,2024-09-24,11:41,Thu,Snow,One Way Street,64,Dry,Darkness - Lights Lit,1,0,Slight,50.1947,0.0006,Taylortown District,West Emilyberg,Unknown,West Region
+751,2023-05-07,19:59,Wed,Fog,Junction,52,Flood,Darkness - No Lighting,5,3,Slight,50.4967,0.872,Jonesport District,Obrienmouth,Speeding,South Region
+752,2023-10-27,13:52,Sat,Windy,Roundabout,42,Dry,Twilight,1,2,Serious,54.9444,-1.2479,North Tina District,North Alison,Drunk Driving,West Region
+753,2024-07-17,04:43,Sun,Fog,A-Road,49,Mud,Darkness - No Lighting,2,2,Slight,53.5803,-4.8122,Piercemouth District,Lake Adamborough,Weather Conditions,West Region
+754,2024-03-10,23:22,Tue,Rain,Dual Carriageway,27,Dry,Twilight,5,2,Slight,54.9618,-3.6081,Kimberlyberg District,East Samantha,Road Condition,South Region
+755,2024-06-15,23:33,Wed,Rain,Junction,43,Dry,Daylight,4,1,Slight,56.829,0.5413,Patelville District,South Juliatown,Drunk Driving,West Region
+756,2024-01-15,12:13,Tue,Snow,Dual Carriageway,58,Dry,Twilight,3,1,Slight,52.7414,-0.4056,East Amanda District,Port Adamville,Distracted Driving,East Region
+757,2023-01-15,07:07,Fri,Unknown,Roundabout,56,Wet,Twilight,4,6,Slight,54.7072,-4.1941,Mitchellfurt District,Shelbychester,Weather Conditions,North Region
+758,2025-04-07,19:49,Sat,Hail,One Way Street,21,Dry,Darkness - No Lighting,5,2,Slight,50.1573,1.7879,Christinashire District,Loweryhaven,Unknown,East Region
+759,2024-12-19,16:26,Tue,Unknown,Motorway,35,Wet,Daylight,1,4,Slight,54.2433,-3.4844,North Jeremyhaven District,Marilynburgh,Weather Conditions,Metropolitan
+760,2025-02-14,22:29,Sun,Snow,B-Road,37,Mud,Twilight,1,1,Slight,54.658,0.6655,West Shari District,Johnsonview,Driver Error,North Region
+761,2024-01-25,21:18,Sat,Windy,Junction,21,Snow,Darkness - Lighting Unknown,1,6,Slight,53.8971,-3.7327,South Stevenshire District,Lake Karenton,Road Condition,East Region
+762,2023-11-09,07:21,Sun,Unknown,Dual Carriageway,42,Dry,Darkness - Lighting Unknown,4,5,Slight,56.6521,-1.5405,Port Clinton District,Danielmouth,Vehicle Fault,South Region
+763,2024-05-27,10:54,Sat,Windy,B-Road,66,Mud,Daylight,2,0,Slight,56.3476,-2.2458,East Rodney District,New James,Drunk Driving,East Region
+764,2024-05-28,00:23,Fri,Unknown,B-Road,49,Wet,Darkness - Lighting Unknown,2,3,Slight,53.7782,-0.6262,Ericview District,North Amberland,Weather Conditions,West Region
+765,2023-04-12,01:48,Mon,Unknown,B-Road,52,Ice,Darkness - Lighting Unknown,4,0,Serious,52.0463,1.3346,East Wendy District,Allenborough,Speeding,South Region
+766,2025-02-11,12:41,Fri,Unknown,Motorway,54,Ice,Darkness - Lights Lit,2,0,Slight,57.0821,0.6493,New Ryanmouth District,West Zacharyville,Speeding,Metropolitan
+767,2025-04-14,11:54,Tue,Fog,Dual Carriageway,51,Snow,Darkness - Lights Lit,1,2,Slight,56.2697,-1.6368,South Richard District,East Christopher,Speeding,West Region
+768,2024-03-04,05:15,Thu,Hail,Motorway,49,Dry,Darkness - No Lighting,5,0,Slight,54.7568,-0.1426,Amandaton District,West Dustinberg,Road Condition,South Region
+769,2023-11-06,13:34,Wed,Fog,B-Road,55,Ice,Twilight,3,3,Serious,50.926,-4.408,Brownfurt District,Angelashire,Drunk Driving,South Region
+770,2023-02-06,09:37,Tue,Windy,Dual Carriageway,51,Snow,Daylight,2,1,Fatal,55.1805,-0.5192,Port Vincent District,North Brian,Speeding,East Region
+771,2023-10-17,12:31,Mon,Hail,Dual Carriageway,46,Dry,Twilight,3,0,Slight,50.954,-3.3261,East Lauraport District,East Timothyhaven,Road Condition,North Region
+772,2023-04-01,02:07,Sat,Fine,One Way Street,58,Dry,Daylight,3,1,Slight,51.1923,-0.8283,North Ricardo District,Perryberg,Weather Conditions,West Region
+773,2025-05-03,23:53,Fri,Snow,Junction,30,Snow,Twilight,2,0,Slight,56.1878,-2.6073,South Brittanyburgh District,New Michellemouth,Drunk Driving,North Region
+774,2024-06-21,16:49,Tue,Fine,B-Road,32,Snow,Twilight,2,6,Serious,57.1459,-0.6756,New Lauren District,New Juliatown,Road Condition,West Region
+775,2025-06-02,07:42,Thu,Fog,A-Road,32,Ice,Darkness - Lights Lit,3,6,Slight,56.1161,-2.4911,Lake Michaelmouth District,Lake Jenniferhaven,Speeding,Metropolitan
+776,2023-11-25,07:21,Mon,Snow,A-Road,63,Ice,Darkness - No Lighting,1,3,Slight,57.0136,-2.5932,North David District,Port Edwardton,Driver Error,West Region
+777,2025-03-23,19:24,Fri,Hail,Roundabout,50,Snow,Twilight,3,1,Slight,51.3845,-0.4703,Joannashire District,Tuckertown,Speeding,West Region
+778,2025-04-07,10:01,Fri,Snow,Junction,46,Dry,Daylight,1,1,Slight,56.133,-1.2717,East Tracyport District,New Lancechester,Speeding,North Region
+779,2023-05-14,16:07,Mon,Windy,One Way Street,39,Wet,Darkness - Lights Lit,1,3,Slight,56.4988,-2.4905,Nicholasmouth District,South Dannyville,Speeding,West Region
+780,2023-11-22,06:01,Mon,Snow,B-Road,63,Mud,Daylight,4,2,Fatal,51.1627,0.1004,Hallfort District,Port Jason,Road Condition,North Region
+781,2025-06-16,22:37,Wed,Hail,Roundabout,36,Mud,Darkness - Lighting Unknown,4,0,Serious,52.1185,-0.5889,Lake Gregory District,West Richardberg,Vehicle Fault,East Region
+782,2024-05-22,20:15,Thu,Fine,Junction,22,Wet,Daylight,5,4,Slight,51.534,-2.166,East Jessica District,South John,Driver Error,West Region
+783,2023-07-28,18:52,Wed,Fog,Dual Carriageway,63,Wet,Daylight,3,0,Fatal,56.7652,1.942,Cooperberg District,Jacksonside,Drunk Driving,East Region
+784,2024-08-17,01:50,Sun,Snow,Motorway,38,Wet,Darkness - No Lighting,4,2,Slight,57.9254,-3.6272,Port Angelaburgh District,Oliviafort,Pedestrian Error,East Region
+785,2025-03-31,00:24,Thu,Fog,Motorway,21,Flood,Darkness - Lighting Unknown,5,2,Serious,54.9849,0.9249,New Tyler District,Gravesberg,Drunk Driving,Metropolitan
+786,2025-01-15,05:39,Wed,Fog,Motorway,50,Wet,Daylight,2,6,Slight,54.5256,-0.8842,Sandraburgh District,Brittanytown,Speeding,Metropolitan
+787,2024-03-03,23:33,Fri,Snow,B-Road,34,Dry,Daylight,1,5,Serious,50.739,0.6108,Martinezfurt District,North Nicholas,Weather Conditions,North Region
+788,2024-04-29,09:25,Thu,Unknown,Roundabout,23,Mud,Darkness - Lights Lit,1,3,Serious,53.6146,-1.8613,Gomezside District,South Ruthstad,Unknown,Metropolitan
+789,2025-03-01,05:01,Sat,Fine,Roundabout,38,Flood,Twilight,5,6,Slight,56.4612,-0.928,Lake Jennifer District,Port Aaronstad,Drunk Driving,South Region
+790,2025-01-24,23:37,Fri,Unknown,One Way Street,48,Ice,Darkness - Lights Lit,1,0,Slight,54.6878,-4.2887,West Michaelchester District,Chamberschester,Unknown,West Region
+791,2023-10-28,02:19,Fri,Windy,B-Road,54,Flood,Darkness - No Lighting,4,6,Slight,52.4096,1.0313,New Adrian District,North Nathan,Unknown,West Region
+792,2024-08-30,06:35,Thu,Windy,Roundabout,55,Mud,Darkness - Lights Lit,4,5,Fatal,55.8903,-0.5964,Michaelfort District,West Connie,Vehicle Fault,North Region
+793,2024-11-25,05:52,Sat,Hail,One Way Street,27,Dry,Darkness - Lighting Unknown,4,5,Serious,51.2257,-2.5259,New Blakefurt District,Lake Lauren,Weather Conditions,Metropolitan
+794,2024-11-14,12:39,Sat,Rain,Motorway,56,Dry,Twilight,5,6,Slight,56.8063,-3.9532,Port Erik District,New Andrewstad,Pedestrian Error,Metropolitan
+795,2023-08-04,06:54,Tue,Rain,Dual Carriageway,31,Snow,Darkness - No Lighting,5,5,Serious,52.6826,-1.6142,Garrettmouth District,Wongside,Speeding,South Region
+796,2024-01-12,02:15,Fri,Fine,A-Road,23,Ice,Darkness - Lights Lit,3,0,Serious,50.8397,-0.2845,Port Danielle District,Jeffreymouth,Unknown,West Region
+797,2023-04-25,03:34,Fri,Snow,Dual Carriageway,63,Dry,Darkness - No Lighting,2,3,Slight,56.2484,-2.6144,Christopherfort District,Ruizchester,Driver Error,South Region
+798,2023-07-18,23:12,Fri,Windy,B-Road,60,Flood,Darkness - Lighting Unknown,5,3,Slight,56.7699,-2.4046,North Eric District,Zoetown,Driver Error,East Region
+799,2023-03-23,18:19,Thu,Fine,Roundabout,50,Flood,Daylight,3,6,Slight,57.8025,-4.0056,Georgefort District,Julieport,Drunk Driving,West Region
+800,2024-01-29,04:02,Tue,Snow,Junction,65,Dry,Darkness - No Lighting,4,1,Slight,52.7859,-2.7911,Robinfort District,Cherylfort,Unknown,South Region
+801,2023-01-12,08:10,Sun,Fog,Dual Carriageway,64,Dry,Daylight,1,0,Slight,55.7247,-2.6316,East Thomas District,East Joseph,Unknown,East Region
+802,2024-10-01,13:07,Wed,Fine,Roundabout,67,Snow,Darkness - No Lighting,1,4,Slight,51.0943,-4.2798,North Karenberg District,Williamsfurt,Weather Conditions,South Region
+803,2024-05-14,03:49,Thu,Fine,B-Road,32,Mud,Twilight,4,0,Slight,50.5698,0.3477,South Gabriel District,Port Davidborough,Road Condition,South Region
+804,2025-02-17,20:30,Mon,Rain,Roundabout,67,Dry,Darkness - Lights Lit,2,2,Fatal,50.2665,-3.2511,West Martinborough District,Lake Markberg,Speeding,South Region
+805,2024-08-24,10:12,Thu,Rain,Dual Carriageway,49,Snow,Darkness - Lighting Unknown,5,1,Slight,55.0685,-3.7445,South Ashley District,New Brookeland,Driver Error,Metropolitan
+806,2024-04-01,10:39,Sat,Hail,Motorway,32,Dry,Twilight,2,5,Slight,56.9736,-0.9265,Ashleyfurt District,Annborough,Weather Conditions,South Region
+807,2023-12-13,12:09,Sat,Unknown,Motorway,37,Mud,Twilight,3,1,Serious,54.9763,1.207,Samuelmouth District,Smithborough,Drunk Driving,East Region
+808,2023-04-20,20:07,Thu,Windy,One Way Street,41,Mud,Daylight,5,1,Slight,55.8239,-1.6321,Turnertown District,Seanberg,Speeding,Metropolitan
+809,2024-08-10,06:43,Mon,Unknown,Motorway,33,Flood,Daylight,3,1,Slight,51.6505,-3.8148,New Carolynmouth District,New Peter,Distracted Driving,West Region
+810,2023-06-09,11:16,Wed,Fog,One Way Street,56,Ice,Darkness - No Lighting,3,0,Slight,53.2122,-2.6028,Stevenshire District,East Victoriaburgh,Speeding,North Region
+811,2024-11-11,02:30,Fri,Hail,Junction,48,Flood,Daylight,2,6,Slight,57.1914,1.0004,Lake Christine District,Port Justin,Driver Error,Metropolitan
+812,2024-01-28,06:03,Mon,Unknown,One Way Street,33,Ice,Darkness - Lighting Unknown,3,4,Slight,55.3109,-4.3185,Collinsstad District,Jonathanfort,Drunk Driving,West Region
+813,2024-03-21,04:44,Mon,Fog,One Way Street,44,Wet,Darkness - Lighting Unknown,2,2,Serious,53.3906,-4.3444,West Karenchester District,New Vanessafurt,Weather Conditions,East Region
+814,2023-08-21,14:24,Thu,Unknown,Junction,34,Wet,Daylight,3,0,Serious,54.9281,-0.4716,Williamshaven District,Johnside,Speeding,West Region
+815,2024-07-12,11:11,Fri,Windy,Junction,68,Mud,Darkness - Lighting Unknown,4,5,Slight,53.864,-3.4,New Masonchester District,North Kristi,Road Condition,West Region
+816,2024-10-27,14:55,Mon,Snow,Junction,54,Ice,Darkness - Lighting Unknown,3,3,Slight,53.4018,-2.4008,Williamsview District,Ramirezberg,Speeding,East Region
+817,2025-04-02,03:18,Wed,Windy,Motorway,50,Flood,Darkness - No Lighting,1,2,Slight,55.689,-0.1059,West Marcusville District,East Jennifer,Weather Conditions,North Region
+818,2024-12-03,14:29,Fri,Hail,Motorway,56,Flood,Darkness - Lights Lit,2,3,Slight,57.3383,-2.1819,Jamesmouth District,Stephanieport,Speeding,Metropolitan
+819,2024-05-12,14:43,Mon,Rain,Junction,43,Snow,Darkness - Lights Lit,5,0,Slight,55.6482,1.4464,South Christopherberg District,Sharonshire,Speeding,South Region
+820,2024-09-13,01:11,Mon,Windy,Roundabout,28,Mud,Darkness - Lighting Unknown,5,3,Slight,51.3672,-1.7812,Monicaport District,Port Davidland,Road Condition,South Region
+821,2023-11-07,20:03,Sun,Fog,Dual Carriageway,52,Wet,Daylight,1,1,Serious,57.3649,-0.6263,Saundersmouth District,Tonyshire,Speeding,West Region
+822,2023-09-22,00:32,Sat,Windy,Motorway,24,Snow,Twilight,1,2,Slight,54.4958,-3.9728,New Maryshire District,East Dennismouth,Pedestrian Error,Metropolitan
+823,2025-01-15,00:47,Thu,Fog,Dual Carriageway,53,Flood,Darkness - No Lighting,3,5,Slight,57.0742,-0.2658,Michelebury District,Jacksonchester,Weather Conditions,North Region
+824,2023-06-27,19:50,Thu,Unknown,Motorway,54,Dry,Daylight,5,2,Slight,50.5745,-4.7335,Lake Susanhaven District,Port Katelynborough,Speeding,South Region
+825,2023-03-02,01:06,Sun,Fog,A-Road,44,Ice,Darkness - Lights Lit,4,3,Slight,57.0333,0.3341,Johnmouth District,East Veronica,Pedestrian Error,North Region
+826,2025-04-02,21:48,Wed,Fog,Dual Carriageway,31,Ice,Darkness - Lights Lit,4,3,Slight,57.1218,-2.1287,Jenniferland District,Simonberg,Distracted Driving,South Region
+827,2024-02-17,09:40,Mon,Fog,B-Road,60,Mud,Daylight,2,6,Slight,57.4598,1.7509,South Philipburgh District,East Bryanburgh,Speeding,Metropolitan
+828,2023-06-13,19:15,Tue,Hail,Junction,59,Dry,Darkness - Lights Lit,4,5,Slight,54.9105,-4.0169,Contreraston District,West Douglas,Drunk Driving,South Region
+829,2024-01-29,02:54,Mon,Fog,Motorway,24,Ice,Daylight,2,1,Slight,54.6609,-0.6511,Lake Joanshire District,New Bobtown,Road Condition,West Region
+830,2023-11-05,10:21,Sun,Rain,Junction,20,Dry,Darkness - Lighting Unknown,5,6,Slight,54.8663,0.9694,Millsstad District,Calebfort,Weather Conditions,South Region
+831,2023-02-03,02:10,Sun,Snow,A-Road,37,Wet,Daylight,1,5,Slight,57.7132,0.0856,Kellerfort District,Nortonville,Distracted Driving,East Region
+832,2025-03-01,12:54,Tue,Hail,Motorway,28,Ice,Twilight,1,3,Slight,53.1928,-0.2402,Port Lorichester District,Johnsonside,Distracted Driving,South Region
+833,2025-05-12,13:49,Sat,Fine,B-Road,34,Ice,Darkness - Lighting Unknown,4,4,Slight,53.7647,-1.6424,Leahburgh District,North Billyville,Distracted Driving,South Region
+834,2023-08-30,16:41,Fri,Unknown,Roundabout,69,Dry,Darkness - No Lighting,2,5,Slight,52.1196,0.2716,North Juan District,Michaelberg,Speeding,West Region
+835,2024-04-06,13:06,Fri,Fine,Roundabout,58,Dry,Darkness - Lighting Unknown,5,5,Slight,51.7395,1.7571,Parkerfurt District,Lake Teresaborough,Distracted Driving,West Region
+836,2024-03-12,12:04,Thu,Unknown,Roundabout,23,Ice,Darkness - Lights Lit,3,6,Slight,51.4883,-0.167,Robinsonfurt District,North Melissashire,Speeding,West Region
+837,2024-06-14,07:12,Wed,Snow,One Way Street,37,Dry,Darkness - Lighting Unknown,5,1,Slight,56.3608,-2.9299,East Gail District,Amyshire,Road Condition,East Region
+838,2024-08-14,06:19,Fri,Rain,Junction,46,Mud,Darkness - No Lighting,4,6,Slight,55.7484,1.5147,West Thomas District,Port Ryanfurt,Unknown,Metropolitan
+839,2025-05-07,10:20,Sat,Unknown,A-Road,48,Ice,Darkness - Lights Lit,2,5,Slight,57.0761,-4.7878,Elizabethmouth District,Carrollchester,Driver Error,West Region
+840,2024-05-19,10:09,Tue,Fog,Motorway,56,Flood,Twilight,4,5,Slight,51.2713,-0.8452,Suttonmouth District,East Charles,Speeding,East Region
+841,2024-07-10,11:32,Tue,Hail,A-Road,59,Snow,Daylight,3,2,Serious,50.5699,-2.2911,South Thomasview District,East Lindseytown,Pedestrian Error,South Region
+842,2024-11-02,10:29,Thu,Fog,Roundabout,56,Mud,Twilight,2,6,Slight,54.5247,-0.4137,West Rebeccaberg District,Foleymouth,Road Condition,East Region
+843,2024-03-22,23:37,Wed,Fog,B-Road,34,Snow,Twilight,5,3,Slight,56.8113,1.2956,Juliechester District,Port Michaelmouth,Pedestrian Error,Metropolitan
+844,2023-09-18,16:28,Wed,Snow,A-Road,48,Flood,Darkness - No Lighting,3,4,Slight,52.7104,-0.2003,East Brianbury District,Roberthaven,Speeding,South Region
+845,2024-09-04,21:06,Thu,Snow,Junction,35,Dry,Daylight,2,6,Slight,54.71,-2.3076,West Amanda District,Lake Derekside,Pedestrian Error,West Region
+846,2025-04-10,23:25,Tue,Fog,One Way Street,36,Ice,Twilight,3,2,Slight,55.559,-0.1711,East Tina District,Jacobville,Pedestrian Error,North Region
+847,2023-08-12,19:15,Wed,Rain,A-Road,27,Wet,Darkness - No Lighting,4,4,Slight,51.8153,1.5838,Port Victoriastad District,New Thomasshire,Distracted Driving,South Region
+848,2023-11-06,23:14,Wed,Unknown,Dual Carriageway,35,Ice,Darkness - Lighting Unknown,2,5,Slight,50.2149,-4.5022,South Angelafort District,Andrewsville,Unknown,East Region
+849,2023-05-24,11:25,Sun,Hail,Roundabout,62,Dry,Darkness - Lights Lit,5,5,Slight,53.2225,0.9799,Jessicashire District,Christianview,Distracted Driving,West Region
+850,2023-12-09,20:59,Wed,Snow,A-Road,26,Snow,Daylight,1,0,Slight,55.0467,1.0989,North Saraton District,Pamelaport,Driver Error,East Region
+851,2023-02-18,16:29,Mon,Unknown,Junction,26,Wet,Darkness - Lighting Unknown,3,6,Slight,50.8535,-3.5568,Ashleyview District,Brownberg,Speeding,West Region
+852,2024-11-03,16:17,Thu,Hail,Dual Carriageway,54,Wet,Darkness - No Lighting,2,5,Slight,57.3343,1.0199,Adamsfurt District,Lake Audreyton,Drunk Driving,West Region
+853,2023-04-06,18:14,Mon,Fog,Dual Carriageway,51,Wet,Twilight,4,6,Slight,50.4394,-2.4462,Port Jamie District,Shannonchester,Speeding,Metropolitan
+854,2023-07-25,03:50,Wed,Fog,Motorway,55,Flood,Darkness - Lighting Unknown,5,4,Serious,53.8851,-0.5413,Lake Meganbury District,South Kayla,Pedestrian Error,East Region
+855,2023-06-13,01:03,Tue,Snow,Motorway,37,Flood,Twilight,3,0,Slight,54.7335,-0.3911,West Michelletown District,Pamelafurt,Drunk Driving,South Region
+856,2025-01-08,15:08,Sat,Snow,One Way Street,36,Ice,Darkness - No Lighting,1,2,Slight,51.6905,1.0454,North Christopher District,Phillipsbury,Road Condition,South Region
+857,2024-09-19,13:19,Fri,Unknown,Motorway,27,Flood,Darkness - Lighting Unknown,2,1,Serious,55.59,1.3871,Wilcoxville District,Lake Calvinfurt,Speeding,South Region
+858,2023-08-21,01:51,Tue,Hail,Motorway,38,Mud,Darkness - Lighting Unknown,4,3,Serious,55.7582,-3.7085,Andrewsport District,Port Aliciashire,Drunk Driving,North Region
+859,2023-03-05,16:38,Fri,Fog,Dual Carriageway,54,Ice,Darkness - Lighting Unknown,3,1,Slight,55.1742,-3.1287,West Territown District,East Lisa,Pedestrian Error,West Region
+860,2025-03-18,01:41,Mon,Fine,Motorway,38,Dry,Darkness - Lighting Unknown,5,2,Slight,52.8378,-2.5522,South Karenstad District,Rossville,Distracted Driving,South Region
+861,2023-10-03,01:10,Sun,Windy,B-Road,25,Dry,Daylight,4,4,Serious,54.6607,1.2561,Port Janice District,Owensview,Unknown,West Region
+862,2023-03-29,09:40,Sat,Unknown,One Way Street,68,Flood,Darkness - No Lighting,4,6,Slight,55.1853,-1.9644,Kimberlychester District,Millerstad,Weather Conditions,North Region
+863,2023-04-24,04:14,Tue,Fog,Roundabout,23,Dry,Darkness - No Lighting,2,1,Slight,50.8135,-1.0401,Randychester District,Robertton,Drunk Driving,South Region
+864,2025-05-14,04:16,Tue,Fine,Dual Carriageway,24,Ice,Twilight,2,4,Slight,52.4901,-2.4641,South Jaimefurt District,New Russell,Unknown,South Region
+865,2024-01-23,21:53,Thu,Fog,A-Road,69,Flood,Darkness - No Lighting,3,3,Slight,57.8561,-2.332,West Benjaminchester District,Parkerstad,Distracted Driving,North Region
+866,2024-09-02,07:31,Thu,Rain,A-Road,61,Ice,Daylight,4,6,Slight,52.5424,0.1174,Port Kimberlyshire District,North William,Speeding,South Region
+867,2023-12-06,14:52,Tue,Unknown,One Way Street,65,Snow,Darkness - No Lighting,3,6,Fatal,57.099,-3.3164,Harrismouth District,Lake Steven,Driver Error,South Region
+868,2024-02-10,13:31,Fri,Fine,Roundabout,20,Wet,Darkness - No Lighting,3,6,Serious,52.2759,-3.3495,West Lisashire District,Melissaport,Weather Conditions,Metropolitan
+869,2023-09-11,05:09,Wed,Windy,A-Road,52,Wet,Twilight,5,0,Slight,52.5588,-2.3241,Lewisfort District,West James,Driver Error,South Region
+870,2023-03-06,22:29,Sat,Rain,Roundabout,68,Mud,Daylight,2,4,Slight,52.9082,0.6776,Coffeyport District,Victoriafurt,Road Condition,West Region
+871,2024-12-20,01:03,Wed,Fine,Roundabout,25,Flood,Daylight,5,1,Slight,52.6778,1.3074,Jacquelineside District,Lake Linda,Weather Conditions,South Region
+872,2025-01-14,07:26,Sun,Fine,B-Road,58,Ice,Twilight,3,4,Slight,50.8936,-0.4003,Thompsonville District,Mcgrathchester,Speeding,North Region
+873,2023-01-17,17:40,Sat,Unknown,B-Road,46,Flood,Twilight,4,5,Slight,51.1275,-4.3941,West Leslieberg District,Port Kevin,Pedestrian Error,Metropolitan
+874,2025-06-13,11:52,Thu,Snow,Junction,35,Snow,Darkness - No Lighting,2,2,Slight,50.2777,-1.7727,Lake Natasha District,New Jasmine,Driver Error,East Region
+875,2024-01-25,05:22,Wed,Rain,B-Road,24,Dry,Daylight,4,4,Slight,53.2277,-1.4883,Williamside District,North Susanville,Pedestrian Error,West Region
+876,2024-05-28,16:22,Sun,Rain,B-Road,47,Dry,Darkness - Lighting Unknown,1,1,Slight,57.5912,0.2521,East James District,Simmonsport,Distracted Driving,South Region
+877,2023-09-11,16:26,Wed,Rain,Dual Carriageway,47,Wet,Darkness - No Lighting,2,2,Serious,52.3881,-2.541,West Jonathan District,Port Christineton,Road Condition,North Region
+878,2024-10-24,08:06,Sun,Windy,Junction,24,Wet,Darkness - No Lighting,4,0,Serious,57.0641,-3.986,Bradleyburgh District,Karaborough,Pedestrian Error,Metropolitan
+879,2024-07-13,16:58,Mon,Fine,Dual Carriageway,59,Mud,Darkness - Lights Lit,3,6,Slight,56.0727,-3.2244,South Joseph District,West Kimberlyport,Unknown,South Region
+880,2025-04-17,21:43,Fri,Hail,A-Road,43,Flood,Darkness - Lights Lit,3,5,Slight,50.4961,-4.8448,West Christopherburgh District,North Rodneyberg,Unknown,Metropolitan
+881,2024-01-04,03:44,Sun,Fog,B-Road,31,Flood,Darkness - No Lighting,2,3,Fatal,50.1323,-0.0948,South Chad District,Patriciamouth,Drunk Driving,North Region
+882,2023-10-03,18:01,Thu,Hail,Motorway,48,Mud,Daylight,5,2,Slight,51.6284,-4.0875,East Jasonberg District,New Joshua,Pedestrian Error,North Region
+883,2025-05-01,22:07,Sat,Fine,One Way Street,49,Dry,Darkness - Lights Lit,3,1,Slight,54.6102,-3.4652,Erikstad District,South Amanda,Distracted Driving,West Region
+884,2024-03-01,21:38,Wed,Windy,One Way Street,23,Ice,Daylight,5,6,Slight,55.9783,-0.2038,South Larryport District,Jackton,Vehicle Fault,South Region
+885,2023-05-31,01:38,Tue,Windy,B-Road,49,Ice,Darkness - Lights Lit,3,4,Slight,52.946,-0.0549,Port Jason District,Lake Reneeshire,Speeding,West Region
+886,2023-05-28,20:58,Fri,Snow,One Way Street,47,Flood,Darkness - No Lighting,4,5,Serious,53.2559,-1.9205,New Christopher District,North Gregorychester,Pedestrian Error,East Region
+887,2025-04-16,11:53,Fri,Unknown,Junction,63,Ice,Daylight,2,5,Slight,50.9232,-2.5961,East Eriktown District,North Jennatown,Pedestrian Error,North Region
+888,2023-10-20,16:49,Thu,Hail,Dual Carriageway,26,Ice,Daylight,4,2,Slight,57.9824,-2.3101,Gilbertmouth District,North Matthewchester,Unknown,South Region
+889,2025-04-06,23:30,Sat,Rain,Dual Carriageway,68,Ice,Daylight,1,2,Serious,57.3528,0.8643,South Brianmouth District,Port Jeffrey,Road Condition,West Region
+890,2023-11-08,09:52,Thu,Hail,A-Road,57,Flood,Darkness - No Lighting,5,4,Slight,50.4728,0.9054,Port Brian District,Lake Karen,Unknown,North Region
+891,2025-06-14,09:05,Tue,Fog,Dual Carriageway,34,Wet,Twilight,1,1,Serious,55.9046,-0.5563,Lake Samantha District,Port Donaldmouth,Unknown,South Region
+892,2023-03-13,16:54,Tue,Windy,Roundabout,67,Ice,Darkness - Lights Lit,3,3,Slight,57.5828,-2.3601,North Ian District,Moodyberg,Drunk Driving,North Region
+893,2024-06-11,20:06,Mon,Fog,B-Road,44,Flood,Darkness - Lights Lit,4,1,Slight,52.8045,1.7148,Lake Dianetown District,North Craig,Unknown,Metropolitan
+894,2024-06-26,21:11,Wed,Rain,One Way Street,38,Mud,Darkness - No Lighting,4,1,Slight,55.3408,1.1239,Wrightborough District,Richardhaven,Drunk Driving,North Region
+895,2023-05-30,22:37,Fri,Fog,Motorway,31,Wet,Daylight,4,2,Serious,56.822,1.3414,North Andrew District,New Johnville,Distracted Driving,East Region
+896,2023-03-26,08:47,Tue,Fine,B-Road,44,Ice,Daylight,5,2,Fatal,50.7108,-4.7528,Port Caitlin District,Johnstontown,Driver Error,Metropolitan
+897,2024-06-17,17:51,Wed,Unknown,Dual Carriageway,26,Mud,Darkness - Lights Lit,3,6,Slight,52.2106,1.8802,Ariasbury District,Christopherstad,Weather Conditions,East Region
+898,2023-07-07,10:05,Tue,Rain,A-Road,55,Wet,Darkness - No Lighting,1,5,Serious,51.6668,-1.1838,Lyonsland District,East Malloryshire,Speeding,Metropolitan
+899,2023-01-21,14:59,Sun,Windy,Roundabout,24,Ice,Twilight,3,5,Serious,54.4555,0.557,Lake Michellehaven District,South Allison,Road Condition,South Region
+900,2024-11-29,16:24,Sat,Hail,B-Road,30,Dry,Darkness - Lighting Unknown,4,6,Slight,56.8573,-3.0165,Lake Kenneth District,Lake Nathanbury,Speeding,South Region
+901,2024-09-19,10:29,Thu,Hail,A-Road,48,Wet,Darkness - No Lighting,3,3,Slight,57.0785,-1.9486,Loweland District,Anneberg,Road Condition,North Region
+902,2025-02-06,17:23,Fri,Snow,Motorway,31,Flood,Darkness - No Lighting,4,0,Slight,50.8175,-3.1647,Justinmouth District,Ralphport,Unknown,East Region
+903,2024-05-14,15:49,Tue,Fog,B-Road,39,Mud,Twilight,4,5,Slight,56.1156,-0.2485,Beckburgh District,Smithport,Weather Conditions,West Region
+904,2023-08-07,16:37,Sun,Snow,Motorway,44,Flood,Darkness - Lighting Unknown,2,0,Fatal,56.9918,-1.2872,Lake Joseph District,Hayesburgh,Weather Conditions,East Region
+905,2023-09-08,22:56,Wed,Snow,Dual Carriageway,60,Wet,Daylight,4,2,Slight,52.306,-1.2891,South Richard District,Cruzstad,Drunk Driving,South Region
+906,2023-08-15,21:51,Tue,Rain,Roundabout,44,Wet,Darkness - No Lighting,2,1,Slight,55.7215,-4.0855,Williamport District,Port Stephen,Drunk Driving,West Region
+907,2023-03-26,03:21,Sun,Fine,Dual Carriageway,28,Wet,Darkness - Lights Lit,2,3,Slight,56.343,-2.6654,North Hollyhaven District,Bakerhaven,Speeding,North Region
+908,2024-03-09,22:19,Sat,Fine,One Way Street,29,Dry,Twilight,4,3,Slight,55.2357,0.7285,South Brittanychester District,West Antoniofort,Driver Error,North Region
+909,2024-08-20,19:55,Wed,Snow,Motorway,31,Ice,Twilight,3,6,Slight,50.002,-1.3015,Carterbury District,Smithmouth,Distracted Driving,Metropolitan
+910,2023-02-17,11:49,Sat,Snow,B-Road,67,Flood,Twilight,5,6,Slight,50.2618,1.5114,North Robertshire District,Lauraton,Weather Conditions,North Region
+911,2024-09-09,16:31,Tue,Unknown,A-Road,25,Ice,Daylight,2,4,Slight,51.6987,-0.9498,South Courtneystad District,Ashleyport,Speeding,East Region
+912,2025-02-10,18:38,Sat,Unknown,Dual Carriageway,47,Wet,Twilight,4,4,Slight,51.9351,1.2798,East Sarahmouth District,Lake Jennifer,Pedestrian Error,West Region
+913,2024-07-13,21:38,Sat,Hail,Dual Carriageway,44,Dry,Darkness - Lighting Unknown,4,6,Serious,51.1711,1.9835,Glenburgh District,Romeroville,Pedestrian Error,East Region
+914,2023-12-12,20:15,Sat,Hail,Motorway,51,Mud,Twilight,2,0,Serious,57.2337,-1.6543,East Zacharymouth District,South Vanessa,Unknown,East Region
+915,2023-09-22,23:21,Mon,Rain,Dual Carriageway,60,Flood,Twilight,1,0,Slight,55.4138,-4.5014,West Yvettemouth District,East Mirandaport,Road Condition,East Region
+916,2023-09-02,17:57,Tue,Fog,Roundabout,42,Mud,Darkness - Lights Lit,4,1,Slight,52.5659,-0.9019,Duaneborough District,Kennethfurt,Speeding,South Region
+917,2023-07-02,19:54,Sun,Fine,Dual Carriageway,63,Flood,Darkness - Lights Lit,5,4,Slight,56.9609,1.3591,Port Ryan District,New Michelle,Pedestrian Error,West Region
+918,2025-02-02,08:40,Thu,Snow,Roundabout,47,Mud,Darkness - No Lighting,4,5,Serious,57.7419,0.5634,Jeffreyberg District,Port Arthur,Driver Error,South Region
+919,2024-01-12,11:29,Sat,Windy,Motorway,62,Ice,Daylight,1,6,Slight,57.9282,-0.3128,New Jessicafurt District,Port Laura,Unknown,East Region
+920,2024-06-29,22:35,Thu,Hail,Dual Carriageway,63,Dry,Twilight,1,0,Serious,56.72,1.2197,Michellefurt District,Georgehaven,Speeding,East Region
+921,2023-10-14,02:38,Sat,Windy,B-Road,31,Flood,Darkness - Lighting Unknown,2,2,Slight,54.3994,0.5528,Elizabethhaven District,Port Jenniferland,Speeding,East Region
+922,2023-11-16,09:13,Mon,Fog,Dual Carriageway,51,Ice,Darkness - Lights Lit,5,6,Serious,57.5495,-0.1123,Christopherstad District,Evansport,Speeding,East Region
+923,2024-09-08,18:48,Sat,Hail,Dual Carriageway,38,Dry,Daylight,4,1,Slight,56.7469,1.5533,East Alexander District,East Michaelmouth,Pedestrian Error,North Region
+924,2024-03-28,05:29,Thu,Rain,A-Road,57,Dry,Daylight,2,0,Slight,53.2057,-2.5148,East Lindseyfurt District,Port Samuelborough,Unknown,East Region
+925,2023-05-22,11:23,Fri,Hail,B-Road,61,Ice,Darkness - Lights Lit,4,5,Slight,57.0758,1.4445,Port Derek District,South Benjamin,Weather Conditions,Metropolitan
+926,2025-06-16,09:03,Sun,Fog,A-Road,45,Mud,Daylight,2,5,Serious,55.514,-3.2529,Edwardmouth District,Lake Joshua,Weather Conditions,Metropolitan
+927,2023-06-01,16:38,Wed,Snow,Dual Carriageway,48,Ice,Darkness - Lights Lit,2,5,Slight,57.6137,-3.2241,Lake Madisonfurt District,East Peter,Drunk Driving,West Region
+928,2023-09-01,17:24,Fri,Fog,A-Road,32,Ice,Darkness - Lights Lit,5,5,Slight,56.0796,-0.3582,Lake Jeffreytown District,Rodriguezborough,Road Condition,South Region
+929,2024-11-01,01:41,Sat,Hail,Junction,36,Mud,Darkness - Lighting Unknown,2,1,Slight,57.739,-2.6608,Samuelmouth District,East Jennifer,Road Condition,North Region
+930,2023-07-22,16:00,Sat,Fine,One Way Street,30,Wet,Darkness - Lighting Unknown,5,4,Slight,55.8909,1.9142,Karenhaven District,Mirandatown,Speeding,East Region
+931,2024-10-03,14:38,Thu,Unknown,A-Road,22,Wet,Twilight,5,4,Slight,51.3222,-4.656,Lake David District,New Lori,Road Condition,East Region
+932,2024-02-17,17:59,Wed,Unknown,Motorway,67,Wet,Daylight,1,0,Slight,52.4185,-4.8085,Figueroamouth District,West Michaelhaven,Weather Conditions,Metropolitan
+933,2024-08-17,23:16,Wed,Unknown,Motorway,70,Flood,Darkness - Lighting Unknown,4,4,Serious,56.6352,-0.1729,West James District,Jennifershire,Driver Error,West Region
+934,2025-01-23,05:58,Sat,Snow,A-Road,37,Ice,Darkness - Lighting Unknown,2,3,Slight,50.3383,-0.1709,West Brianside District,Port Edward,Weather Conditions,Metropolitan
+935,2024-02-21,20:46,Fri,Fine,B-Road,69,Dry,Darkness - Lights Lit,4,3,Slight,50.1144,-1.5044,Turnerside District,North Tanner,Unknown,West Region
+936,2023-01-21,16:43,Fri,Hail,Junction,66,Flood,Darkness - No Lighting,2,6,Slight,50.1151,-1.1505,Candaceview District,North Jamesfort,Vehicle Fault,North Region
+937,2023-03-12,10:48,Sat,Hail,Junction,63,Mud,Darkness - Lighting Unknown,5,1,Serious,54.6092,-2.3178,Greenview District,Rachelside,Pedestrian Error,North Region
+938,2024-04-16,16:18,Tue,Rain,A-Road,63,Ice,Darkness - No Lighting,3,5,Slight,54.3885,1.4188,New Tamara District,Robertton,Driver Error,Metropolitan
+939,2023-04-30,06:34,Sat,Hail,One Way Street,42,Ice,Twilight,2,2,Slight,57.9316,-2.8211,Harveyport District,Debraport,Vehicle Fault,North Region
+940,2023-01-27,16:59,Tue,Fog,B-Road,69,Dry,Twilight,1,1,Slight,55.4595,-3.9524,Frazierport District,Hodgeshaven,Road Condition,West Region
+941,2024-04-04,18:10,Fri,Fog,Junction,65,Dry,Twilight,4,5,Serious,55.1102,-4.4664,South Michelleberg District,Williamsburgh,Distracted Driving,East Region
+942,2024-10-04,09:17,Tue,Fog,Roundabout,36,Wet,Darkness - No Lighting,1,2,Serious,53.4424,-3.7397,West John District,North Douglas,Drunk Driving,Metropolitan
+943,2023-05-25,20:29,Mon,Fog,Motorway,29,Mud,Darkness - Lighting Unknown,4,6,Slight,50.5479,1.3728,South Sharon District,Welchberg,Weather Conditions,West Region
+944,2023-01-08,03:58,Sun,Windy,Motorway,31,Snow,Darkness - Lighting Unknown,5,3,Serious,54.6643,0.9248,Hallmouth District,Debrashire,Vehicle Fault,East Region
+945,2024-11-12,03:25,Tue,Snow,B-Road,30,Ice,Darkness - Lighting Unknown,4,5,Serious,53.6346,0.2782,New Aimeeburgh District,West Catherine,Vehicle Fault,North Region
+946,2023-12-18,06:02,Thu,Fine,A-Road,69,Ice,Darkness - No Lighting,2,6,Slight,50.368,-2.2606,Shannonbury District,Port Joshua,Pedestrian Error,West Region
+947,2023-07-20,07:36,Thu,Hail,A-Road,66,Flood,Darkness - No Lighting,4,3,Slight,54.876,-3.1867,Kevinborough District,West Patricia,Vehicle Fault,North Region
+948,2023-11-30,03:40,Thu,Unknown,Junction,48,Mud,Darkness - No Lighting,4,3,Slight,52.8367,-2.9134,Deborahton District,South James,Road Condition,East Region
+949,2024-06-09,15:47,Fri,Unknown,A-Road,26,Mud,Darkness - Lighting Unknown,3,2,Slight,52.8992,0.4294,West Douglasburgh District,Bobbyport,Pedestrian Error,South Region
+950,2025-01-23,21:57,Thu,Fog,Dual Carriageway,59,Snow,Darkness - No Lighting,5,6,Slight,52.3881,-1.4735,Spencerchester District,North Heatherbury,Driver Error,East Region
+951,2024-05-02,01:03,Fri,Fog,Junction,22,Flood,Darkness - No Lighting,2,0,Serious,51.5659,0.7949,Amytown District,West Jennifer,Distracted Driving,North Region
+952,2023-02-05,19:45,Thu,Rain,Roundabout,29,Ice,Darkness - Lights Lit,2,1,Slight,51.0637,-4.4193,Lake Angelaberg District,Carolyntown,Vehicle Fault,East Region
+953,2023-12-19,00:47,Tue,Fine,One Way Street,69,Snow,Darkness - No Lighting,3,5,Slight,50.3184,-1.0533,West Michael District,West Brianbury,Road Condition,West Region
+954,2023-10-01,10:50,Mon,Unknown,B-Road,45,Wet,Darkness - Lighting Unknown,3,4,Slight,50.1811,0.638,Port Tiffany District,Cabreramouth,Speeding,South Region
+955,2024-09-22,21:57,Thu,Unknown,B-Road,33,Dry,Daylight,5,3,Slight,54.5734,-0.8323,New Patricia District,South Michaelton,Driver Error,East Region
+956,2023-09-06,15:50,Thu,Hail,Roundabout,29,Snow,Darkness - Lighting Unknown,4,4,Slight,54.5882,-0.8143,Brooksbury District,East Aimee,Distracted Driving,West Region
+957,2023-02-07,20:07,Fri,Windy,Roundabout,30,Mud,Darkness - Lights Lit,3,3,Slight,53.8454,-4.912,Michaelshire District,North Taraport,Vehicle Fault,North Region
+958,2024-11-01,14:33,Mon,Windy,Roundabout,41,Snow,Darkness - No Lighting,5,6,Slight,54.5384,-3.5954,Taylorton District,West Jeremy,Road Condition,Metropolitan
+959,2024-04-13,04:52,Wed,Windy,A-Road,58,Snow,Darkness - Lights Lit,1,1,Fatal,57.5018,-0.9795,West Deborahhaven District,Rangelton,Road Condition,West Region
+960,2023-01-11,09:01,Sun,Rain,Dual Carriageway,27,Mud,Twilight,3,1,Slight,53.309,-3.9694,East Leah District,West Jessicaborough,Unknown,South Region
+961,2024-03-04,15:02,Sun,Hail,Dual Carriageway,40,Ice,Twilight,1,2,Slight,52.3073,-4.5544,North Colleenbury District,Lisatown,Drunk Driving,North Region
+962,2024-07-20,01:30,Tue,Hail,One Way Street,37,Dry,Darkness - Lighting Unknown,3,6,Slight,51.7015,-4.7426,East Danielle District,Warnerfort,Pedestrian Error,Metropolitan
+963,2023-05-11,18:45,Fri,Snow,Motorway,29,Snow,Twilight,5,2,Slight,54.0577,-2.6868,Goodtown District,Lake Linda,Distracted Driving,North Region
+964,2024-01-02,19:30,Sun,Fine,One Way Street,62,Snow,Twilight,3,0,Serious,52.0672,-3.0268,North Pamelaborough District,Saramouth,Driver Error,South Region
+965,2024-09-20,09:57,Tue,Unknown,One Way Street,30,Flood,Twilight,1,2,Slight,54.608,1.8541,Billymouth District,Kelseystad,Drunk Driving,North Region
+966,2025-06-22,03:38,Fri,Windy,Dual Carriageway,24,Wet,Darkness - Lighting Unknown,1,6,Slight,56.6138,-3.5119,Heatherfort District,Scottland,Vehicle Fault,Metropolitan
+967,2023-07-22,02:30,Thu,Hail,One Way Street,32,Dry,Twilight,5,0,Slight,56.2229,1.5214,East Jamesport District,Belindaberg,Distracted Driving,Metropolitan
+968,2024-05-21,03:29,Wed,Windy,Junction,35,Dry,Darkness - Lights Lit,5,6,Slight,55.9243,-2.1457,Patriciaville District,South Robert,Vehicle Fault,Metropolitan
+969,2024-12-19,08:07,Wed,Hail,B-Road,51,Flood,Daylight,3,4,Slight,51.8497,-0.8427,North Kathleen District,Port Georgeshire,Distracted Driving,North Region
+970,2023-01-30,00:22,Mon,Windy,A-Road,33,Snow,Darkness - No Lighting,1,5,Slight,52.0038,1.8612,Jasonville District,South Claudiaborough,Drunk Driving,North Region
+971,2023-06-23,03:16,Mon,Snow,Junction,31,Mud,Darkness - Lights Lit,1,2,Slight,54.875,-3.2191,Wilsonberg District,East Craig,Pedestrian Error,South Region
+972,2025-06-10,15:01,Sun,Fine,B-Road,33,Mud,Darkness - No Lighting,1,6,Slight,51.5917,0.4454,Littlechester District,South Gerald,Drunk Driving,East Region
+973,2023-04-07,19:36,Mon,Hail,One Way Street,34,Snow,Darkness - Lighting Unknown,2,4,Fatal,55.208,-3.0786,Rivastown District,Simmonston,Weather Conditions,West Region
+974,2024-08-27,18:12,Sat,Fog,One Way Street,23,Wet,Darkness - Lights Lit,2,3,Slight,55.7973,-4.4377,East Jenniferside District,Littleberg,Road Condition,East Region
+975,2025-01-30,03:01,Mon,Fog,A-Road,43,Dry,Darkness - Lighting Unknown,1,0,Slight,56.8143,0.3665,Lake Michelleberg District,Beckerside,Vehicle Fault,Metropolitan
+976,2024-01-10,23:45,Sun,Hail,A-Road,27,Ice,Twilight,2,6,Serious,53.6262,-4.3547,South Michael District,Tracyview,Distracted Driving,East Region
+977,2024-09-08,14:16,Fri,Fog,One Way Street,35,Flood,Darkness - Lights Lit,5,6,Serious,57.6881,1.6451,Friedmanshire District,Parsonsburgh,Speeding,South Region
+978,2023-07-12,03:56,Sun,Fog,A-Road,26,Snow,Daylight,4,6,Slight,51.6151,-3.3582,Scottborough District,New Richardshire,Road Condition,East Region
+979,2025-01-14,09:48,Fri,Fog,Motorway,31,Wet,Daylight,4,0,Slight,50.0037,-1.3141,North Douglas District,Adrienneville,Road Condition,South Region
+980,2024-07-01,03:43,Wed,Windy,Roundabout,29,Snow,Darkness - Lights Lit,3,1,Slight,50.1372,0.6946,Lake Melissa District,Rogersborough,Distracted Driving,North Region
+981,2023-07-19,16:46,Wed,Hail,One Way Street,23,Ice,Twilight,2,6,Slight,53.9306,1.851,Ericmouth District,Edwardsshire,Road Condition,South Region
+982,2023-12-07,17:30,Tue,Fog,Junction,21,Flood,Darkness - Lights Lit,4,1,Serious,50.7542,-2.0153,Normaville District,Melissafurt,Drunk Driving,South Region
+983,2024-12-18,13:34,Thu,Snow,B-Road,59,Snow,Twilight,5,4,Slight,52.2136,0.8615,Barberchester District,New Annton,Distracted Driving,North Region
+984,2023-02-28,01:30,Wed,Snow,Motorway,48,Flood,Darkness - No Lighting,5,2,Serious,50.5039,-4.7195,Lauraville District,Port Robert,Driver Error,West Region
+985,2023-08-24,11:18,Sat,Rain,One Way Street,51,Snow,Darkness - Lights Lit,4,6,Serious,53.5119,1.7148,Josephville District,Cooperfurt,Driver Error,North Region
+986,2023-12-02,18:57,Mon,Fog,Junction,41,Dry,Twilight,1,1,Slight,55.4713,0.5336,West Michaelfort District,New Catherine,Road Condition,East Region
+987,2024-03-05,14:58,Thu,Fog,One Way Street,26,Snow,Twilight,3,5,Slight,53.5893,-1.7934,Lake Johnland District,Normanmouth,Drunk Driving,South Region
+988,2023-11-01,08:22,Fri,Windy,Roundabout,48,Mud,Darkness - Lighting Unknown,1,2,Serious,50.3367,-0.8174,New Christy District,Jesseland,Weather Conditions,Metropolitan
+989,2024-11-22,13:40,Thu,Fine,A-Road,39,Dry,Twilight,2,5,Slight,54.256,-4.7407,Kristenstad District,North Rogershire,Drunk Driving,East Region
+990,2024-03-29,20:10,Sun,Windy,Motorway,52,Ice,Darkness - No Lighting,4,4,Slight,57.5712,-1.4385,South Paige District,Port Sarahmouth,Pedestrian Error,North Region
+991,2023-06-18,01:16,Wed,Hail,A-Road,20,Wet,Darkness - No Lighting,3,4,Serious,50.4324,0.7689,Juliamouth District,Lake Robert,Road Condition,Metropolitan
+992,2023-12-17,08:06,Sun,Fog,A-Road,44,Flood,Twilight,1,4,Slight,56.649,-1.7488,Josephhaven District,Johnathanfurt,Pedestrian Error,South Region
+993,2024-09-18,16:36,Tue,Rain,One Way Street,25,Wet,Darkness - No Lighting,4,6,Slight,57.2334,1.3473,North Larryside District,Melissashire,Driver Error,Metropolitan
+994,2024-10-03,13:04,Tue,Rain,A-Road,64,Mud,Darkness - Lights Lit,5,6,Slight,57.5303,-4.3681,East Lori District,Davisbury,Driver Error,South Region
+995,2024-09-06,05:05,Fri,Fine,Roundabout,65,Ice,Twilight,2,6,Slight,50.5704,-0.8103,North Jim District,Krausetown,Speeding,Metropolitan
+996,2023-12-10,19:26,Mon,Hail,Dual Carriageway,59,Mud,Twilight,1,5,Slight,54.026,-2.2195,New Melissaberg District,Robinhaven,Distracted Driving,North Region
+997,2023-06-22,11:44,Fri,Unknown,Junction,23,Wet,Twilight,4,4,Slight,56.7022,-4.8503,Hicksborough District,Adamsberg,Speeding,West Region
+998,2023-12-29,19:05,Thu,Fine,Motorway,37,Wet,Twilight,3,6,Slight,55.3515,-3.8366,New Jefferyland District,Mcmillanside,Speeding,North Region
+999,2024-08-29,14:45,Thu,Fine,A-Road,37,Wet,Twilight,4,0,Serious,55.6592,0.4822,Lake Reneeshire District,East Susan,Drunk Driving,South Region
+1000,2024-09-11,13:19,Tue,Snow,A-Road,36,Wet,Darkness - No Lighting,2,1,Serious,52.4754,-4.0055,Port Matthew District,South Williammouth,Weather Conditions,West Region

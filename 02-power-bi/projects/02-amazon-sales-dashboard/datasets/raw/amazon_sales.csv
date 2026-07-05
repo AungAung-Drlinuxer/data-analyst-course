@@ -1,0 +1,1001 @@
+order_id,date,customer_id,customer_name,product_id,product_name,category,sub_category,price,quantity,discount,shipping_cost,payment_method,region,city,state,order_status,fulfillment,sales_channel
+1,2025-06-04,CUST0001,Kathy Williams,PROD0001,Late 150,Books,Non-Fiction,956.67,7,0.13,30.86,COD,East,Port Joshuaview,Alabama,Shipped,FBA,Amazon.com
+2,2024-03-16,CUST0002,Robin Williams,PROD0002,Institution 189,Electronics,Headphones,119.58,6,0.01,42.98,COD,East,Millsmouth,New Hampshire,Delivered,FBA,Amazon UK
+3,2024-07-24,CUST0003,Edward Cook,PROD0003,Age 566,Electronics,Laptops,839.74,3,0.05,15.65,Amazon Pay,Central,Jimmyside,Kansas,Delivered,Easy Ship,Amazon.com
+4,2024-02-15,CUST0004,Jason Blake,PROD0004,Age 963,Books,Fiction,726.78,1,0.03,16.37,Net Banking,North,Foleyton,Kansas,Shipped,Easy Ship,Amazon DE
+5,2024-05-24,CUST0005,Brenda Reilly,PROD0005,National 812,Electronics,Laptops,592.74,3,0.04,43.25,Net Banking,Central,Wheelerview,South Carolina,Shipped,FBA,Amazon.com
+6,2025-03-03,CUST0006,Joyce Odonnell,PROD0006,Strong 537,Books,Fiction,125.79,10,0.22,32.19,Net Banking,Central,Jackfort,Ohio,Returned,Easy Ship,Amazon UK
+7,2024-09-13,CUST0007,Andrew Scott,PROD0007,Red 632,Sports,Outdoor,639.81,9,0.17,31.92,COD,Central,Jeffreyburgh,Arizona,Cancelled,Easy Ship,Amazon DE
+8,2025-04-18,CUST0008,James Keith,PROD0008,Level 124,Books,Non-Fiction,1000.5,3,0.27,13.17,Debit Card,North,Andrewland,Louisiana,Shipped,FBM,Amazon.in
+9,2025-01-03,CUST0009,Ryan Lyons,PROD0009,Call 111,Books,Non-Fiction,1595.5,4,0.24,49.95,UPI,East,Port Anthony,Maine,Delivered,Easy Ship,Amazon.com
+10,2024-02-10,CUST0010,Cynthia Herman,PROD0010,Meet 802,Clothing,Mens Wear,1383.13,5,0.24,16.77,UPI,North,Port Stephanie,Mississippi,Delivered,FBM,Amazon.in
+11,2024-11-03,CUST0011,Melissa Cortez,PROD0011,Write 585,Clothing,Kids,798.14,10,0.18,3.4,UPI,East,Deleonmouth,Mississippi,Shipped,FBA,Amazon DE
+12,2025-04-08,CUST0012,Frank Ortega,PROD0012,Politics 860,Books,Non-Fiction,280.15,3,0.19,44.82,UPI,West,East Alyssa,New Hampshire,Delivered,FBA,Amazon DE
+13,2024-08-02,CUST0013,David Jordan,PROD0013,Beyond 918,Sports,Outdoor,1046.94,10,0.22,17.14,Debit Card,Central,North Jodi,Tennessee,Delivered,FBM,Amazon UK
+14,2024-07-25,CUST0014,Amanda Hudson,PROD0014,Character 291,Electronics,Laptops,1939.53,5,0.25,18.28,COD,South,Foleybury,Wyoming,Shipped,Easy Ship,Amazon DE
+15,2025-05-26,CUST0015,Geoffrey Erickson,PROD0015,Thus 998,Electronics,Laptops,1730.54,5,0.21,17.1,Net Banking,North,New Erika,Massachusetts,Shipped,FBA,Amazon DE
+16,2025-01-11,CUST0016,Taylor Evans,PROD0016,Against 554,Clothing,Kids,909.29,5,0.06,16.51,Credit Card,South,Lake Christinashire,North Carolina,Shipped,Easy Ship,Amazon.in
+17,2024-09-11,CUST0017,Joshua Ellis,PROD0017,Stay 246,Electronics,Mobile Phones,1600.06,9,0.05,18.33,COD,East,South Christine,New York,Delivered,FBA,Amazon UK
+18,2024-12-04,CUST0018,Kathy Brady,PROD0018,Quite 104,Sports,Outdoor,1964.72,9,0.2,8.37,Net Banking,West,Port Juanfort,Michigan,Processing,FBM,Amazon.in
+19,2025-03-16,CUST0019,Julia White,PROD0019,Hope 123,Sports,Cycling,97.62,10,0.26,18.0,Credit Card,Central,Lake Aprilfort,New York,Cancelled,Easy Ship,Amazon UK
+20,2024-03-15,CUST0020,Carmen Ware,PROD0020,Up 379,Sports,Fitness,631.16,4,0.1,11.24,UPI,West,Lake Madelineburgh,Alabama,Shipped,FBA,Amazon.in
+21,2024-12-29,CUST0021,Tiffany Robbins,PROD0021,Buy 377,Electronics,Headphones,554.54,1,0.29,28.86,COD,East,New Kennethberg,New Mexico,Shipped,FBA,Amazon UK
+22,2024-02-27,CUST0022,Linda Gonzalez,PROD0022,Wind 151,Books,Educational,1609.97,10,0.07,5.42,UPI,Central,Johnsonstad,Delaware,Delivered,FBA,Amazon DE
+23,2024-04-16,CUST0023,Joe Henderson,PROD0023,Once 731,Electronics,Mobile Phones,946.76,1,0.03,4.58,Debit Card,Central,New Davidberg,Kentucky,Delivered,FBM,Amazon DE
+24,2025-05-15,CUST0024,Samuel Black,PROD0024,The 195,Clothing,Womens Wear,671.34,4,0.21,34.2,Net Banking,Central,Port Brett,Massachusetts,Delivered,Easy Ship,Amazon.com
+25,2024-12-07,CUST0025,Thomas Tucker,PROD0025,Difficult 981,Home,Kitchen,203.55,5,0.21,36.09,Debit Card,South,Davisbury,Alaska,Delivered,Easy Ship,Amazon.com
+26,2025-03-21,CUST0026,Jeffrey Wright,PROD0026,Data 130,Clothing,Womens Wear,1826.59,7,0.06,46.03,UPI,West,Lake Stevenmouth,Nebraska,Shipped,FBA,Amazon DE
+27,2024-03-21,CUST0027,Dominique Lawson,PROD0027,Where 620,Home,Kitchen,234.65,8,0.14,10.2,COD,Central,South Amanda,Mississippi,Processing,FBA,Amazon.com
+28,2024-01-20,CUST0028,Thomas Carter,PROD0028,Say 704,Home,Furniture,1636.93,2,0.1,33.17,COD,West,East Jeffrey,New Mexico,Processing,FBM,Amazon DE
+29,2025-03-07,CUST0029,Roberta Haney,PROD0029,View 903,Clothing,Mens Wear,1245.54,9,0.05,25.15,Debit Card,Central,Anneborough,Mississippi,Shipped,FBM,Amazon DE
+30,2025-04-13,CUST0030,Emily Lee,PROD0030,Perform 217,Books,Fiction,1576.78,9,0.21,10.31,Amazon Pay,Central,West Shane,Oklahoma,Delivered,Easy Ship,Amazon DE
+31,2024-05-05,CUST0031,John Perez,PROD0031,Management 801,Books,Fiction,931.19,9,0.03,23.37,Net Banking,North,Lake Erikafort,Ohio,Shipped,Easy Ship,Amazon.in
+32,2025-05-12,CUST0032,Jessica Edwards,PROD0032,Contain 875,Sports,Fitness,1641.53,6,0.15,33.69,Debit Card,Central,Longville,Oregon,Shipped,FBA,Amazon.in
+33,2024-10-07,CUST0033,Grant Carter,PROD0033,Relate 683,Books,Non-Fiction,306.94,9,0.09,31.55,Debit Card,East,South Diane,Colorado,Delivered,Easy Ship,Amazon UK
+34,2024-06-09,CUST0034,Scott Walker,PROD0034,Medical 967,Clothing,Womens Wear,1837.82,7,0.22,45.93,COD,North,East Caitlinstad,Oklahoma,Returned,FBA,Amazon DE
+35,2024-05-14,CUST0035,Jennifer Ortiz,PROD0035,Even 981,Sports,Outdoor,595.43,6,0.27,48.46,COD,East,Pollardshire,North Carolina,Shipped,FBM,Amazon.in
+36,2025-02-05,CUST0036,Carlos Wilson,PROD0036,Far 545,Sports,Outdoor,72.06,7,0.21,20.92,Net Banking,West,Vasquezport,Oregon,Shipped,Easy Ship,Amazon DE
+37,2024-07-22,CUST0037,Kenneth Bennett,PROD0037,Economic 395,Clothing,Mens Wear,1328.35,8,0.04,28.66,UPI,West,North Audreyberg,New Jersey,Processing,Easy Ship,Amazon.com
+38,2024-08-18,CUST0038,Lynn Brown,PROD0038,Than 186,Electronics,Headphones,277.21,2,0.19,8.91,Amazon Pay,West,New Nicholas,New Hampshire,Cancelled,FBA,Amazon.com
+39,2024-02-23,CUST0039,Jason Reese,PROD0039,Word 621,Books,Non-Fiction,1613.82,8,0.27,35.38,COD,South,Matthewport,Arkansas,Cancelled,FBM,Amazon DE
+40,2025-03-21,CUST0040,Kristin Flores,PROD0040,Much 829,Home,Decor,1641.94,7,0.11,10.92,COD,West,Hayleyfurt,Oregon,Delivered,Easy Ship,Amazon.com
+41,2025-02-02,CUST0041,Jimmy Davis,PROD0041,Card 694,Clothing,Womens Wear,827.57,9,0.17,3.61,Net Banking,East,New Mike,New York,Shipped,FBM,Amazon.in
+42,2024-02-26,CUST0042,Jessica Mercado,PROD0042,Data 635,Books,Educational,169.33,9,0.3,49.22,Net Banking,Central,Port Andreamouth,Connecticut,Processing,Easy Ship,Amazon.in
+43,2024-02-10,CUST0043,Erica Freeman,PROD0043,Place 647,Electronics,Laptops,498.01,2,0.21,27.88,COD,North,Annchester,Nebraska,Delivered,FBA,Amazon UK
+44,2024-11-26,CUST0044,Dr. Ellen Mercer,PROD0044,Play 136,Home,Kitchen,913.53,8,0.17,17.91,UPI,East,Alvarezhaven,Vermont,Shipped,Easy Ship,Amazon.com
+45,2025-05-10,CUST0045,Christy Gordon,PROD0045,Enough 686,Sports,Cycling,1199.3,5,0.22,29.06,Net Banking,Central,Port Lisaside,Alaska,Shipped,FBA,Amazon.com
+46,2024-02-09,CUST0046,Sharon Allen,PROD0046,Explain 235,Books,Non-Fiction,1980.83,10,0.01,25.27,Credit Card,East,Lake Matthew,Arizona,Shipped,Easy Ship,Amazon UK
+47,2025-06-01,CUST0047,Michele Wallace,PROD0047,Bit 478,Clothing,Womens Wear,557.68,5,0.0,7.35,COD,South,Christopherbury,Connecticut,Shipped,FBA,Amazon DE
+48,2025-03-09,CUST0048,William Perez,PROD0048,Item 709,Clothing,Womens Wear,1567.23,4,0.15,40.37,UPI,North,Charlesside,New Jersey,Cancelled,FBA,Amazon.com
+49,2024-08-04,CUST0049,Patricia Hawkins,PROD0049,Inside 691,Sports,Outdoor,996.94,7,0.23,13.42,Amazon Pay,South,South Timothy,Nebraska,Delivered,Easy Ship,Amazon.com
+50,2025-01-31,CUST0050,Stephanie Lawrence,PROD0050,None 587,Sports,Outdoor,696.7,5,0.23,7.57,Net Banking,West,Knightberg,Hawaii,Shipped,Easy Ship,Amazon UK
+51,2024-12-07,CUST0051,Haley Dougherty,PROD0051,Design 112,Sports,Fitness,1845.69,4,0.11,35.87,Debit Card,Central,Port Christophermouth,Alaska,Delivered,FBM,Amazon DE
+52,2025-05-20,CUST0052,Peter Vaughan,PROD0052,Card 964,Sports,Cycling,1596.64,7,0.2,48.16,Credit Card,North,North Thomastown,Oklahoma,Delivered,FBM,Amazon UK
+53,2025-05-13,CUST0053,Robin Austin,PROD0053,Child 572,Books,Fiction,1836.9,5,0.1,14.82,Amazon Pay,Central,Ortegaborough,Connecticut,Shipped,Easy Ship,Amazon DE
+54,2024-04-20,CUST0054,Matthew Smith,PROD0054,Charge 788,Books,Educational,491.18,10,0.23,26.96,Debit Card,East,Meganmouth,Mississippi,Delivered,FBA,Amazon.in
+55,2025-03-26,CUST0055,Kimberly Lee,PROD0055,Admit 297,Sports,Outdoor,145.22,7,0.03,6.99,Debit Card,East,Port Stephanie,New Hampshire,Delivered,FBA,Amazon UK
+56,2024-02-25,CUST0056,Monique Zimmerman,PROD0056,Buy 188,Electronics,Mobile Phones,1242.6,1,0.28,33.52,COD,North,Lopezfort,Maryland,Processing,Easy Ship,Amazon.in
+57,2024-12-29,CUST0057,Melvin Raymond,PROD0057,For 578,Electronics,Headphones,758.16,10,0.24,10.87,Debit Card,East,Anthonymouth,New York,Shipped,Easy Ship,Amazon UK
+58,2025-04-01,CUST0058,Rickey Adams,PROD0058,Maybe 265,Sports,Cycling,160.67,8,0.28,15.27,Amazon Pay,East,New Ashleyport,Idaho,Delivered,FBA,Amazon UK
+59,2025-02-07,CUST0059,Amber Salinas,PROD0059,Challenge 171,Clothing,Womens Wear,1556.44,7,0.12,49.81,UPI,South,East Juanport,Oregon,Shipped,FBM,Amazon DE
+60,2024-06-05,CUST0060,Leslie Collins,PROD0060,One 552,Sports,Cycling,409.33,7,0.05,25.62,Net Banking,South,Port Elizabeth,New York,Shipped,Easy Ship,Amazon.in
+61,2024-09-29,CUST0061,Ryan Berry,PROD0061,Administration 768,Clothing,Womens Wear,215.54,2,0.02,36.92,Credit Card,West,Roymouth,Indiana,Processing,Easy Ship,Amazon.com
+62,2024-06-16,CUST0062,Linda Larson,PROD0062,About 589,Electronics,Mobile Phones,1866.46,7,0.08,35.6,COD,North,Ramirezview,Kentucky,Cancelled,FBM,Amazon DE
+63,2025-04-14,CUST0063,Lorraine Nelson,PROD0063,Lose 441,Home,Furniture,1689.66,2,0.16,2.16,Net Banking,North,West Davidchester,New Hampshire,Returned,Easy Ship,Amazon UK
+64,2024-11-19,CUST0064,Andrea Mckinney,PROD0064,Run 280,Clothing,Womens Wear,807.22,2,0.11,42.96,Net Banking,East,Brandonborough,South Dakota,Shipped,Easy Ship,Amazon.com
+65,2024-05-23,CUST0065,Kelly Kennedy,PROD0065,Politics 186,Electronics,Mobile Phones,1935.35,4,0.09,20.73,Amazon Pay,East,New Williamhaven,Pennsylvania,Shipped,Easy Ship,Amazon DE
+66,2024-01-24,CUST0066,Matthew Weaver,PROD0066,Read 164,Home,Kitchen,1473.3,3,0.01,3.22,Debit Card,West,Hillshire,New York,Returned,Easy Ship,Amazon DE
+67,2024-02-04,CUST0067,Mrs. Victoria Douglas,PROD0067,Tree 157,Books,Non-Fiction,622.38,9,0.29,40.97,Credit Card,North,Gallagherborough,Utah,Returned,FBM,Amazon UK
+68,2024-07-10,CUST0068,Katherine Ramos,PROD0068,Foot 858,Sports,Fitness,1444.81,7,0.04,40.74,Net Banking,Central,South William,Georgia,Delivered,Easy Ship,Amazon.com
+69,2025-04-28,CUST0069,Kimberly Adams,PROD0069,Benefit 818,Clothing,Mens Wear,1850.38,1,0.22,25.47,COD,North,North Bryanburgh,Massachusetts,Shipped,Easy Ship,Amazon.com
+70,2025-02-22,CUST0070,Janet Walters,PROD0070,Baby 937,Electronics,Headphones,38.59,1,0.27,41.4,COD,South,Lake Jamesview,Delaware,Shipped,FBA,Amazon.in
+71,2024-10-12,CUST0071,Timothy Shaw,PROD0071,Professor 223,Electronics,Laptops,999.32,10,0.07,40.61,Amazon Pay,West,Adamstad,Nevada,Delivered,Easy Ship,Amazon UK
+72,2025-02-02,CUST0072,Angela Guzman,PROD0072,Since 164,Books,Fiction,1096.31,6,0.25,40.07,COD,South,Jonathanchester,Alabama,Processing,FBA,Amazon UK
+73,2025-04-16,CUST0073,Ashley Cox,PROD0073,Off 236,Clothing,Womens Wear,291.06,7,0.05,19.76,Debit Card,Central,East Melodyside,South Carolina,Shipped,FBA,Amazon.in
+74,2025-04-14,CUST0074,Katelyn Wilson,PROD0074,Couple 283,Sports,Fitness,1696.26,10,0.11,9.57,Credit Card,North,Allenfort,Rhode Island,Cancelled,FBA,Amazon.in
+75,2024-12-27,CUST0075,Scott Reynolds,PROD0075,Yes 246,Books,Educational,1306.99,5,0.12,40.76,Amazon Pay,South,Cervantesburgh,Vermont,Processing,Easy Ship,Amazon.com
+76,2025-03-07,CUST0076,Phillip Campbell Jr.,PROD0076,Expert 726,Clothing,Womens Wear,1050.94,7,0.07,10.38,COD,South,East Joshua,Georgia,Delivered,FBA,Amazon DE
+77,2025-01-25,CUST0077,Jordan Hess,PROD0077,Different 733,Books,Non-Fiction,1654.7,5,0.1,2.22,Credit Card,Central,South Alexandraberg,Florida,Shipped,FBM,Amazon.in
+78,2024-04-23,CUST0078,Victor Scott,PROD0078,Respond 298,Sports,Outdoor,1524.65,9,0.15,24.28,Debit Card,East,Lake Steven,North Dakota,Delivered,FBA,Amazon.in
+79,2024-09-20,CUST0079,Laura Paul,PROD0079,Car 314,Sports,Fitness,306.94,8,0.15,9.67,Credit Card,East,Port Brendan,Mississippi,Cancelled,FBM,Amazon UK
+80,2024-08-19,CUST0080,Jason Carson,PROD0080,Computer 596,Clothing,Womens Wear,675.25,8,0.01,37.54,Debit Card,South,Port Sean,Connecticut,Cancelled,Easy Ship,Amazon.in
+81,2024-05-08,CUST0081,Stacy Diaz,PROD0081,Simply 897,Electronics,Laptops,151.01,4,0.22,30.45,Debit Card,East,Gordonmouth,California,Shipped,FBA,Amazon.com
+82,2025-03-09,CUST0082,Jessica Stewart,PROD0082,Create 699,Clothing,Kids,463.29,4,0.22,43.75,Debit Card,North,Colemanfort,Louisiana,Shipped,FBM,Amazon DE
+83,2025-04-02,CUST0083,Gary Cochran,PROD0083,Executive 837,Electronics,Mobile Phones,1782.07,3,0.06,31.25,UPI,South,South Megan,Indiana,Shipped,FBA,Amazon DE
+84,2025-01-15,CUST0084,Ebony Price,PROD0084,Worry 213,Books,Non-Fiction,723.59,5,0.06,8.11,Credit Card,East,Ochoaside,Illinois,Delivered,FBM,Amazon.com
+85,2025-06-25,CUST0085,Alicia Murphy,PROD0085,Certain 691,Home,Kitchen,842.27,6,0.07,16.17,Amazon Pay,Central,East Misty,West Virginia,Shipped,Easy Ship,Amazon.com
+86,2024-06-23,CUST0086,Erin Owen,PROD0086,City 385,Sports,Outdoor,467.11,7,0.26,25.48,COD,West,Michaelashire,South Dakota,Returned,FBA,Amazon DE
+87,2025-06-14,CUST0087,Amy Bailey,PROD0087,Other 527,Books,Educational,861.94,4,0.07,22.84,COD,South,Patricialand,Georgia,Shipped,FBA,Amazon.in
+88,2024-05-04,CUST0088,Robert Wilkerson,PROD0088,Always 607,Electronics,Mobile Phones,1982.63,9,0.01,27.49,Amazon Pay,North,Port Kathy,New Mexico,Delivered,FBA,Amazon DE
+89,2025-03-19,CUST0089,Joshua Diaz,PROD0089,Already 763,Electronics,Laptops,1121.39,1,0.21,21.52,UPI,East,East Kimberlyton,Nebraska,Shipped,FBA,Amazon.com
+90,2025-06-08,CUST0090,Emily Ho,PROD0090,Community 574,Electronics,Mobile Phones,964.77,5,0.05,24.05,COD,North,Sarahville,Florida,Delivered,FBA,Amazon DE
+91,2025-03-31,CUST0091,Christopher Ryan,PROD0091,Not 494,Sports,Outdoor,1409.24,3,0.24,19.78,Amazon Pay,North,Debbiestad,Texas,Delivered,Easy Ship,Amazon.in
+92,2025-06-10,CUST0092,Arthur Conner,PROD0092,Note 906,Clothing,Kids,1066.53,5,0.13,14.95,COD,Central,Murphyborough,Tennessee,Cancelled,Easy Ship,Amazon.com
+93,2025-06-03,CUST0093,Robert Riley,PROD0093,Surface 213,Electronics,Laptops,1244.71,6,0.22,4.63,Amazon Pay,East,Yangville,Missouri,Cancelled,FBM,Amazon.in
+94,2024-05-13,CUST0094,Bradley Rodgers,PROD0094,Least 241,Clothing,Kids,936.05,1,0.11,10.41,Credit Card,Central,Gonzaleztown,Vermont,Delivered,FBM,Amazon.com
+95,2024-08-25,CUST0095,Samuel Wallace,PROD0095,She 428,Clothing,Mens Wear,1083.87,8,0.22,38.11,Amazon Pay,South,Harrisonfurt,Kansas,Cancelled,FBM,Amazon.com
+96,2024-08-27,CUST0096,Robin Anderson,PROD0096,Just 581,Sports,Cycling,542.04,7,0.08,5.04,Net Banking,Central,Davidton,North Dakota,Shipped,Easy Ship,Amazon.in
+97,2024-03-16,CUST0097,Michael Sullivan,PROD0097,Nice 568,Home,Decor,1359.83,9,0.27,23.69,Amazon Pay,North,North Davidside,North Carolina,Shipped,FBA,Amazon.com
+98,2025-05-26,CUST0098,Nathan Rosales,PROD0098,According 608,Electronics,Laptops,787.46,3,0.09,47.92,UPI,North,Scottville,Florida,Shipped,FBA,Amazon.com
+99,2024-05-16,CUST0099,Justin Burke,PROD0099,Market 530,Sports,Outdoor,416.47,1,0.09,48.54,Debit Card,West,Vasquezton,Massachusetts,Delivered,FBM,Amazon UK
+100,2025-05-01,CUST0100,Cory Newman,PROD0100,Common 692,Books,Educational,1292.92,5,0.06,3.06,COD,East,South Peter,Montana,Processing,FBM,Amazon DE
+101,2025-04-04,CUST0101,Carolyn Hernandez,PROD0101,Role 411,Books,Non-Fiction,1295.64,6,0.15,33.96,COD,West,East Jeffreyview,Arizona,Delivered,Easy Ship,Amazon DE
+102,2025-05-06,CUST0102,Stephanie Stewart,PROD0102,Use 461,Electronics,Headphones,1797.58,5,0.05,14.48,UPI,North,Travisburgh,North Carolina,Delivered,FBM,Amazon.com
+103,2024-12-23,CUST0103,Katelyn Fletcher,PROD0103,Resource 343,Home,Kitchen,1912.87,10,0.28,36.17,Debit Card,South,Port John,Missouri,Shipped,FBA,Amazon.com
+104,2024-02-18,CUST0104,Tracy Wagner,PROD0104,Mouth 452,Electronics,Mobile Phones,1987.61,10,0.04,14.5,COD,North,Port Joshua,Ohio,Shipped,FBA,Amazon UK
+105,2024-05-23,CUST0105,Robert Dominguez,PROD0105,Pick 427,Clothing,Kids,902.37,3,0.16,7.83,Net Banking,South,Lake Marthafort,Michigan,Shipped,FBA,Amazon DE
+106,2025-04-30,CUST0106,Betty Morris,PROD0106,Company 918,Electronics,Mobile Phones,1940.6,9,0.29,17.9,Net Banking,East,Donnahaven,Pennsylvania,Processing,Easy Ship,Amazon.com
+107,2024-09-22,CUST0107,Debra Hayes,PROD0107,Peace 415,Books,Educational,1814.69,8,0.1,7.39,Credit Card,South,Lake Erikaborough,Maryland,Delivered,FBA,Amazon.in
+108,2024-02-26,CUST0108,Traci Brown,PROD0108,Successful 900,Home,Furniture,1238.87,4,0.13,6.44,Amazon Pay,South,Scottburgh,Delaware,Shipped,FBM,Amazon.com
+109,2024-08-20,CUST0109,Travis Turner,PROD0109,Evidence 602,Clothing,Mens Wear,54.87,9,0.25,34.5,COD,West,Lake Curtismouth,Kansas,Returned,FBM,Amazon.com
+110,2024-10-17,CUST0110,Natalie Russell,PROD0110,Just 481,Books,Fiction,1214.1,1,0.27,19.33,Net Banking,East,Marychester,West Virginia,Shipped,FBA,Amazon DE
+111,2025-04-10,CUST0111,Zachary Johnson,PROD0111,Quality 922,Clothing,Womens Wear,696.39,5,0.29,43.97,Amazon Pay,West,Andrewton,Georgia,Shipped,FBM,Amazon DE
+112,2024-10-25,CUST0112,Robert Jones,PROD0112,Figure 312,Clothing,Womens Wear,335.94,7,0.22,21.88,COD,North,Lake Rebecca,Massachusetts,Processing,FBM,Amazon.com
+113,2025-05-10,CUST0113,Sharon Lester,PROD0113,How 519,Home,Kitchen,1976.88,9,0.3,5.17,Net Banking,North,South Tylermouth,Florida,Returned,Easy Ship,Amazon.in
+114,2024-02-26,CUST0114,Tanya Cohen,PROD0114,Or 952,Sports,Cycling,553.92,3,0.17,36.09,Debit Card,South,Marissafurt,Arizona,Processing,FBM,Amazon.com
+115,2025-05-04,CUST0115,Philip Moore,PROD0115,Game 329,Clothing,Womens Wear,1112.2,1,0.25,16.5,Net Banking,Central,West Brooke,Oregon,Delivered,FBA,Amazon DE
+116,2024-12-05,CUST0116,David Baxter,PROD0116,Nearly 283,Sports,Fitness,14.87,5,0.09,32.75,Credit Card,East,Cherylfort,North Carolina,Delivered,FBM,Amazon DE
+117,2025-02-05,CUST0117,Richard Montgomery,PROD0117,Movement 695,Sports,Cycling,1378.81,4,0.01,38.71,Credit Card,Central,Jeremyborough,Nebraska,Delivered,FBM,Amazon UK
+118,2024-04-02,CUST0118,Joseph Thomas,PROD0118,Gun 965,Books,Fiction,877.78,5,0.19,24.85,Credit Card,East,Lukeview,South Carolina,Delivered,FBM,Amazon.in
+119,2025-03-18,CUST0119,Anna Perkins,PROD0119,Ready 469,Electronics,Headphones,1167.49,3,0.1,44.16,Debit Card,North,Port Gregory,Louisiana,Shipped,FBM,Amazon UK
+120,2024-03-03,CUST0120,Daniel Henderson,PROD0120,Foot 884,Books,Non-Fiction,1825.09,6,0.01,16.0,Credit Card,Central,Port David,Nevada,Delivered,Easy Ship,Amazon.com
+121,2025-05-15,CUST0121,Phillip Lawrence,PROD0121,Around 801,Electronics,Headphones,1531.73,10,0.23,28.1,Amazon Pay,East,Port Wandaberg,Louisiana,Cancelled,Easy Ship,Amazon UK
+122,2025-06-28,CUST0122,Miguel Harrison,PROD0122,Summer 897,Books,Educational,731.42,9,0.17,41.52,COD,East,South Susanville,North Dakota,Shipped,FBM,Amazon UK
+123,2024-02-09,CUST0123,Donald Parker,PROD0123,Right 527,Home,Furniture,687.22,3,0.03,9.42,Debit Card,Central,Sharonstad,Louisiana,Shipped,FBM,Amazon.in
+124,2024-02-23,CUST0124,Bryan Rodriguez,PROD0124,Nor 711,Sports,Cycling,162.04,3,0.28,25.02,UPI,South,Port Anna,North Dakota,Shipped,Easy Ship,Amazon DE
+125,2024-12-10,CUST0125,Rachel Chavez,PROD0125,Bill 804,Sports,Fitness,1940.52,3,0.21,3.38,Debit Card,South,West Christophermouth,Mississippi,Processing,FBA,Amazon.com
+126,2024-01-27,CUST0126,Joel Hill,PROD0126,Effect 893,Clothing,Womens Wear,259.43,3,0.29,22.39,Credit Card,North,North Debbiechester,Tennessee,Processing,FBM,Amazon.in
+127,2025-01-01,CUST0127,John Howell,PROD0127,Hospital 359,Sports,Fitness,868.18,4,0.03,40.07,Credit Card,West,East Jacksonstad,Idaho,Delivered,FBA,Amazon.in
+128,2025-05-03,CUST0128,Sierra Grimes,PROD0128,Month 289,Electronics,Laptops,610.28,1,0.23,39.55,Debit Card,Central,Carolbury,Alabama,Cancelled,Easy Ship,Amazon.com
+129,2024-03-23,CUST0129,Larry Reynolds,PROD0129,Manager 975,Clothing,Kids,68.23,3,0.25,47.21,UPI,East,Martintown,Massachusetts,Cancelled,Easy Ship,Amazon.com
+130,2024-04-20,CUST0130,Greg Ryan,PROD0130,Enough 832,Sports,Fitness,1459.82,4,0.15,5.28,Credit Card,Central,Trujillohaven,Pennsylvania,Processing,FBA,Amazon.com
+131,2024-01-25,CUST0131,Elizabeth Booth,PROD0131,Thus 814,Clothing,Womens Wear,351.83,9,0.0,36.82,COD,West,Kingtown,Kansas,Cancelled,Easy Ship,Amazon UK
+132,2024-09-19,CUST0132,Diana Roy,PROD0132,Movement 517,Electronics,Headphones,884.94,2,0.05,19.03,Debit Card,Central,North Amber,New Jersey,Shipped,FBA,Amazon.com
+133,2024-02-20,CUST0133,Anne Palmer,PROD0133,Require 184,Sports,Fitness,1969.38,2,0.14,26.95,UPI,East,Grossfort,West Virginia,Delivered,FBM,Amazon.in
+134,2024-03-25,CUST0134,Andrew Serrano,PROD0134,Think 397,Home,Kitchen,240.29,5,0.14,37.34,Net Banking,South,South Juliantown,Louisiana,Delivered,FBM,Amazon DE
+135,2025-03-21,CUST0135,Leslie Allen,PROD0135,Son 505,Clothing,Mens Wear,1714.98,8,0.28,19.64,Amazon Pay,West,Port April,West Virginia,Shipped,FBM,Amazon.in
+136,2024-11-12,CUST0136,Brendan Vasquez,PROD0136,Should 472,Home,Decor,1320.51,2,0.04,20.95,Credit Card,South,Madisonborough,Illinois,Delivered,FBA,Amazon.in
+137,2024-01-23,CUST0137,Angela Lamb,PROD0137,Rock 874,Clothing,Kids,408.52,7,0.04,42.23,UPI,Central,Obrienside,Alaska,Processing,Easy Ship,Amazon UK
+138,2024-12-15,CUST0138,Joseph Hayes,PROD0138,Forget 225,Home,Furniture,718.63,10,0.29,49.4,Debit Card,West,East Shannon,Kansas,Delivered,FBM,Amazon.in
+139,2024-02-03,CUST0139,Troy Reed,PROD0139,Beat 491,Home,Kitchen,999.57,3,0.01,37.41,Net Banking,North,Lake Vickie,Indiana,Processing,Easy Ship,Amazon.com
+140,2024-11-15,CUST0140,Charles Henderson,PROD0140,Capital 306,Books,Non-Fiction,660.64,5,0.19,6.62,COD,West,Joannstad,Illinois,Shipped,FBM,Amazon DE
+141,2024-12-11,CUST0141,Dawn Torres,PROD0141,Glass 540,Books,Non-Fiction,1000.82,9,0.08,18.49,COD,North,Marybury,New Mexico,Cancelled,FBA,Amazon.in
+142,2025-06-09,CUST0142,Scott Carpenter,PROD0142,Institution 603,Home,Furniture,905.73,7,0.13,3.73,Amazon Pay,East,Smithland,New Hampshire,Shipped,FBM,Amazon.com
+143,2024-12-11,CUST0143,Richard Morales,PROD0143,Market 587,Electronics,Headphones,631.79,7,0.15,7.25,Amazon Pay,Central,Wilkinsonbury,Delaware,Delivered,Easy Ship,Amazon DE
+144,2025-02-26,CUST0144,Ashley Jones,PROD0144,Effect 428,Sports,Outdoor,321.06,1,0.12,25.75,COD,East,Jenniferville,Mississippi,Returned,FBA,Amazon UK
+145,2025-05-13,CUST0145,Walter James,PROD0145,Place 199,Electronics,Mobile Phones,1185.02,3,0.25,18.75,Credit Card,East,Baileystad,Massachusetts,Processing,FBM,Amazon DE
+146,2024-05-30,CUST0146,Anthony Young,PROD0146,Successful 804,Clothing,Kids,1983.97,7,0.11,33.74,Amazon Pay,East,North Angelland,Missouri,Shipped,FBA,Amazon.in
+147,2025-01-31,CUST0147,Andrea Rosario,PROD0147,Lead 373,Sports,Outdoor,616.78,6,0.05,27.84,Amazon Pay,West,Bowenburgh,Colorado,Shipped,FBA,Amazon DE
+148,2024-08-04,CUST0148,Catherine Freeman,PROD0148,Might 202,Books,Educational,944.7,1,0.3,20.13,COD,North,Dawnview,Hawaii,Shipped,Easy Ship,Amazon DE
+149,2024-01-24,CUST0149,Joseph Brown,PROD0149,Soon 546,Books,Non-Fiction,419.76,8,0.15,38.72,COD,East,North Elizabeth,Colorado,Shipped,FBA,Amazon UK
+150,2024-05-10,CUST0150,Kerri Olson,PROD0150,Must 923,Home,Kitchen,1274.53,2,0.25,27.72,Credit Card,East,North Christinemouth,Maryland,Shipped,FBA,Amazon DE
+151,2024-08-31,CUST0151,Elizabeth Prince,PROD0151,Material 537,Books,Fiction,1488.35,2,0.22,29.75,UPI,North,Ellisonmouth,Pennsylvania,Delivered,FBA,Amazon DE
+152,2024-10-12,CUST0152,Erika Mejia,PROD0152,Side 511,Clothing,Kids,1593.35,5,0.15,16.4,UPI,South,Briggschester,Missouri,Delivered,FBM,Amazon DE
+153,2024-06-11,CUST0153,Lynn Wilson,PROD0153,Many 318,Books,Fiction,1035.58,9,0.05,2.89,Debit Card,Central,North Marissa,Utah,Processing,Easy Ship,Amazon DE
+154,2024-05-05,CUST0154,Miss Rita Kaiser,PROD0154,Nice 634,Sports,Outdoor,1486.99,8,0.08,32.62,Net Banking,Central,Port Teresaton,Iowa,Processing,FBA,Amazon.in
+155,2024-06-06,CUST0155,Adam Johnson,PROD0155,Get 980,Clothing,Kids,930.35,4,0.05,34.89,Net Banking,West,Tuckerstad,Mississippi,Shipped,FBA,Amazon UK
+156,2024-11-04,CUST0156,Chase Richardson,PROD0156,Beyond 515,Books,Non-Fiction,415.08,7,0.08,15.78,Amazon Pay,Central,Williamschester,Alaska,Shipped,FBA,Amazon.com
+157,2025-02-09,CUST0157,Holly Castillo,PROD0157,Office 762,Electronics,Laptops,308.42,1,0.07,41.71,COD,West,Danielleburgh,Iowa,Delivered,FBA,Amazon DE
+158,2024-09-28,CUST0158,Molly Sanchez,PROD0158,Final 839,Clothing,Mens Wear,327.12,3,0.01,39.9,COD,South,South Ginatown,Tennessee,Shipped,FBM,Amazon.in
+159,2024-12-03,CUST0159,Paul James,PROD0159,Within 506,Sports,Fitness,49.62,2,0.09,16.3,Net Banking,East,New Kelseyhaven,Colorado,Shipped,Easy Ship,Amazon.in
+160,2025-05-29,CUST0160,James Wright,PROD0160,Too 608,Sports,Outdoor,289.71,2,0.17,26.01,Amazon Pay,Central,Meyersberg,Montana,Shipped,FBA,Amazon UK
+161,2024-05-28,CUST0161,Eugene Collins,PROD0161,Hot 323,Clothing,Mens Wear,1203.64,6,0.1,30.05,Amazon Pay,South,New Jasmineshire,New Jersey,Shipped,FBA,Amazon DE
+162,2025-03-03,CUST0162,Justin Evans,PROD0162,Firm 816,Electronics,Laptops,358.56,5,0.13,14.21,Net Banking,Central,Marthastad,Michigan,Delivered,FBA,Amazon UK
+163,2024-09-03,CUST0163,Brandon Bailey,PROD0163,Republican 832,Clothing,Kids,1096.03,8,0.2,48.24,Debit Card,East,Port Raymondview,Alabama,Cancelled,FBM,Amazon DE
+164,2025-03-06,CUST0164,Samantha Schmidt,PROD0164,Reduce 665,Sports,Outdoor,623.26,10,0.01,37.49,Credit Card,South,Ericmouth,Maryland,Processing,FBM,Amazon UK
+165,2024-10-15,CUST0165,David Smith,PROD0165,Sister 108,Clothing,Womens Wear,1281.51,6,0.27,34.89,Debit Card,West,New Coreyton,Wisconsin,Delivered,FBM,Amazon DE
+166,2025-02-20,CUST0166,Richard Aguilar,PROD0166,Stock 549,Sports,Cycling,1956.21,5,0.09,46.94,UPI,South,Patelville,Minnesota,Processing,Easy Ship,Amazon.com
+167,2024-09-28,CUST0167,Matthew Livingston,PROD0167,Season 961,Clothing,Kids,1760.14,7,0.24,15.15,Net Banking,West,Carloston,New York,Shipped,FBM,Amazon DE
+168,2025-02-11,CUST0168,Rachel Freeman,PROD0168,Travel 564,Books,Educational,850.51,2,0.25,35.53,UPI,West,New Mary,Louisiana,Delivered,Easy Ship,Amazon UK
+169,2024-08-09,CUST0169,Robert Smith,PROD0169,More 421,Electronics,Mobile Phones,1526.33,3,0.19,39.97,Net Banking,South,South Andrew,Michigan,Shipped,Easy Ship,Amazon UK
+170,2024-07-10,CUST0170,Tommy Patterson,PROD0170,Term 911,Electronics,Laptops,230.55,4,0.15,48.54,Debit Card,Central,South Curtisville,South Dakota,Processing,FBM,Amazon DE
+171,2024-08-07,CUST0171,Wendy Perkins,PROD0171,West 524,Home,Kitchen,961.95,3,0.08,35.0,UPI,South,New Fernandoborough,Connecticut,Processing,FBM,Amazon.in
+172,2025-01-03,CUST0172,Darren Jackson,PROD0172,Treat 191,Electronics,Headphones,793.05,7,0.28,44.45,Credit Card,Central,North Thomas,Washington,Shipped,FBM,Amazon.com
+173,2024-07-24,CUST0173,Michael Richardson,PROD0173,Reflect 274,Clothing,Mens Wear,530.95,3,0.01,31.66,Debit Card,North,Williamsmouth,Connecticut,Delivered,Easy Ship,Amazon UK
+174,2024-02-02,CUST0174,Michael Barnes,PROD0174,Plant 329,Electronics,Laptops,38.09,9,0.13,46.16,Amazon Pay,West,Matthewland,Nebraska,Delivered,Easy Ship,Amazon.in
+175,2025-06-18,CUST0175,Patrick Mcclure,PROD0175,Big 943,Clothing,Mens Wear,389.18,5,0.09,25.72,Debit Card,Central,West Traceyshire,North Dakota,Shipped,FBM,Amazon.com
+176,2024-12-21,CUST0176,Alex Zamora,PROD0176,Oil 354,Books,Educational,1357.61,7,0.05,40.04,UPI,South,Victoriaview,Hawaii,Shipped,FBM,Amazon DE
+177,2024-08-29,CUST0177,Debra Smith,PROD0177,General 830,Books,Fiction,1371.69,8,0.03,24.51,Amazon Pay,West,Hessfort,Wyoming,Cancelled,FBM,Amazon.com
+178,2025-04-29,CUST0178,Jessica Baird,PROD0178,Where 462,Books,Educational,852.35,10,0.08,6.57,UPI,South,Keithberg,Indiana,Shipped,Easy Ship,Amazon DE
+179,2024-10-14,CUST0179,Steven Robinson,PROD0179,Guess 409,Books,Non-Fiction,1934.75,10,0.21,40.87,COD,Central,Floydmouth,Delaware,Shipped,FBM,Amazon DE
+180,2024-11-18,CUST0180,Mark Scott,PROD0180,From 235,Books,Non-Fiction,748.09,9,0.01,10.61,Net Banking,East,Emilyview,New Hampshire,Shipped,FBA,Amazon DE
+181,2024-02-01,CUST0181,Dawn Lester,PROD0181,Process 865,Clothing,Kids,1423.41,7,0.04,7.61,Debit Card,West,South Kathleenburgh,North Dakota,Shipped,FBM,Amazon UK
+182,2024-06-24,CUST0182,Donald Cummings,PROD0182,Page 423,Sports,Cycling,865.87,5,0.18,38.56,UPI,West,Dunnton,Indiana,Shipped,Easy Ship,Amazon.com
+183,2024-12-05,CUST0183,Javier Schneider,PROD0183,Necessary 252,Home,Kitchen,1529.71,3,0.17,46.3,Net Banking,North,Rittershire,Kansas,Delivered,FBA,Amazon.com
+184,2024-06-16,CUST0184,John Logan,PROD0184,When 465,Clothing,Mens Wear,374.45,8,0.08,35.89,Net Banking,North,Pattersonfort,Illinois,Delivered,Easy Ship,Amazon DE
+185,2024-04-29,CUST0185,Amy Long,PROD0185,Church 989,Home,Decor,975.55,8,0.03,36.55,UPI,North,New Jennifer,Rhode Island,Shipped,FBM,Amazon.com
+186,2025-03-16,CUST0186,Judith Cohen,PROD0186,Peace 638,Electronics,Headphones,1671.56,9,0.25,29.04,Debit Card,Central,Tiffanyland,Pennsylvania,Delivered,Easy Ship,Amazon.in
+187,2025-01-23,CUST0187,Lisa Martinez,PROD0187,Research 797,Electronics,Headphones,838.67,2,0.07,25.91,UPI,North,Pinedashire,Vermont,Shipped,Easy Ship,Amazon UK
+188,2024-02-03,CUST0188,Stephanie Richardson,PROD0188,Month 950,Electronics,Laptops,794.4,10,0.28,7.09,Credit Card,North,North Jessicafurt,Nebraska,Shipped,Easy Ship,Amazon DE
+189,2024-08-14,CUST0189,Shannon Nguyen,PROD0189,Occur 432,Books,Non-Fiction,964.91,5,0.18,2.28,Amazon Pay,Central,Braunchester,South Dakota,Returned,Easy Ship,Amazon DE
+190,2024-05-19,CUST0190,Deborah Norman,PROD0190,Say 861,Books,Educational,1814.69,10,0.04,43.44,UPI,East,Estradahaven,Maine,Processing,FBA,Amazon.in
+191,2024-12-27,CUST0191,Garrett Hess,PROD0191,Oil 972,Home,Decor,1904.28,7,0.03,14.25,Net Banking,North,South Charlestown,Texas,Shipped,FBA,Amazon.in
+192,2024-02-21,CUST0192,Kenneth Gonzalez,PROD0192,Return 920,Electronics,Headphones,783.12,7,0.09,38.12,Credit Card,East,Martinezton,Missouri,Delivered,FBM,Amazon DE
+193,2025-02-23,CUST0193,Kathleen Martinez,PROD0193,Cold 601,Books,Educational,1614.64,5,0.27,30.97,Credit Card,East,Kristopherland,South Dakota,Shipped,FBM,Amazon.com
+194,2024-04-08,CUST0194,James Smith,PROD0194,Become 544,Sports,Cycling,782.3,5,0.17,22.31,UPI,Central,Port Cynthiaton,Oklahoma,Processing,Easy Ship,Amazon.com
+195,2024-09-25,CUST0195,Brian Mitchell,PROD0195,Either 639,Home,Furniture,194.97,9,0.1,24.25,Amazon Pay,South,New Saramouth,Montana,Shipped,Easy Ship,Amazon DE
+196,2024-03-25,CUST0196,Zachary Rivera,PROD0196,Stock 800,Books,Non-Fiction,1054.11,5,0.14,5.8,UPI,South,South Sarahfort,South Dakota,Processing,FBM,Amazon.com
+197,2024-07-13,CUST0197,Michelle Day,PROD0197,Set 622,Sports,Outdoor,504.82,7,0.09,4.29,Credit Card,Central,North Holly,Massachusetts,Shipped,FBM,Amazon.in
+198,2025-04-25,CUST0198,David Williams,PROD0198,Stuff 858,Home,Furniture,198.02,10,0.24,19.06,COD,North,Brianton,Montana,Delivered,Easy Ship,Amazon.in
+199,2024-05-09,CUST0199,Scott Alexander,PROD0199,Door 701,Home,Kitchen,367.31,3,0.25,4.17,Amazon Pay,East,Salazarport,Ohio,Delivered,Easy Ship,Amazon UK
+200,2025-03-19,CUST0200,Christopher Gentry,PROD0200,Enjoy 180,Home,Kitchen,1517.13,8,0.19,14.72,Debit Card,South,East Amanda,Oklahoma,Returned,Easy Ship,Amazon.com
+201,2025-05-03,CUST0201,James Rich,PROD0201,Boy 571,Books,Fiction,526.04,2,0.13,2.86,Credit Card,South,Alexanderland,Washington,Shipped,Easy Ship,Amazon DE
+202,2024-08-24,CUST0202,Sheila Lopez,PROD0202,Treatment 923,Home,Furniture,1738.87,10,0.22,16.53,COD,East,New Lindsey,Maine,Processing,FBM,Amazon DE
+203,2024-11-22,CUST0203,Matthew Cervantes,PROD0203,Culture 592,Electronics,Laptops,258.93,1,0.06,41.17,Debit Card,North,Elizabethborough,Ohio,Delivered,Easy Ship,Amazon.com
+204,2024-06-17,CUST0204,Christopher Martin,PROD0204,End 251,Electronics,Headphones,1302.98,7,0.25,43.19,Credit Card,East,South Wendyberg,Oregon,Delivered,FBM,Amazon DE
+205,2025-06-19,CUST0205,Donna Davis,PROD0205,Matter 980,Home,Furniture,53.42,3,0.27,37.46,Net Banking,West,Justintown,Louisiana,Delivered,FBM,Amazon.in
+206,2024-05-19,CUST0206,Kimberly Pittman,PROD0206,Of 525,Books,Fiction,492.83,5,0.17,42.02,Credit Card,North,East Seth,New York,Shipped,FBM,Amazon DE
+207,2024-07-26,CUST0207,Timothy Byrd,PROD0207,Movement 337,Books,Educational,1161.54,9,0.3,3.78,COD,Central,Jarvishaven,Idaho,Shipped,Easy Ship,Amazon DE
+208,2024-02-24,CUST0208,Russell Roberts,PROD0208,Rate 219,Electronics,Mobile Phones,1061.33,7,0.17,28.56,Amazon Pay,West,East Barbara,Kansas,Shipped,FBM,Amazon DE
+209,2024-09-18,CUST0209,James Campos MD,PROD0209,Model 452,Books,Fiction,1878.54,6,0.13,22.94,Amazon Pay,South,West Ashley,Louisiana,Shipped,FBM,Amazon DE
+210,2024-04-22,CUST0210,Todd Larsen,PROD0210,Describe 400,Clothing,Mens Wear,1020.2,10,0.27,18.28,Amazon Pay,West,Port Sarah,Connecticut,Delivered,Easy Ship,Amazon.com
+211,2024-08-27,CUST0211,Mark Lopez,PROD0211,Something 389,Books,Educational,786.84,7,0.25,34.31,Net Banking,South,Lake Evelyn,Montana,Processing,Easy Ship,Amazon.com
+212,2025-03-23,CUST0212,Edward Nielsen,PROD0212,Process 410,Books,Educational,181.52,8,0.04,11.58,Credit Card,West,Hendricksburgh,Oklahoma,Delivered,FBA,Amazon DE
+213,2024-11-10,CUST0213,Ricardo Palmer,PROD0213,Treatment 926,Clothing,Mens Wear,1118.09,1,0.11,14.52,Debit Card,Central,North Joshua,Nevada,Delivered,FBA,Amazon.in
+214,2024-08-21,CUST0214,Tonya Sims,PROD0214,Bring 888,Clothing,Kids,866.93,10,0.07,28.98,UPI,East,Heatherport,Arizona,Delivered,Easy Ship,Amazon.in
+215,2025-06-10,CUST0215,Melissa Daugherty,PROD0215,Support 208,Clothing,Womens Wear,1793.67,9,0.18,7.0,Net Banking,West,East Angelica,Minnesota,Shipped,Easy Ship,Amazon.in
+216,2025-01-31,CUST0216,Mrs. Lisa Fields,PROD0216,Maybe 470,Books,Fiction,1566.49,2,0.25,4.01,Amazon Pay,North,Aaronbury,Kentucky,Shipped,FBA,Amazon.com
+217,2025-04-06,CUST0217,Miranda Wheeler,PROD0217,Animal 938,Books,Educational,591.32,8,0.23,25.92,Debit Card,East,Lake Carrie,Pennsylvania,Cancelled,FBA,Amazon UK
+218,2024-01-18,CUST0218,George Osborn,PROD0218,Question 617,Electronics,Laptops,1698.7,8,0.29,38.92,Net Banking,East,Kelseyshire,Maine,Shipped,FBA,Amazon UK
+219,2024-12-05,CUST0219,Melissa Roberts,PROD0219,Old 241,Electronics,Laptops,539.37,7,0.11,33.92,COD,West,Port Brianshire,New York,Shipped,FBM,Amazon.com
+220,2024-02-02,CUST0220,Jennifer Andrews,PROD0220,Off 888,Home,Furniture,1836.86,8,0.29,26.78,Credit Card,West,West Stephanieville,Maine,Delivered,FBA,Amazon.com
+221,2024-12-07,CUST0221,Stephanie Richards,PROD0221,Give 502,Books,Educational,1614.43,2,0.03,17.11,Debit Card,West,South Steven,Maine,Returned,FBA,Amazon.in
+222,2024-06-01,CUST0222,William Brown DDS,PROD0222,Authority 529,Books,Non-Fiction,1845.81,3,0.27,4.77,Amazon Pay,Central,South Susan,Tennessee,Delivered,FBM,Amazon UK
+223,2025-03-03,CUST0223,Lauren Howell,PROD0223,Attention 640,Sports,Cycling,1364.93,9,0.26,36.63,UPI,North,Richardtown,New Hampshire,Shipped,Easy Ship,Amazon UK
+224,2024-12-01,CUST0224,Marissa Palmer,PROD0224,Rise 931,Sports,Cycling,302.26,7,0.13,11.85,COD,West,Daniellemouth,North Dakota,Delivered,Easy Ship,Amazon UK
+225,2024-07-02,CUST0225,Jonathan Gonzalez,PROD0225,Scene 318,Home,Furniture,1553.05,5,0.03,27.8,Amazon Pay,South,North Matthewtown,Wisconsin,Shipped,FBA,Amazon UK
+226,2025-03-15,CUST0226,Brandi Yu,PROD0226,Loss 347,Home,Decor,1108.05,9,0.1,32.51,COD,Central,Lake Nicole,Wyoming,Shipped,FBM,Amazon UK
+227,2024-06-03,CUST0227,Miss Kathleen Hoffman MD,PROD0227,Issue 226,Books,Educational,851.26,9,0.03,4.88,Amazon Pay,Central,West Jessicaland,Arkansas,Shipped,FBA,Amazon UK
+228,2024-02-08,CUST0228,Jacqueline Choi,PROD0228,Food 458,Sports,Fitness,1305.42,2,0.13,29.48,UPI,South,Chloeberg,North Carolina,Shipped,FBM,Amazon.com
+229,2024-10-11,CUST0229,David Barnes,PROD0229,Seem 628,Clothing,Womens Wear,1337.18,10,0.2,36.29,Debit Card,North,Justintown,Delaware,Delivered,Easy Ship,Amazon UK
+230,2025-03-04,CUST0230,Michael Gonzalez,PROD0230,Break 163,Clothing,Mens Wear,1647.46,6,0.14,9.03,Net Banking,North,Andreabury,Utah,Delivered,FBM,Amazon.in
+231,2025-06-07,CUST0231,Patrick Ellis,PROD0231,Organization 992,Sports,Cycling,268.83,4,0.13,19.73,COD,Central,East Karen,Minnesota,Delivered,FBM,Amazon DE
+232,2024-05-27,CUST0232,Tyler Guzman,PROD0232,Full 247,Books,Fiction,1002.67,7,0.3,35.07,Amazon Pay,West,Darrylside,Minnesota,Cancelled,Easy Ship,Amazon.com
+233,2024-09-09,CUST0233,Nicholas Matthews,PROD0233,Into 584,Electronics,Headphones,974.68,8,0.04,35.82,Credit Card,South,Lake Marthaberg,West Virginia,Cancelled,FBA,Amazon DE
+234,2024-02-22,CUST0234,Laura Sanchez,PROD0234,Later 478,Books,Educational,322.11,9,0.11,47.69,Net Banking,North,Elizabethchester,Vermont,Delivered,Easy Ship,Amazon.in
+235,2024-02-28,CUST0235,Cynthia Gomez,PROD0235,Want 910,Clothing,Womens Wear,90.16,3,0.04,16.64,UPI,West,Port Karen,New Jersey,Shipped,FBA,Amazon.in
+236,2025-02-27,CUST0236,Joshua Ruiz,PROD0236,All 102,Electronics,Headphones,1569.75,7,0.01,44.92,Debit Card,South,Lake Garyborough,Missouri,Cancelled,FBA,Amazon DE
+237,2024-06-24,CUST0237,Joe Gibson,PROD0237,Despite 954,Home,Decor,703.81,1,0.13,29.51,UPI,West,Lake Samantha,Ohio,Delivered,Easy Ship,Amazon DE
+238,2024-06-08,CUST0238,Jessica Martinez,PROD0238,West 191,Sports,Outdoor,1215.36,3,0.15,24.12,Net Banking,South,Lake Stephaniemouth,Ohio,Delivered,Easy Ship,Amazon UK
+239,2025-05-20,CUST0239,Steven Davis,PROD0239,Question 761,Books,Non-Fiction,1250.94,7,0.07,20.98,Amazon Pay,West,West Michael,North Dakota,Delivered,FBA,Amazon UK
+240,2024-11-21,CUST0240,Michelle Hardin,PROD0240,Perform 297,Sports,Outdoor,339.57,1,0.17,40.22,COD,North,Coxfurt,Pennsylvania,Processing,Easy Ship,Amazon.in
+241,2025-04-20,CUST0241,Stephanie Gordon,PROD0241,Necessary 774,Home,Decor,1157.94,1,0.29,27.04,COD,North,Luisview,Arizona,Processing,Easy Ship,Amazon.in
+242,2024-07-30,CUST0242,Mark Morgan,PROD0242,Blue 926,Electronics,Headphones,1925.13,5,0.24,13.77,COD,West,West Jacobborough,New Mexico,Processing,Easy Ship,Amazon.in
+243,2024-01-17,CUST0243,Alyssa Vega,PROD0243,Force 124,Books,Fiction,647.66,10,0.01,43.37,Net Banking,South,New Joann,Missouri,Shipped,Easy Ship,Amazon DE
+244,2024-10-10,CUST0244,Erik Sanchez,PROD0244,Kid 886,Clothing,Kids,770.2,2,0.03,6.77,Debit Card,South,Lake Mary,Georgia,Shipped,FBA,Amazon UK
+245,2024-05-09,CUST0245,Melanie Gordon,PROD0245,Majority 405,Electronics,Headphones,620.52,7,0.2,4.83,Debit Card,North,Port Stacy,Minnesota,Returned,FBM,Amazon.in
+246,2025-02-05,CUST0246,Darren Rios,PROD0246,Think 345,Electronics,Laptops,646.88,7,0.27,14.38,Credit Card,North,Serranoland,New York,Cancelled,Easy Ship,Amazon.com
+247,2024-06-26,CUST0247,Jacob Caldwell,PROD0247,Effect 666,Books,Fiction,480.62,9,0.23,20.48,Credit Card,East,Stevenside,Kansas,Shipped,FBM,Amazon DE
+248,2025-06-15,CUST0248,Melissa Riley,PROD0248,Sister 352,Electronics,Laptops,973.5,7,0.19,45.86,COD,Central,Gillespieville,Utah,Shipped,Easy Ship,Amazon.in
+249,2024-08-31,CUST0249,Jonathan May,PROD0249,Understand 482,Books,Non-Fiction,1572.58,5,0.17,23.41,COD,South,Port Sheila,Connecticut,Processing,Easy Ship,Amazon.com
+250,2024-10-09,CUST0250,Christopher Moses,PROD0250,City 949,Electronics,Headphones,1566.23,9,0.29,48.14,Credit Card,North,Cruzshire,New Hampshire,Delivered,Easy Ship,Amazon DE
+251,2024-02-26,CUST0251,Beth Anderson,PROD0251,Top 459,Clothing,Womens Wear,1309.59,3,0.0,46.81,COD,East,Jacksonberg,Illinois,Delivered,Easy Ship,Amazon DE
+252,2024-04-09,CUST0252,Cynthia Holloway,PROD0252,Break 504,Clothing,Mens Wear,1174.47,9,0.08,9.75,Credit Card,East,East Jaredtown,Montana,Delivered,Easy Ship,Amazon.in
+253,2025-05-28,CUST0253,Joyce Flores,PROD0253,Certain 750,Electronics,Laptops,1662.69,9,0.3,44.16,COD,East,West Stephanie,Georgia,Shipped,FBM,Amazon UK
+254,2024-10-02,CUST0254,Megan Wood,PROD0254,Form 116,Sports,Fitness,1418.43,5,0.07,49.19,Net Banking,Central,Liborough,Texas,Shipped,Easy Ship,Amazon UK
+255,2025-01-17,CUST0255,Barry Smith,PROD0255,Street 880,Electronics,Headphones,1296.42,1,0.18,2.21,Debit Card,West,Carlamouth,Kentucky,Shipped,FBM,Amazon DE
+256,2024-10-06,CUST0256,Jody Williams,PROD0256,Exactly 932,Home,Decor,171.49,2,0.16,44.84,Net Banking,North,Adamberg,Missouri,Processing,FBM,Amazon UK
+257,2024-03-17,CUST0257,Christopher Chan,PROD0257,You 479,Sports,Outdoor,1206.61,7,0.05,38.86,Credit Card,North,Mackburgh,Arizona,Delivered,FBA,Amazon DE
+258,2025-06-19,CUST0258,Andrew Duran,PROD0258,Mrs 927,Home,Kitchen,28.63,1,0.23,34.67,Debit Card,North,East David,New York,Processing,Easy Ship,Amazon UK
+259,2025-01-17,CUST0259,Sarah Perkins,PROD0259,Bed 107,Clothing,Mens Wear,476.17,8,0.29,3.77,Amazon Pay,Central,Terriville,Minnesota,Delivered,FBA,Amazon.com
+260,2024-05-22,CUST0260,Derek Hall,PROD0260,Other 166,Sports,Outdoor,1280.49,2,0.26,29.32,COD,South,Port Jenniferchester,Missouri,Delivered,Easy Ship,Amazon.com
+261,2024-05-12,CUST0261,Christopher Herrera,PROD0261,Use 968,Electronics,Headphones,1494.49,3,0.08,29.36,COD,East,Lake Elizabethfort,Alabama,Shipped,Easy Ship,Amazon.com
+262,2025-05-29,CUST0262,Allen Barker,PROD0262,Building 974,Electronics,Mobile Phones,1983.98,9,0.18,34.67,Credit Card,West,Mossview,Oregon,Cancelled,FBM,Amazon.in
+263,2025-01-02,CUST0263,Leah Oconnell,PROD0263,Baby 838,Home,Furniture,1690.24,7,0.08,34.65,UPI,Central,North Kelseymouth,Wisconsin,Delivered,FBA,Amazon.in
+264,2024-04-11,CUST0264,Kevin Leonard,PROD0264,Republican 855,Electronics,Mobile Phones,563.09,7,0.16,17.18,UPI,North,Calhounburgh,Texas,Shipped,FBA,Amazon.in
+265,2024-02-03,CUST0265,Alison Harris,PROD0265,Herself 591,Books,Educational,853.4,2,0.28,11.45,Credit Card,North,North Patrickland,New Hampshire,Shipped,FBM,Amazon.in
+266,2024-02-14,CUST0266,Brandy Chavez,PROD0266,Wind 632,Sports,Fitness,57.81,6,0.25,13.86,UPI,North,Trevinoland,Indiana,Delivered,FBA,Amazon UK
+267,2025-05-08,CUST0267,Michelle Walker,PROD0267,Almost 134,Electronics,Laptops,1553.74,10,0.13,6.59,Credit Card,North,Bowenview,Wyoming,Delivered,FBM,Amazon.in
+268,2024-03-06,CUST0268,Jessica Rodriguez,PROD0268,Expect 167,Clothing,Kids,1781.27,2,0.23,4.98,Credit Card,East,Port Whitneyton,Montana,Processing,FBA,Amazon DE
+269,2024-10-19,CUST0269,John Shelton,PROD0269,Whether 564,Books,Non-Fiction,121.02,1,0.09,20.31,Net Banking,South,Meganhaven,Illinois,Shipped,FBM,Amazon.in
+270,2024-03-06,CUST0270,Mary Chen,PROD0270,Quite 701,Home,Kitchen,1592.38,10,0.19,18.3,Credit Card,West,East Randall,Oregon,Cancelled,FBA,Amazon UK
+271,2024-11-03,CUST0271,Denise Green,PROD0271,Together 463,Electronics,Laptops,214.35,10,0.21,30.46,COD,South,West Christopherchester,Delaware,Processing,FBM,Amazon UK
+272,2025-05-09,CUST0272,William Smith,PROD0272,Discuss 625,Home,Kitchen,1452.0,8,0.06,8.61,Debit Card,East,North Christopher,Nebraska,Shipped,Easy Ship,Amazon DE
+273,2024-01-07,CUST0273,Monique Fleming,PROD0273,Development 398,Sports,Fitness,721.91,10,0.27,39.22,UPI,Central,Lake Denise,Washington,Shipped,FBM,Amazon UK
+274,2024-04-06,CUST0274,Andrea Harris,PROD0274,Whose 300,Electronics,Mobile Phones,1040.18,3,0.02,26.34,Credit Card,West,Jamesfurt,Utah,Processing,FBA,Amazon UK
+275,2024-12-24,CUST0275,Jacqueline Anderson,PROD0275,Leg 972,Books,Non-Fiction,1817.92,2,0.1,34.06,Net Banking,Central,South Deborah,Pennsylvania,Delivered,Easy Ship,Amazon UK
+276,2024-01-02,CUST0276,Abigail Williams,PROD0276,Seek 103,Books,Fiction,1926.5,10,0.09,17.77,Credit Card,West,Mullinsland,Idaho,Shipped,Easy Ship,Amazon.com
+277,2024-10-08,CUST0277,Roy Gardner,PROD0277,Per 509,Clothing,Mens Wear,1389.51,8,0.19,13.47,UPI,West,Pachecoland,Maine,Processing,FBA,Amazon.com
+278,2024-03-27,CUST0278,Martin Morgan,PROD0278,Stay 299,Sports,Outdoor,1979.86,6,0.0,19.18,Debit Card,East,Christinestad,Idaho,Delivered,Easy Ship,Amazon DE
+279,2025-05-23,CUST0279,Jonathan Brennan,PROD0279,Else 836,Books,Fiction,1826.29,6,0.01,3.42,Debit Card,South,Christineville,Alabama,Shipped,FBA,Amazon UK
+280,2024-01-07,CUST0280,Andrew Carpenter,PROD0280,Successful 488,Clothing,Kids,1696.59,4,0.05,3.03,Credit Card,North,Rubenhaven,California,Processing,Easy Ship,Amazon.com
+281,2024-06-10,CUST0281,Jonathan Fernandez,PROD0281,Politics 999,Sports,Fitness,1771.17,6,0.28,16.64,UPI,South,Jakeport,Mississippi,Shipped,Easy Ship,Amazon DE
+282,2025-01-21,CUST0282,Tara Hicks,PROD0282,Ready 751,Electronics,Laptops,245.8,3,0.24,11.2,UPI,East,Allenstad,New York,Shipped,FBA,Amazon DE
+283,2024-09-27,CUST0283,Anthony Leonard Jr.,PROD0283,Between 154,Sports,Cycling,101.93,10,0.18,43.01,Debit Card,East,West Jefferyville,Missouri,Shipped,Easy Ship,Amazon.com
+284,2024-04-23,CUST0284,David Tucker,PROD0284,Too 909,Sports,Fitness,567.35,3,0.26,48.48,Debit Card,North,Randallmouth,Florida,Cancelled,Easy Ship,Amazon DE
+285,2024-08-16,CUST0285,Cory Brown,PROD0285,Bag 283,Books,Fiction,139.1,9,0.12,44.36,UPI,West,South Tanya,Rhode Island,Processing,FBM,Amazon DE
+286,2024-08-15,CUST0286,Brian Jackson,PROD0286,Carry 312,Books,Educational,754.02,8,0.21,25.75,Net Banking,Central,Markshire,New Hampshire,Shipped,FBA,Amazon.in
+287,2024-09-09,CUST0287,Laura Parker,PROD0287,Very 360,Sports,Cycling,413.97,4,0.12,16.69,COD,South,Lawsonmouth,Illinois,Cancelled,Easy Ship,Amazon UK
+288,2024-04-20,CUST0288,Julie Foster,PROD0288,Hit 536,Electronics,Laptops,277.32,2,0.09,26.9,Credit Card,West,North Ann,Wisconsin,Shipped,FBM,Amazon UK
+289,2024-01-12,CUST0289,Erin Yoder,PROD0289,Become 371,Home,Kitchen,870.69,6,0.24,17.22,Debit Card,West,Port William,Connecticut,Shipped,Easy Ship,Amazon.com
+290,2024-04-14,CUST0290,Alexis Reed,PROD0290,Image 200,Electronics,Laptops,724.59,2,0.09,26.08,Credit Card,East,Port Kimberlystad,New Hampshire,Delivered,FBA,Amazon.com
+291,2025-01-18,CUST0291,Amy Neal,PROD0291,Pass 822,Electronics,Laptops,726.87,9,0.06,11.44,UPI,East,West Tamaraport,Delaware,Shipped,Easy Ship,Amazon.com
+292,2024-02-09,CUST0292,Steven Johnson,PROD0292,Unit 941,Electronics,Headphones,1996.83,9,0.27,2.41,UPI,West,East Mistyhaven,Wyoming,Shipped,Easy Ship,Amazon DE
+293,2024-07-26,CUST0293,Brian Henry,PROD0293,Trip 840,Sports,Fitness,1314.06,8,0.2,49.49,Net Banking,South,East Dawnhaven,Pennsylvania,Returned,Easy Ship,Amazon.com
+294,2025-05-02,CUST0294,Mark Jackson,PROD0294,Yet 420,Clothing,Mens Wear,954.13,9,0.18,28.53,Net Banking,East,Parkerside,Kentucky,Delivered,FBA,Amazon.in
+295,2024-01-12,CUST0295,Mrs. Jessica Anderson MD,PROD0295,Strategy 412,Home,Furniture,1542.56,7,0.06,23.6,UPI,South,Jenniferland,Connecticut,Delivered,Easy Ship,Amazon.com
+296,2025-01-23,CUST0296,Gary Cohen,PROD0296,Ok 433,Electronics,Mobile Phones,1004.6,6,0.1,22.12,Net Banking,Central,South Paulaborough,New Hampshire,Delivered,Easy Ship,Amazon UK
+297,2024-06-14,CUST0297,Jennifer Stephens,PROD0297,Else 490,Electronics,Mobile Phones,1139.48,1,0.28,9.38,UPI,Central,West Vickie,Montana,Returned,FBA,Amazon DE
+298,2024-10-26,CUST0298,Suzanne Holmes,PROD0298,Data 275,Home,Furniture,136.78,7,0.06,7.21,Net Banking,East,East Michaelhaven,Montana,Delivered,FBA,Amazon.in
+299,2024-01-03,CUST0299,Keith Gonzales,PROD0299,Step 390,Books,Non-Fiction,1110.28,1,0.25,30.96,Debit Card,North,West Austinville,Montana,Shipped,FBA,Amazon DE
+300,2025-06-22,CUST0300,Jay Calderon,PROD0300,Stay 500,Clothing,Mens Wear,589.3,9,0.02,4.76,Debit Card,East,Lake Angelicamouth,Arkansas,Delivered,FBA,Amazon DE
+301,2024-02-05,CUST0301,Steven Hanson,PROD0301,Huge 417,Electronics,Laptops,266.98,7,0.14,5.3,Debit Card,South,Port Michael,Kansas,Returned,FBM,Amazon.com
+302,2025-06-21,CUST0302,Matthew Jackson,PROD0302,Industry 382,Sports,Outdoor,1422.25,8,0.05,29.6,Debit Card,Central,New Anne,Mississippi,Shipped,FBA,Amazon DE
+303,2024-03-30,CUST0303,Gregory Branch,PROD0303,Today 571,Electronics,Mobile Phones,1982.26,8,0.02,21.16,COD,East,North Samuelburgh,Missouri,Processing,FBM,Amazon DE
+304,2024-06-30,CUST0304,Andrew Fletcher,PROD0304,Within 727,Books,Fiction,87.78,2,0.09,44.29,Amazon Pay,East,Timothyside,Kansas,Delivered,FBA,Amazon DE
+305,2024-02-14,CUST0305,Amy Bennett,PROD0305,Can 502,Home,Furniture,505.78,10,0.22,23.98,Debit Card,Central,Martinshire,Michigan,Cancelled,Easy Ship,Amazon.in
+306,2024-03-20,CUST0306,Krista Russo,PROD0306,Election 521,Electronics,Mobile Phones,486.99,3,0.08,32.15,Credit Card,South,South Frankfurt,Arizona,Shipped,Easy Ship,Amazon DE
+307,2025-05-18,CUST0307,Corey Garner,PROD0307,Tough 358,Electronics,Laptops,1990.68,2,0.23,26.21,Net Banking,West,Ritterburgh,Hawaii,Processing,FBA,Amazon.com
+308,2025-06-04,CUST0308,Ashley Mcdonald,PROD0308,Address 976,Home,Decor,98.82,1,0.02,35.34,Net Banking,East,Michaelbury,Nevada,Processing,FBA,Amazon DE
+309,2025-06-29,CUST0309,Christopher Young,PROD0309,Adult 572,Home,Furniture,85.17,5,0.03,46.02,Amazon Pay,West,Christophermouth,Arizona,Shipped,FBA,Amazon DE
+310,2025-02-25,CUST0310,Nicole Wise,PROD0310,Produce 958,Electronics,Laptops,1101.37,4,0.21,23.01,UPI,South,Port Ashleytown,Texas,Delivered,FBA,Amazon.com
+311,2024-02-20,CUST0311,Samuel Blair,PROD0311,Technology 257,Books,Fiction,210.03,5,0.04,37.59,Amazon Pay,North,North Brittanyburgh,Iowa,Shipped,FBM,Amazon UK
+312,2024-03-19,CUST0312,Alex Perez,PROD0312,Personal 499,Clothing,Kids,364.1,1,0.27,27.55,Credit Card,Central,North Ericport,Arkansas,Delivered,Easy Ship,Amazon.in
+313,2025-06-24,CUST0313,Caleb Rodriguez,PROD0313,Character 304,Clothing,Womens Wear,893.53,10,0.0,39.08,Debit Card,East,West Michael,Florida,Processing,FBA,Amazon.com
+314,2024-02-24,CUST0314,Rebekah Zamora,PROD0314,Provide 841,Electronics,Mobile Phones,849.15,1,0.1,11.22,Debit Card,North,Camposmouth,Wyoming,Delivered,FBA,Amazon.com
+315,2025-04-09,CUST0315,Mrs. Suzanne Hunter,PROD0315,Fish 538,Electronics,Mobile Phones,837.2,2,0.24,17.49,COD,South,Melissatown,Nebraska,Delivered,FBA,Amazon DE
+316,2024-10-21,CUST0316,Johnathan White,PROD0316,Hour 569,Clothing,Mens Wear,435.42,6,0.1,2.72,Credit Card,West,West David,Texas,Delivered,FBA,Amazon.com
+317,2024-11-27,CUST0317,Chad Nelson,PROD0317,Name 885,Electronics,Laptops,1319.34,5,0.19,19.71,Debit Card,West,West Josephland,North Dakota,Shipped,Easy Ship,Amazon UK
+318,2024-05-08,CUST0318,Kevin Briggs,PROD0318,Per 197,Home,Kitchen,1966.37,2,0.21,39.98,COD,South,Karenstad,South Dakota,Cancelled,Easy Ship,Amazon UK
+319,2025-01-15,CUST0319,Devin Smith,PROD0319,Sense 971,Clothing,Kids,1963.02,7,0.2,48.67,UPI,South,Masontown,Georgia,Delivered,Easy Ship,Amazon UK
+320,2025-04-29,CUST0320,Haley Reynolds,PROD0320,With 338,Home,Kitchen,144.35,1,0.18,30.08,Amazon Pay,South,Jamesborough,Oregon,Shipped,FBA,Amazon.in
+321,2025-06-24,CUST0321,Jonathan Contreras,PROD0321,Stock 240,Books,Fiction,1520.29,2,0.09,37.42,COD,North,West Tammyfurt,Utah,Processing,FBM,Amazon.in
+322,2024-12-20,CUST0322,Emily Ross,PROD0322,Item 856,Home,Kitchen,600.26,3,0.11,32.82,Amazon Pay,Central,Bowersborough,Louisiana,Shipped,FBM,Amazon DE
+323,2024-05-02,CUST0323,Paula Kim,PROD0323,Discuss 967,Electronics,Headphones,563.47,1,0.16,48.92,UPI,North,Port Rachel,Alaska,Delivered,Easy Ship,Amazon.com
+324,2025-02-19,CUST0324,Melissa May,PROD0324,Indeed 633,Clothing,Kids,692.03,4,0.16,45.52,Debit Card,South,Eileenbury,West Virginia,Delivered,FBM,Amazon DE
+325,2024-02-19,CUST0325,Brandon Fisher,PROD0325,Perhaps 228,Electronics,Headphones,890.3,1,0.02,25.6,Credit Card,South,Cruzfort,Montana,Returned,FBA,Amazon.com
+326,2024-09-16,CUST0326,Jennifer Edwards,PROD0326,Street 350,Electronics,Headphones,1189.33,4,0.07,5.75,UPI,South,North Alyssaport,Wisconsin,Processing,FBM,Amazon.com
+327,2024-07-10,CUST0327,James Daniels,PROD0327,Open 468,Electronics,Headphones,1215.64,5,0.09,23.52,UPI,West,Port Stevenmouth,Michigan,Delivered,FBM,Amazon.in
+328,2024-05-19,CUST0328,Elizabeth Lester,PROD0328,Plan 880,Home,Furniture,343.85,8,0.13,31.25,Debit Card,West,Margaretfort,Massachusetts,Delivered,FBM,Amazon.in
+329,2024-09-16,CUST0329,Russell Moore,PROD0329,Line 413,Home,Furniture,1709.54,5,0.18,9.33,UPI,West,Marcville,Maryland,Processing,FBM,Amazon DE
+330,2025-02-11,CUST0330,Darren Gray,PROD0330,Traditional 104,Clothing,Womens Wear,756.54,10,0.14,18.0,Debit Card,South,Lisaburgh,Nebraska,Processing,FBA,Amazon.com
+331,2024-04-08,CUST0331,Ryan Robinson,PROD0331,Ready 601,Sports,Outdoor,1006.39,6,0.15,46.43,Amazon Pay,East,Port Christopherberg,New York,Cancelled,FBM,Amazon DE
+332,2024-07-10,CUST0332,Seth Jordan,PROD0332,Less 298,Books,Non-Fiction,1975.17,2,0.12,3.86,Net Banking,Central,New Mark,Florida,Cancelled,FBM,Amazon.com
+333,2025-06-17,CUST0333,Cristian Guzman,PROD0333,Military 534,Clothing,Womens Wear,1544.83,6,0.15,25.45,Amazon Pay,North,Port Jaredton,Oklahoma,Delivered,Easy Ship,Amazon DE
+334,2024-09-02,CUST0334,Bradley Walsh,PROD0334,System 719,Clothing,Mens Wear,492.28,1,0.28,19.35,Credit Card,South,Vegahaven,California,Processing,FBM,Amazon UK
+335,2024-03-22,CUST0335,Karl Thomas,PROD0335,Tend 759,Books,Non-Fiction,303.26,4,0.18,47.69,Credit Card,North,East Jeremy,Kentucky,Processing,Easy Ship,Amazon.in
+336,2024-10-12,CUST0336,Anthony Garcia MD,PROD0336,Ever 358,Sports,Cycling,774.85,10,0.29,5.86,Net Banking,South,North Jessica,Pennsylvania,Cancelled,Easy Ship,Amazon DE
+337,2025-04-17,CUST0337,Toni Carroll,PROD0337,Garden 751,Clothing,Womens Wear,1006.29,9,0.2,20.37,Net Banking,North,Greenland,Oklahoma,Shipped,Easy Ship,Amazon.in
+338,2024-03-23,CUST0338,Michelle Lee,PROD0338,Walk 272,Sports,Fitness,1597.09,3,0.08,12.06,Amazon Pay,East,Johnsonhaven,Wyoming,Processing,FBM,Amazon.in
+339,2025-01-22,CUST0339,Victor Greene DDS,PROD0339,Suffer 290,Electronics,Mobile Phones,202.77,7,0.16,33.42,Debit Card,South,Harmonview,Connecticut,Processing,Easy Ship,Amazon UK
+340,2025-06-11,CUST0340,Ronald Moore,PROD0340,Move 160,Electronics,Headphones,404.06,3,0.15,7.29,Debit Card,South,Clarkberg,Delaware,Delivered,Easy Ship,Amazon.com
+341,2025-06-16,CUST0341,Sierra Tanner,PROD0341,Buy 989,Electronics,Headphones,1620.27,4,0.08,45.31,Amazon Pay,Central,Bakerfurt,Illinois,Delivered,Easy Ship,Amazon.in
+342,2024-04-13,CUST0342,Meghan Fletcher,PROD0342,Trial 596,Electronics,Headphones,168.82,2,0.11,15.28,COD,South,Emilybury,Montana,Shipped,Easy Ship,Amazon DE
+343,2025-06-06,CUST0343,Andrew Woods,PROD0343,Effort 634,Sports,Fitness,210.61,1,0.08,47.85,Credit Card,North,Mayerside,New Hampshire,Delivered,FBA,Amazon.com
+344,2025-03-31,CUST0344,Anne Tran,PROD0344,Seem 798,Home,Furniture,1209.94,5,0.28,24.72,Net Banking,East,Juliaburgh,Arizona,Shipped,FBM,Amazon UK
+345,2025-03-14,CUST0345,Alexandra Maldonado,PROD0345,Indicate 103,Clothing,Kids,1635.53,6,0.2,20.16,UPI,East,East Kimberlychester,Wisconsin,Shipped,FBM,Amazon.in
+346,2024-02-27,CUST0346,Amy Myers,PROD0346,While 562,Sports,Outdoor,1399.63,3,0.01,7.9,Amazon Pay,South,North Alexandra,Washington,Delivered,Easy Ship,Amazon UK
+347,2025-03-23,CUST0347,Andrea Ellis,PROD0347,Production 748,Books,Non-Fiction,1321.16,8,0.15,33.69,Amazon Pay,East,Ashleyfort,Tennessee,Shipped,FBM,Amazon.in
+348,2024-04-18,CUST0348,Jason Carter,PROD0348,Middle 456,Sports,Outdoor,101.05,6,0.2,13.21,Amazon Pay,Central,Kylemouth,Mississippi,Delivered,FBM,Amazon.in
+349,2024-01-04,CUST0349,Gary Fletcher,PROD0349,Drop 721,Sports,Cycling,1883.54,8,0.3,43.14,Amazon Pay,West,North Mary,Rhode Island,Cancelled,FBA,Amazon UK
+350,2024-08-02,CUST0350,Timothy Cole,PROD0350,Production 915,Books,Educational,294.89,9,0.26,39.67,Credit Card,South,Chenport,California,Processing,FBA,Amazon DE
+351,2024-03-05,CUST0351,Heather Osborne,PROD0351,Southern 349,Clothing,Womens Wear,1666.38,9,0.3,24.41,Credit Card,West,Taylorburgh,Florida,Cancelled,FBA,Amazon.com
+352,2025-03-01,CUST0352,Whitney Cochran,PROD0352,All 325,Electronics,Headphones,1508.97,2,0.03,49.68,UPI,West,East Karenshire,Ohio,Shipped,Easy Ship,Amazon UK
+353,2025-03-07,CUST0353,Zachary Michael,PROD0353,Professor 992,Clothing,Womens Wear,1335.21,2,0.2,46.29,Net Banking,North,Taylorland,West Virginia,Delivered,FBA,Amazon UK
+354,2024-11-07,CUST0354,Amanda Ball,PROD0354,Condition 927,Sports,Cycling,1156.18,10,0.02,18.47,Amazon Pay,West,Tuckermouth,Vermont,Cancelled,FBA,Amazon DE
+355,2024-11-25,CUST0355,Derek Jones,PROD0355,Traditional 230,Clothing,Mens Wear,525.6,5,0.03,6.28,Debit Card,North,Michaelville,Maryland,Processing,FBM,Amazon UK
+356,2025-02-11,CUST0356,Mackenzie Thomas,PROD0356,Statement 889,Home,Furniture,1158.06,1,0.09,30.32,Net Banking,West,Tracyside,Connecticut,Shipped,FBM,Amazon UK
+357,2025-04-01,CUST0357,Anthony Pruitt,PROD0357,Space 423,Sports,Fitness,1361.81,3,0.16,30.88,Net Banking,North,Mcgeeborough,Minnesota,Shipped,FBA,Amazon DE
+358,2024-07-07,CUST0358,Patricia Williams,PROD0358,Culture 416,Sports,Outdoor,1886.35,4,0.15,23.88,Debit Card,North,East Joseph,Oregon,Delivered,Easy Ship,Amazon UK
+359,2024-06-02,CUST0359,Robert Jones,PROD0359,Color 929,Books,Educational,255.69,10,0.14,41.78,Amazon Pay,West,West Kimberly,Vermont,Delivered,FBM,Amazon.in
+360,2025-06-01,CUST0360,Carolyn Rogers,PROD0360,Everybody 977,Electronics,Headphones,1657.49,4,0.25,46.85,Amazon Pay,North,Leviville,Pennsylvania,Shipped,FBM,Amazon.com
+361,2024-02-09,CUST0361,Stephanie Hooper,PROD0361,Guess 875,Books,Educational,789.7,3,0.3,28.3,Amazon Pay,West,Lake Marc,Illinois,Shipped,FBM,Amazon UK
+362,2025-01-24,CUST0362,Renee Johnson,PROD0362,Anything 234,Home,Furniture,152.93,5,0.08,46.31,COD,West,Elliston,Pennsylvania,Processing,FBM,Amazon.in
+363,2024-02-11,CUST0363,Cody Bailey,PROD0363,Sure 552,Sports,Fitness,1584.64,1,0.25,36.06,Debit Card,Central,Brownview,Rhode Island,Delivered,Easy Ship,Amazon.com
+364,2024-02-09,CUST0364,Hannah Harris,PROD0364,Drive 843,Home,Kitchen,589.25,3,0.06,40.61,Amazon Pay,North,New Jameshaven,Arkansas,Shipped,Easy Ship,Amazon UK
+365,2025-04-01,CUST0365,Jonathan Sanchez,PROD0365,Guy 464,Electronics,Laptops,1359.85,3,0.11,49.17,Debit Card,North,West Latoyaland,Louisiana,Delivered,FBM,Amazon.in
+366,2024-05-05,CUST0366,Katherine Chaney,PROD0366,Artist 134,Electronics,Headphones,1890.68,2,0.29,33.2,Debit Card,West,Robertberg,Indiana,Delivered,FBA,Amazon.com
+367,2025-03-25,CUST0367,April Smith,PROD0367,Soon 985,Clothing,Mens Wear,799.32,5,0.21,47.82,Net Banking,North,Port Kristentown,Oklahoma,Delivered,Easy Ship,Amazon DE
+368,2025-02-27,CUST0368,Michael Douglas,PROD0368,None 123,Home,Furniture,557.68,8,0.11,7.76,Net Banking,Central,Port Michael,Minnesota,Shipped,Easy Ship,Amazon.com
+369,2025-02-19,CUST0369,Shannon Wilson,PROD0369,Subject 760,Books,Fiction,1974.83,8,0.08,37.78,Debit Card,West,New Sherryport,Colorado,Processing,Easy Ship,Amazon DE
+370,2025-04-18,CUST0370,Tony Hudson,PROD0370,Former 932,Home,Furniture,603.74,3,0.03,5.05,COD,South,Sullivanside,Arizona,Cancelled,Easy Ship,Amazon DE
+371,2024-12-27,CUST0371,Whitney Rhodes,PROD0371,However 871,Electronics,Mobile Phones,793.66,9,0.24,27.44,COD,Central,West Sarahside,South Carolina,Shipped,FBA,Amazon.in
+372,2024-10-03,CUST0372,Theresa Lynch,PROD0372,Ahead 140,Books,Non-Fiction,1796.23,3,0.26,35.37,Net Banking,East,Williammouth,Illinois,Shipped,FBA,Amazon.in
+373,2024-11-01,CUST0373,Tonya Douglas,PROD0373,Beautiful 472,Books,Fiction,420.4,3,0.03,14.32,Credit Card,North,Port Travismouth,Rhode Island,Processing,Easy Ship,Amazon UK
+374,2024-05-01,CUST0374,Jessica Taylor,PROD0374,Young 243,Electronics,Headphones,851.87,1,0.07,4.22,UPI,Central,Andrewborough,Iowa,Cancelled,Easy Ship,Amazon DE
+375,2025-06-23,CUST0375,Melissa Jennings,PROD0375,Course 778,Home,Kitchen,1393.25,9,0.27,49.85,COD,South,Courtneyberg,Maine,Delivered,FBA,Amazon.in
+376,2024-10-11,CUST0376,Kayla Harris,PROD0376,Government 705,Clothing,Mens Wear,83.1,3,0.09,41.97,COD,Central,East Gregory,Colorado,Returned,FBM,Amazon.com
+377,2024-09-03,CUST0377,Christian Elliott,PROD0377,Wish 567,Clothing,Womens Wear,265.7,10,0.13,28.39,Amazon Pay,South,East Christina,Wisconsin,Shipped,FBA,Amazon DE
+378,2024-02-04,CUST0378,Timothy Greer,PROD0378,Board 677,Clothing,Womens Wear,1356.29,3,0.16,5.39,Amazon Pay,South,Diazmouth,Montana,Processing,Easy Ship,Amazon UK
+379,2024-04-07,CUST0379,David Wells,PROD0379,Themselves 718,Books,Non-Fiction,1642.81,10,0.05,41.44,Net Banking,West,Johnsonton,Rhode Island,Shipped,FBA,Amazon.in
+380,2025-05-25,CUST0380,Robert Rivera,PROD0380,Wrong 441,Electronics,Laptops,547.55,9,0.03,28.32,Amazon Pay,North,Perezchester,Washington,Shipped,FBM,Amazon UK
+381,2024-12-11,CUST0381,Anne Park,PROD0381,Notice 901,Electronics,Headphones,1739.02,4,0.08,6.7,Debit Card,West,East Michaelshire,Iowa,Returned,FBA,Amazon.in
+382,2024-02-17,CUST0382,John Lee Jr.,PROD0382,Ever 664,Electronics,Headphones,1057.69,5,0.18,40.73,UPI,Central,North David,Utah,Shipped,FBM,Amazon UK
+383,2025-01-14,CUST0383,Christopher Watson,PROD0383,May 588,Books,Fiction,207.14,1,0.05,47.43,UPI,Central,Adamsshire,Hawaii,Shipped,Easy Ship,Amazon DE
+384,2024-10-22,CUST0384,Danielle Jones,PROD0384,Each 842,Electronics,Headphones,525.53,9,0.21,33.56,COD,East,Hobbschester,Iowa,Shipped,Easy Ship,Amazon.in
+385,2025-05-21,CUST0385,Joanna Duran,PROD0385,Pattern 614,Clothing,Kids,1417.93,4,0.2,22.08,Net Banking,East,West Whitneyborough,Hawaii,Delivered,FBM,Amazon DE
+386,2024-09-20,CUST0386,Lisa Colon,PROD0386,Wide 516,Clothing,Womens Wear,1905.71,9,0.28,44.31,UPI,North,Ingramfort,Tennessee,Processing,FBM,Amazon UK
+387,2024-08-21,CUST0387,Eric Singh,PROD0387,These 861,Sports,Outdoor,189.38,2,0.02,13.52,COD,North,Port Timothy,New Jersey,Shipped,FBM,Amazon.in
+388,2024-11-17,CUST0388,Angela Smith,PROD0388,Expert 609,Home,Decor,1859.88,1,0.29,22.35,Amazon Pay,South,New Tonya,Kansas,Delivered,Easy Ship,Amazon DE
+389,2024-01-12,CUST0389,Eric Wilson,PROD0389,Even 819,Books,Non-Fiction,1995.93,9,0.21,21.46,Amazon Pay,North,Lake Lawrencefort,Kansas,Delivered,Easy Ship,Amazon DE
+390,2025-04-30,CUST0390,John Blake,PROD0390,Likely 279,Books,Educational,696.67,9,0.21,4.03,Debit Card,Central,West Charles,New Mexico,Delivered,FBA,Amazon.com
+391,2024-11-15,CUST0391,Nicole Smith,PROD0391,Keep 446,Clothing,Kids,1680.42,9,0.11,4.44,Debit Card,East,East Courtneychester,Michigan,Delivered,Easy Ship,Amazon.in
+392,2025-05-13,CUST0392,Jacqueline Foley,PROD0392,Size 322,Clothing,Mens Wear,1665.14,2,0.09,25.19,Credit Card,Central,Ronnieview,Tennessee,Shipped,FBM,Amazon DE
+393,2025-02-22,CUST0393,Leslie Chandler,PROD0393,Current 464,Sports,Cycling,1866.89,9,0.25,3.7,COD,West,Kimstad,Vermont,Delivered,FBA,Amazon.in
+394,2024-09-03,CUST0394,Kelly Cherry,PROD0394,Friend 109,Books,Fiction,926.1,5,0.11,2.25,Debit Card,West,Lake Ryanchester,Illinois,Cancelled,FBA,Amazon UK
+395,2025-02-09,CUST0395,James Christensen,PROD0395,Type 887,Home,Furniture,989.17,2,0.16,45.13,Net Banking,North,East Ashleymouth,Oklahoma,Delivered,Easy Ship,Amazon.com
+396,2025-04-26,CUST0396,Jennifer Pierce,PROD0396,Could 549,Clothing,Womens Wear,459.93,7,0.11,19.5,COD,East,East Dawn,South Carolina,Cancelled,Easy Ship,Amazon.in
+397,2025-03-24,CUST0397,Jordan Smith,PROD0397,Push 294,Sports,Outdoor,884.32,3,0.11,22.83,Amazon Pay,South,Edwardsborough,Maine,Shipped,FBM,Amazon.in
+398,2024-10-23,CUST0398,Tamara Ware,PROD0398,Check 221,Electronics,Mobile Phones,276.02,7,0.22,45.25,Debit Card,West,Lake Gregoryburgh,Colorado,Shipped,FBM,Amazon UK
+399,2024-08-29,CUST0399,Donna Conner,PROD0399,Indicate 212,Home,Kitchen,1104.75,3,0.1,38.69,COD,West,Kellyberg,New Hampshire,Cancelled,FBA,Amazon.com
+400,2024-12-24,CUST0400,Lindsey Mcknight,PROD0400,Writer 711,Sports,Fitness,52.09,3,0.1,2.66,Credit Card,East,Jessicamouth,North Dakota,Delivered,Easy Ship,Amazon DE
+401,2025-03-03,CUST0401,Matthew Fletcher,PROD0401,International 355,Electronics,Mobile Phones,874.31,5,0.08,5.97,COD,South,Coxside,Tennessee,Delivered,FBM,Amazon.com
+402,2024-08-19,CUST0402,Leslie Gomez,PROD0402,Ground 817,Sports,Fitness,238.89,5,0.3,13.87,Debit Card,West,East Ashley,Kentucky,Processing,Easy Ship,Amazon.in
+403,2024-06-28,CUST0403,Traci Case,PROD0403,Civil 510,Home,Decor,1226.09,4,0.3,30.38,Debit Card,North,New Jeffreyside,South Dakota,Delivered,FBA,Amazon.com
+404,2024-09-10,CUST0404,Jesse Hill,PROD0404,By 637,Clothing,Womens Wear,1980.89,3,0.13,31.59,Credit Card,West,Jeffersonberg,California,Shipped,FBM,Amazon DE
+405,2024-02-20,CUST0405,Marcus Mcfarland,PROD0405,Guy 212,Books,Educational,1270.29,4,0.07,22.45,Net Banking,North,Amandaport,Texas,Shipped,FBM,Amazon UK
+406,2024-07-23,CUST0406,Angela Roberts,PROD0406,Fast 153,Clothing,Kids,568.31,6,0.21,13.85,Debit Card,North,New Jenniferborough,Delaware,Cancelled,Easy Ship,Amazon.in
+407,2025-04-21,CUST0407,Carrie Smith,PROD0407,Exactly 472,Books,Educational,650.06,5,0.14,45.61,Debit Card,East,Amyview,Oklahoma,Shipped,FBM,Amazon DE
+408,2024-01-01,CUST0408,Drew Bryan Jr.,PROD0408,Born 343,Clothing,Womens Wear,231.94,1,0.2,38.98,UPI,East,North Jessicaborough,Minnesota,Shipped,Easy Ship,Amazon UK
+409,2024-06-08,CUST0409,Roy Glass,PROD0409,Lead 700,Clothing,Womens Wear,427.97,7,0.03,7.11,COD,North,Jonathanhaven,Nebraska,Delivered,Easy Ship,Amazon.in
+410,2024-02-06,CUST0410,Yvonne Peterson,PROD0410,Foreign 879,Sports,Outdoor,388.96,8,0.28,5.59,UPI,East,Collinsbury,Kentucky,Delivered,FBA,Amazon DE
+411,2025-05-30,CUST0411,Teresa Nelson,PROD0411,Clear 559,Home,Decor,1444.33,1,0.04,22.07,COD,East,Port Joseph,Tennessee,Processing,Easy Ship,Amazon UK
+412,2025-03-23,CUST0412,Stacy Marshall,PROD0412,Relate 713,Books,Educational,243.68,7,0.02,22.11,COD,North,Kristenstad,Maine,Cancelled,FBM,Amazon.com
+413,2025-06-17,CUST0413,Ryan Moreno,PROD0413,Miss 606,Books,Educational,1935.3,5,0.01,29.18,Amazon Pay,South,New Angelabury,Maine,Processing,Easy Ship,Amazon DE
+414,2024-12-17,CUST0414,Amanda Taylor,PROD0414,Behavior 311,Home,Decor,1741.81,2,0.05,38.03,Net Banking,West,New Stephenchester,North Dakota,Shipped,FBA,Amazon UK
+415,2024-03-04,CUST0415,Deborah Bailey,PROD0415,Above 410,Electronics,Mobile Phones,328.41,4,0.18,2.43,COD,West,East Melissa,California,Cancelled,FBA,Amazon UK
+416,2024-07-10,CUST0416,Patricia Smith,PROD0416,Speak 384,Clothing,Womens Wear,1419.43,9,0.04,12.75,UPI,North,South John,Maryland,Delivered,FBA,Amazon.com
+417,2024-03-26,CUST0417,Dennis Crane,PROD0417,Course 764,Clothing,Womens Wear,1748.03,1,0.19,13.95,COD,North,Julieland,Rhode Island,Processing,FBM,Amazon.in
+418,2024-04-24,CUST0418,Christopher Beard,PROD0418,Herself 726,Books,Non-Fiction,1214.27,6,0.1,47.43,UPI,South,Smithberg,Oregon,Cancelled,FBM,Amazon DE
+419,2024-06-22,CUST0419,Jennifer Wagner,PROD0419,Rock 650,Clothing,Kids,1970.67,1,0.25,12.53,Debit Card,East,North Brandonton,Rhode Island,Returned,Easy Ship,Amazon.in
+420,2024-11-17,CUST0420,Todd Leach,PROD0420,Discuss 936,Sports,Outdoor,1558.59,10,0.03,37.8,Amazon Pay,East,Jamesfort,Ohio,Shipped,FBM,Amazon.com
+421,2024-07-11,CUST0421,Jeffrey Baird,PROD0421,Indicate 847,Clothing,Mens Wear,655.28,4,0.17,40.77,Debit Card,West,Salazarberg,New Jersey,Processing,Easy Ship,Amazon.com
+422,2024-07-20,CUST0422,Joseph Woodward,PROD0422,Population 846,Home,Furniture,743.59,8,0.03,10.71,Debit Card,South,Port Frankshire,Iowa,Shipped,FBA,Amazon DE
+423,2025-03-13,CUST0423,Katie Novak PhD,PROD0423,Another 246,Books,Non-Fiction,571.27,5,0.05,10.53,COD,South,Stoutland,Nebraska,Shipped,FBA,Amazon.in
+424,2025-04-03,CUST0424,Tracy Martinez,PROD0424,Day 486,Home,Furniture,498.06,7,0.03,27.29,Credit Card,Central,Tylertown,North Carolina,Processing,FBM,Amazon.in
+425,2024-09-01,CUST0425,Christopher Baker,PROD0425,Clearly 246,Electronics,Mobile Phones,228.97,1,0.23,32.94,Debit Card,North,Johnfort,North Dakota,Shipped,Easy Ship,Amazon UK
+426,2024-12-20,CUST0426,Michael Smith,PROD0426,Admit 242,Books,Fiction,36.86,1,0.29,7.1,UPI,North,East Jessica,Montana,Processing,FBM,Amazon.com
+427,2024-01-26,CUST0427,Jessica Stafford,PROD0427,Center 742,Sports,Fitness,1130.07,8,0.24,16.75,Debit Card,North,Smithfort,North Dakota,Delivered,Easy Ship,Amazon UK
+428,2024-07-10,CUST0428,Curtis Patel,PROD0428,Available 329,Electronics,Laptops,52.2,1,0.03,16.24,Net Banking,South,Bentleyhaven,New Jersey,Delivered,FBA,Amazon.in
+429,2024-01-20,CUST0429,Karl Baker,PROD0429,Energy 603,Clothing,Mens Wear,860.0,3,0.11,15.77,Amazon Pay,West,Robertsborough,Connecticut,Cancelled,FBA,Amazon.in
+430,2025-03-28,CUST0430,Mary Singh,PROD0430,Argue 282,Electronics,Laptops,456.8,5,0.11,31.55,Credit Card,North,Port Dalton,Utah,Shipped,FBM,Amazon.com
+431,2024-05-04,CUST0431,Lance Kirby,PROD0431,Politics 456,Home,Decor,676.34,3,0.2,9.21,UPI,Central,New Amber,Maryland,Delivered,FBA,Amazon UK
+432,2024-05-16,CUST0432,Gloria Gregory,PROD0432,Large 896,Clothing,Womens Wear,1833.31,6,0.28,40.91,Credit Card,North,Port Joyce,Connecticut,Processing,Easy Ship,Amazon.com
+433,2024-04-20,CUST0433,Jeff Rangel,PROD0433,Big 844,Electronics,Headphones,647.31,7,0.13,40.25,Credit Card,North,Cassandrachester,Tennessee,Returned,FBM,Amazon DE
+434,2024-08-17,CUST0434,Anthony Brown,PROD0434,Idea 716,Electronics,Headphones,189.99,3,0.05,20.48,Net Banking,West,Lynnfort,Texas,Shipped,Easy Ship,Amazon DE
+435,2025-04-09,CUST0435,Justin Guerra,PROD0435,Probably 493,Clothing,Kids,285.06,4,0.11,28.37,Net Banking,Central,North Deannabury,Hawaii,Delivered,FBA,Amazon.com
+436,2025-01-14,CUST0436,Scott Taylor Jr.,PROD0436,How 470,Books,Fiction,1432.69,9,0.17,35.29,Amazon Pay,North,Port Jared,Delaware,Processing,FBA,Amazon.com
+437,2024-01-17,CUST0437,Lee Reilly,PROD0437,Strong 469,Clothing,Mens Wear,1987.87,1,0.11,24.75,Credit Card,North,Westmouth,New Mexico,Shipped,FBA,Amazon UK
+438,2025-06-22,CUST0438,Brian Love,PROD0438,Would 220,Clothing,Womens Wear,926.17,9,0.29,45.82,Debit Card,North,Alexton,Vermont,Shipped,Easy Ship,Amazon.com
+439,2025-03-19,CUST0439,Eric Anderson,PROD0439,Design 588,Books,Educational,294.72,1,0.21,22.39,Credit Card,Central,Blanchardshire,Colorado,Shipped,Easy Ship,Amazon.in
+440,2025-06-11,CUST0440,Jason Peterson,PROD0440,Authority 883,Sports,Outdoor,324.76,3,0.11,5.79,COD,West,North Kellyfurt,Kentucky,Shipped,FBA,Amazon.com
+441,2024-09-09,CUST0441,Lisa Peterson,PROD0441,Southern 393,Home,Kitchen,1489.68,9,0.21,16.38,UPI,West,Brayberg,Arizona,Delivered,FBA,Amazon.in
+442,2024-05-16,CUST0442,Marc Hensley,PROD0442,Be 667,Electronics,Headphones,129.4,1,0.18,10.33,Net Banking,West,Howellchester,Massachusetts,Shipped,Easy Ship,Amazon DE
+443,2024-08-10,CUST0443,Tiffany Orr,PROD0443,Ask 634,Sports,Outdoor,523.53,10,0.15,36.05,Debit Card,East,Shannonchester,Nebraska,Delivered,FBM,Amazon.in
+444,2025-04-30,CUST0444,Frank Ware,PROD0444,Single 936,Electronics,Headphones,1488.84,7,0.19,12.51,Amazon Pay,Central,Port Ginahaven,Arizona,Shipped,Easy Ship,Amazon.in
+445,2024-12-17,CUST0445,Matthew Miller,PROD0445,We 376,Home,Kitchen,960.06,7,0.25,9.91,Amazon Pay,West,Youngberg,Tennessee,Processing,FBA,Amazon.com
+446,2024-01-19,CUST0446,Christian Wallace,PROD0446,Miss 166,Electronics,Laptops,164.84,10,0.23,18.1,Debit Card,Central,Lake Karen,Arizona,Shipped,FBA,Amazon.in
+447,2024-04-23,CUST0447,Anita Coleman,PROD0447,During 683,Books,Fiction,31.84,5,0.06,11.68,Debit Card,East,Landryshire,Delaware,Cancelled,Easy Ship,Amazon.in
+448,2024-03-04,CUST0448,Clarence Campbell,PROD0448,Threat 507,Electronics,Mobile Phones,1131.84,8,0.01,17.1,Credit Card,East,Brownfurt,California,Cancelled,Easy Ship,Amazon UK
+449,2025-02-06,CUST0449,Andre Tate,PROD0449,Democrat 859,Clothing,Mens Wear,635.8,7,0.22,48.74,Credit Card,East,West Lucas,Wisconsin,Processing,Easy Ship,Amazon DE
+450,2025-03-30,CUST0450,Jennifer Wright,PROD0450,Scene 255,Electronics,Laptops,1009.33,3,0.01,40.21,Credit Card,East,Walshfurt,Kansas,Delivered,Easy Ship,Amazon.com
+451,2024-09-16,CUST0451,Danielle Jenkins,PROD0451,Care 613,Home,Kitchen,166.72,2,0.29,13.12,Amazon Pay,South,Lake Gregoryland,Utah,Shipped,Easy Ship,Amazon.com
+452,2024-11-30,CUST0452,Shawn Savage,PROD0452,Size 738,Books,Educational,1221.39,9,0.28,18.39,UPI,East,North Jennifer,Maryland,Processing,FBM,Amazon UK
+453,2024-11-13,CUST0453,Haley Green,PROD0453,Yet 199,Electronics,Mobile Phones,1782.45,7,0.07,49.86,Debit Card,Central,Hawkinstown,Minnesota,Delivered,FBA,Amazon DE
+454,2024-02-06,CUST0454,Dr. Matthew Deleon,PROD0454,Public 565,Electronics,Headphones,1534.97,5,0.16,48.51,Credit Card,West,Kellyhaven,Tennessee,Processing,FBM,Amazon.in
+455,2024-03-11,CUST0455,Jennifer Young,PROD0455,Game 364,Electronics,Headphones,1868.77,3,0.02,29.67,Credit Card,South,Osbornfurt,Utah,Shipped,FBM,Amazon DE
+456,2024-12-02,CUST0456,Natalie Sanchez,PROD0456,Usually 472,Clothing,Womens Wear,1528.66,8,0.2,8.74,COD,West,Lake Brian,Illinois,Shipped,FBM,Amazon.in
+457,2024-06-10,CUST0457,Kylie Wagner,PROD0457,Sign 185,Home,Furniture,823.98,10,0.28,8.19,COD,East,Port Anthonybury,Hawaii,Shipped,Easy Ship,Amazon UK
+458,2025-06-28,CUST0458,Gregory Mathews,PROD0458,Garden 816,Home,Furniture,1016.83,5,0.26,49.58,Amazon Pay,North,New Christopherton,Maryland,Shipped,Easy Ship,Amazon.com
+459,2024-04-19,CUST0459,William Archer,PROD0459,Job 995,Electronics,Mobile Phones,317.58,2,0.09,9.59,Credit Card,South,Molinaview,Idaho,Shipped,FBM,Amazon DE
+460,2025-01-14,CUST0460,Christopher Sanders,PROD0460,Class 849,Books,Non-Fiction,196.07,8,0.14,27.69,Credit Card,North,West Katie,Connecticut,Processing,FBA,Amazon.com
+461,2024-03-30,CUST0461,Carrie Meyer,PROD0461,Husband 317,Sports,Cycling,1919.5,7,0.23,11.57,UPI,East,South Amanda,Montana,Shipped,Easy Ship,Amazon DE
+462,2024-04-15,CUST0462,Sara Phillips,PROD0462,Section 681,Books,Educational,957.68,5,0.14,28.16,Debit Card,South,Reneeport,New York,Cancelled,FBA,Amazon UK
+463,2024-04-15,CUST0463,Sara Harris,PROD0463,Key 316,Books,Fiction,1550.67,1,0.28,19.35,Net Banking,South,South Brandy,Minnesota,Delivered,FBA,Amazon.in
+464,2024-08-15,CUST0464,Paula Smith,PROD0464,Decision 405,Sports,Fitness,1370.51,5,0.08,10.45,UPI,West,Sherrybury,Hawaii,Shipped,Easy Ship,Amazon.in
+465,2024-08-27,CUST0465,Jennifer Curtis,PROD0465,Store 450,Home,Kitchen,1743.87,9,0.06,44.87,Credit Card,North,Mcgeeville,Delaware,Shipped,FBM,Amazon DE
+466,2024-10-21,CUST0466,Marcus Brown,PROD0466,Thus 809,Electronics,Headphones,405.22,7,0.14,27.7,Amazon Pay,West,South Matthew,Illinois,Processing,Easy Ship,Amazon UK
+467,2024-03-21,CUST0467,Melissa Sanford,PROD0467,Ok 431,Home,Furniture,1647.8,9,0.23,30.66,Amazon Pay,Central,Royshire,Kentucky,Shipped,Easy Ship,Amazon.com
+468,2024-11-09,CUST0468,Joseph Rangel,PROD0468,East 911,Sports,Outdoor,1878.55,6,0.0,45.03,Net Banking,East,West Charlotte,Hawaii,Cancelled,Easy Ship,Amazon.in
+469,2024-01-01,CUST0469,Carl Pratt,PROD0469,Discover 137,Home,Furniture,532.98,1,0.3,47.28,Amazon Pay,West,Dawsonbury,Colorado,Cancelled,FBA,Amazon.in
+470,2025-03-31,CUST0470,Ms. Cassandra Frederick,PROD0470,Mrs 295,Books,Educational,1958.27,7,0.21,39.17,Debit Card,East,Juanport,New Hampshire,Delivered,Easy Ship,Amazon.com
+471,2025-06-20,CUST0471,Misty Kelly,PROD0471,Six 764,Books,Fiction,1910.66,6,0.24,2.78,COD,North,Scottmouth,Ohio,Cancelled,FBM,Amazon DE
+472,2024-03-29,CUST0472,Ashley Aguilar,PROD0472,Point 569,Home,Furniture,826.67,6,0.25,22.44,UPI,North,North Tracyview,Wisconsin,Returned,FBM,Amazon.com
+473,2025-01-07,CUST0473,Calvin Simmons,PROD0473,Third 818,Clothing,Kids,362.02,10,0.05,22.92,Amazon Pay,West,New Melissa,Florida,Shipped,Easy Ship,Amazon UK
+474,2024-12-15,CUST0474,Parker Jimenez,PROD0474,Surface 206,Sports,Cycling,1812.71,2,0.3,40.69,Amazon Pay,North,West Jacob,Georgia,Shipped,FBM,Amazon DE
+475,2024-06-22,CUST0475,Mr. Joshua Vega,PROD0475,Dream 316,Books,Educational,1505.94,9,0.03,23.32,Credit Card,East,Lake Angelica,South Carolina,Delivered,FBA,Amazon DE
+476,2025-03-15,CUST0476,David Mitchell,PROD0476,Participant 940,Sports,Fitness,914.71,7,0.03,43.1,UPI,West,South Tamarachester,North Carolina,Returned,Easy Ship,Amazon DE
+477,2024-05-09,CUST0477,Jacob Obrien,PROD0477,Idea 414,Books,Educational,1571.42,7,0.0,19.98,UPI,East,East Amandaview,Tennessee,Shipped,FBM,Amazon UK
+478,2025-03-16,CUST0478,Jason Levine,PROD0478,Too 443,Books,Non-Fiction,490.69,7,0.01,3.26,COD,Central,New Robert,Texas,Processing,FBA,Amazon UK
+479,2024-04-13,CUST0479,Jennifer Mckinney DDS,PROD0479,Station 231,Books,Fiction,1985.73,4,0.17,20.79,Net Banking,North,Port Kevin,Wisconsin,Delivered,Easy Ship,Amazon DE
+480,2024-11-12,CUST0480,Donald Stuart,PROD0480,Smile 616,Home,Furniture,1954.94,3,0.12,17.27,Debit Card,North,Katelynbury,Kansas,Shipped,FBA,Amazon.com
+481,2024-12-23,CUST0481,James Davis,PROD0481,Effect 308,Books,Non-Fiction,1158.1,7,0.25,32.11,COD,South,West Jared,Illinois,Shipped,FBA,Amazon UK
+482,2025-02-17,CUST0482,Brandon Johnson,PROD0482,Institution 685,Electronics,Laptops,61.02,1,0.19,30.48,Amazon Pay,Central,Sarahchester,Ohio,Shipped,FBM,Amazon.in
+483,2025-05-16,CUST0483,Breanna Richardson,PROD0483,Later 404,Electronics,Mobile Phones,1487.26,3,0.3,32.45,Debit Card,South,West Wendyland,South Dakota,Processing,FBA,Amazon.com
+484,2024-04-13,CUST0484,Anthony Thomas,PROD0484,More 213,Home,Decor,1682.51,7,0.23,33.64,Debit Card,North,Jessicabury,Minnesota,Shipped,FBM,Amazon.in
+485,2024-06-07,CUST0485,Lisa Walker,PROD0485,Prepare 958,Sports,Cycling,1195.83,2,0.04,14.58,Credit Card,West,Alvarezton,Florida,Shipped,FBA,Amazon UK
+486,2024-12-23,CUST0486,Jacob Boyer,PROD0486,Computer 421,Home,Furniture,210.34,1,0.12,25.35,Debit Card,West,Lake Annaland,Massachusetts,Delivered,Easy Ship,Amazon DE
+487,2024-07-29,CUST0487,Wanda Hines,PROD0487,Dark 220,Sports,Cycling,907.25,3,0.05,2.49,COD,Central,Henryshire,Michigan,Shipped,FBM,Amazon.in
+488,2024-08-05,CUST0488,Christina Wallace,PROD0488,Attorney 720,Clothing,Kids,972.98,10,0.18,2.24,UPI,North,Brianmouth,New York,Delivered,FBA,Amazon.com
+489,2025-02-15,CUST0489,Brandon Garrett,PROD0489,Strong 241,Home,Decor,55.85,9,0.23,12.38,Debit Card,North,New Allison,Missouri,Shipped,FBA,Amazon UK
+490,2024-10-10,CUST0490,Christopher Jones,PROD0490,Station 578,Electronics,Laptops,1458.21,3,0.08,25.12,UPI,Central,South Kaylaton,Mississippi,Returned,Easy Ship,Amazon UK
+491,2024-03-18,CUST0491,Shannon Mccoy,PROD0491,Speech 205,Sports,Fitness,996.65,9,0.28,46.27,Debit Card,East,South Randall,Arizona,Shipped,Easy Ship,Amazon DE
+492,2024-11-01,CUST0492,Kathy Garza,PROD0492,Single 710,Sports,Fitness,1535.23,5,0.05,11.88,Net Banking,West,Shannonfurt,Maryland,Processing,Easy Ship,Amazon DE
+493,2024-10-14,CUST0493,Mary Knight,PROD0493,Standard 560,Clothing,Womens Wear,1633.63,10,0.03,20.39,UPI,East,Leonardmouth,North Dakota,Shipped,FBA,Amazon.in
+494,2024-08-05,CUST0494,Jennifer Lee,PROD0494,Another 507,Sports,Cycling,77.18,9,0.08,21.67,Amazon Pay,Central,Johnsonview,Nebraska,Delivered,FBA,Amazon UK
+495,2024-06-28,CUST0495,Aaron Jenkins,PROD0495,Safe 248,Electronics,Laptops,368.01,6,0.13,10.92,Debit Card,East,Richardsonton,Illinois,Shipped,FBM,Amazon UK
+496,2024-08-25,CUST0496,Joseph Richardson,PROD0496,Toward 494,Electronics,Laptops,29.17,1,0.22,12.26,UPI,South,South Alexandermouth,New Mexico,Delivered,FBM,Amazon.in
+497,2025-06-15,CUST0497,Mark Adams,PROD0497,Face 798,Books,Fiction,432.23,4,0.03,15.35,Amazon Pay,North,Alyssaland,Illinois,Delivered,FBM,Amazon DE
+498,2025-06-15,CUST0498,Joel Schneider,PROD0498,Industry 227,Clothing,Kids,1628.66,4,0.06,40.53,UPI,West,Lopezton,Oregon,Delivered,FBM,Amazon.in
+499,2025-03-15,CUST0499,Nicholas Scott,PROD0499,Away 572,Electronics,Headphones,1206.85,10,0.11,29.67,Amazon Pay,Central,Deckertown,Wyoming,Shipped,FBM,Amazon.in
+500,2024-08-19,CUST0500,John Goodwin,PROD0500,Fall 581,Electronics,Headphones,1684.87,7,0.01,27.61,UPI,North,North Courtneyton,Rhode Island,Delivered,FBA,Amazon.in
+501,2024-07-14,CUST0501,Rose Paul,PROD0501,Yard 727,Sports,Outdoor,1607.0,5,0.08,38.18,COD,East,North Angelaville,Rhode Island,Delivered,FBA,Amazon DE
+502,2024-04-06,CUST0502,Tammy Woods,PROD0502,He 129,Home,Furniture,603.9,8,0.15,32.77,UPI,Central,South Joshua,South Dakota,Cancelled,FBA,Amazon.in
+503,2024-06-06,CUST0503,Steve Herrera,PROD0503,Consumer 190,Electronics,Mobile Phones,1652.66,3,0.03,17.5,Net Banking,South,Port Stephen,Minnesota,Delivered,FBA,Amazon.com
+504,2025-06-26,CUST0504,Jeffrey Flores,PROD0504,Language 903,Books,Educational,1805.53,6,0.24,27.8,Amazon Pay,North,Lake Jeremy,Illinois,Shipped,FBA,Amazon UK
+505,2025-01-10,CUST0505,Laurie Smith,PROD0505,Animal 241,Electronics,Laptops,105.53,5,0.02,17.81,Net Banking,East,Port Steven,Oklahoma,Delivered,Easy Ship,Amazon.com
+506,2024-09-05,CUST0506,Molly Friedman,PROD0506,Enjoy 634,Home,Kitchen,248.6,6,0.26,38.15,Net Banking,West,Hancockfurt,Wisconsin,Cancelled,Easy Ship,Amazon.in
+507,2024-11-20,CUST0507,Kevin Turner,PROD0507,Pay 884,Clothing,Mens Wear,1159.99,8,0.29,17.45,Debit Card,North,Jonesburgh,Connecticut,Processing,FBM,Amazon UK
+508,2024-06-03,CUST0508,Shannon Harper,PROD0508,Benefit 606,Books,Educational,174.76,9,0.25,13.63,Debit Card,North,Ryanstad,Ohio,Delivered,FBA,Amazon.in
+509,2024-11-19,CUST0509,Maria Perez,PROD0509,Free 878,Clothing,Mens Wear,36.12,4,0.14,20.48,UPI,South,New Jimmy,Virginia,Delivered,FBM,Amazon UK
+510,2024-08-07,CUST0510,Lisa Williams,PROD0510,Interesting 988,Books,Educational,913.5,3,0.25,7.07,UPI,West,Mariebury,Washington,Shipped,Easy Ship,Amazon DE
+511,2024-07-11,CUST0511,Randy Castro,PROD0511,Newspaper 250,Home,Decor,414.01,7,0.06,15.34,UPI,Central,Anthonystad,Wisconsin,Shipped,FBM,Amazon.in
+512,2024-12-24,CUST0512,David Deleon,PROD0512,Present 460,Sports,Cycling,223.28,2,0.07,44.92,Credit Card,West,North Nicole,Oklahoma,Shipped,FBM,Amazon DE
+513,2025-01-10,CUST0513,Melissa Deleon,PROD0513,Statement 154,Electronics,Laptops,1854.59,2,0.11,12.18,Net Banking,Central,Mitchellmouth,Kentucky,Shipped,FBM,Amazon UK
+514,2024-07-27,CUST0514,Anna Turner,PROD0514,Bag 280,Clothing,Womens Wear,745.86,1,0.19,37.14,UPI,South,Port Johnville,Minnesota,Delivered,Easy Ship,Amazon DE
+515,2024-12-30,CUST0515,Linda Francis,PROD0515,Study 217,Clothing,Womens Wear,1063.83,8,0.16,7.24,Debit Card,North,Port Robertview,California,Shipped,FBA,Amazon.com
+516,2024-09-25,CUST0516,Heather Rivera,PROD0516,Man 502,Sports,Cycling,81.02,5,0.07,27.54,COD,West,Lake Peggychester,Kentucky,Shipped,FBA,Amazon DE
+517,2024-03-13,CUST0517,Gregory Allen,PROD0517,Do 851,Clothing,Mens Wear,1470.51,5,0.15,10.21,Amazon Pay,East,South Micheleview,New Mexico,Shipped,FBA,Amazon UK
+518,2024-10-06,CUST0518,Dawn Camacho,PROD0518,Source 797,Electronics,Laptops,378.31,10,0.14,16.66,Debit Card,South,Howehaven,Alaska,Cancelled,FBA,Amazon UK
+519,2024-12-24,CUST0519,Paul Tate,PROD0519,Behind 370,Electronics,Headphones,382.82,8,0.04,2.61,UPI,North,Wallaceport,Georgia,Delivered,FBA,Amazon.com
+520,2025-05-09,CUST0520,Carly Bennett,PROD0520,Chance 212,Electronics,Headphones,1361.61,1,0.18,48.54,Net Banking,South,New Natalieport,Montana,Delivered,FBA,Amazon DE
+521,2025-05-22,CUST0521,Kevin Stone,PROD0521,Other 411,Sports,Outdoor,44.61,5,0.25,27.21,Debit Card,North,Warnerfort,South Dakota,Shipped,Easy Ship,Amazon.in
+522,2025-03-16,CUST0522,Devin Harris,PROD0522,He 947,Clothing,Kids,910.71,6,0.3,14.35,UPI,West,Lake Kristinbury,Michigan,Delivered,FBM,Amazon.in
+523,2025-06-06,CUST0523,Susan Lee,PROD0523,Stop 376,Clothing,Womens Wear,1423.21,9,0.23,43.13,COD,West,Maryborough,Mississippi,Cancelled,Easy Ship,Amazon.in
+524,2024-08-09,CUST0524,Jillian Murphy,PROD0524,Member 131,Home,Decor,1459.15,1,0.04,21.7,Debit Card,East,Cooperfort,Maryland,Shipped,FBA,Amazon DE
+525,2025-05-12,CUST0525,Erica Harris,PROD0525,Huge 998,Books,Fiction,1484.61,7,0.11,37.73,Net Banking,North,North Jose,Arizona,Shipped,Easy Ship,Amazon UK
+526,2024-02-06,CUST0526,Sandra Kelly,PROD0526,Structure 500,Books,Non-Fiction,1094.38,8,0.3,44.05,Amazon Pay,East,Lake Jacqueline,Missouri,Shipped,Easy Ship,Amazon UK
+527,2025-04-29,CUST0527,Sharon Case,PROD0527,Local 543,Home,Furniture,1891.08,5,0.09,3.97,UPI,Central,Barrport,Washington,Delivered,FBM,Amazon.in
+528,2024-07-16,CUST0528,Garrett Moyer,PROD0528,Seem 797,Books,Fiction,1936.62,6,0.09,48.53,Amazon Pay,South,Lawrencebury,Louisiana,Delivered,FBA,Amazon DE
+529,2024-12-22,CUST0529,Bonnie Buchanan,PROD0529,Tree 564,Home,Decor,1933.68,10,0.17,9.81,Credit Card,East,Taramouth,Maine,Delivered,FBA,Amazon.in
+530,2025-01-01,CUST0530,Brad Brown,PROD0530,Few 357,Clothing,Mens Wear,573.2,10,0.04,25.44,UPI,North,Smithmouth,Vermont,Shipped,FBA,Amazon.in
+531,2024-01-27,CUST0531,Michael Walton MD,PROD0531,Doctor 850,Clothing,Kids,1758.66,9,0.2,38.91,Credit Card,East,South Gabriellaton,Alabama,Shipped,FBA,Amazon.com
+532,2024-10-20,CUST0532,Tyler Wilson,PROD0532,Huge 508,Home,Furniture,1174.6,2,0.09,3.54,Debit Card,West,South Donald,South Carolina,Cancelled,FBA,Amazon DE
+533,2024-12-11,CUST0533,Matthew Reynolds,PROD0533,Speak 799,Sports,Cycling,529.91,5,0.18,10.32,UPI,Central,Johnmouth,Vermont,Delivered,FBA,Amazon.com
+534,2024-01-02,CUST0534,Dustin Weber,PROD0534,Simply 484,Clothing,Womens Wear,280.02,9,0.06,16.64,Amazon Pay,West,Duncanborough,Alaska,Shipped,FBM,Amazon.com
+535,2024-02-12,CUST0535,Juan Stewart,PROD0535,Charge 537,Electronics,Laptops,285.83,8,0.21,26.18,UPI,West,North Katrina,Minnesota,Delivered,FBM,Amazon UK
+536,2024-05-23,CUST0536,James Murray,PROD0536,Drop 729,Home,Furniture,1923.28,8,0.01,28.83,Net Banking,North,West Lisatown,North Carolina,Returned,FBM,Amazon.com
+537,2024-01-02,CUST0537,Steven Allen,PROD0537,School 228,Sports,Fitness,492.86,9,0.11,31.8,UPI,North,New Johnny,Washington,Cancelled,FBM,Amazon DE
+538,2024-05-13,CUST0538,Michelle Miller,PROD0538,Significant 708,Books,Non-Fiction,21.85,9,0.14,4.61,Amazon Pay,North,New April,Vermont,Shipped,FBA,Amazon UK
+539,2025-01-16,CUST0539,Shawn Henderson,PROD0539,Writer 818,Sports,Outdoor,588.25,8,0.21,43.49,COD,Central,South Kathy,Virginia,Shipped,FBA,Amazon.in
+540,2024-07-01,CUST0540,Heather Cook,PROD0540,Writer 836,Home,Decor,296.86,8,0.04,44.96,Debit Card,East,Newmanfort,Oregon,Delivered,FBA,Amazon UK
+541,2025-02-17,CUST0541,Gavin Hurst,PROD0541,Crime 353,Sports,Fitness,975.06,4,0.03,2.0,Credit Card,Central,Davisburgh,Iowa,Delivered,FBA,Amazon.in
+542,2024-11-01,CUST0542,Kevin Diaz,PROD0542,Though 939,Electronics,Laptops,952.75,9,0.13,4.67,Net Banking,West,Solomonport,Georgia,Shipped,FBA,Amazon.com
+543,2024-11-27,CUST0543,Andrew Giles MD,PROD0543,Candidate 249,Sports,Outdoor,1696.98,5,0.25,34.7,COD,North,New Vanessaberg,Maine,Cancelled,Easy Ship,Amazon DE
+544,2024-08-20,CUST0544,James Williams,PROD0544,Role 396,Electronics,Mobile Phones,377.77,4,0.05,37.6,Net Banking,West,Mercershire,Georgia,Delivered,Easy Ship,Amazon UK
+545,2025-06-04,CUST0545,Tim Mcdaniel,PROD0545,Peace 933,Electronics,Laptops,1918.59,8,0.11,15.21,Credit Card,West,Greeneshire,Illinois,Shipped,FBM,Amazon DE
+546,2024-08-01,CUST0546,Nathan Parrish,PROD0546,Information 143,Electronics,Headphones,65.66,8,0.04,20.69,Credit Card,Central,Matthewton,Pennsylvania,Delivered,FBM,Amazon DE
+547,2025-05-12,CUST0547,Alexandra Ibarra,PROD0547,Religious 823,Electronics,Headphones,941.14,8,0.08,49.12,COD,South,Amandaland,Wisconsin,Shipped,Easy Ship,Amazon UK
+548,2024-02-17,CUST0548,Jennifer Peterson,PROD0548,Ability 385,Home,Furniture,1030.96,3,0.2,18.89,UPI,West,Beltranmouth,Oregon,Processing,Easy Ship,Amazon.com
+549,2024-03-16,CUST0549,Brandi Robinson,PROD0549,Style 689,Clothing,Womens Wear,1847.72,2,0.27,32.97,Net Banking,Central,Lake Emilyborough,Texas,Shipped,Easy Ship,Amazon.com
+550,2024-10-06,CUST0550,Ann Garrison,PROD0550,Population 169,Sports,Cycling,1018.89,9,0.08,35.49,COD,East,Maxwellchester,Connecticut,Delivered,FBA,Amazon DE
+551,2025-02-21,CUST0551,Nancy Scott,PROD0551,Through 878,Electronics,Mobile Phones,1705.54,3,0.07,33.93,Amazon Pay,West,East Frank,Wisconsin,Delivered,FBA,Amazon UK
+552,2024-10-20,CUST0552,Johnny Barry,PROD0552,Look 163,Sports,Fitness,1619.03,4,0.03,44.28,Net Banking,West,Joshuashire,Hawaii,Processing,Easy Ship,Amazon.in
+553,2024-02-29,CUST0553,Lisa Gallegos,PROD0553,Might 210,Clothing,Womens Wear,237.8,2,0.13,19.97,Credit Card,South,Port Phillipfort,New Mexico,Delivered,Easy Ship,Amazon UK
+554,2024-10-05,CUST0554,Andrew Adams,PROD0554,Night 306,Home,Kitchen,761.48,10,0.17,11.39,Amazon Pay,East,East Robert,Kansas,Delivered,Easy Ship,Amazon.com
+555,2024-08-28,CUST0555,Terrence Morrow,PROD0555,Dog 134,Electronics,Headphones,873.79,9,0.24,11.23,Amazon Pay,North,New Anna,Michigan,Delivered,FBA,Amazon.com
+556,2025-04-10,CUST0556,Stephanie Lester,PROD0556,Land 294,Sports,Cycling,20.42,7,0.17,43.5,Amazon Pay,Central,South Margaretview,Massachusetts,Shipped,FBA,Amazon DE
+557,2024-09-28,CUST0557,Kim Martin,PROD0557,Soldier 537,Books,Fiction,1656.88,9,0.11,31.69,Debit Card,North,Staceyhaven,Washington,Delivered,Easy Ship,Amazon DE
+558,2025-01-15,CUST0558,Natasha Bates,PROD0558,Five 152,Home,Furniture,1749.21,10,0.02,39.55,Credit Card,West,West Kathleen,Montana,Shipped,Easy Ship,Amazon.com
+559,2024-12-02,CUST0559,Ms. Katherine Watson,PROD0559,Professor 993,Home,Decor,668.53,4,0.25,15.92,Net Banking,East,Robinsonport,California,Processing,FBA,Amazon.in
+560,2024-12-26,CUST0560,Heather Harrison,PROD0560,Wear 659,Clothing,Womens Wear,158.81,10,0.07,26.85,UPI,West,Tommyfurt,Massachusetts,Delivered,Easy Ship,Amazon.in
+561,2025-01-06,CUST0561,Chelsea Clark,PROD0561,Themselves 367,Sports,Cycling,230.64,8,0.28,49.28,Credit Card,East,Port Judith,Oregon,Delivered,FBA,Amazon DE
+562,2024-06-25,CUST0562,Barbara Erickson,PROD0562,Piece 605,Clothing,Kids,1777.18,1,0.04,28.26,Amazon Pay,North,Franklinshire,Arizona,Processing,FBA,Amazon.com
+563,2024-05-05,CUST0563,Ruth Ho,PROD0563,Air 664,Sports,Fitness,1896.52,10,0.21,38.75,Credit Card,West,Alexandermouth,Mississippi,Shipped,FBM,Amazon.in
+564,2024-09-01,CUST0564,Christine Simmons,PROD0564,Six 410,Electronics,Headphones,548.31,1,0.03,25.84,UPI,West,East Amanda,Arkansas,Shipped,FBA,Amazon DE
+565,2024-10-14,CUST0565,Jeffrey Rogers,PROD0565,Type 153,Electronics,Mobile Phones,1863.18,1,0.23,40.95,Net Banking,North,East Rogerside,South Dakota,Delivered,FBM,Amazon DE
+566,2025-02-22,CUST0566,James Munoz,PROD0566,Appear 460,Sports,Fitness,760.68,3,0.13,22.49,Net Banking,North,Shellyhaven,Iowa,Shipped,FBA,Amazon UK
+567,2024-05-24,CUST0567,Holly Morales,PROD0567,Pick 921,Clothing,Kids,878.68,1,0.07,6.42,Net Banking,Central,Middletonhaven,Tennessee,Shipped,FBA,Amazon.in
+568,2025-04-03,CUST0568,Michael Hansen,PROD0568,Everyone 716,Sports,Outdoor,1442.46,1,0.02,8.08,Credit Card,East,Nicolefort,Utah,Shipped,Easy Ship,Amazon UK
+569,2024-01-04,CUST0569,Thomas Adkins,PROD0569,Team 356,Sports,Cycling,496.05,5,0.04,21.1,Amazon Pay,North,Newtonton,Pennsylvania,Delivered,Easy Ship,Amazon.in
+570,2024-11-16,CUST0570,Abigail Davis,PROD0570,Size 989,Clothing,Mens Wear,994.91,6,0.27,43.22,UPI,East,East Vanessaview,North Dakota,Delivered,Easy Ship,Amazon UK
+571,2024-10-08,CUST0571,Melissa Garcia,PROD0571,Read 386,Clothing,Mens Wear,1058.42,5,0.1,27.99,UPI,West,East Elizabethbury,Montana,Shipped,FBA,Amazon DE
+572,2024-10-07,CUST0572,Robert Lee,PROD0572,Method 340,Clothing,Mens Wear,1824.98,9,0.07,37.61,UPI,South,Port Michaelfurt,South Carolina,Shipped,Easy Ship,Amazon.in
+573,2025-03-10,CUST0573,Lisa Buck,PROD0573,Reveal 407,Home,Kitchen,1303.32,8,0.29,3.02,UPI,East,West Jamesmouth,Alaska,Processing,FBA,Amazon DE
+574,2025-05-06,CUST0574,Kimberly Wright,PROD0574,Remain 310,Electronics,Mobile Phones,565.39,10,0.12,2.9,Net Banking,North,Davidburgh,Georgia,Shipped,FBM,Amazon.com
+575,2024-07-22,CUST0575,Robert Holt,PROD0575,Finish 948,Electronics,Headphones,1323.25,9,0.02,16.65,UPI,North,South Manuel,Wyoming,Delivered,FBM,Amazon UK
+576,2024-10-08,CUST0576,Lynn Mason,PROD0576,History 926,Sports,Fitness,1509.1,4,0.23,18.37,Net Banking,West,West Toni,Virginia,Processing,FBA,Amazon.in
+577,2024-06-15,CUST0577,Cassidy Hamilton,PROD0577,Question 266,Home,Decor,782.34,5,0.26,47.02,COD,Central,South Brittneyberg,Michigan,Delivered,FBM,Amazon UK
+578,2024-05-22,CUST0578,Justin Davis,PROD0578,Page 889,Home,Kitchen,1493.81,4,0.04,2.73,UPI,North,Catherineport,Idaho,Processing,Easy Ship,Amazon.com
+579,2025-05-19,CUST0579,Mrs. Jennifer Stewart,PROD0579,Property 227,Clothing,Womens Wear,681.69,7,0.01,15.16,UPI,Central,South Annette,Indiana,Shipped,FBM,Amazon.in
+580,2025-05-17,CUST0580,Patrick Fields,PROD0580,Only 467,Books,Fiction,1324.95,5,0.25,23.3,Credit Card,West,West Toddstad,Delaware,Shipped,FBM,Amazon.in
+581,2025-02-28,CUST0581,Steve Conway,PROD0581,World 165,Books,Non-Fiction,1690.21,4,0.12,29.82,COD,Central,Thompsonport,New Jersey,Shipped,FBM,Amazon UK
+582,2024-01-19,CUST0582,Russell Stephens,PROD0582,Value 338,Electronics,Headphones,523.43,5,0.08,25.76,Debit Card,South,Lake Daniel,Rhode Island,Shipped,FBA,Amazon.in
+583,2024-06-27,CUST0583,Kathryn Miller,PROD0583,Face 831,Books,Non-Fiction,86.62,9,0.26,29.83,Amazon Pay,South,West Jonathan,Arkansas,Shipped,FBM,Amazon.in
+584,2024-03-12,CUST0584,Alicia Farmer,PROD0584,Teach 215,Clothing,Womens Wear,42.08,6,0.16,4.15,Credit Card,North,Davidside,Maine,Shipped,Easy Ship,Amazon DE
+585,2024-11-16,CUST0585,Michael Gillespie,PROD0585,Which 246,Electronics,Laptops,481.59,6,0.17,41.8,Credit Card,West,Arnoldberg,Virginia,Delivered,FBA,Amazon UK
+586,2024-08-30,CUST0586,Christopher Leonard,PROD0586,Conference 264,Clothing,Kids,1217.86,6,0.1,21.59,Net Banking,East,Hurleyhaven,Arkansas,Delivered,FBM,Amazon.in
+587,2024-03-30,CUST0587,Stephanie Hayes,PROD0587,Across 320,Electronics,Mobile Phones,588.84,3,0.27,3.23,UPI,Central,Scottview,Arizona,Delivered,FBM,Amazon UK
+588,2024-05-18,CUST0588,Brittany Anderson,PROD0588,Stage 651,Sports,Outdoor,1169.55,3,0.11,49.9,Credit Card,South,Anthonyport,Missouri,Shipped,Easy Ship,Amazon DE
+589,2024-05-16,CUST0589,Richard Daniels,PROD0589,Admit 375,Electronics,Laptops,1696.71,9,0.24,31.14,COD,West,Lake Barry,Florida,Delivered,FBA,Amazon UK
+590,2024-01-22,CUST0590,Abigail Lopez,PROD0590,Financial 866,Sports,Outdoor,1154.74,4,0.1,40.35,Debit Card,West,New Ryan,Idaho,Returned,FBA,Amazon UK
+591,2024-06-26,CUST0591,Daniel West,PROD0591,Republican 559,Books,Educational,489.68,7,0.11,18.9,UPI,West,South Maurice,Oregon,Delivered,FBM,Amazon.com
+592,2025-02-11,CUST0592,Brian Ryan,PROD0592,Out 720,Clothing,Mens Wear,1142.99,3,0.28,13.76,Amazon Pay,Central,Jamesview,Oklahoma,Cancelled,FBM,Amazon.com
+593,2024-05-10,CUST0593,Charlene Martin,PROD0593,Trade 747,Sports,Fitness,580.9,6,0.04,21.61,Debit Card,Central,Wilsonburgh,North Dakota,Delivered,FBA,Amazon DE
+594,2025-02-05,CUST0594,Felicia Meyers,PROD0594,Power 229,Sports,Cycling,368.03,8,0.0,7.8,COD,West,Robersonton,Mississippi,Shipped,FBA,Amazon.in
+595,2024-11-29,CUST0595,Daryl Potter,PROD0595,Skin 230,Sports,Outdoor,868.53,3,0.3,8.35,Net Banking,West,Harrisville,Wyoming,Cancelled,FBM,Amazon UK
+596,2025-02-15,CUST0596,Brandon Russell,PROD0596,Answer 839,Books,Educational,1118.31,5,0.04,45.08,COD,Central,Joannamouth,Wisconsin,Cancelled,FBA,Amazon.in
+597,2024-09-22,CUST0597,Jacob Collins,PROD0597,Surface 875,Electronics,Laptops,1480.11,6,0.28,45.71,Amazon Pay,West,Jamesland,North Dakota,Delivered,FBM,Amazon UK
+598,2024-11-28,CUST0598,Brian Chavez,PROD0598,Strong 107,Books,Educational,277.87,3,0.22,30.3,COD,North,Bowenside,South Dakota,Processing,Easy Ship,Amazon.com
+599,2024-01-08,CUST0599,Dr. Lisa Marquez,PROD0599,Human 337,Books,Fiction,746.05,8,0.11,23.05,COD,East,East Daniel,Alaska,Delivered,FBM,Amazon.in
+600,2024-12-20,CUST0600,Darrell Robinson,PROD0600,See 493,Home,Kitchen,688.82,10,0.16,27.21,Net Banking,East,West Robert,Kentucky,Delivered,FBM,Amazon UK
+601,2024-10-08,CUST0601,Sheila Gonzalez,PROD0601,Customer 631,Sports,Fitness,365.05,3,0.01,47.36,Amazon Pay,South,East Keith,Wisconsin,Cancelled,FBM,Amazon DE
+602,2024-10-26,CUST0602,Evan Nguyen,PROD0602,Computer 329,Books,Fiction,1760.37,6,0.03,15.67,UPI,West,East Crystal,New Jersey,Shipped,FBA,Amazon DE
+603,2025-06-26,CUST0603,Kyle Bowman,PROD0603,Wear 198,Clothing,Womens Wear,1879.02,5,0.3,38.17,Amazon Pay,East,Valerieshire,Idaho,Cancelled,FBA,Amazon.com
+604,2024-12-15,CUST0604,Lisa Guerra,PROD0604,Understand 106,Home,Decor,1679.19,3,0.01,45.32,COD,Central,West Aaron,Pennsylvania,Returned,FBM,Amazon.com
+605,2024-05-16,CUST0605,Natalie Carson,PROD0605,All 950,Sports,Outdoor,1646.57,6,0.06,47.21,Amazon Pay,West,South Tiffanyshire,Pennsylvania,Delivered,FBM,Amazon.com
+606,2024-06-24,CUST0606,William Wilson,PROD0606,Result 462,Clothing,Womens Wear,1836.81,2,0.13,22.75,Debit Card,East,West Tyronebury,Mississippi,Shipped,FBA,Amazon.in
+607,2024-06-05,CUST0607,Wendy Ryan,PROD0607,Talk 823,Books,Educational,1588.71,2,0.1,26.34,Amazon Pay,Central,Henryhaven,Rhode Island,Shipped,Easy Ship,Amazon.in
+608,2025-05-05,CUST0608,Mrs. Karen Higgins,PROD0608,Cut 749,Clothing,Kids,1785.62,1,0.13,46.75,UPI,South,West Donaldberg,North Dakota,Processing,Easy Ship,Amazon.in
+609,2025-03-22,CUST0609,Nancy Rice,PROD0609,Step 596,Electronics,Mobile Phones,499.37,10,0.11,47.27,UPI,West,Adamfort,California,Delivered,FBA,Amazon.com
+610,2025-04-06,CUST0610,Phillip Webb,PROD0610,Once 544,Books,Educational,998.49,3,0.06,44.04,Amazon Pay,South,West Joseph,Hawaii,Returned,FBA,Amazon.in
+611,2024-05-23,CUST0611,Amanda Perry,PROD0611,Exactly 753,Home,Kitchen,1119.9,4,0.21,3.86,COD,West,South Rachelstad,New Jersey,Delivered,FBM,Amazon.com
+612,2024-11-11,CUST0612,Patricia Anderson,PROD0612,Own 915,Home,Kitchen,1065.62,3,0.26,42.35,Amazon Pay,West,Barronview,California,Cancelled,Easy Ship,Amazon DE
+613,2024-12-12,CUST0613,Stephanie White,PROD0613,Develop 433,Home,Furniture,1199.71,9,0.14,6.63,UPI,West,Nelsonhaven,Missouri,Shipped,FBA,Amazon DE
+614,2024-12-24,CUST0614,Joshua Taylor,PROD0614,Pick 892,Books,Non-Fiction,855.48,3,0.14,17.31,Amazon Pay,West,Smithfurt,New York,Shipped,FBM,Amazon.com
+615,2025-02-13,CUST0615,Benjamin Smith,PROD0615,Least 971,Sports,Outdoor,1611.4,8,0.18,34.99,UPI,Central,North Joshuashire,West Virginia,Shipped,FBM,Amazon.com
+616,2025-04-18,CUST0616,Michelle Randall,PROD0616,More 366,Electronics,Mobile Phones,1128.89,6,0.08,17.25,Net Banking,West,Michelleview,New York,Shipped,FBA,Amazon DE
+617,2025-04-09,CUST0617,Taylor Wright,PROD0617,Example 648,Clothing,Womens Wear,976.16,4,0.1,41.29,Net Banking,South,Port Rachelport,Mississippi,Shipped,FBA,Amazon.com
+618,2024-05-07,CUST0618,Shawn Johnson,PROD0618,Surface 192,Sports,Fitness,1254.32,10,0.18,8.2,Amazon Pay,North,East Christina,Massachusetts,Delivered,Easy Ship,Amazon DE
+619,2024-09-07,CUST0619,Heather Jackson,PROD0619,Market 958,Clothing,Kids,1825.33,9,0.02,4.36,COD,South,Millertown,North Carolina,Shipped,Easy Ship,Amazon.com
+620,2024-10-29,CUST0620,Teresa Reid,PROD0620,Real 113,Home,Furniture,1720.85,4,0.09,9.75,Net Banking,South,West Bradley,South Dakota,Shipped,FBA,Amazon.com
+621,2024-06-26,CUST0621,John Hill,PROD0621,Perhaps 124,Sports,Outdoor,49.86,9,0.03,21.1,Debit Card,East,North Lisa,Georgia,Delivered,FBA,Amazon UK
+622,2024-08-16,CUST0622,Kenneth Sullivan,PROD0622,Situation 937,Books,Non-Fiction,1547.1,4,0.01,38.0,Net Banking,West,Lake Holly,Mississippi,Processing,Easy Ship,Amazon.com
+623,2024-09-26,CUST0623,Charles Edwards,PROD0623,Throw 115,Sports,Cycling,547.3,2,0.02,26.22,Amazon Pay,West,East Charleston,Missouri,Processing,Easy Ship,Amazon.in
+624,2024-11-09,CUST0624,Michael Mcdaniel,PROD0624,Political 535,Sports,Outdoor,1087.98,3,0.03,30.23,COD,East,Smithchester,Montana,Shipped,Easy Ship,Amazon UK
+625,2024-09-01,CUST0625,David Walsh,PROD0625,Concern 398,Books,Educational,56.63,5,0.14,6.78,COD,West,North Catherineton,Mississippi,Returned,FBM,Amazon DE
+626,2024-06-10,CUST0626,Mariah Pace,PROD0626,First 491,Electronics,Laptops,452.28,7,0.17,25.2,COD,Central,Melissashire,North Dakota,Cancelled,FBA,Amazon.com
+627,2024-11-11,CUST0627,John Hunter,PROD0627,Administration 889,Home,Kitchen,1457.84,6,0.23,36.3,COD,North,South Charleston,Nebraska,Delivered,FBA,Amazon DE
+628,2024-10-20,CUST0628,Katherine Nelson,PROD0628,Ahead 674,Home,Kitchen,745.95,10,0.03,16.91,Amazon Pay,North,South Catherineside,North Carolina,Shipped,FBA,Amazon.in
+629,2024-09-20,CUST0629,Shawn Mendoza,PROD0629,Full 160,Clothing,Mens Wear,1731.01,8,0.18,6.03,Net Banking,Central,Port Kimberly,South Dakota,Delivered,FBM,Amazon.com
+630,2025-05-09,CUST0630,Christopher Russell,PROD0630,Light 374,Clothing,Womens Wear,829.6,6,0.25,3.75,COD,West,Olsonfurt,Georgia,Delivered,Easy Ship,Amazon.in
+631,2025-05-07,CUST0631,James Elliott,PROD0631,Size 626,Clothing,Mens Wear,1512.53,8,0.16,17.02,UPI,West,Port Aaron,Massachusetts,Delivered,Easy Ship,Amazon DE
+632,2024-02-04,CUST0632,John Singleton,PROD0632,Conference 632,Sports,Outdoor,1481.97,2,0.28,22.43,Debit Card,North,New Brianside,Missouri,Shipped,Easy Ship,Amazon.com
+633,2025-01-22,CUST0633,Alex Carrillo,PROD0633,Should 243,Electronics,Laptops,340.73,8,0.26,7.46,Net Banking,South,Port Samantha,North Dakota,Cancelled,Easy Ship,Amazon DE
+634,2024-12-15,CUST0634,Kathleen Gutierrez,PROD0634,Enter 729,Sports,Outdoor,1098.7,7,0.0,7.64,Amazon Pay,East,West Markhaven,Florida,Returned,FBM,Amazon UK
+635,2024-08-18,CUST0635,Jill Davis,PROD0635,Investment 583,Books,Fiction,1303.94,3,0.09,34.88,Amazon Pay,East,Lake Daniel,Indiana,Processing,FBM,Amazon UK
+636,2024-10-20,CUST0636,Andre Burton,PROD0636,White 253,Clothing,Mens Wear,1873.04,3,0.05,36.32,UPI,West,Ramosmouth,Kentucky,Delivered,FBM,Amazon.com
+637,2024-09-30,CUST0637,William Price,PROD0637,Total 196,Electronics,Laptops,1986.69,1,0.09,11.01,COD,West,Port Jill,Illinois,Delivered,FBA,Amazon UK
+638,2025-02-25,CUST0638,Sherry Jones,PROD0638,Write 381,Books,Fiction,942.7,3,0.02,32.54,UPI,North,Kimview,Utah,Cancelled,FBM,Amazon.com
+639,2024-04-08,CUST0639,Brian Perez,PROD0639,Mind 179,Sports,Outdoor,1823.91,7,0.18,16.68,Net Banking,East,Prestonborough,New Hampshire,Delivered,Easy Ship,Amazon.com
+640,2024-01-16,CUST0640,Samantha Barker,PROD0640,Dark 438,Electronics,Headphones,214.92,4,0.08,14.62,COD,Central,East Christopher,Connecticut,Shipped,Easy Ship,Amazon DE
+641,2024-09-21,CUST0641,Lauren Morales,PROD0641,Ok 272,Sports,Fitness,1708.27,10,0.08,40.75,Amazon Pay,West,West Jason,Missouri,Cancelled,FBA,Amazon.com
+642,2025-04-15,CUST0642,Cassandra Watkins,PROD0642,Candidate 431,Sports,Fitness,471.34,4,0.03,40.56,Debit Card,West,North Christine,Pennsylvania,Shipped,FBA,Amazon.in
+643,2024-08-30,CUST0643,Dean Mcpherson,PROD0643,Dark 346,Sports,Cycling,1939.99,3,0.15,23.11,UPI,East,Jonesberg,Missouri,Delivered,Easy Ship,Amazon.in
+644,2024-09-01,CUST0644,Michael Schroeder,PROD0644,Particularly 719,Home,Furniture,760.85,7,0.21,19.04,UPI,Central,Oneillchester,Iowa,Processing,FBA,Amazon.in
+645,2024-09-18,CUST0645,Gregory Mcclain,PROD0645,Design 671,Electronics,Headphones,1891.52,5,0.21,42.31,Net Banking,East,Port Jessica,Mississippi,Delivered,FBM,Amazon.in
+646,2025-05-23,CUST0646,Rebecca Young,PROD0646,Loss 731,Books,Non-Fiction,702.88,1,0.26,43.06,UPI,West,Anthonyton,Delaware,Processing,Easy Ship,Amazon.com
+647,2024-01-10,CUST0647,Joseph Huber,PROD0647,As 469,Sports,Cycling,1995.82,4,0.11,10.59,Credit Card,South,North Benjamin,South Carolina,Processing,Easy Ship,Amazon DE
+648,2024-04-27,CUST0648,Ashley Kim,PROD0648,Seem 134,Clothing,Mens Wear,21.17,5,0.1,45.73,COD,North,South Kathrynside,Georgia,Cancelled,Easy Ship,Amazon UK
+649,2024-11-28,CUST0649,Suzanne Smith,PROD0649,Professional 983,Clothing,Womens Wear,1286.93,7,0.01,35.38,Amazon Pay,North,East Sandra,Nebraska,Shipped,Easy Ship,Amazon.in
+650,2024-06-23,CUST0650,Katie Carr,PROD0650,Manager 139,Sports,Cycling,946.91,10,0.19,25.53,Amazon Pay,Central,Lake Ricky,Kansas,Delivered,FBM,Amazon.in
+651,2024-05-08,CUST0651,Sharon Walter,PROD0651,Bag 157,Electronics,Mobile Phones,1229.71,3,0.21,10.49,Credit Card,West,East Martinstad,Pennsylvania,Cancelled,FBM,Amazon.in
+652,2025-04-03,CUST0652,Karen Lawson,PROD0652,Article 440,Books,Non-Fiction,1424.08,6,0.03,28.12,Debit Card,Central,West Linda,Louisiana,Returned,Easy Ship,Amazon.in
+653,2024-09-24,CUST0653,Justin Murphy,PROD0653,Whether 526,Sports,Outdoor,1800.34,3,0.27,30.17,COD,North,West Ashley,Texas,Cancelled,Easy Ship,Amazon DE
+654,2025-01-01,CUST0654,Francis Vazquez,PROD0654,Hair 145,Books,Non-Fiction,132.35,4,0.25,26.07,Credit Card,South,East Austin,South Carolina,Processing,FBM,Amazon DE
+655,2024-01-27,CUST0655,Miss Rebecca Brewer,PROD0655,Gas 674,Books,Fiction,405.38,9,0.12,32.49,Credit Card,East,North Michael,Virginia,Processing,FBM,Amazon UK
+656,2024-09-13,CUST0656,Cheryl Foster,PROD0656,After 286,Electronics,Laptops,689.49,10,0.25,6.13,Credit Card,North,Port Rodney,Utah,Cancelled,Easy Ship,Amazon.in
+657,2025-05-15,CUST0657,Nicole Thompson,PROD0657,Perform 571,Electronics,Laptops,379.46,10,0.19,2.97,Credit Card,South,Erinborough,Oklahoma,Shipped,FBA,Amazon UK
+658,2024-12-31,CUST0658,Sandra Perez DVM,PROD0658,Admit 154,Sports,Cycling,1451.31,4,0.09,34.68,Debit Card,South,Port Jake,Arkansas,Cancelled,FBM,Amazon UK
+659,2025-06-26,CUST0659,Jeffrey Kramer,PROD0659,Resource 281,Books,Educational,581.28,5,0.04,17.15,Debit Card,East,Katieport,Wisconsin,Shipped,FBM,Amazon.com
+660,2024-05-01,CUST0660,Brian Romero DDS,PROD0660,Key 949,Clothing,Womens Wear,1398.14,5,0.03,19.05,Amazon Pay,Central,Bowerstown,Montana,Shipped,Easy Ship,Amazon DE
+661,2024-10-08,CUST0661,Natalie Turner,PROD0661,Behind 455,Books,Non-Fiction,1665.14,1,0.28,30.09,COD,South,Norrisville,Arkansas,Shipped,Easy Ship,Amazon DE
+662,2024-05-21,CUST0662,Karen Myers,PROD0662,Dog 625,Sports,Fitness,1367.22,5,0.06,35.58,Amazon Pay,East,North Stephanie,Delaware,Delivered,FBA,Amazon.in
+663,2025-05-10,CUST0663,Troy Sellers,PROD0663,Win 578,Clothing,Womens Wear,444.33,5,0.01,7.53,Debit Card,West,South Lindahaven,Kentucky,Delivered,Easy Ship,Amazon.com
+664,2024-09-04,CUST0664,Paul Johnson,PROD0664,Soldier 262,Clothing,Kids,750.84,7,0.2,45.26,Credit Card,East,Combsville,Louisiana,Shipped,FBM,Amazon.in
+665,2024-12-03,CUST0665,Scott Chavez,PROD0665,Affect 549,Home,Kitchen,676.08,2,0.06,19.18,COD,South,Kathleenmouth,Nevada,Shipped,Easy Ship,Amazon.in
+666,2024-08-06,CUST0666,Jon Cabrera,PROD0666,Respond 594,Home,Kitchen,1191.21,7,0.22,24.73,Amazon Pay,East,New Shelia,Massachusetts,Shipped,Easy Ship,Amazon UK
+667,2024-09-30,CUST0667,Renee Smith,PROD0667,Involve 691,Home,Furniture,607.34,4,0.23,45.24,Net Banking,West,Torreschester,Florida,Delivered,FBM,Amazon UK
+668,2024-01-13,CUST0668,Cassie Price MD,PROD0668,Investment 681,Books,Fiction,66.82,9,0.05,16.43,Amazon Pay,Central,South Michelle,Pennsylvania,Delivered,FBA,Amazon.com
+669,2024-09-23,CUST0669,Brittany Jones,PROD0669,Everything 269,Electronics,Headphones,1330.18,1,0.29,16.85,UPI,West,Halltown,Arkansas,Processing,FBM,Amazon DE
+670,2024-06-30,CUST0670,Patricia Wilson,PROD0670,Short 192,Electronics,Mobile Phones,1320.63,4,0.26,16.46,Debit Card,South,East Jose,California,Shipped,Easy Ship,Amazon DE
+671,2024-06-20,CUST0671,Casey Morrison,PROD0671,Team 663,Clothing,Mens Wear,316.73,9,0.25,19.96,UPI,North,New Jeffreymouth,Texas,Delivered,Easy Ship,Amazon DE
+672,2024-07-01,CUST0672,Robert Guzman,PROD0672,Everyone 425,Home,Furniture,1400.57,8,0.2,41.9,Credit Card,West,Jonesmouth,Nebraska,Processing,FBA,Amazon.com
+673,2024-12-08,CUST0673,Monica Chase,PROD0673,Key 455,Home,Furniture,1548.79,5,0.25,37.06,Net Banking,Central,North Brettview,Texas,Delivered,FBM,Amazon.in
+674,2024-06-26,CUST0674,Craig Thompson,PROD0674,North 448,Books,Non-Fiction,1483.45,10,0.01,44.51,Debit Card,East,New Jennifermouth,Arkansas,Shipped,Easy Ship,Amazon UK
+675,2025-02-23,CUST0675,Jacqueline Kelly,PROD0675,Let 145,Sports,Outdoor,13.17,10,0.23,45.9,Debit Card,West,Davismouth,New Jersey,Delivered,FBA,Amazon.com
+676,2025-03-03,CUST0676,Robert Cruz,PROD0676,Think 135,Clothing,Womens Wear,876.45,6,0.12,10.63,UPI,West,Rileystad,Tennessee,Shipped,FBM,Amazon DE
+677,2024-06-26,CUST0677,Valerie Garcia,PROD0677,Western 771,Home,Furniture,367.24,7,0.2,42.04,Credit Card,East,Orrberg,Louisiana,Delivered,FBM,Amazon.in
+678,2025-04-04,CUST0678,Donald Velasquez,PROD0678,Interview 769,Sports,Fitness,1615.76,3,0.1,29.58,Net Banking,North,Hamiltonhaven,Kansas,Shipped,Easy Ship,Amazon DE
+679,2025-01-28,CUST0679,David Castillo,PROD0679,Light 899,Home,Furniture,850.69,1,0.09,14.42,COD,West,Lake Kristinfurt,South Dakota,Delivered,FBM,Amazon UK
+680,2024-08-09,CUST0680,Todd Anthony,PROD0680,Likely 991,Books,Educational,676.78,9,0.29,7.36,Net Banking,Central,Johnsonhaven,Maine,Shipped,Easy Ship,Amazon DE
+681,2024-02-16,CUST0681,Tracy Cox,PROD0681,Dark 545,Electronics,Laptops,309.27,6,0.28,35.96,COD,Central,Michelleberg,Massachusetts,Shipped,FBA,Amazon DE
+682,2024-02-11,CUST0682,Eric Howe,PROD0682,Share 535,Home,Kitchen,570.61,2,0.26,24.09,COD,East,Wadestad,Connecticut,Shipped,FBM,Amazon UK
+683,2025-06-05,CUST0683,Roberto Harvey,PROD0683,Foreign 404,Books,Non-Fiction,599.33,1,0.16,10.58,Credit Card,West,Robinsonside,Virginia,Shipped,Easy Ship,Amazon UK
+684,2024-12-04,CUST0684,Jamie Cummings DDS,PROD0684,Activity 229,Electronics,Mobile Phones,1195.6,6,0.22,27.5,Debit Card,North,Jarvisburgh,Missouri,Shipped,Easy Ship,Amazon.in
+685,2024-11-01,CUST0685,Jonathan Alvarado,PROD0685,Significant 141,Electronics,Headphones,1269.51,7,0.27,18.58,COD,South,North Adam,New Jersey,Delivered,FBA,Amazon DE
+686,2024-08-02,CUST0686,Michael Young,PROD0686,Walk 445,Clothing,Kids,751.86,3,0.18,36.74,Credit Card,West,Harrisonton,New York,Processing,Easy Ship,Amazon.in
+687,2025-04-06,CUST0687,Sandra Gonzalez,PROD0687,Sell 219,Books,Educational,610.95,7,0.01,47.62,Amazon Pay,North,South Emilyburgh,Utah,Shipped,FBA,Amazon DE
+688,2024-07-21,CUST0688,Karen Harrington,PROD0688,Word 687,Books,Fiction,529.34,5,0.18,27.88,Amazon Pay,North,New Kennethton,Idaho,Processing,FBM,Amazon UK
+689,2024-05-23,CUST0689,Joseph Ware,PROD0689,Over 285,Clothing,Mens Wear,1523.83,7,0.08,35.07,COD,North,Walterhaven,Arizona,Shipped,Easy Ship,Amazon DE
+690,2024-12-04,CUST0690,Laura Hill,PROD0690,Future 713,Clothing,Womens Wear,552.63,7,0.06,39.54,UPI,East,New Keithport,Massachusetts,Delivered,Easy Ship,Amazon DE
+691,2025-03-06,CUST0691,Thomas Baker,PROD0691,Car 702,Clothing,Kids,203.32,4,0.01,17.58,UPI,Central,North Brenda,Idaho,Shipped,FBM,Amazon DE
+692,2024-08-05,CUST0692,Jessica Freeman,PROD0692,Protect 942,Books,Non-Fiction,1194.51,9,0.12,46.63,UPI,East,Kennethhaven,New Jersey,Shipped,FBM,Amazon UK
+693,2025-04-01,CUST0693,Richard Davenport,PROD0693,Discover 776,Electronics,Headphones,929.28,8,0.06,35.49,UPI,West,West Catherinehaven,New Hampshire,Delivered,Easy Ship,Amazon.in
+694,2024-02-17,CUST0694,Diana Fuentes,PROD0694,Point 398,Electronics,Laptops,1266.45,9,0.3,5.99,COD,East,West Susan,Louisiana,Processing,FBM,Amazon UK
+695,2025-03-03,CUST0695,Samuel Wolfe,PROD0695,Leg 883,Home,Kitchen,1352.26,1,0.05,30.08,COD,West,Lake Luis,Nebraska,Delivered,FBA,Amazon DE
+696,2024-10-22,CUST0696,Jimmy Moore,PROD0696,Push 721,Sports,Fitness,1946.98,9,0.22,49.5,COD,South,New Williamfort,Massachusetts,Shipped,FBA,Amazon DE
+697,2025-05-17,CUST0697,Eric Roberts,PROD0697,Professor 460,Electronics,Laptops,797.54,4,0.3,29.4,Debit Card,West,Fergusonport,Maryland,Shipped,FBA,Amazon DE
+698,2025-04-09,CUST0698,Mary Chang,PROD0698,Around 330,Home,Furniture,1801.91,5,0.1,19.43,Amazon Pay,East,Jenniferville,Colorado,Shipped,FBM,Amazon DE
+699,2025-02-05,CUST0699,Stephen Thompson,PROD0699,Great 103,Home,Kitchen,1516.09,5,0.25,23.57,Debit Card,West,Lake Sharon,Maine,Cancelled,Easy Ship,Amazon UK
+700,2024-05-20,CUST0700,Susan Combs,PROD0700,True 520,Sports,Outdoor,674.77,8,0.2,34.8,COD,West,North Karen,Utah,Shipped,FBA,Amazon DE
+701,2024-05-30,CUST0701,Andrew Nguyen,PROD0701,Concern 123,Books,Non-Fiction,67.79,4,0.04,31.76,COD,Central,Matthewborough,North Carolina,Returned,FBM,Amazon DE
+702,2025-03-05,CUST0702,Michael Brady,PROD0702,Job 665,Books,Fiction,507.38,10,0.19,34.85,Credit Card,Central,West Jason,Wisconsin,Returned,Easy Ship,Amazon DE
+703,2025-03-26,CUST0703,Matthew Hayes,PROD0703,Each 235,Sports,Outdoor,394.13,3,0.14,36.71,Net Banking,South,Bonillachester,Oregon,Shipped,FBM,Amazon UK
+704,2025-05-16,CUST0704,Brent Frazier,PROD0704,Laugh 572,Electronics,Laptops,1789.95,4,0.17,24.04,Net Banking,South,Patriciamouth,West Virginia,Delivered,Easy Ship,Amazon.com
+705,2025-05-01,CUST0705,Emma Rivera,PROD0705,Again 107,Books,Non-Fiction,231.2,10,0.25,43.86,Debit Card,West,New Alexisshire,Iowa,Cancelled,Easy Ship,Amazon.in
+706,2025-06-21,CUST0706,Tina Mcclain,PROD0706,Key 833,Electronics,Mobile Phones,1367.23,7,0.26,49.79,Credit Card,West,North Patrickport,Michigan,Cancelled,Easy Ship,Amazon UK
+707,2025-01-29,CUST0707,Robert Shannon,PROD0707,Mrs 931,Electronics,Laptops,1434.43,10,0.19,27.64,Net Banking,North,Diazmouth,Washington,Shipped,FBM,Amazon UK
+708,2024-08-10,CUST0708,Eric Cook,PROD0708,Health 906,Sports,Outdoor,1646.41,1,0.11,36.4,Amazon Pay,West,West Thomas,Alaska,Delivered,FBA,Amazon DE
+709,2024-09-17,CUST0709,Christopher Kent,PROD0709,Still 522,Electronics,Laptops,300.51,5,0.23,29.83,Amazon Pay,South,New Pam,Nevada,Processing,Easy Ship,Amazon UK
+710,2025-05-20,CUST0710,Sonia Graves,PROD0710,Strong 826,Clothing,Kids,292.48,4,0.24,12.08,Amazon Pay,North,New Davidview,Hawaii,Shipped,FBM,Amazon DE
+711,2024-02-28,CUST0711,Luis Lewis,PROD0711,Specific 708,Sports,Fitness,497.01,5,0.1,35.08,Net Banking,East,Suttonfurt,Utah,Shipped,FBA,Amazon UK
+712,2024-02-11,CUST0712,James Brown,PROD0712,Huge 833,Sports,Fitness,288.64,9,0.09,12.61,UPI,East,Lake Scott,Arkansas,Shipped,FBA,Amazon UK
+713,2024-12-14,CUST0713,Brian Santana,PROD0713,Result 722,Books,Fiction,1271.45,8,0.21,34.32,Amazon Pay,South,South Bradleyport,Alabama,Shipped,FBM,Amazon.com
+714,2025-02-14,CUST0714,Andrew Klein,PROD0714,Mouth 472,Sports,Outdoor,774.61,4,0.01,12.16,COD,North,Deannaland,Kansas,Shipped,Easy Ship,Amazon UK
+715,2025-02-19,CUST0715,Kenneth Stanley,PROD0715,Operation 635,Home,Decor,1493.46,9,0.12,31.69,UPI,South,New William,Arkansas,Shipped,FBM,Amazon UK
+716,2024-02-24,CUST0716,Benjamin Kim,PROD0716,Each 784,Home,Furniture,1732.16,8,0.19,43.8,Net Banking,West,Josephhaven,North Carolina,Delivered,FBA,Amazon.in
+717,2024-08-29,CUST0717,Yolanda Rodriguez,PROD0717,Level 610,Clothing,Kids,457.4,4,0.07,15.36,Credit Card,South,Loganhaven,Maine,Processing,FBM,Amazon UK
+718,2024-01-22,CUST0718,Bradley Castaneda,PROD0718,Claim 472,Books,Fiction,1826.28,1,0.25,42.6,COD,South,Lake Erica,Nebraska,Processing,Easy Ship,Amazon.com
+719,2024-11-21,CUST0719,Kayla Swanson,PROD0719,Stock 917,Electronics,Mobile Phones,803.0,2,0.29,26.36,COD,Central,Sherritown,Tennessee,Shipped,FBA,Amazon.in
+720,2024-05-15,CUST0720,Daniel Payne,PROD0720,Worry 806,Home,Kitchen,1137.74,4,0.07,40.27,Amazon Pay,South,South Sherryfort,Alabama,Shipped,Easy Ship,Amazon.com
+721,2024-05-27,CUST0721,Sheila Bailey,PROD0721,Hotel 635,Home,Kitchen,363.09,10,0.08,15.32,Amazon Pay,North,Port Amy,Oregon,Processing,FBM,Amazon.com
+722,2025-03-28,CUST0722,Dawn Ramos,PROD0722,Daughter 908,Electronics,Mobile Phones,423.39,4,0.18,29.9,COD,North,Lake Jeffreyview,Nebraska,Delivered,Easy Ship,Amazon UK
+723,2025-05-08,CUST0723,Lauren Shea,PROD0723,Focus 407,Electronics,Laptops,400.89,2,0.13,24.85,COD,South,North Tiffany,Connecticut,Shipped,Easy Ship,Amazon DE
+724,2025-05-12,CUST0724,Christine Wilson,PROD0724,Source 100,Electronics,Mobile Phones,1167.61,2,0.22,23.25,COD,Central,Thomasport,Kentucky,Delivered,FBM,Amazon DE
+725,2024-01-03,CUST0725,Joshua Harper,PROD0725,Thank 370,Sports,Fitness,820.27,5,0.15,10.47,COD,East,Port Paul,Pennsylvania,Delivered,Easy Ship,Amazon UK
+726,2024-01-07,CUST0726,Michael Smith,PROD0726,Appear 426,Clothing,Mens Wear,688.87,9,0.15,32.04,Debit Card,West,Lake Alexisville,Nevada,Shipped,Easy Ship,Amazon.in
+727,2024-02-08,CUST0727,Tina Hampton,PROD0727,Spend 298,Home,Kitchen,996.62,3,0.02,22.74,Net Banking,East,Lake Jeffreyport,Rhode Island,Shipped,FBA,Amazon.com
+728,2024-04-04,CUST0728,Bryan Wright,PROD0728,Break 684,Sports,Fitness,471.29,5,0.15,17.36,Credit Card,East,Hamiltonshire,Minnesota,Delivered,Easy Ship,Amazon.com
+729,2024-04-30,CUST0729,Pamela Gonzales,PROD0729,Outside 628,Electronics,Headphones,654.29,4,0.23,39.72,COD,South,North Suzannefort,Alabama,Cancelled,FBM,Amazon UK
+730,2024-07-03,CUST0730,Joseph Watson,PROD0730,One 248,Books,Non-Fiction,1194.51,7,0.23,14.93,Net Banking,East,Port Valerie,New Hampshire,Cancelled,FBM,Amazon UK
+731,2024-06-21,CUST0731,Casey Miller,PROD0731,Easy 156,Clothing,Kids,1456.15,6,0.13,22.41,Net Banking,North,Johnstad,Oregon,Shipped,FBM,Amazon DE
+732,2024-08-11,CUST0732,Brian Nelson,PROD0732,Analysis 777,Clothing,Kids,1295.13,3,0.29,38.82,Amazon Pay,South,Lake Frankshire,Minnesota,Shipped,Easy Ship,Amazon.com
+733,2024-10-12,CUST0733,Frederick Webb,PROD0733,On 916,Clothing,Womens Wear,596.65,6,0.01,22.52,COD,Central,Millershire,Hawaii,Shipped,FBA,Amazon.com
+734,2024-02-03,CUST0734,Richard Pratt,PROD0734,Bill 147,Books,Fiction,1010.86,5,0.03,13.67,Net Banking,Central,South Brandiland,Georgia,Shipped,Easy Ship,Amazon DE
+735,2025-06-15,CUST0735,Tina Young,PROD0735,Perhaps 754,Home,Furniture,1378.72,8,0.07,49.37,Credit Card,North,Wilsonfort,Nebraska,Delivered,FBM,Amazon.in
+736,2025-01-27,CUST0736,Amy Miller,PROD0736,Parent 893,Clothing,Womens Wear,1080.41,8,0.28,7.33,Amazon Pay,North,Loganbury,Oklahoma,Shipped,Easy Ship,Amazon UK
+737,2024-09-03,CUST0737,Pamela Pierce,PROD0737,Production 686,Home,Furniture,1650.38,3,0.18,29.56,Net Banking,South,Thorntonville,New Jersey,Delivered,Easy Ship,Amazon UK
+738,2025-01-14,CUST0738,Robert Lamb,PROD0738,Other 891,Sports,Fitness,1324.77,9,0.16,15.99,Credit Card,East,Phyllisshire,Colorado,Shipped,FBM,Amazon UK
+739,2024-06-06,CUST0739,James Friedman,PROD0739,Author 718,Books,Educational,1770.32,3,0.1,12.93,Debit Card,East,South Steventown,New Jersey,Shipped,Easy Ship,Amazon UK
+740,2024-01-04,CUST0740,Angelica Hansen,PROD0740,Sense 624,Sports,Cycling,56.05,2,0.19,22.51,Credit Card,Central,Kochfurt,Kentucky,Processing,FBM,Amazon.in
+741,2024-03-08,CUST0741,Vickie Anthony,PROD0741,Do 688,Electronics,Mobile Phones,1135.77,1,0.29,43.91,COD,West,North Susanville,North Carolina,Shipped,FBM,Amazon UK
+742,2025-06-02,CUST0742,Jonathon Boyle,PROD0742,View 687,Books,Non-Fiction,143.55,2,0.17,48.76,COD,South,Howardtown,Oregon,Processing,FBM,Amazon.in
+743,2024-11-05,CUST0743,David West,PROD0743,Bill 856,Books,Fiction,1303.85,4,0.23,38.82,UPI,West,Lake Amanda,Arkansas,Delivered,FBA,Amazon DE
+744,2024-06-16,CUST0744,Kevin Burnett,PROD0744,Anyone 511,Books,Non-Fiction,667.55,3,0.19,18.31,Amazon Pay,West,Port Bethville,New Hampshire,Delivered,Easy Ship,Amazon.in
+745,2025-05-08,CUST0745,John Evans,PROD0745,If 645,Clothing,Womens Wear,22.64,7,0.01,12.81,UPI,South,North Jeremystad,Wyoming,Delivered,FBM,Amazon UK
+746,2024-12-04,CUST0746,Susan Jones,PROD0746,Hundred 891,Books,Non-Fiction,1334.15,10,0.28,44.88,COD,South,Lake Andrewside,Hawaii,Processing,FBA,Amazon.com
+747,2025-02-10,CUST0747,Jasmine Fuller,PROD0747,Result 170,Clothing,Mens Wear,623.88,2,0.01,30.89,Debit Card,Central,Port Mary,Oregon,Processing,FBM,Amazon UK
+748,2024-04-10,CUST0748,Robert Craig,PROD0748,Professional 890,Sports,Outdoor,637.52,4,0.2,11.68,UPI,South,West Jillville,Georgia,Shipped,FBM,Amazon.com
+749,2024-12-09,CUST0749,John Dunn,PROD0749,Middle 150,Electronics,Mobile Phones,283.25,8,0.04,47.5,Amazon Pay,South,Masonbury,Vermont,Shipped,FBM,Amazon DE
+750,2024-12-09,CUST0750,Katherine Miller,PROD0750,Have 266,Home,Kitchen,804.36,4,0.23,30.33,Debit Card,Central,Lake Williamland,Alabama,Shipped,FBA,Amazon.in
+751,2025-01-04,CUST0751,David Martinez,PROD0751,Perhaps 589,Electronics,Laptops,1881.98,10,0.11,49.78,Debit Card,North,Amandamouth,Massachusetts,Delivered,FBM,Amazon UK
+752,2024-03-22,CUST0752,Rachel Carr,PROD0752,Capital 417,Home,Decor,232.86,8,0.0,20.24,Credit Card,East,North Laura,Tennessee,Delivered,FBA,Amazon UK
+753,2025-03-19,CUST0753,Danny Sanchez,PROD0753,Crime 381,Home,Furniture,1892.42,5,0.07,35.66,Net Banking,West,Port Bryan,Nebraska,Delivered,Easy Ship,Amazon.in
+754,2024-08-26,CUST0754,Mr. Brandon Scott Jr.,PROD0754,Pattern 243,Books,Non-Fiction,1795.69,1,0.04,13.95,Debit Card,Central,Wendyside,Hawaii,Delivered,Easy Ship,Amazon.com
+755,2025-04-23,CUST0755,Ryan Burns,PROD0755,Crime 943,Home,Kitchen,1526.95,1,0.18,12.07,UPI,East,Nicolemouth,New Hampshire,Processing,FBA,Amazon DE
+756,2025-04-09,CUST0756,Melissa Sutton MD,PROD0756,Money 905,Home,Furniture,353.12,9,0.29,37.61,Debit Card,East,Daviston,Washington,Processing,FBA,Amazon.in
+757,2025-03-13,CUST0757,Jay Mayo,PROD0757,Really 902,Electronics,Mobile Phones,1000.14,5,0.12,19.91,COD,East,Smithport,South Carolina,Processing,FBA,Amazon.in
+758,2025-03-17,CUST0758,Tanya Green,PROD0758,Rock 880,Clothing,Kids,66.71,8,0.01,43.86,Credit Card,Central,Solisfort,Massachusetts,Cancelled,Easy Ship,Amazon DE
+759,2024-09-12,CUST0759,Lori Evans,PROD0759,Prove 587,Books,Educational,1055.16,3,0.03,18.74,Net Banking,North,South Brian,Hawaii,Shipped,FBM,Amazon.in
+760,2024-01-03,CUST0760,John Weber,PROD0760,Today 580,Home,Furniture,1713.72,9,0.13,43.13,Credit Card,East,Wallaceside,Maryland,Processing,FBM,Amazon DE
+761,2024-06-15,CUST0761,Robin Jensen,PROD0761,Find 228,Electronics,Headphones,652.52,9,0.11,31.45,Net Banking,West,Mcguireborough,Ohio,Processing,FBA,Amazon.com
+762,2024-06-13,CUST0762,Elizabeth Paul,PROD0762,Word 355,Home,Decor,268.32,3,0.07,5.95,Net Banking,East,Kaufmanbury,Arizona,Shipped,FBA,Amazon.in
+763,2025-06-02,CUST0763,David Stephens,PROD0763,His 878,Clothing,Womens Wear,377.41,5,0.1,48.75,COD,Central,Lake Edwinhaven,South Carolina,Delivered,FBA,Amazon UK
+764,2024-03-25,CUST0764,Linda Wright,PROD0764,Report 286,Clothing,Kids,849.82,3,0.17,46.86,Net Banking,North,Gomezbury,Alaska,Shipped,FBA,Amazon.com
+765,2024-08-22,CUST0765,Destiny Smith,PROD0765,Ten 743,Electronics,Headphones,1272.91,4,0.05,17.48,Net Banking,East,Brittanyburgh,Missouri,Delivered,Easy Ship,Amazon.com
+766,2024-07-02,CUST0766,Lisa Cunningham,PROD0766,Compare 445,Home,Furniture,909.69,4,0.14,14.61,Amazon Pay,East,Montoyaside,Indiana,Delivered,FBA,Amazon UK
+767,2025-03-26,CUST0767,Travis Torres,PROD0767,Age 164,Clothing,Womens Wear,688.56,8,0.23,23.9,UPI,Central,East Seanshire,Arkansas,Shipped,FBM,Amazon UK
+768,2024-01-02,CUST0768,Mary Graham,PROD0768,Artist 229,Home,Furniture,1288.16,9,0.04,12.9,Credit Card,North,Davidhaven,North Carolina,Delivered,FBM,Amazon UK
+769,2024-09-06,CUST0769,Daniel Roberts,PROD0769,Officer 939,Clothing,Womens Wear,910.6,9,0.3,5.98,COD,South,Davidtown,Hawaii,Cancelled,Easy Ship,Amazon DE
+770,2024-04-02,CUST0770,Austin Williams,PROD0770,Loss 676,Clothing,Mens Wear,292.0,4,0.23,11.54,COD,Central,New Jodi,Connecticut,Processing,Easy Ship,Amazon.com
+771,2024-04-24,CUST0771,Ryan Tucker,PROD0771,Everybody 262,Home,Decor,103.52,9,0.11,13.06,COD,South,New Gina,Michigan,Cancelled,FBA,Amazon UK
+772,2025-03-16,CUST0772,Joshua Sharp,PROD0772,Head 978,Books,Non-Fiction,339.61,10,0.07,46.67,COD,Central,East Daniel,Indiana,Processing,FBA,Amazon DE
+773,2024-07-23,CUST0773,Susan Barker,PROD0773,Free 239,Clothing,Womens Wear,107.34,7,0.09,45.25,Net Banking,West,East Hannahstad,Alabama,Returned,Easy Ship,Amazon UK
+774,2025-03-13,CUST0774,Matthew Duran,PROD0774,Trial 160,Clothing,Womens Wear,10.7,5,0.21,34.07,Amazon Pay,Central,South Brett,Delaware,Shipped,FBM,Amazon.in
+775,2024-01-18,CUST0775,Katherine Lewis,PROD0775,Future 761,Electronics,Headphones,296.15,3,0.23,40.74,Debit Card,West,Sanchezstad,New Hampshire,Returned,FBM,Amazon.com
+776,2025-05-09,CUST0776,Kelly Blackburn,PROD0776,Poor 226,Home,Furniture,1186.92,4,0.25,5.39,UPI,South,New Becky,Arizona,Returned,Easy Ship,Amazon DE
+777,2024-06-19,CUST0777,Nicole Walker,PROD0777,Blue 633,Books,Educational,1176.0,3,0.06,8.84,UPI,North,Jimenezberg,West Virginia,Shipped,FBM,Amazon.in
+778,2024-11-15,CUST0778,Michael Wilkerson,PROD0778,Main 257,Home,Decor,214.2,10,0.14,33.7,Credit Card,Central,Robertfurt,Delaware,Shipped,FBA,Amazon DE
+779,2025-06-10,CUST0779,Michael Jackson,PROD0779,Realize 536,Sports,Cycling,1958.2,6,0.26,47.58,UPI,North,West Amybury,California,Shipped,Easy Ship,Amazon DE
+780,2024-10-12,CUST0780,Terry Diaz,PROD0780,Five 347,Electronics,Headphones,1753.72,8,0.23,12.78,Amazon Pay,Central,Port Jamie,Kentucky,Shipped,Easy Ship,Amazon UK
+781,2024-08-03,CUST0781,Jason Montgomery,PROD0781,Claim 755,Home,Kitchen,1675.05,7,0.13,32.63,UPI,East,West Carlytown,Utah,Cancelled,Easy Ship,Amazon UK
+782,2024-06-26,CUST0782,Jacqueline Rodriguez,PROD0782,Tell 326,Clothing,Kids,845.09,5,0.29,5.99,Net Banking,South,Reneefurt,Alabama,Shipped,Easy Ship,Amazon DE
+783,2024-11-18,CUST0783,Dale Powell,PROD0783,Down 721,Home,Furniture,1334.6,2,0.3,41.66,COD,Central,Daviston,Nevada,Delivered,Easy Ship,Amazon DE
+784,2024-04-02,CUST0784,Anthony Villarreal,PROD0784,Trouble 220,Sports,Outdoor,1851.23,7,0.01,7.17,Amazon Pay,North,New Jennifer,Oregon,Processing,FBA,Amazon.in
+785,2024-06-07,CUST0785,George Burke,PROD0785,Fly 687,Clothing,Kids,1164.44,10,0.13,20.9,UPI,West,South Michael,Minnesota,Processing,Easy Ship,Amazon DE
+786,2025-05-30,CUST0786,Kim Bennett,PROD0786,Data 399,Electronics,Mobile Phones,1880.99,7,0.2,3.23,Credit Card,East,North Amandahaven,Pennsylvania,Delivered,FBM,Amazon.in
+787,2024-09-08,CUST0787,Matthew Morgan,PROD0787,Hospital 383,Sports,Fitness,66.47,8,0.25,14.17,UPI,East,Evanborough,New Hampshire,Processing,FBM,Amazon.com
+788,2024-03-03,CUST0788,Karen Price,PROD0788,Hear 858,Sports,Fitness,105.12,8,0.21,32.47,Debit Card,South,Port Julieville,Alabama,Processing,FBM,Amazon UK
+789,2025-02-19,CUST0789,Margaret Ramirez,PROD0789,Street 424,Sports,Fitness,703.59,3,0.25,43.12,COD,Central,Amyfort,Kentucky,Shipped,FBM,Amazon.com
+790,2025-05-28,CUST0790,Victoria French,PROD0790,Official 371,Electronics,Laptops,1829.2,2,0.19,17.02,Debit Card,West,East Raymondville,Minnesota,Delivered,Easy Ship,Amazon.com
+791,2024-04-30,CUST0791,Cody Bell,PROD0791,According 294,Home,Kitchen,707.68,8,0.27,38.23,UPI,North,New Veronicatown,North Dakota,Returned,Easy Ship,Amazon.in
+792,2024-08-23,CUST0792,Ronald Williams,PROD0792,Member 195,Clothing,Womens Wear,1818.57,9,0.09,28.88,COD,North,West Dennis,Wisconsin,Shipped,FBA,Amazon.com
+793,2024-11-26,CUST0793,Benjamin Avila,PROD0793,Clear 494,Books,Educational,1199.96,7,0.26,9.0,UPI,West,West Tiffanymouth,Illinois,Shipped,FBA,Amazon.com
+794,2024-11-13,CUST0794,Norman Scott,PROD0794,Market 351,Sports,Outdoor,1912.59,5,0.18,48.6,Debit Card,West,Laurenfurt,Wyoming,Shipped,Easy Ship,Amazon.in
+795,2025-04-09,CUST0795,Juan Trevino,PROD0795,Tax 550,Electronics,Headphones,1338.37,5,0.01,12.77,Debit Card,South,East Richard,Louisiana,Delivered,Easy Ship,Amazon.com
+796,2025-06-12,CUST0796,Krystal Curry,PROD0796,Bring 669,Sports,Fitness,439.78,1,0.09,48.3,Net Banking,West,South Kevinport,South Dakota,Cancelled,Easy Ship,Amazon DE
+797,2024-01-04,CUST0797,Diane Walker,PROD0797,Second 922,Books,Fiction,392.56,3,0.25,29.88,Net Banking,East,Lake Pamelamouth,Alaska,Delivered,FBM,Amazon UK
+798,2024-12-07,CUST0798,Sydney Roy,PROD0798,Your 914,Home,Furniture,746.75,4,0.1,19.14,Debit Card,East,South Lori,Connecticut,Returned,Easy Ship,Amazon.com
+799,2025-01-10,CUST0799,Jamie Pace,PROD0799,Heart 834,Books,Fiction,266.24,9,0.21,27.7,COD,South,Lake Phillipview,Idaho,Shipped,Easy Ship,Amazon UK
+800,2024-10-05,CUST0800,Christopher Brown,PROD0800,Grow 705,Books,Non-Fiction,1953.22,4,0.14,29.56,COD,West,Lake Anthony,Massachusetts,Shipped,FBM,Amazon DE
+801,2024-11-28,CUST0801,Mark Rodgers,PROD0801,Turn 165,Electronics,Laptops,1906.8,3,0.01,23.53,UPI,West,Port Gary,Arizona,Delivered,Easy Ship,Amazon.com
+802,2024-01-31,CUST0802,Joseph Floyd,PROD0802,After 541,Clothing,Kids,140.17,5,0.17,47.47,Amazon Pay,Central,Kimberlyside,Alaska,Processing,Easy Ship,Amazon DE
+803,2024-08-16,CUST0803,Steven Webster,PROD0803,Show 338,Sports,Fitness,1886.07,7,0.06,23.7,Amazon Pay,East,Powersville,New Jersey,Delivered,Easy Ship,Amazon UK
+804,2025-05-19,CUST0804,Garrett Mcdowell,PROD0804,Write 829,Sports,Fitness,1753.18,7,0.04,27.9,UPI,North,Coleborough,Kentucky,Delivered,FBM,Amazon.in
+805,2024-03-17,CUST0805,Robert Washington,PROD0805,Budget 715,Books,Fiction,248.17,2,0.18,27.43,Amazon Pay,South,Port Lori,Indiana,Processing,FBA,Amazon.com
+806,2025-06-16,CUST0806,Kathryn Ferrell,PROD0806,School 924,Sports,Outdoor,370.66,8,0.22,17.93,Net Banking,Central,Robertchester,Utah,Shipped,FBM,Amazon DE
+807,2024-06-26,CUST0807,Christopher Wyatt,PROD0807,Student 611,Home,Furniture,1395.87,3,0.25,10.78,Debit Card,West,Dyerburgh,Illinois,Shipped,FBA,Amazon UK
+808,2024-04-14,CUST0808,John Chavez,PROD0808,Hair 636,Electronics,Headphones,528.41,4,0.07,49.31,UPI,West,Port Nicholasland,Idaho,Delivered,FBM,Amazon.in
+809,2024-02-21,CUST0809,Lisa Johnson,PROD0809,Already 104,Electronics,Mobile Phones,1759.81,1,0.29,4.84,Debit Card,North,Hortonshire,Nevada,Shipped,FBM,Amazon.in
+810,2024-12-21,CUST0810,Leslie Yates,PROD0810,Reason 286,Home,Furniture,619.47,10,0.17,43.25,Debit Card,Central,South Charlesmouth,Wisconsin,Returned,Easy Ship,Amazon DE
+811,2024-11-19,CUST0811,Sarah Jones,PROD0811,End 823,Clothing,Mens Wear,1951.79,2,0.26,45.81,COD,South,New Sierraville,Wyoming,Delivered,FBA,Amazon DE
+812,2025-06-22,CUST0812,Rachel Brown,PROD0812,Usually 210,Home,Decor,306.21,8,0.01,3.86,Credit Card,East,New Timothy,Indiana,Delivered,FBM,Amazon UK
+813,2024-10-01,CUST0813,Joseph Martin,PROD0813,Every 565,Books,Non-Fiction,369.03,9,0.05,6.79,Debit Card,Central,Staceystad,Michigan,Shipped,Easy Ship,Amazon UK
+814,2024-05-04,CUST0814,Megan King,PROD0814,All 345,Home,Decor,1665.22,8,0.28,34.1,Debit Card,East,Angelaside,South Dakota,Shipped,FBM,Amazon.com
+815,2024-09-12,CUST0815,Angela Duke DDS,PROD0815,Whose 968,Clothing,Mens Wear,1590.17,1,0.11,46.0,Amazon Pay,Central,North Robertchester,West Virginia,Cancelled,Easy Ship,Amazon.in
+816,2025-02-03,CUST0816,David Young,PROD0816,Rich 389,Electronics,Laptops,1330.39,6,0.27,29.02,COD,West,Katherineborough,Texas,Processing,FBM,Amazon.com
+817,2024-01-12,CUST0817,James Fisher,PROD0817,Individual 124,Electronics,Headphones,901.33,4,0.09,32.06,Net Banking,North,Phillipstad,Massachusetts,Delivered,FBM,Amazon DE
+818,2024-10-21,CUST0818,Johnny Hernandez,PROD0818,Environment 292,Electronics,Laptops,649.81,8,0.18,16.68,UPI,North,New Tanyaville,Wisconsin,Returned,FBA,Amazon.in
+819,2024-12-11,CUST0819,Sydney Gilbert,PROD0819,Member 410,Clothing,Womens Wear,1785.26,10,0.16,32.76,COD,North,East Karenborough,New York,Processing,FBM,Amazon.in
+820,2024-02-15,CUST0820,James Andrade,PROD0820,Exist 620,Clothing,Mens Wear,710.01,9,0.02,41.62,Amazon Pay,Central,Lauramouth,Washington,Cancelled,FBM,Amazon.com
+821,2025-06-07,CUST0821,Jill Turner,PROD0821,Center 831,Books,Non-Fiction,1401.37,4,0.03,47.6,Amazon Pay,East,Lake Michael,Maine,Cancelled,FBA,Amazon.in
+822,2024-06-13,CUST0822,Elizabeth Cooper,PROD0822,Thus 104,Home,Kitchen,421.41,10,0.0,46.26,Amazon Pay,North,West Ronaldchester,Alabama,Shipped,FBA,Amazon UK
+823,2025-02-01,CUST0823,Paula Mckay DDS,PROD0823,President 259,Books,Non-Fiction,1629.14,6,0.3,49.38,UPI,West,Port Robert,Pennsylvania,Processing,FBA,Amazon.in
+824,2024-02-17,CUST0824,Jacqueline Cook,PROD0824,Service 999,Books,Fiction,499.88,5,0.26,22.3,Amazon Pay,East,Rangelton,Hawaii,Delivered,Easy Ship,Amazon.com
+825,2024-10-02,CUST0825,Jordan Foley,PROD0825,Alone 359,Books,Educational,1828.34,7,0.21,21.96,UPI,South,South Anthony,Georgia,Delivered,Easy Ship,Amazon DE
+826,2024-04-07,CUST0826,Micheal Howard,PROD0826,Event 752,Electronics,Mobile Phones,1256.81,7,0.01,38.82,Amazon Pay,South,North Josephport,Oklahoma,Shipped,FBA,Amazon.in
+827,2025-04-02,CUST0827,Bruce Cox,PROD0827,Hair 391,Electronics,Laptops,326.26,8,0.02,27.77,Amazon Pay,East,Jonesport,Hawaii,Shipped,Easy Ship,Amazon DE
+828,2025-06-20,CUST0828,Joshua Cook,PROD0828,Bad 305,Clothing,Womens Wear,576.56,10,0.08,38.53,Debit Card,North,West Francisco,Pennsylvania,Shipped,FBA,Amazon DE
+829,2024-10-31,CUST0829,Emily Garza,PROD0829,Protect 880,Home,Decor,1991.16,8,0.14,7.35,Net Banking,South,Torresborough,Pennsylvania,Shipped,Easy Ship,Amazon.in
+830,2025-02-26,CUST0830,Beverly Austin,PROD0830,Least 886,Sports,Fitness,144.13,7,0.18,23.03,COD,North,Penningtonborough,Minnesota,Shipped,FBA,Amazon.com
+831,2024-08-13,CUST0831,Hannah Thomas,PROD0831,Modern 573,Books,Educational,642.66,10,0.0,9.33,UPI,South,Burkefurt,Kentucky,Cancelled,FBA,Amazon UK
+832,2024-09-19,CUST0832,Tiffany Fletcher,PROD0832,Risk 443,Sports,Cycling,1291.83,7,0.11,47.45,Debit Card,South,New Rachel,South Dakota,Delivered,Easy Ship,Amazon.com
+833,2024-06-10,CUST0833,Ronald Harris,PROD0833,That 660,Books,Educational,883.35,8,0.02,13.8,COD,South,Jasmineside,Tennessee,Delivered,FBM,Amazon.com
+834,2024-06-22,CUST0834,Jo Ferguson,PROD0834,Treat 139,Electronics,Mobile Phones,231.62,2,0.12,27.65,Debit Card,East,West Cynthiaberg,Maryland,Delivered,FBA,Amazon UK
+835,2024-06-09,CUST0835,Eric Johnson,PROD0835,Accept 977,Sports,Cycling,216.55,4,0.0,2.16,Net Banking,Central,West Jeffery,North Dakota,Shipped,FBA,Amazon.in
+836,2025-04-11,CUST0836,Lisa Anderson,PROD0836,Raise 389,Sports,Fitness,1260.29,10,0.16,2.95,Net Banking,Central,Whiteshire,Washington,Processing,Easy Ship,Amazon DE
+837,2024-08-29,CUST0837,Ronald Robbins,PROD0837,Thought 256,Books,Fiction,779.67,4,0.2,31.41,Amazon Pay,West,East Amanda,West Virginia,Shipped,FBM,Amazon DE
+838,2024-03-26,CUST0838,Kerri Campbell,PROD0838,Next 476,Home,Decor,1760.09,4,0.04,32.58,Net Banking,East,West Paulabury,Nebraska,Shipped,Easy Ship,Amazon.com
+839,2024-09-12,CUST0839,Julie Hall,PROD0839,Above 228,Electronics,Mobile Phones,869.16,5,0.04,24.08,COD,South,Brianstad,Maine,Processing,Easy Ship,Amazon DE
+840,2025-03-12,CUST0840,Christopher Ramos,PROD0840,Visit 472,Clothing,Kids,424.12,7,0.13,22.05,Net Banking,West,South Kevinburgh,Wisconsin,Processing,FBM,Amazon DE
+841,2024-08-10,CUST0841,Angela Simmons,PROD0841,Such 994,Clothing,Kids,1334.09,3,0.22,11.88,Debit Card,Central,Woodberg,Hawaii,Shipped,Easy Ship,Amazon.com
+842,2024-12-12,CUST0842,Patricia Morris,PROD0842,Upon 318,Books,Non-Fiction,1570.41,6,0.27,28.31,Net Banking,East,Port Paultown,North Dakota,Processing,FBM,Amazon UK
+843,2024-05-07,CUST0843,Mrs. Karen Duffy DDS,PROD0843,Speak 304,Electronics,Headphones,945.76,9,0.2,16.42,COD,West,Greenmouth,Ohio,Processing,FBA,Amazon.in
+844,2024-07-02,CUST0844,Crystal Villegas,PROD0844,Program 495,Clothing,Kids,1107.87,3,0.2,46.98,Net Banking,North,South Patrickfurt,Arkansas,Delivered,Easy Ship,Amazon.com
+845,2024-02-23,CUST0845,Bryce Brown,PROD0845,Seat 424,Books,Non-Fiction,352.96,10,0.23,32.78,Debit Card,South,Yolandafurt,North Carolina,Delivered,FBM,Amazon DE
+846,2025-04-04,CUST0846,Tina Griffith,PROD0846,Dinner 792,Clothing,Mens Wear,1737.38,3,0.23,25.36,COD,Central,Linhaven,Nebraska,Delivered,FBA,Amazon.in
+847,2024-01-04,CUST0847,Holly Vargas,PROD0847,Place 307,Sports,Fitness,140.06,1,0.0,43.39,Credit Card,East,Sandrafurt,Minnesota,Shipped,Easy Ship,Amazon UK
+848,2025-03-05,CUST0848,Alan Robbins,PROD0848,Able 446,Electronics,Headphones,1916.33,5,0.25,19.42,COD,West,Debramouth,Arizona,Cancelled,Easy Ship,Amazon DE
+849,2025-03-01,CUST0849,April Dorsey,PROD0849,Include 645,Electronics,Headphones,586.58,2,0.24,9.67,Debit Card,West,South Laura,Rhode Island,Cancelled,Easy Ship,Amazon.in
+850,2025-05-21,CUST0850,Jose Preston,PROD0850,Real 555,Home,Furniture,324.98,9,0.19,35.59,Debit Card,North,Port Matthew,North Dakota,Shipped,FBA,Amazon.com
+851,2024-01-03,CUST0851,Robert Woodard,PROD0851,Student 698,Sports,Fitness,88.36,7,0.14,24.89,COD,East,Robertsonhaven,North Carolina,Processing,Easy Ship,Amazon DE
+852,2024-11-17,CUST0852,Gregory Palmer,PROD0852,Man 170,Electronics,Headphones,900.19,1,0.29,47.44,UPI,North,Campbellview,Missouri,Delivered,FBA,Amazon UK
+853,2024-10-20,CUST0853,Karen Green,PROD0853,Computer 399,Electronics,Headphones,1251.82,7,0.28,7.33,Amazon Pay,South,South Brendaport,New York,Cancelled,Easy Ship,Amazon UK
+854,2024-07-01,CUST0854,Timothy Dennis,PROD0854,Believe 273,Sports,Fitness,1898.04,2,0.11,49.21,COD,Central,New Calebberg,Vermont,Delivered,FBM,Amazon DE
+855,2024-07-09,CUST0855,Thomas Flynn,PROD0855,Almost 153,Sports,Outdoor,512.9,9,0.08,26.98,Net Banking,East,Kimberg,Ohio,Cancelled,Easy Ship,Amazon.com
+856,2025-02-19,CUST0856,Jamie Holmes,PROD0856,Which 440,Clothing,Mens Wear,1404.02,5,0.13,22.78,Amazon Pay,West,Cookshire,New Jersey,Shipped,Easy Ship,Amazon.in
+857,2025-05-28,CUST0857,Catherine Mclean,PROD0857,Assume 497,Electronics,Mobile Phones,269.99,10,0.0,29.54,Debit Card,West,Moorebury,North Dakota,Shipped,FBA,Amazon DE
+858,2025-05-13,CUST0858,Joshua Owen,PROD0858,Dinner 235,Books,Educational,1347.09,7,0.1,40.55,Net Banking,West,Annside,Hawaii,Cancelled,FBM,Amazon UK
+859,2024-09-01,CUST0859,Richard Miller,PROD0859,Figure 982,Books,Educational,530.56,4,0.15,14.8,Amazon Pay,North,Port Kellyport,Virginia,Cancelled,Easy Ship,Amazon UK
+860,2024-05-22,CUST0860,Sarah Williams,PROD0860,Lead 685,Sports,Cycling,235.92,3,0.24,7.14,UPI,North,South James,Minnesota,Shipped,FBA,Amazon.com
+861,2024-04-08,CUST0861,Caleb Meyer,PROD0861,World 696,Sports,Fitness,183.9,2,0.0,2.65,COD,North,Torresville,New Jersey,Processing,Easy Ship,Amazon.com
+862,2024-08-25,CUST0862,Mrs. Karen Brown,PROD0862,Involve 863,Sports,Outdoor,1938.53,6,0.24,7.08,Amazon Pay,South,Port Rachelmouth,North Dakota,Shipped,FBA,Amazon.com
+863,2024-07-20,CUST0863,Beverly Allen,PROD0863,Hear 428,Electronics,Headphones,192.49,2,0.0,40.0,Credit Card,North,North Ericport,Virginia,Shipped,Easy Ship,Amazon DE
+864,2024-11-10,CUST0864,Mr. Charles Calderon,PROD0864,Sort 553,Home,Decor,393.35,4,0.21,25.77,Net Banking,East,East Jon,Tennessee,Processing,FBA,Amazon.in
+865,2025-02-15,CUST0865,Dylan Gilbert,PROD0865,Indeed 819,Home,Decor,22.56,3,0.29,14.64,COD,South,Olivertown,Nevada,Cancelled,FBA,Amazon.in
+866,2024-01-04,CUST0866,Gail Jones,PROD0866,Available 618,Clothing,Mens Wear,382.23,6,0.23,12.93,COD,East,Amyfort,Colorado,Shipped,Easy Ship,Amazon DE
+867,2024-01-23,CUST0867,Bruce Williams,PROD0867,Allow 872,Clothing,Womens Wear,444.33,5,0.25,37.3,Amazon Pay,East,New Mallory,Oklahoma,Delivered,FBA,Amazon UK
+868,2024-04-24,CUST0868,Sean Martin,PROD0868,Civil 112,Electronics,Laptops,132.62,8,0.1,37.18,Net Banking,North,North Scottberg,Delaware,Delivered,Easy Ship,Amazon DE
+869,2025-02-17,CUST0869,Christopher Owen,PROD0869,Spring 844,Books,Non-Fiction,185.58,10,0.23,45.89,COD,North,North Sarah,West Virginia,Delivered,FBM,Amazon UK
+870,2024-01-09,CUST0870,Zachary Hall,PROD0870,Free 701,Home,Kitchen,722.64,8,0.11,16.41,COD,South,South Darinstad,Mississippi,Delivered,FBA,Amazon.com
+871,2024-04-12,CUST0871,John Potter,PROD0871,Perform 563,Electronics,Mobile Phones,1384.82,7,0.14,24.16,Net Banking,West,Richardsonport,Maryland,Cancelled,FBA,Amazon DE
+872,2025-01-13,CUST0872,Nicholas Mills,PROD0872,Lay 509,Electronics,Headphones,1478.34,7,0.13,3.18,UPI,West,Lake Ryan,Arizona,Shipped,FBM,Amazon.com
+873,2024-02-22,CUST0873,Jimmy George,PROD0873,Evening 253,Electronics,Mobile Phones,874.42,3,0.05,47.41,Credit Card,West,Stevenberg,Rhode Island,Shipped,FBM,Amazon DE
+874,2024-06-03,CUST0874,Matthew Foster,PROD0874,Push 294,Clothing,Kids,403.54,8,0.12,16.57,COD,East,South Robert,Louisiana,Returned,FBM,Amazon.com
+875,2024-10-08,CUST0875,Christopher Bennett,PROD0875,Meeting 208,Books,Fiction,1450.22,7,0.13,42.88,Amazon Pay,North,Franklinmouth,Idaho,Delivered,FBA,Amazon UK
+876,2025-04-30,CUST0876,Mr. Scott Olson,PROD0876,Consider 113,Clothing,Kids,1414.99,10,0.09,13.29,Debit Card,West,Gibbsfort,Alaska,Cancelled,FBM,Amazon DE
+877,2025-03-21,CUST0877,Alicia Mcdonald,PROD0877,Fill 449,Books,Non-Fiction,325.62,5,0.21,22.59,Debit Card,Central,Sanfordview,Oregon,Shipped,Easy Ship,Amazon UK
+878,2025-03-24,CUST0878,Mark Martin,PROD0878,Here 352,Clothing,Kids,1616.18,3,0.11,48.58,Net Banking,East,New Kristenview,Missouri,Shipped,FBA,Amazon DE
+879,2024-09-06,CUST0879,Jacob Anderson,PROD0879,Provide 691,Clothing,Kids,1379.68,6,0.19,45.29,UPI,Central,Jamieville,Connecticut,Delivered,FBM,Amazon UK
+880,2025-05-20,CUST0880,Mary Reyes,PROD0880,Far 932,Books,Educational,396.81,3,0.29,39.52,Debit Card,Central,New Brianfurt,Rhode Island,Delivered,FBA,Amazon.com
+881,2025-02-13,CUST0881,Amy Frank,PROD0881,Kind 183,Home,Kitchen,1130.96,1,0.09,44.27,Debit Card,Central,Hardybury,California,Shipped,Easy Ship,Amazon UK
+882,2025-01-17,CUST0882,Vanessa Williams,PROD0882,Capital 968,Home,Kitchen,930.75,5,0.02,20.7,UPI,South,North David,Connecticut,Shipped,FBA,Amazon UK
+883,2024-12-23,CUST0883,Willie Olsen,PROD0883,Level 596,Home,Kitchen,500.71,1,0.1,41.59,Debit Card,East,West Melissa,Wyoming,Delivered,FBM,Amazon UK
+884,2024-08-27,CUST0884,Katie Bishop,PROD0884,Five 402,Books,Fiction,1767.59,4,0.25,33.0,COD,Central,Alvarezberg,New York,Returned,Easy Ship,Amazon.in
+885,2024-06-08,CUST0885,Barry Bolton,PROD0885,Series 405,Electronics,Mobile Phones,1473.63,4,0.16,26.2,Net Banking,West,New Valeriemouth,South Carolina,Shipped,FBM,Amazon.in
+886,2025-06-07,CUST0886,Ashley Howard,PROD0886,About 557,Clothing,Mens Wear,296.68,1,0.01,32.91,UPI,West,Watsonchester,Illinois,Delivered,Easy Ship,Amazon.com
+887,2025-06-12,CUST0887,Breanna Padilla,PROD0887,High 823,Home,Furniture,1114.98,10,0.13,17.08,Net Banking,East,North Carly,Ohio,Cancelled,Easy Ship,Amazon.com
+888,2024-08-02,CUST0888,Haley Terry,PROD0888,Her 477,Home,Kitchen,576.68,10,0.04,47.89,UPI,Central,Michaelmouth,North Dakota,Shipped,FBA,Amazon DE
+889,2024-06-26,CUST0889,Gabrielle Campbell,PROD0889,Everything 727,Clothing,Kids,1665.29,7,0.17,32.19,Net Banking,South,Bryanmouth,Virginia,Delivered,FBA,Amazon UK
+890,2024-04-01,CUST0890,Brian Hernandez,PROD0890,Religious 165,Books,Non-Fiction,572.99,10,0.23,3.89,Amazon Pay,South,South Michaelmouth,Virginia,Delivered,FBA,Amazon DE
+891,2025-05-30,CUST0891,Brittany Marshall,PROD0891,Activity 183,Electronics,Headphones,311.62,9,0.05,36.26,UPI,East,Port Helenfurt,Delaware,Shipped,FBM,Amazon UK
+892,2025-03-11,CUST0892,Zachary Wong,PROD0892,Issue 933,Clothing,Kids,1504.19,8,0.12,4.98,Net Banking,South,West Johnathan,New Hampshire,Delivered,FBA,Amazon.in
+893,2024-10-15,CUST0893,Tiffany Sanford,PROD0893,And 590,Home,Kitchen,326.53,5,0.07,4.71,Credit Card,North,Marytown,Iowa,Delivered,FBA,Amazon.com
+894,2025-01-15,CUST0894,Lisa Bates,PROD0894,Cover 874,Electronics,Mobile Phones,445.81,4,0.28,47.81,UPI,East,New Leslie,Florida,Shipped,Easy Ship,Amazon DE
+895,2024-12-27,CUST0895,Tammy Knight,PROD0895,Yourself 141,Books,Non-Fiction,797.66,9,0.23,25.63,Amazon Pay,West,North Johnmouth,Louisiana,Delivered,FBA,Amazon.in
+896,2024-01-28,CUST0896,Joseph Walker,PROD0896,Sit 506,Books,Fiction,81.65,4,0.17,2.34,COD,East,Jasonfurt,Connecticut,Processing,FBA,Amazon.com
+897,2025-02-28,CUST0897,Robert Hammond,PROD0897,Rock 442,Electronics,Headphones,1077.1,10,0.08,28.7,Debit Card,South,Lisaton,Oklahoma,Delivered,FBA,Amazon UK
+898,2024-09-25,CUST0898,Krista Anderson,PROD0898,West 309,Clothing,Kids,1796.88,7,0.04,15.7,COD,Central,East Gabriella,Idaho,Shipped,FBA,Amazon DE
+899,2024-01-20,CUST0899,Amanda Shaffer,PROD0899,Manage 707,Electronics,Laptops,92.9,2,0.22,43.96,COD,East,Roblesmouth,California,Shipped,FBM,Amazon.com
+900,2024-04-25,CUST0900,Benjamin Nelson,PROD0900,Small 112,Clothing,Kids,932.92,4,0.17,44.45,COD,North,Port Patrickburgh,Mississippi,Shipped,FBA,Amazon UK
+901,2024-12-18,CUST0901,Shawn Richards,PROD0901,Project 716,Sports,Outdoor,370.03,6,0.06,47.45,UPI,West,South Derrick,Minnesota,Shipped,FBA,Amazon DE
+902,2025-01-08,CUST0902,Janice Davis,PROD0902,Week 100,Sports,Cycling,988.45,9,0.18,40.16,Debit Card,North,Donnabury,North Dakota,Delivered,FBA,Amazon.in
+903,2025-06-16,CUST0903,Amy Dixon,PROD0903,Fact 199,Books,Fiction,109.56,1,0.28,46.65,Net Banking,Central,Port Markshire,Illinois,Shipped,FBA,Amazon.com
+904,2024-05-02,CUST0904,Debbie Watkins,PROD0904,Again 404,Clothing,Kids,438.46,4,0.29,37.61,UPI,West,East Brianbury,New Hampshire,Shipped,FBA,Amazon.in
+905,2025-01-29,CUST0905,Betty Robinson,PROD0905,Beat 587,Sports,Cycling,248.95,3,0.08,46.65,Debit Card,North,West Brooketon,New Mexico,Cancelled,FBA,Amazon.in
+906,2024-11-13,CUST0906,Erica Jenkins,PROD0906,Forward 819,Electronics,Mobile Phones,234.05,4,0.14,44.55,UPI,East,Wagnerville,Iowa,Delivered,Easy Ship,Amazon.in
+907,2024-08-24,CUST0907,Melissa Mitchell,PROD0907,Account 950,Home,Kitchen,135.93,3,0.06,21.08,Credit Card,West,Geraldland,Maryland,Shipped,FBM,Amazon DE
+908,2024-11-25,CUST0908,Willie Stewart,PROD0908,Available 307,Home,Furniture,358.3,1,0.17,4.11,UPI,East,Norrisland,Florida,Shipped,FBM,Amazon DE
+909,2025-01-06,CUST0909,Johnny Cunningham MD,PROD0909,Impact 672,Electronics,Mobile Phones,1345.77,4,0.07,23.5,Amazon Pay,North,Lake Troy,Colorado,Shipped,Easy Ship,Amazon DE
+910,2025-05-23,CUST0910,Monica Jones,PROD0910,Threat 482,Home,Kitchen,1586.01,1,0.09,6.24,Net Banking,Central,New Austin,New York,Shipped,Easy Ship,Amazon.com
+911,2024-02-06,CUST0911,Mr. Gary Lopez MD,PROD0911,Modern 481,Sports,Cycling,748.83,9,0.16,17.39,Net Banking,South,Racheltown,Delaware,Delivered,FBM,Amazon DE
+912,2024-06-10,CUST0912,Samuel Graham,PROD0912,Degree 542,Clothing,Kids,1536.95,3,0.24,38.08,COD,West,Lake Ericfort,Wisconsin,Delivered,FBA,Amazon UK
+913,2024-02-29,CUST0913,Allison Horn,PROD0913,Apply 451,Books,Fiction,513.87,3,0.1,19.22,COD,South,Halebury,Alabama,Delivered,Easy Ship,Amazon.in
+914,2025-01-15,CUST0914,Rickey Walker,PROD0914,Season 935,Sports,Cycling,1720.83,3,0.18,27.93,Debit Card,Central,New Crystalland,Virginia,Processing,FBA,Amazon.com
+915,2025-02-02,CUST0915,Ann Riley,PROD0915,Level 689,Sports,Outdoor,1389.5,2,0.25,44.27,COD,North,Lake Ian,Massachusetts,Returned,FBA,Amazon.in
+916,2025-06-27,CUST0916,Michael Anderson,PROD0916,Short 849,Clothing,Womens Wear,1869.67,3,0.22,34.83,Net Banking,North,Webbview,Ohio,Processing,FBM,Amazon UK
+917,2025-02-17,CUST0917,Bruce Shepherd,PROD0917,Contain 331,Home,Decor,1874.49,9,0.2,20.85,Amazon Pay,West,Wilsonchester,Montana,Delivered,Easy Ship,Amazon.in
+918,2025-04-26,CUST0918,Nicholas Harris,PROD0918,Old 173,Books,Non-Fiction,912.77,4,0.21,44.87,Credit Card,West,Jasonbury,Washington,Returned,Easy Ship,Amazon.com
+919,2024-01-04,CUST0919,Edwin Sullivan,PROD0919,Lot 131,Clothing,Womens Wear,491.25,7,0.09,12.04,Debit Card,North,Port Robert,Arkansas,Delivered,FBM,Amazon.in
+920,2024-01-18,CUST0920,Dr. John Smith III,PROD0920,Education 814,Electronics,Laptops,422.1,2,0.02,23.72,UPI,West,New Adrian,Indiana,Shipped,Easy Ship,Amazon.in
+921,2024-09-28,CUST0921,Melissa Tanner,PROD0921,Close 795,Clothing,Womens Wear,692.91,6,0.06,22.57,Net Banking,Central,North Lawrence,Idaho,Delivered,FBM,Amazon.in
+922,2024-04-23,CUST0922,Vanessa Ho,PROD0922,Drop 532,Electronics,Mobile Phones,1004.99,6,0.01,35.63,Net Banking,Central,Hurstborough,Vermont,Cancelled,Easy Ship,Amazon.in
+923,2024-09-11,CUST0923,Jose Mcintyre,PROD0923,Find 877,Books,Fiction,1244.26,6,0.28,34.87,Net Banking,North,Lawrenceberg,Connecticut,Returned,FBA,Amazon DE
+924,2025-02-23,CUST0924,Douglas Powell,PROD0924,Apply 867,Home,Kitchen,511.79,2,0.02,36.77,Credit Card,West,Andreamouth,South Dakota,Processing,FBM,Amazon DE
+925,2024-07-23,CUST0925,Peter Padilla,PROD0925,Use 197,Clothing,Mens Wear,1211.18,8,0.01,16.87,Net Banking,South,Lake Danielhaven,Colorado,Processing,FBA,Amazon DE
+926,2024-03-16,CUST0926,Shelly Thomas,PROD0926,Institution 920,Books,Non-Fiction,265.48,1,0.28,23.33,Net Banking,East,North Gregory,Missouri,Delivered,Easy Ship,Amazon DE
+927,2025-02-25,CUST0927,Daniel Graves,PROD0927,Hundred 140,Books,Non-Fiction,1451.42,5,0.18,35.51,Net Banking,East,Port Alecton,North Carolina,Delivered,FBM,Amazon.com
+928,2025-01-01,CUST0928,Paula Oconnor,PROD0928,Bed 105,Books,Fiction,669.52,2,0.21,48.49,Net Banking,West,East Paulamouth,Wyoming,Shipped,FBM,Amazon.com
+929,2024-08-13,CUST0929,Michael Ray,PROD0929,Alone 334,Sports,Fitness,1491.62,3,0.23,4.11,UPI,Central,New Virginia,New York,Shipped,Easy Ship,Amazon DE
+930,2024-07-17,CUST0930,Donald Palmer,PROD0930,Opportunity 548,Home,Kitchen,1618.75,2,0.03,8.68,COD,Central,West Amber,Montana,Processing,FBM,Amazon.in
+931,2025-02-07,CUST0931,Eric Potter,PROD0931,These 528,Clothing,Kids,1590.73,7,0.01,27.21,Amazon Pay,Central,North Walterbury,West Virginia,Delivered,FBM,Amazon.in
+932,2025-05-10,CUST0932,Sheila Sullivan,PROD0932,Fill 510,Electronics,Mobile Phones,565.02,9,0.21,5.21,Amazon Pay,East,Petersview,Iowa,Shipped,Easy Ship,Amazon DE
+933,2024-05-19,CUST0933,Vanessa Thompson,PROD0933,Likely 775,Sports,Cycling,494.03,3,0.04,9.78,Amazon Pay,South,Roblestown,Louisiana,Delivered,Easy Ship,Amazon DE
+934,2024-02-02,CUST0934,Jeffery Gonzalez,PROD0934,Evidence 337,Clothing,Kids,1119.16,8,0.02,39.92,Net Banking,North,New Nicole,Indiana,Shipped,FBA,Amazon.in
+935,2025-04-16,CUST0935,John Roth,PROD0935,Deep 699,Electronics,Headphones,607.68,7,0.0,4.88,Credit Card,Central,Nicoleberg,Arkansas,Processing,Easy Ship,Amazon UK
+936,2024-11-15,CUST0936,Tamara Walker,PROD0936,Group 589,Electronics,Mobile Phones,613.65,3,0.1,13.7,Debit Card,South,Salinasmouth,Arkansas,Delivered,FBM,Amazon DE
+937,2024-09-24,CUST0937,Katie Garcia,PROD0937,With 978,Clothing,Mens Wear,207.1,7,0.17,32.1,Credit Card,South,Elliottburgh,Montana,Cancelled,Easy Ship,Amazon.com
+938,2024-11-12,CUST0938,Joshua Dillon,PROD0938,Against 959,Electronics,Headphones,1723.76,2,0.14,49.51,Debit Card,South,Lauraview,Rhode Island,Shipped,Easy Ship,Amazon DE
+939,2025-03-31,CUST0939,Ashley Butler,PROD0939,Likely 297,Clothing,Kids,1875.84,5,0.12,38.11,UPI,West,Edwardfurt,Maine,Shipped,Easy Ship,Amazon.in
+940,2025-02-19,CUST0940,Holly Hayes,PROD0940,Business 761,Books,Educational,1862.25,7,0.13,42.15,Debit Card,West,Russellshire,California,Shipped,Easy Ship,Amazon DE
+941,2024-10-15,CUST0941,Ashley Fisher,PROD0941,Shake 675,Electronics,Headphones,490.27,9,0.09,39.11,Credit Card,West,South Susan,Rhode Island,Delivered,FBA,Amazon.in
+942,2024-02-19,CUST0942,Frank Ellis,PROD0942,Benefit 410,Books,Educational,1784.38,3,0.23,3.92,UPI,West,New Lisaview,Maine,Shipped,Easy Ship,Amazon UK
+943,2024-02-17,CUST0943,Terry Travis,PROD0943,Along 580,Books,Fiction,660.9,5,0.26,24.56,Amazon Pay,Central,Smithville,Nevada,Delivered,FBM,Amazon.com
+944,2024-07-16,CUST0944,Bobby Delgado,PROD0944,Toward 995,Electronics,Laptops,1385.93,6,0.16,31.59,Amazon Pay,East,Vaughanmouth,Connecticut,Shipped,FBM,Amazon UK
+945,2024-05-18,CUST0945,Shelby Fox DVM,PROD0945,Community 296,Books,Fiction,1031.9,6,0.28,17.56,Debit Card,East,South Victoria,Nevada,Shipped,FBM,Amazon UK
+946,2025-05-19,CUST0946,Bianca Jordan,PROD0946,Thing 294,Home,Decor,1355.44,5,0.08,22.34,COD,South,Frostton,Mississippi,Delivered,Easy Ship,Amazon UK
+947,2024-12-11,CUST0947,Christie Nelson,PROD0947,Worry 841,Books,Non-Fiction,729.36,9,0.17,11.81,COD,South,North Audrey,Illinois,Delivered,Easy Ship,Amazon.in
+948,2025-06-10,CUST0948,Susan Williams,PROD0948,None 351,Sports,Cycling,590.01,4,0.06,39.92,Debit Card,West,South Allisontown,Texas,Processing,FBM,Amazon UK
+949,2025-01-06,CUST0949,Holly Wood,PROD0949,Sound 485,Home,Kitchen,1436.91,10,0.14,18.39,Credit Card,East,Port Kimberly,Nebraska,Shipped,Easy Ship,Amazon.in
+950,2024-03-08,CUST0950,Kelly Gilbert,PROD0950,Dinner 623,Home,Furniture,16.5,4,0.24,14.23,COD,Central,North Stephanieland,New Mexico,Delivered,Easy Ship,Amazon UK
+951,2024-07-09,CUST0951,Troy Velez,PROD0951,Six 496,Home,Furniture,406.39,1,0.29,32.15,Credit Card,West,Johnfurt,Alabama,Delivered,FBM,Amazon DE
+952,2024-09-14,CUST0952,Jessica Waters,PROD0952,Shake 661,Electronics,Laptops,288.06,2,0.11,40.46,Credit Card,East,Cindyborough,New Mexico,Shipped,Easy Ship,Amazon.in
+953,2024-11-30,CUST0953,Cathy Kennedy,PROD0953,Without 110,Clothing,Womens Wear,263.57,2,0.28,34.96,Amazon Pay,Central,East Daniel,Oregon,Shipped,FBA,Amazon.in
+954,2024-06-11,CUST0954,Ann White,PROD0954,General 665,Clothing,Kids,1953.9,5,0.09,13.55,COD,Central,Alexisside,New Jersey,Shipped,FBM,Amazon UK
+955,2024-07-14,CUST0955,Brandy Camacho,PROD0955,Image 264,Sports,Outdoor,480.36,1,0.17,17.2,Net Banking,South,South Susanton,Maine,Shipped,FBA,Amazon.in
+956,2025-03-29,CUST0956,Bryan Bennett,PROD0956,Old 570,Books,Fiction,1483.51,5,0.24,7.98,Net Banking,South,Hessborough,Kentucky,Shipped,Easy Ship,Amazon.com
+957,2024-07-21,CUST0957,Kimberly Johnson,PROD0957,Person 556,Electronics,Headphones,1784.85,4,0.08,2.15,Net Banking,Central,East Alanborough,Oregon,Delivered,FBA,Amazon DE
+958,2025-06-06,CUST0958,Ashley Carroll,PROD0958,Entire 123,Clothing,Mens Wear,209.73,2,0.12,23.32,Net Banking,Central,Princeville,Pennsylvania,Shipped,Easy Ship,Amazon DE
+959,2024-06-24,CUST0959,Benjamin Myers,PROD0959,Industry 958,Sports,Fitness,550.73,8,0.13,44.01,Credit Card,West,Lake Marymouth,California,Shipped,FBM,Amazon DE
+960,2024-07-29,CUST0960,Daniel Miller,PROD0960,Laugh 312,Books,Fiction,418.88,3,0.21,30.85,Net Banking,South,Mooreport,Arkansas,Delivered,FBA,Amazon DE
+961,2024-10-14,CUST0961,Catherine White,PROD0961,Because 802,Clothing,Kids,713.0,5,0.07,15.95,COD,West,Port Michael,Kansas,Shipped,Easy Ship,Amazon.in
+962,2025-01-15,CUST0962,Michael Hansen,PROD0962,Charge 120,Clothing,Mens Wear,1294.5,2,0.14,40.4,UPI,East,Riveraberg,Wisconsin,Shipped,FBM,Amazon DE
+963,2024-04-10,CUST0963,Brandon Mann,PROD0963,Support 261,Home,Furniture,1451.12,7,0.03,14.24,UPI,East,Delgadoberg,Pennsylvania,Shipped,FBA,Amazon DE
+964,2025-02-16,CUST0964,Hayden Goodwin,PROD0964,Lay 878,Clothing,Mens Wear,1708.76,9,0.18,40.89,Net Banking,East,Port Patriciaside,Nebraska,Processing,FBA,Amazon.in
+965,2025-01-16,CUST0965,Brian White,PROD0965,Leg 563,Electronics,Laptops,1417.14,3,0.03,35.38,Credit Card,Central,Sotoborough,Hawaii,Shipped,FBA,Amazon UK
+966,2024-03-27,CUST0966,Deborah Harris,PROD0966,Imagine 337,Clothing,Womens Wear,291.85,7,0.08,45.97,UPI,South,Kimberlytown,Idaho,Shipped,FBA,Amazon.in
+967,2024-01-22,CUST0967,Maria Franklin,PROD0967,Usually 927,Books,Fiction,113.77,3,0.09,24.57,Debit Card,South,Kimberlyview,Rhode Island,Delivered,FBA,Amazon.in
+968,2025-06-02,CUST0968,Sean Avila,PROD0968,Word 666,Books,Fiction,1427.93,2,0.23,14.91,COD,North,Bettytown,Kentucky,Processing,FBM,Amazon DE
+969,2024-02-23,CUST0969,Wesley Lane,PROD0969,Life 612,Books,Educational,366.06,9,0.28,13.79,Debit Card,East,New Sheryl,Alabama,Shipped,Easy Ship,Amazon.in
+970,2025-04-21,CUST0970,Rachel Johnson,PROD0970,Organization 687,Sports,Cycling,123.13,3,0.05,24.52,Debit Card,Central,Garciafort,Colorado,Processing,FBM,Amazon UK
+971,2024-08-23,CUST0971,Shane Olson,PROD0971,Eight 486,Home,Kitchen,499.12,3,0.21,36.24,COD,North,New Kevinborough,Alabama,Shipped,FBA,Amazon.in
+972,2025-01-01,CUST0972,Lori Davis,PROD0972,Tough 762,Electronics,Mobile Phones,581.53,9,0.24,34.52,COD,West,West Amanda,Utah,Shipped,Easy Ship,Amazon DE
+973,2024-03-27,CUST0973,Theodore Morgan,PROD0973,Into 615,Clothing,Kids,1574.91,10,0.22,37.97,COD,West,Gardnermouth,Michigan,Processing,FBM,Amazon.com
+974,2024-07-07,CUST0974,Samantha Gibbs,PROD0974,Inside 491,Electronics,Headphones,1611.63,4,0.02,49.75,Credit Card,Central,New Timothy,South Dakota,Processing,FBM,Amazon DE
+975,2025-05-15,CUST0975,Aaron Rodriguez,PROD0975,Hear 985,Clothing,Womens Wear,753.51,6,0.15,38.01,Amazon Pay,South,Michaelmouth,Minnesota,Shipped,Easy Ship,Amazon DE
+976,2025-05-10,CUST0976,Jacob Alexander,PROD0976,Thing 358,Sports,Fitness,1519.92,3,0.19,16.49,Credit Card,South,Prattmouth,Florida,Shipped,FBM,Amazon DE
+977,2024-02-21,CUST0977,Jasmin Garner,PROD0977,Pattern 755,Home,Furniture,938.03,8,0.11,11.83,Credit Card,South,Bryantstad,Washington,Shipped,FBA,Amazon.com
+978,2024-11-03,CUST0978,Susan Ward,PROD0978,Total 463,Clothing,Womens Wear,754.33,6,0.14,20.55,Net Banking,North,Christineview,Indiana,Delivered,Easy Ship,Amazon UK
+979,2024-09-05,CUST0979,Michael Webb,PROD0979,Term 203,Home,Decor,959.45,8,0.02,17.91,COD,South,Ayerschester,New Mexico,Shipped,FBA,Amazon.in
+980,2024-07-30,CUST0980,Ronnie Ross,PROD0980,Recent 513,Books,Educational,1425.1,5,0.02,26.46,UPI,North,Jamesburgh,New York,Delivered,FBM,Amazon DE
+981,2024-08-30,CUST0981,Jonathan Baird,PROD0981,Station 548,Sports,Fitness,1229.72,6,0.19,15.68,COD,Central,Daniellechester,Rhode Island,Shipped,FBM,Amazon.in
+982,2025-05-10,CUST0982,Kendra Powell,PROD0982,Lay 944,Home,Furniture,1529.64,1,0.2,28.3,COD,North,Espinozafurt,Illinois,Processing,FBM,Amazon.com
+983,2025-05-19,CUST0983,Barbara Taylor,PROD0983,Government 382,Clothing,Kids,1324.63,8,0.22,32.49,Debit Card,North,Lopeztown,Pennsylvania,Shipped,FBM,Amazon DE
+984,2024-01-29,CUST0984,Steven Brown,PROD0984,Factor 537,Clothing,Mens Wear,93.36,5,0.0,8.38,Debit Card,West,Port John,New Jersey,Delivered,Easy Ship,Amazon.com
+985,2024-07-24,CUST0985,Jacob Kim,PROD0985,Business 324,Books,Fiction,517.74,4,0.0,5.18,UPI,West,Daybury,Oregon,Cancelled,FBM,Amazon.in
+986,2024-06-14,CUST0986,Deborah Gonzalez,PROD0986,White 971,Sports,Cycling,1962.58,8,0.03,34.13,UPI,Central,Kochton,Maine,Processing,FBM,Amazon UK
+987,2025-02-02,CUST0987,Kelly Weaver,PROD0987,Course 783,Clothing,Womens Wear,1158.32,9,0.27,41.09,Amazon Pay,East,East Donaldstad,Florida,Shipped,Easy Ship,Amazon.com
+988,2024-08-23,CUST0988,Amy Lamb,PROD0988,Suffer 544,Sports,Outdoor,1435.96,9,0.2,40.7,Debit Card,South,Carpenterberg,Georgia,Processing,FBM,Amazon.in
+989,2025-03-04,CUST0989,Edward Peterson,PROD0989,Lawyer 920,Clothing,Womens Wear,663.03,9,0.09,48.69,Credit Card,Central,North Sarah,Florida,Returned,FBM,Amazon UK
+990,2024-12-12,CUST0990,Angela Arroyo,PROD0990,Security 200,Electronics,Laptops,1649.9,9,0.07,39.61,Debit Card,West,Jamesshire,Pennsylvania,Cancelled,Easy Ship,Amazon.com
+991,2024-08-12,CUST0991,Jessica Martin,PROD0991,Entire 738,Home,Decor,1016.63,7,0.22,22.13,Credit Card,South,Wagnerburgh,Montana,Shipped,FBM,Amazon.com
+992,2024-06-25,CUST0992,Paul Peterson,PROD0992,Win 584,Sports,Cycling,1329.14,6,0.28,4.73,Net Banking,South,Port Amber,Louisiana,Delivered,FBA,Amazon DE
+993,2025-05-29,CUST0993,Jessica Andrews,PROD0993,Bank 515,Clothing,Kids,1875.81,2,0.09,25.35,Net Banking,Central,Russohaven,Florida,Returned,FBM,Amazon.com
+994,2024-04-16,CUST0994,Robin Ramsey,PROD0994,Medical 973,Sports,Outdoor,477.87,4,0.18,9.91,UPI,Central,West Julie,Indiana,Shipped,FBA,Amazon DE
+995,2024-02-09,CUST0995,Lisa Boyle,PROD0995,Assume 102,Electronics,Laptops,173.37,1,0.05,22.57,Amazon Pay,South,West Jenniferburgh,Nebraska,Cancelled,FBM,Amazon.in
+996,2025-05-10,CUST0996,Elizabeth Phillips,PROD0996,Fly 141,Electronics,Headphones,75.04,5,0.3,19.6,Amazon Pay,East,South Stephen,Florida,Delivered,FBA,Amazon.in
+997,2025-06-19,CUST0997,Danielle Case,PROD0997,Somebody 908,Sports,Cycling,626.44,2,0.01,29.98,COD,North,East Victorfort,Colorado,Returned,FBA,Amazon.com
+998,2024-09-15,CUST0998,Jordan Warren,PROD0998,Impact 241,Sports,Cycling,787.82,8,0.03,30.48,COD,North,Helenview,Illinois,Delivered,FBA,Amazon UK
+999,2025-05-29,CUST0999,Casey Abbott,PROD0999,Common 805,Home,Kitchen,1216.27,5,0.05,39.25,Net Banking,Central,Travisborough,Mississippi,Delivered,FBM,Amazon.com
+1000,2024-12-17,CUST1000,James Dickson,PROD1000,Crime 400,Electronics,Mobile Phones,792.85,6,0.2,35.36,UPI,Central,Loristad,Missouri,Processing,Easy Ship,Amazon UK

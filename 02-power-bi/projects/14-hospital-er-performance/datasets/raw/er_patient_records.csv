@@ -1,0 +1,1501 @@
+patient_id,visit_id,arrival_datetime,departure_datetime,age,gender,severity,chief_complaint,department_referred,wait_time_min,treatment_time_min,total_time_min,bed_assigned,nurse_id,doctor_id,heart_rate,blood_pressure,temperature,visit_type,follow_up_required
+PAT0001,VIS00001,2025-01-14 04:50:30,,55,Other,Critical,Headache,Ophthalmology,14,185,199,Yes,NR02,DR02,102,126/75,36.4,Emergency,Yes
+PAT0002,VIS00002,2025-02-27 08:25:55,,1,Female,Non-Urgent,Headache,Dermatology,107,231,338,No,NR03,DR03,80,147/95,37.5,Emergency,No
+PAT0003,VIS00003,2025-02-11 19:57:23,,65,Other,Semi-Urgent,Chest Pain,Orthopedics,2,174,176,No,NR04,DR04,93,160/65,38.5,Emergency,No
+PAT0004,VIS00004,2025-03-10 18:41:32,,68,Male,Semi-Urgent,Injury,Orthopedics,88,32,120,No,NR05,DR05,120,120/61,38.3,New Visit,No
+PAT0005,VIS00005,2025-01-10 23:16:10,,46,Female,Urgent,Allergic Reaction,Ophthalmology,20,85,105,No,NR06,DR06,92,105/77,36.8,New Visit,Yes
+PAT0006,VIS00006,2025-04-13 07:31:42,,65,Other,Emergency,Chest Pain,Orthopedics,18,230,248,No,NR07,DR07,69,125/70,37.9,Referral,No
+PAT0007,VIS00007,2025-02-07 21:58:37,,79,Female,Urgent,Fracture,ENT,11,229,240,No,NR08,DR08,108,111/89,36.9,Follow-up,Yes
+PAT0008,VIS00008,2025-06-10 06:16:55,,74,Other,Critical,Abdominal Pain,General Medicine,2,25,27,No,NR09,DR01,100,151/71,36.2,Follow-up,Yes
+PAT0009,VIS00009,2025-02-15 19:08:51,,71,Other,Semi-Urgent,Fever,Cardiology,48,36,84,Yes,NR10,DR02,94,113/81,37.6,Emergency,No
+PAT0010,VIS00010,2025-01-15 05:55:09,,59,Female,Semi-Urgent,Allergic Reaction,Dermatology,72,78,150,No,NR01,DR03,96,138/91,38.2,Emergency,No
+PAT0011,VIS00011,2025-02-26 02:42:25,,59,Female,Semi-Urgent,Injury,Orthopedics,35,107,142,Yes,NR02,DR04,74,106/69,36.1,New Visit,Yes
+PAT0012,VIS00012,2025-02-19 22:29:02,,88,Other,Emergency,Fracture,Dermatology,14,175,189,No,NR03,DR05,88,158/70,38.1,Follow-up,Yes
+PAT0013,VIS00013,2025-04-11 08:49:18,,22,Other,Urgent,Fracture,General Medicine,30,60,90,No,NR04,DR06,92,108/80,36.5,Referral,No
+PAT0014,VIS00014,2025-01-14 01:55:47,,14,Other,Urgent,Injury,Ophthalmology,23,138,161,No,NR05,DR07,75,150/82,38.0,Emergency,Yes
+PAT0015,VIS00015,2025-06-26 02:41:31,,6,Other,Non-Urgent,Fracture,ENT,101,90,191,No,NR06,DR08,91,141/94,38.1,Referral,Yes
+PAT0016,VIS00016,2025-03-04 08:34:27,,27,Male,Non-Urgent,Fever,Cardiology,73,182,255,No,NR07,DR01,96,128/62,39.5,New Visit,No
+PAT0017,VIS00017,2025-04-08 14:45:35,,45,Female,Semi-Urgent,Shortness of Breath,Cardiology,25,228,253,No,NR08,DR02,94,101/66,37.3,Emergency,No
+PAT0018,VIS00018,2025-04-01 03:40:23,,83,Male,Urgent,Injury,Neurology,0,237,237,No,NR09,DR03,101,158/66,37.5,Follow-up,No
+PAT0019,VIS00019,2025-06-01 08:00:45,,77,Female,Semi-Urgent,Allergic Reaction,Pediatrics,72,178,250,Yes,NR10,DR04,61,134/72,38.4,Emergency,No
+PAT0020,VIS00020,2025-03-30 10:29:24,,63,Other,Semi-Urgent,Allergic Reaction,Orthopedics,80,240,320,No,NR01,DR05,103,149/96,37.2,Emergency,No
+PAT0021,VIS00021,2025-06-18 11:28:50,,89,Other,Emergency,Headache,Neurology,16,71,87,No,NR02,DR06,64,159/76,36.4,Follow-up,Yes
+PAT0022,VIS00022,2025-04-10 15:34:54,,49,Other,Non-Urgent,Abdominal Pain,Cardiology,26,69,95,Yes,NR03,DR07,89,117/85,36.9,Follow-up,No
+PAT0023,VIS00023,2025-02-13 05:35:44,,42,Male,Critical,Headache,Cardiology,28,33,61,Yes,NR04,DR08,83,156/83,36.3,Emergency,No
+PAT0024,VIS00024,2025-04-21 01:35:35,,86,Other,Urgent,Shortness of Breath,Pediatrics,1,39,40,Yes,NR05,DR01,104,125/91,37.3,Emergency,No
+PAT0025,VIS00025,2025-03-06 19:25:49,,40,Male,Non-Urgent,Abdominal Pain,Ophthalmology,36,94,130,No,NR06,DR02,63,101/70,36.6,Follow-up,Yes
+PAT0026,VIS00026,2025-04-30 13:28:55,,24,Male,Semi-Urgent,Fever,Pediatrics,45,18,63,Yes,NR07,DR03,79,118/90,36.1,Emergency,No
+PAT0027,VIS00027,2025-02-18 05:10:24,,11,Other,Semi-Urgent,Shortness of Breath,Neurology,16,62,78,Yes,NR08,DR04,94,135/66,36.8,Referral,Yes
+PAT0028,VIS00028,2025-03-29 17:35:49,,73,Female,Critical,Injury,Ophthalmology,25,227,252,Yes,NR09,DR05,78,127/95,38.9,New Visit,Yes
+PAT0029,VIS00029,2025-01-27 20:28:27,,57,Female,Critical,Injury,Cardiology,12,29,41,No,NR10,DR06,88,149/79,39.0,Follow-up,Yes
+PAT0030,VIS00030,2025-01-10 04:47:06,,54,Other,Emergency,Injury,Pediatrics,17,195,212,Yes,NR01,DR07,104,147/86,37.8,Follow-up,No
+PAT0031,VIS00031,2025-01-18 12:00:42,,22,Female,Emergency,Headache,ENT,23,89,112,No,NR02,DR08,89,148/91,38.8,Emergency,Yes
+PAT0032,VIS00032,2025-02-10 14:43:31,,15,Other,Urgent,Abdominal Pain,General Medicine,16,193,209,No,NR03,DR01,103,145/82,36.5,New Visit,No
+PAT0033,VIS00033,2025-03-10 12:56:35,,56,Male,Critical,Injury,Neurology,24,50,74,No,NR04,DR02,62,140/75,37.5,Referral,Yes
+PAT0034,VIS00034,2025-01-16 10:37:28,,60,Female,Critical,Injury,Dermatology,14,180,194,Yes,NR05,DR03,87,108/84,36.8,Follow-up,No
+PAT0035,VIS00035,2025-03-15 18:18:23,,73,Male,Semi-Urgent,Abdominal Pain,Dermatology,87,15,102,Yes,NR06,DR04,66,156/83,36.9,Follow-up,No
+PAT0036,VIS00036,2025-03-02 01:01:07,,85,Other,Urgent,Headache,Cardiology,5,200,205,Yes,NR07,DR05,83,128/68,36.1,Follow-up,Yes
+PAT0037,VIS00037,2025-02-19 06:51:10,,42,Female,Non-Urgent,Nausea,Neurology,116,100,216,No,NR08,DR06,115,134/66,36.4,New Visit,Yes
+PAT0038,VIS00038,2025-06-26 14:44:04,,34,Other,Emergency,Nausea,Neurology,4,198,202,Yes,NR09,DR07,64,154/67,38.5,Emergency,No
+PAT0039,VIS00039,2025-06-29 20:50:40,,62,Female,Urgent,Injury,Neurology,17,100,117,No,NR10,DR08,91,109/94,37.3,New Visit,Yes
+PAT0040,VIS00040,2025-05-18 05:10:44,,88,Female,Non-Urgent,Injury,Ophthalmology,29,113,142,Yes,NR01,DR01,117,133/70,39.2,Follow-up,No
+PAT0041,VIS00041,2025-02-16 14:52:02,,43,Other,Semi-Urgent,Fracture,Ophthalmology,21,57,78,Yes,NR02,DR02,85,157/67,37.0,Follow-up,Yes
+PAT0042,VIS00042,2025-05-28 07:31:52,,31,Male,Semi-Urgent,Headache,Cardiology,68,153,221,Yes,NR03,DR03,62,153/76,38.9,New Visit,No
+PAT0043,VIS00043,2025-02-13 11:10:41,,28,Other,Emergency,Abdominal Pain,Cardiology,11,239,250,No,NR04,DR04,71,130/88,36.8,Referral,Yes
+PAT0044,VIS00044,2025-04-30 16:05:29,,16,Other,Urgent,Fracture,Cardiology,17,159,176,No,NR05,DR05,89,127/93,36.5,Follow-up,Yes
+PAT0045,VIS00045,2025-06-07 17:23:30,,1,Female,Critical,Injury,Ophthalmology,18,71,89,Yes,NR06,DR06,115,142/89,36.7,Emergency,Yes
+PAT0046,VIS00046,2025-02-14 02:29:12,,90,Male,Urgent,Fracture,Dermatology,20,171,191,Yes,NR07,DR07,80,131/79,38.5,Emergency,No
+PAT0047,VIS00047,2025-04-01 09:58:04,,18,Male,Semi-Urgent,Headache,Pediatrics,72,19,91,No,NR08,DR08,115,160/97,37.6,Follow-up,No
+PAT0048,VIS00048,2025-06-16 09:53:22,,30,Female,Critical,Headache,ENT,28,120,148,No,NR09,DR01,61,159/66,39.2,New Visit,Yes
+PAT0049,VIS00049,2025-02-14 21:41:30,,16,Female,Non-Urgent,Shortness of Breath,Orthopedics,94,180,274,Yes,NR10,DR02,91,113/97,36.6,Referral,No
+PAT0050,VIS00050,2025-02-28 23:34:26,,75,Other,Urgent,Shortness of Breath,Cardiology,5,128,133,No,NR01,DR03,78,103/79,38.3,Referral,No
+PAT0051,VIS00051,2025-05-15 12:36:13,,70,Male,Emergency,Headache,General Medicine,6,218,224,Yes,NR02,DR04,66,116/67,37.7,New Visit,Yes
+PAT0052,VIS00052,2025-05-16 05:43:30,,17,Female,Non-Urgent,Injury,Dermatology,115,95,210,No,NR03,DR05,72,157/79,37.8,Referral,No
+PAT0053,VIS00053,2025-05-18 16:35:14,,41,Other,Semi-Urgent,Fracture,Cardiology,1,194,195,Yes,NR04,DR06,67,120/75,36.5,Referral,No
+PAT0054,VIS00054,2025-06-13 17:10:40,,36,Male,Semi-Urgent,Chest Pain,Dermatology,77,214,291,No,NR05,DR07,65,119/83,37.5,Follow-up,No
+PAT0055,VIS00055,2025-05-21 20:25:50,,68,Other,Non-Urgent,Fever,Neurology,70,110,180,Yes,NR06,DR08,105,129/94,37.4,Emergency,Yes
+PAT0056,VIS00056,2025-01-02 06:35:33,,67,Other,Semi-Urgent,Shortness of Breath,Ophthalmology,83,36,119,No,NR07,DR01,70,124/98,38.5,New Visit,Yes
+PAT0057,VIS00057,2025-06-26 17:30:58,,59,Female,Urgent,Headache,Orthopedics,16,158,174,No,NR08,DR02,109,105/69,39.1,New Visit,No
+PAT0058,VIS00058,2025-01-18 20:44:32,,49,Male,Urgent,Dizziness,Ophthalmology,10,97,107,No,NR09,DR03,74,143/77,37.7,Referral,No
+PAT0059,VIS00059,2025-06-28 19:36:26,,80,Male,Non-Urgent,Dizziness,Pediatrics,81,173,254,Yes,NR10,DR04,113,111/62,38.5,Referral,No
+PAT0060,VIS00060,2025-05-30 09:58:07,,6,Male,Critical,Fever,Neurology,16,228,244,No,NR01,DR05,82,132/64,36.6,New Visit,No
+PAT0061,VIS00061,2025-01-15 09:10:26,,16,Other,Emergency,Chest Pain,ENT,10,170,180,No,NR02,DR06,119,138/62,36.6,Emergency,Yes
+PAT0062,VIS00062,2025-05-11 10:53:53,,50,Male,Urgent,Injury,Orthopedics,27,178,205,Yes,NR03,DR07,80,151/65,37.1,Emergency,Yes
+PAT0063,VIS00063,2025-06-04 11:38:01,,88,Other,Non-Urgent,Abdominal Pain,Neurology,16,130,146,Yes,NR04,DR08,113,116/87,39.3,Emergency,Yes
+PAT0064,VIS00064,2025-02-13 16:41:29,,78,Male,Critical,Shortness of Breath,Dermatology,29,73,102,No,NR05,DR01,94,149/86,39.2,Follow-up,No
+PAT0065,VIS00065,2025-02-17 10:24:53,,69,Other,Emergency,Nausea,Orthopedics,11,204,215,No,NR06,DR02,83,144/95,37.0,New Visit,Yes
+PAT0066,VIS00066,2025-02-02 03:57:40,,62,Other,Critical,Nausea,Pediatrics,30,31,61,No,NR07,DR03,111,136/84,38.1,New Visit,No
+PAT0067,VIS00067,2025-03-01 18:14:07,,24,Other,Emergency,Fever,Cardiology,13,51,64,No,NR08,DR04,105,128/92,39.3,New Visit,Yes
+PAT0068,VIS00068,2025-01-19 06:11:29,,71,Other,Urgent,Fever,Ophthalmology,14,28,42,Yes,NR09,DR05,100,160/90,36.1,Follow-up,Yes
+PAT0069,VIS00069,2025-02-20 08:11:00,,74,Female,Critical,Shortness of Breath,Dermatology,21,166,187,No,NR10,DR06,71,148/64,36.8,New Visit,No
+PAT0070,VIS00070,2025-02-26 00:02:26,,52,Male,Emergency,Dizziness,Pediatrics,23,152,175,Yes,NR01,DR07,83,124/62,37.2,New Visit,No
+PAT0071,VIS00071,2025-06-18 10:56:07,,33,Other,Semi-Urgent,Abdominal Pain,Dermatology,33,113,146,No,NR02,DR08,102,120/99,39.5,Referral,Yes
+PAT0072,VIS00072,2025-01-09 00:42:06,,20,Male,Semi-Urgent,Shortness of Breath,Dermatology,30,239,269,No,NR03,DR01,65,150/94,39.1,Emergency,Yes
+PAT0073,VIS00073,2025-05-13 10:06:17,,30,Female,Emergency,Shortness of Breath,ENT,9,158,167,No,NR04,DR02,119,156/84,36.7,Referral,Yes
+PAT0074,VIS00074,2025-06-29 12:30:48,,72,Male,Emergency,Dizziness,Orthopedics,18,47,65,Yes,NR05,DR03,66,126/97,38.5,New Visit,No
+PAT0075,VIS00075,2025-06-02 12:06:21,,14,Male,Non-Urgent,Nausea,Dermatology,96,216,312,No,NR06,DR04,108,105/75,36.0,Referral,No
+PAT0076,VIS00076,2025-03-01 21:23:08,,6,Female,Emergency,Headache,Ophthalmology,22,124,146,Yes,NR07,DR05,83,138/95,37.7,Emergency,Yes
+PAT0077,VIS00077,2025-05-28 05:40:43,,45,Female,Critical,Injury,Pediatrics,0,186,186,Yes,NR08,DR06,63,115/83,36.1,Referral,Yes
+PAT0078,VIS00078,2025-02-22 12:05:48,,73,Other,Critical,Allergic Reaction,Dermatology,25,223,248,Yes,NR09,DR07,106,148/93,37.2,Emergency,Yes
+PAT0079,VIS00079,2025-06-21 17:58:55,,31,Other,Non-Urgent,Headache,Ophthalmology,70,27,97,Yes,NR10,DR08,104,119/76,38.2,Emergency,No
+PAT0080,VIS00080,2025-06-17 16:25:57,,62,Other,Critical,Nausea,Pediatrics,16,23,39,Yes,NR01,DR01,65,140/92,37.7,Emergency,Yes
+PAT0081,VIS00081,2025-01-05 12:25:37,,35,Other,Non-Urgent,Allergic Reaction,Neurology,96,68,164,Yes,NR02,DR02,61,138/86,39.0,Follow-up,Yes
+PAT0082,VIS00082,2025-05-22 07:41:50,,45,Male,Urgent,Chest Pain,Pediatrics,12,146,158,No,NR03,DR03,64,153/96,38.1,New Visit,No
+PAT0083,VIS00083,2025-02-04 07:09:44,,13,Other,Critical,Fracture,ENT,6,114,120,No,NR04,DR04,79,123/77,37.7,Emergency,No
+PAT0084,VIS00084,2025-06-14 00:12:07,,87,Male,Non-Urgent,Allergic Reaction,General Medicine,72,79,151,No,NR05,DR05,73,154/99,38.1,Referral,No
+PAT0085,VIS00085,2025-03-26 11:40:51,,39,Other,Non-Urgent,Fracture,Orthopedics,9,160,169,No,NR06,DR06,100,129/64,37.9,New Visit,Yes
+PAT0086,VIS00086,2025-06-29 21:40:00,,73,Other,Emergency,Injury,ENT,7,119,126,Yes,NR07,DR07,115,131/89,36.8,New Visit,Yes
+PAT0087,VIS00087,2025-04-16 20:52:00,,70,Female,Urgent,Abdominal Pain,ENT,14,148,162,No,NR08,DR08,120,113/88,38.8,New Visit,No
+PAT0088,VIS00088,2025-01-06 13:09:20,,41,Male,Urgent,Allergic Reaction,Ophthalmology,13,146,159,Yes,NR09,DR01,92,126/100,38.3,Referral,No
+PAT0089,VIS00089,2025-01-14 07:45:25,,87,Other,Non-Urgent,Headache,Neurology,6,91,97,Yes,NR10,DR02,92,118/96,38.1,Emergency,No
+PAT0090,VIS00090,2025-02-15 16:05:08,,73,Male,Non-Urgent,Shortness of Breath,Ophthalmology,94,53,147,No,NR01,DR03,112,103/67,37.2,Emergency,Yes
+PAT0091,VIS00091,2025-02-15 10:20:29,,65,Male,Semi-Urgent,Abdominal Pain,ENT,61,132,193,No,NR02,DR04,89,101/98,36.8,Emergency,No
+PAT0092,VIS00092,2025-02-05 13:34:43,,8,Male,Urgent,Nausea,ENT,15,84,99,Yes,NR03,DR05,75,127/67,38.3,Follow-up,Yes
+PAT0093,VIS00093,2025-06-19 20:46:57,,6,Other,Emergency,Shortness of Breath,General Medicine,12,127,139,No,NR04,DR06,64,125/60,38.9,Emergency,No
+PAT0094,VIS00094,2025-05-06 11:34:27,,59,Other,Non-Urgent,Shortness of Breath,General Medicine,66,40,106,No,NR05,DR07,63,113/98,38.9,New Visit,No
+PAT0095,VIS00095,2025-06-29 17:06:38,,88,Male,Non-Urgent,Fracture,Ophthalmology,78,99,177,No,NR06,DR08,112,109/73,37.3,Emergency,No
+PAT0096,VIS00096,2025-01-07 23:05:12,,7,Female,Semi-Urgent,Chest Pain,Orthopedics,12,230,242,No,NR07,DR01,89,102/68,38.7,Emergency,Yes
+PAT0097,VIS00097,2025-05-21 05:44:13,,14,Male,Non-Urgent,Headache,Ophthalmology,98,226,324,No,NR08,DR02,73,111/77,36.9,Emergency,No
+PAT0098,VIS00098,2025-01-09 05:01:47,,14,Male,Semi-Urgent,Shortness of Breath,General Medicine,60,146,206,Yes,NR09,DR03,91,118/65,36.9,Referral,Yes
+PAT0099,VIS00099,2025-04-24 07:06:00,,54,Male,Semi-Urgent,Abdominal Pain,Neurology,65,131,196,No,NR10,DR04,83,105/75,38.0,Referral,Yes
+PAT0100,VIS00100,2025-05-08 14:31:51,,61,Female,Urgent,Allergic Reaction,Dermatology,1,149,150,No,NR01,DR05,68,105/65,38.4,New Visit,No
+PAT0101,VIS00101,2025-04-01 13:22:15,,5,Male,Semi-Urgent,Injury,Dermatology,73,164,237,No,NR02,DR06,113,128/85,37.4,Referral,No
+PAT0102,VIS00102,2025-06-15 12:53:30,,65,Other,Semi-Urgent,Allergic Reaction,Orthopedics,39,201,240,No,NR03,DR07,75,156/97,37.2,Emergency,Yes
+PAT0103,VIS00103,2025-06-11 01:20:39,,22,Female,Semi-Urgent,Fever,Dermatology,109,57,166,No,NR04,DR08,74,127/98,37.3,Referral,No
+PAT0104,VIS00104,2025-04-02 21:09:14,,54,Male,Urgent,Fever,General Medicine,27,236,263,Yes,NR05,DR01,76,157/83,36.0,Referral,Yes
+PAT0105,VIS00105,2025-04-30 02:39:13,,87,Female,Emergency,Fever,Ophthalmology,17,126,143,No,NR06,DR02,116,156/79,39.0,Referral,No
+PAT0106,VIS00106,2025-04-19 03:43:11,,27,Female,Urgent,Dizziness,Ophthalmology,23,213,236,Yes,NR07,DR03,60,118/86,37.9,Emergency,No
+PAT0107,VIS00107,2025-06-03 00:47:35,,85,Female,Emergency,Allergic Reaction,General Medicine,11,43,54,No,NR08,DR04,95,149/81,38.4,Follow-up,Yes
+PAT0108,VIS00108,2025-04-30 19:08:42,,69,Male,Emergency,Abdominal Pain,ENT,16,50,66,No,NR09,DR05,75,126/81,37.4,Emergency,No
+PAT0109,VIS00109,2025-06-26 02:55:50,,16,Male,Non-Urgent,Fracture,Orthopedics,115,177,292,Yes,NR10,DR06,115,158/73,38.7,Referral,No
+PAT0110,VIS00110,2025-04-14 00:03:51,,38,Male,Urgent,Nausea,General Medicine,12,180,192,Yes,NR01,DR07,84,126/87,37.9,Emergency,Yes
+PAT0111,VIS00111,2025-02-20 16:36:26,,27,Other,Critical,Fracture,General Medicine,1,29,30,No,NR02,DR08,112,115/90,36.7,Referral,Yes
+PAT0112,VIS00112,2025-05-10 17:38:13,,50,Other,Emergency,Injury,ENT,9,209,218,No,NR03,DR01,68,114/84,38.9,New Visit,Yes
+PAT0113,VIS00113,2025-06-26 20:44:22,,46,Male,Non-Urgent,Headache,Cardiology,16,223,239,No,NR04,DR02,111,139/98,36.0,New Visit,No
+PAT0114,VIS00114,2025-06-12 10:22:26,,21,Other,Critical,Allergic Reaction,General Medicine,9,34,43,No,NR05,DR03,108,125/95,37.3,New Visit,Yes
+PAT0115,VIS00115,2025-03-23 14:15:36,,64,Female,Non-Urgent,Headache,Pediatrics,88,210,298,Yes,NR06,DR04,113,146/61,38.4,Follow-up,No
+PAT0116,VIS00116,2025-05-23 08:15:27,,47,Other,Critical,Injury,Neurology,1,237,238,No,NR07,DR05,92,142/61,37.7,Follow-up,Yes
+PAT0117,VIS00117,2025-04-10 17:19:23,,68,Female,Urgent,Allergic Reaction,Dermatology,23,45,68,No,NR08,DR06,95,114/75,37.7,Emergency,No
+PAT0118,VIS00118,2025-06-04 16:33:33,,45,Other,Emergency,Fracture,Neurology,27,192,219,No,NR09,DR07,87,137/60,37.5,New Visit,No
+PAT0119,VIS00119,2025-04-29 07:38:35,,8,Female,Semi-Urgent,Injury,Cardiology,43,167,210,No,NR10,DR08,62,160/91,38.8,Emergency,Yes
+PAT0120,VIS00120,2025-03-31 10:26:00,,29,Other,Critical,Abdominal Pain,General Medicine,26,94,120,Yes,NR01,DR01,83,156/98,38.9,Follow-up,No
+PAT0121,VIS00121,2025-01-20 13:26:12,,6,Other,Critical,Fracture,ENT,28,181,209,No,NR02,DR02,66,137/71,39.1,Follow-up,No
+PAT0122,VIS00122,2025-06-03 07:13:17,,51,Female,Semi-Urgent,Abdominal Pain,Dermatology,50,88,138,Yes,NR03,DR03,76,102/74,37.9,New Visit,Yes
+PAT0123,VIS00123,2025-06-04 23:09:44,,55,Male,Urgent,Allergic Reaction,Pediatrics,3,110,113,No,NR04,DR04,76,144/66,36.1,New Visit,No
+PAT0124,VIS00124,2025-04-24 10:15:56,,54,Female,Semi-Urgent,Fracture,ENT,94,122,216,No,NR05,DR05,99,136/88,36.4,Emergency,Yes
+PAT0125,VIS00125,2025-03-18 22:00:00,,56,Male,Urgent,Chest Pain,ENT,27,193,220,Yes,NR06,DR06,89,120/65,39.0,New Visit,Yes
+PAT0126,VIS00126,2025-02-04 07:23:55,,32,Male,Semi-Urgent,Chest Pain,General Medicine,52,139,191,No,NR07,DR07,70,107/75,36.7,Referral,No
+PAT0127,VIS00127,2025-03-21 03:47:04,,7,Male,Critical,Headache,General Medicine,22,103,125,Yes,NR08,DR08,72,126/76,36.3,New Visit,No
+PAT0128,VIS00128,2025-05-23 01:16:19,,1,Male,Urgent,Injury,ENT,21,72,93,Yes,NR09,DR01,97,152/66,39.0,Emergency,No
+PAT0129,VIS00129,2025-04-16 15:01:45,,36,Other,Urgent,Shortness of Breath,Cardiology,20,131,151,No,NR10,DR02,70,117/75,36.6,New Visit,No
+PAT0130,VIS00130,2025-02-05 01:47:28,,25,Male,Urgent,Fracture,Ophthalmology,29,71,100,No,NR01,DR03,115,137/94,39.3,Emergency,No
+PAT0131,VIS00131,2025-06-16 06:28:31,,26,Other,Emergency,Abdominal Pain,General Medicine,26,202,228,Yes,NR02,DR04,70,122/77,39.4,Follow-up,Yes
+PAT0132,VIS00132,2025-02-19 07:02:17,,73,Other,Semi-Urgent,Dizziness,Neurology,72,139,211,Yes,NR03,DR05,70,140/65,38.4,Referral,No
+PAT0133,VIS00133,2025-06-07 03:35:36,,53,Other,Emergency,Allergic Reaction,ENT,5,89,94,No,NR04,DR06,99,107/68,37.1,Follow-up,Yes
+PAT0134,VIS00134,2025-01-03 12:46:02,,63,Other,Critical,Headache,ENT,1,39,40,Yes,NR05,DR07,79,133/63,38.8,Emergency,Yes
+PAT0135,VIS00135,2025-03-21 05:08:53,,32,Female,Critical,Dizziness,ENT,25,90,115,No,NR06,DR08,112,141/93,36.7,Emergency,No
+PAT0136,VIS00136,2025-04-26 09:27:23,,57,Female,Emergency,Fracture,Orthopedics,26,202,228,No,NR07,DR01,65,134/72,37.9,Follow-up,Yes
+PAT0137,VIS00137,2025-06-01 15:11:19,,77,Other,Semi-Urgent,Abdominal Pain,Orthopedics,7,72,79,No,NR08,DR02,120,159/72,38.5,Emergency,Yes
+PAT0138,VIS00138,2025-06-14 01:39:09,,52,Other,Urgent,Allergic Reaction,Cardiology,22,216,238,Yes,NR09,DR03,97,153/99,37.0,Follow-up,No
+PAT0139,VIS00139,2025-03-10 18:00:09,,10,Other,Critical,Fever,Orthopedics,28,232,260,No,NR10,DR04,100,103/78,38.2,Follow-up,Yes
+PAT0140,VIS00140,2025-02-05 13:25:50,,56,Male,Non-Urgent,Chest Pain,General Medicine,35,109,144,Yes,NR01,DR05,103,127/95,39.2,Referral,No
+PAT0141,VIS00141,2025-01-26 08:03:21,,40,Male,Critical,Dizziness,Orthopedics,23,196,219,No,NR02,DR06,114,111/68,38.8,Referral,No
+PAT0142,VIS00142,2025-01-09 17:48:19,,8,Male,Emergency,Allergic Reaction,General Medicine,12,150,162,Yes,NR03,DR07,73,126/79,36.3,Follow-up,Yes
+PAT0143,VIS00143,2025-03-19 14:20:33,,65,Female,Semi-Urgent,Chest Pain,Cardiology,83,44,127,No,NR04,DR08,74,124/98,38.5,Follow-up,No
+PAT0144,VIS00144,2025-03-08 07:58:35,,60,Female,Non-Urgent,Fever,General Medicine,71,20,91,Yes,NR05,DR01,115,103/100,36.8,Follow-up,No
+PAT0145,VIS00145,2025-02-27 03:02:29,,37,Other,Non-Urgent,Shortness of Breath,General Medicine,94,84,178,No,NR06,DR02,91,138/87,36.5,Emergency,Yes
+PAT0146,VIS00146,2025-06-16 02:21:35,,13,Other,Non-Urgent,Allergic Reaction,Dermatology,55,173,228,No,NR07,DR03,98,133/84,39.3,Follow-up,No
+PAT0147,VIS00147,2025-03-30 23:03:49,,62,Other,Emergency,Nausea,Pediatrics,20,64,84,No,NR08,DR04,66,107/82,37.7,New Visit,No
+PAT0148,VIS00148,2025-06-03 15:35:31,,64,Male,Emergency,Dizziness,Orthopedics,17,231,248,Yes,NR09,DR05,95,158/92,37.3,New Visit,Yes
+PAT0149,VIS00149,2025-06-20 03:39:31,,7,Other,Emergency,Headache,General Medicine,6,191,197,No,NR10,DR06,97,145/69,37.1,Follow-up,Yes
+PAT0150,VIS00150,2025-03-07 04:09:21,,78,Female,Critical,Allergic Reaction,General Medicine,20,189,209,Yes,NR01,DR07,81,139/90,38.9,Follow-up,Yes
+PAT0151,VIS00151,2025-05-21 07:16:25,,19,Male,Emergency,Nausea,General Medicine,18,85,103,Yes,NR02,DR08,112,128/86,38.9,Referral,No
+PAT0152,VIS00152,2025-04-13 10:23:47,,66,Other,Emergency,Allergic Reaction,General Medicine,8,135,143,Yes,NR03,DR01,101,148/67,38.6,Emergency,Yes
+PAT0153,VIS00153,2025-02-23 21:20:39,,83,Male,Emergency,Injury,Dermatology,0,134,134,Yes,NR04,DR02,113,115/72,38.3,Follow-up,Yes
+PAT0154,VIS00154,2025-04-01 13:51:41,,62,Female,Critical,Nausea,ENT,4,130,134,No,NR05,DR03,102,147/62,37.6,Referral,Yes
+PAT0155,VIS00155,2025-05-29 18:29:02,,64,Other,Emergency,Headache,Pediatrics,27,148,175,Yes,NR06,DR04,110,115/77,38.9,Referral,No
+PAT0156,VIS00156,2025-03-07 21:11:18,,77,Other,Urgent,Dizziness,Pediatrics,28,224,252,No,NR07,DR05,99,101/81,37.7,Emergency,No
+PAT0157,VIS00157,2025-03-25 04:38:30,,21,Male,Semi-Urgent,Fever,Orthopedics,2,134,136,No,NR08,DR06,73,141/66,37.6,Referral,No
+PAT0158,VIS00158,2025-03-14 22:13:14,,74,Male,Urgent,Dizziness,Ophthalmology,12,198,210,No,NR09,DR07,72,123/66,37.7,Referral,No
+PAT0159,VIS00159,2025-03-05 08:46:18,,11,Other,Non-Urgent,Shortness of Breath,Orthopedics,7,76,83,No,NR10,DR08,120,137/98,36.9,Follow-up,No
+PAT0160,VIS00160,2025-04-29 12:21:44,,31,Female,Semi-Urgent,Fever,Orthopedics,103,52,155,No,NR01,DR01,70,132/72,39.3,New Visit,No
+PAT0161,VIS00161,2025-06-28 01:24:37,,32,Other,Urgent,Shortness of Breath,Pediatrics,13,207,220,Yes,NR02,DR02,91,120/95,38.3,New Visit,Yes
+PAT0162,VIS00162,2025-02-26 17:37:01,,33,Female,Critical,Allergic Reaction,ENT,25,60,85,No,NR03,DR03,83,120/79,38.3,Follow-up,Yes
+PAT0163,VIS00163,2025-06-03 02:02:25,,50,Female,Semi-Urgent,Headache,Neurology,69,190,259,No,NR04,DR04,111,120/93,38.9,Referral,Yes
+PAT0164,VIS00164,2025-06-04 16:39:51,,52,Male,Urgent,Chest Pain,Ophthalmology,2,70,72,Yes,NR05,DR05,61,123/84,37.7,Follow-up,Yes
+PAT0165,VIS00165,2025-01-21 17:17:51,,29,Female,Non-Urgent,Abdominal Pain,Dermatology,14,18,32,No,NR06,DR06,92,134/67,38.0,Emergency,Yes
+PAT0166,VIS00166,2025-04-20 22:31:40,,37,Female,Emergency,Headache,Cardiology,2,213,215,Yes,NR07,DR07,94,128/70,39.0,Emergency,No
+PAT0167,VIS00167,2025-02-15 14:09:38,,22,Female,Emergency,Fracture,General Medicine,27,29,56,No,NR08,DR08,65,152/74,36.6,Follow-up,Yes
+PAT0168,VIS00168,2025-05-13 22:09:28,,88,Female,Emergency,Nausea,Cardiology,26,100,126,No,NR09,DR01,75,110/100,37.3,Referral,No
+PAT0169,VIS00169,2025-06-14 10:30:20,,2,Female,Critical,Dizziness,Ophthalmology,28,54,82,Yes,NR10,DR02,95,150/96,38.2,Emergency,No
+PAT0170,VIS00170,2025-04-11 00:23:41,,79,Male,Non-Urgent,Nausea,Neurology,37,22,59,No,NR01,DR03,105,107/82,39.0,New Visit,Yes
+PAT0171,VIS00171,2025-04-04 05:19:42,,40,Female,Semi-Urgent,Headache,Dermatology,31,123,154,No,NR02,DR04,105,156/98,36.2,Emergency,No
+PAT0172,VIS00172,2025-06-27 22:34:33,,61,Female,Urgent,Dizziness,Neurology,28,22,50,Yes,NR03,DR05,68,138/94,38.0,Emergency,Yes
+PAT0173,VIS00173,2025-04-24 13:11:58,,1,Male,Critical,Chest Pain,Cardiology,20,47,67,No,NR04,DR06,118,144/62,36.9,New Visit,Yes
+PAT0174,VIS00174,2025-04-23 14:27:26,,70,Other,Emergency,Fracture,Orthopedics,5,221,226,No,NR05,DR07,87,133/71,38.0,Follow-up,Yes
+PAT0175,VIS00175,2025-01-30 07:36:24,,27,Female,Urgent,Dizziness,Pediatrics,14,185,199,Yes,NR06,DR08,108,101/93,37.1,Emergency,No
+PAT0176,VIS00176,2025-04-07 20:08:36,,67,Female,Urgent,Chest Pain,Pediatrics,7,218,225,Yes,NR07,DR01,85,151/95,36.7,Emergency,No
+PAT0177,VIS00177,2025-03-21 11:44:37,,79,Male,Non-Urgent,Fracture,Ophthalmology,10,69,79,No,NR08,DR02,118,106/98,38.0,New Visit,Yes
+PAT0178,VIS00178,2025-05-20 21:11:38,,30,Other,Emergency,Nausea,Orthopedics,29,176,205,No,NR09,DR03,106,106/75,36.6,Referral,No
+PAT0179,VIS00179,2025-02-28 15:48:37,,90,Female,Non-Urgent,Nausea,Neurology,112,146,258,No,NR10,DR04,93,107/85,36.2,Referral,Yes
+PAT0180,VIS00180,2025-01-05 18:28:28,,74,Male,Critical,Headache,Cardiology,22,110,132,Yes,NR01,DR05,103,117/97,37.9,Emergency,Yes
+PAT0181,VIS00181,2025-03-27 20:32:48,,70,Male,Emergency,Dizziness,Ophthalmology,10,212,222,No,NR02,DR06,105,158/93,38.5,New Visit,Yes
+PAT0182,VIS00182,2025-03-31 07:04:16,,44,Other,Emergency,Injury,Ophthalmology,12,20,32,No,NR03,DR07,62,159/65,36.1,Referral,No
+PAT0183,VIS00183,2025-04-06 16:45:17,,65,Female,Emergency,Nausea,Pediatrics,11,208,219,No,NR04,DR08,111,129/64,38.4,New Visit,No
+PAT0184,VIS00184,2025-02-04 22:14:55,,25,Other,Semi-Urgent,Dizziness,Ophthalmology,110,173,283,No,NR05,DR01,75,154/83,38.5,New Visit,No
+PAT0185,VIS00185,2025-03-05 08:38:36,,7,Female,Emergency,Injury,Dermatology,21,223,244,No,NR06,DR02,116,121/100,39.0,Referral,Yes
+PAT0186,VIS00186,2025-03-23 00:47:17,,41,Male,Semi-Urgent,Nausea,Pediatrics,27,31,58,No,NR07,DR03,117,101/64,36.1,New Visit,No
+PAT0187,VIS00187,2025-06-20 13:34:07,,7,Other,Critical,Fracture,ENT,12,205,217,No,NR08,DR04,94,113/86,37.6,New Visit,No
+PAT0188,VIS00188,2025-03-20 08:51:26,,12,Male,Non-Urgent,Headache,Pediatrics,78,185,263,Yes,NR09,DR05,105,159/99,38.0,Follow-up,No
+PAT0189,VIS00189,2025-04-22 23:02:19,,61,Female,Non-Urgent,Injury,Dermatology,94,63,157,Yes,NR10,DR06,83,127/72,38.9,Emergency,No
+PAT0190,VIS00190,2025-06-22 09:19:46,,43,Female,Critical,Allergic Reaction,Ophthalmology,18,113,131,No,NR01,DR07,99,155/75,38.3,New Visit,No
+PAT0191,VIS00191,2025-04-25 14:03:03,,25,Other,Semi-Urgent,Nausea,General Medicine,76,85,161,No,NR02,DR08,120,149/99,36.6,Emergency,No
+PAT0192,VIS00192,2025-02-10 04:33:59,,17,Female,Emergency,Fracture,General Medicine,0,47,47,Yes,NR03,DR01,60,152/81,36.0,New Visit,No
+PAT0193,VIS00193,2025-03-06 20:05:54,,88,Female,Critical,Allergic Reaction,Cardiology,0,132,132,Yes,NR04,DR02,65,107/72,37.4,New Visit,No
+PAT0194,VIS00194,2025-02-21 22:00:04,,43,Female,Critical,Injury,Orthopedics,13,199,212,No,NR05,DR03,68,127/93,36.2,New Visit,Yes
+PAT0195,VIS00195,2025-05-16 05:54:58,,38,Other,Semi-Urgent,Allergic Reaction,Ophthalmology,100,122,222,No,NR06,DR04,73,110/89,39.4,Referral,No
+PAT0196,VIS00196,2025-05-14 08:42:48,,84,Other,Critical,Shortness of Breath,Cardiology,3,62,65,Yes,NR07,DR05,117,152/63,37.9,Emergency,Yes
+PAT0197,VIS00197,2025-05-24 23:39:10,,11,Female,Critical,Headache,Cardiology,27,63,90,Yes,NR08,DR06,115,138/60,36.5,Referral,No
+PAT0198,VIS00198,2025-03-21 18:07:04,,85,Other,Semi-Urgent,Injury,Neurology,116,44,160,No,NR09,DR07,82,157/64,38.4,New Visit,Yes
+PAT0199,VIS00199,2025-01-16 14:43:17,,18,Male,Critical,Nausea,Cardiology,25,208,233,No,NR10,DR08,115,126/67,36.7,Referral,Yes
+PAT0200,VIS00200,2025-04-02 17:06:11,,22,Male,Non-Urgent,Fever,Neurology,21,42,63,No,NR01,DR01,98,127/76,36.7,New Visit,Yes
+PAT0201,VIS00201,2025-03-16 23:13:57,,30,Female,Critical,Allergic Reaction,Neurology,9,139,148,No,NR02,DR02,114,104/71,38.6,Referral,Yes
+PAT0202,VIS00202,2025-06-13 23:37:02,,27,Other,Semi-Urgent,Fracture,Neurology,96,71,167,Yes,NR03,DR03,113,148/95,36.5,Follow-up,No
+PAT0203,VIS00203,2025-01-24 15:43:52,,57,Other,Non-Urgent,Chest Pain,ENT,27,184,211,No,NR04,DR04,71,139/93,37.2,Follow-up,Yes
+PAT0204,VIS00204,2025-03-20 06:36:02,,5,Other,Semi-Urgent,Fever,Cardiology,13,138,151,Yes,NR05,DR05,84,119/97,38.0,Referral,Yes
+PAT0205,VIS00205,2025-03-20 12:36:20,,22,Other,Semi-Urgent,Abdominal Pain,Orthopedics,118,177,295,No,NR06,DR06,65,154/82,37.6,Referral,Yes
+PAT0206,VIS00206,2025-02-28 08:58:09,,46,Female,Emergency,Injury,ENT,19,87,106,No,NR07,DR07,72,159/73,38.9,New Visit,No
+PAT0207,VIS00207,2025-04-15 03:50:12,,47,Other,Semi-Urgent,Nausea,Ophthalmology,116,176,292,No,NR08,DR08,114,119/65,37.9,Referral,No
+PAT0208,VIS00208,2025-03-22 20:17:12,,22,Other,Critical,Headache,Dermatology,13,117,130,No,NR09,DR01,65,109/64,39.5,Emergency,No
+PAT0209,VIS00209,2025-04-17 22:05:31,,75,Other,Non-Urgent,Dizziness,Ophthalmology,34,138,172,Yes,NR10,DR02,75,108/86,37.7,Referral,No
+PAT0210,VIS00210,2025-05-20 15:37:46,,87,Female,Non-Urgent,Abdominal Pain,Neurology,67,67,134,No,NR01,DR03,90,130/75,38.0,Emergency,Yes
+PAT0211,VIS00211,2025-01-24 23:59:20,,4,Female,Non-Urgent,Abdominal Pain,Pediatrics,31,86,117,Yes,NR02,DR04,69,147/70,38.6,Referral,No
+PAT0212,VIS00212,2025-05-06 16:28:04,,90,Other,Emergency,Abdominal Pain,Neurology,22,136,158,No,NR03,DR05,116,136/61,38.5,New Visit,No
+PAT0213,VIS00213,2025-04-13 22:46:59,,41,Other,Urgent,Dizziness,Pediatrics,29,147,176,No,NR04,DR06,77,116/91,37.2,Referral,No
+PAT0214,VIS00214,2025-04-07 10:14:12,,46,Female,Urgent,Fracture,ENT,25,104,129,No,NR05,DR07,84,113/84,36.8,Referral,Yes
+PAT0215,VIS00215,2025-02-01 17:42:09,,43,Other,Emergency,Headache,Neurology,26,120,146,No,NR06,DR08,83,142/77,36.2,Follow-up,No
+PAT0216,VIS00216,2025-06-29 01:03:13,,53,Other,Critical,Dizziness,ENT,22,199,221,No,NR07,DR01,95,145/67,36.1,New Visit,Yes
+PAT0217,VIS00217,2025-01-08 11:53:18,,59,Female,Critical,Allergic Reaction,Dermatology,14,37,51,No,NR08,DR02,75,115/61,39.0,Follow-up,No
+PAT0218,VIS00218,2025-04-08 21:34:05,,83,Male,Critical,Chest Pain,Dermatology,4,239,243,No,NR09,DR03,106,110/89,36.6,New Visit,Yes
+PAT0219,VIS00219,2025-05-03 10:27:25,,29,Male,Urgent,Shortness of Breath,Dermatology,15,87,102,No,NR10,DR04,101,159/84,38.3,Emergency,Yes
+PAT0220,VIS00220,2025-03-16 09:10:35,,90,Female,Emergency,Fever,Neurology,4,230,234,No,NR01,DR05,97,124/93,36.6,Emergency,Yes
+PAT0221,VIS00221,2025-06-13 12:22:55,,27,Female,Semi-Urgent,Fever,Cardiology,73,116,189,No,NR02,DR06,77,101/71,36.6,Referral,Yes
+PAT0222,VIS00222,2025-03-24 06:02:38,,30,Female,Non-Urgent,Allergic Reaction,General Medicine,58,209,267,Yes,NR03,DR07,73,115/82,38.2,Referral,No
+PAT0223,VIS00223,2025-06-26 04:12:53,,28,Female,Semi-Urgent,Fever,Ophthalmology,44,214,258,No,NR04,DR08,112,137/66,37.6,Follow-up,Yes
+PAT0224,VIS00224,2025-05-11 01:56:57,,39,Other,Critical,Allergic Reaction,Ophthalmology,7,75,82,No,NR05,DR01,64,142/67,37.8,Emergency,Yes
+PAT0225,VIS00225,2025-06-14 13:04:57,,22,Female,Non-Urgent,Shortness of Breath,Cardiology,104,114,218,No,NR06,DR02,69,154/86,38.2,Emergency,No
+PAT0226,VIS00226,2025-01-13 03:03:50,,42,Other,Emergency,Injury,General Medicine,28,240,268,No,NR07,DR03,103,107/71,38.5,Emergency,No
+PAT0227,VIS00227,2025-05-04 20:52:53,,69,Other,Critical,Fracture,General Medicine,22,223,245,No,NR08,DR04,86,147/100,36.4,Follow-up,Yes
+PAT0228,VIS00228,2025-02-28 15:01:21,,2,Female,Urgent,Abdominal Pain,Cardiology,19,205,224,Yes,NR09,DR05,78,157/81,36.4,Follow-up,Yes
+PAT0229,VIS00229,2025-03-07 07:47:59,,41,Female,Emergency,Shortness of Breath,Cardiology,16,37,53,Yes,NR10,DR06,70,117/79,36.2,Follow-up,Yes
+PAT0230,VIS00230,2025-05-15 05:28:09,,3,Female,Emergency,Headache,ENT,27,55,82,Yes,NR01,DR07,68,120/64,38.3,Emergency,No
+PAT0231,VIS00231,2025-02-28 09:30:51,,26,Male,Non-Urgent,Fever,Ophthalmology,57,209,266,No,NR02,DR08,92,111/89,37.6,Referral,No
+PAT0232,VIS00232,2025-01-16 08:33:03,,7,Female,Semi-Urgent,Dizziness,General Medicine,59,147,206,No,NR03,DR01,117,119/95,38.4,Emergency,Yes
+PAT0233,VIS00233,2025-04-29 06:17:11,,50,Female,Urgent,Fracture,Pediatrics,0,145,145,Yes,NR04,DR02,73,160/91,39.3,Referral,Yes
+PAT0234,VIS00234,2025-01-19 09:06:15,,84,Other,Urgent,Abdominal Pain,Cardiology,2,83,85,No,NR05,DR03,96,131/99,39.2,Emergency,Yes
+PAT0235,VIS00235,2025-06-01 09:46:51,,33,Male,Urgent,Nausea,General Medicine,25,79,104,No,NR06,DR04,110,138/85,38.8,Follow-up,No
+PAT0236,VIS00236,2025-05-30 09:35:58,,62,Female,Semi-Urgent,Fracture,General Medicine,63,36,99,Yes,NR07,DR05,66,125/81,36.3,Follow-up,Yes
+PAT0237,VIS00237,2025-06-15 21:53:23,,19,Female,Semi-Urgent,Dizziness,Ophthalmology,101,66,167,No,NR08,DR06,102,151/96,37.0,Follow-up,No
+PAT0238,VIS00238,2025-06-20 11:02:59,,6,Other,Non-Urgent,Injury,General Medicine,35,134,169,Yes,NR09,DR07,103,158/70,36.9,Follow-up,Yes
+PAT0239,VIS00239,2025-06-20 07:08:49,,39,Other,Emergency,Fever,Ophthalmology,10,93,103,Yes,NR10,DR08,81,144/66,36.2,Emergency,No
+PAT0240,VIS00240,2025-06-11 20:56:26,,89,Other,Emergency,Chest Pain,Orthopedics,4,194,198,No,NR01,DR01,75,127/91,39.5,Referral,Yes
+PAT0241,VIS00241,2025-05-11 16:00:35,,46,Male,Non-Urgent,Headache,Pediatrics,15,132,147,No,NR02,DR02,97,127/96,36.1,Follow-up,Yes
+PAT0242,VIS00242,2025-05-12 08:11:37,,64,Other,Emergency,Allergic Reaction,Dermatology,23,114,137,Yes,NR03,DR03,84,136/61,39.4,New Visit,No
+PAT0243,VIS00243,2025-06-24 02:53:41,,26,Other,Urgent,Fever,Neurology,1,114,115,No,NR04,DR04,97,144/98,39.1,New Visit,No
+PAT0244,VIS00244,2025-03-23 18:40:32,,79,Other,Semi-Urgent,Nausea,Neurology,102,126,228,No,NR05,DR05,89,155/83,37.0,New Visit,No
+PAT0245,VIS00245,2025-05-15 15:14:11,,51,Female,Urgent,Fracture,Ophthalmology,21,164,185,No,NR06,DR06,105,113/94,37.2,Emergency,No
+PAT0246,VIS00246,2025-06-16 21:12:51,,90,Female,Semi-Urgent,Shortness of Breath,Dermatology,12,27,39,Yes,NR07,DR07,120,106/80,37.1,New Visit,Yes
+PAT0247,VIS00247,2025-06-26 12:50:34,,68,Female,Critical,Shortness of Breath,ENT,13,187,200,Yes,NR08,DR08,77,118/90,38.5,New Visit,No
+PAT0248,VIS00248,2025-03-18 16:55:38,,81,Other,Semi-Urgent,Abdominal Pain,Orthopedics,14,117,131,No,NR09,DR01,114,102/81,37.1,Referral,No
+PAT0249,VIS00249,2025-06-29 06:57:09,,51,Female,Urgent,Fever,Dermatology,3,199,202,No,NR10,DR02,62,115/69,36.8,Follow-up,No
+PAT0250,VIS00250,2025-04-30 15:26:56,,89,Male,Non-Urgent,Dizziness,General Medicine,84,207,291,No,NR01,DR03,73,156/92,38.0,Referral,Yes
+PAT0251,VIS00251,2025-03-27 19:36:18,,74,Other,Critical,Injury,General Medicine,22,92,114,Yes,NR02,DR04,65,119/81,37.0,Referral,No
+PAT0252,VIS00252,2025-02-02 04:42:22,,75,Other,Urgent,Abdominal Pain,General Medicine,6,99,105,No,NR03,DR05,62,141/94,36.2,Emergency,Yes
+PAT0253,VIS00253,2025-02-14 02:49:11,,39,Female,Urgent,Shortness of Breath,Orthopedics,30,239,269,No,NR04,DR06,61,130/80,39.4,Follow-up,No
+PAT0254,VIS00254,2025-04-21 15:47:25,,49,Other,Urgent,Chest Pain,Orthopedics,9,169,178,No,NR05,DR07,97,151/70,38.7,Emergency,Yes
+PAT0255,VIS00255,2025-01-17 09:31:34,,57,Other,Critical,Fever,Cardiology,13,144,157,Yes,NR06,DR08,64,106/70,37.4,Referral,Yes
+PAT0256,VIS00256,2025-01-14 04:51:56,,69,Male,Semi-Urgent,Shortness of Breath,Ophthalmology,19,197,216,Yes,NR07,DR01,86,121/75,36.4,New Visit,Yes
+PAT0257,VIS00257,2025-02-01 01:16:21,,47,Female,Critical,Shortness of Breath,Neurology,27,99,126,Yes,NR08,DR02,106,146/90,37.5,Emergency,Yes
+PAT0258,VIS00258,2025-02-17 10:54:53,,14,Female,Urgent,Shortness of Breath,Pediatrics,5,68,73,Yes,NR09,DR03,89,154/63,37.7,Follow-up,No
+PAT0259,VIS00259,2025-01-06 17:37:40,,64,Other,Emergency,Nausea,Dermatology,26,127,153,No,NR10,DR04,80,121/99,36.2,Referral,Yes
+PAT0260,VIS00260,2025-02-03 18:19:10,,14,Female,Critical,Shortness of Breath,General Medicine,7,195,202,No,NR01,DR05,120,143/62,38.0,Referral,No
+PAT0261,VIS00261,2025-03-10 20:32:40,,56,Other,Non-Urgent,Fracture,Ophthalmology,12,214,226,Yes,NR02,DR06,101,130/75,37.8,New Visit,Yes
+PAT0262,VIS00262,2025-04-02 11:21:41,,81,Male,Semi-Urgent,Injury,General Medicine,83,218,301,No,NR03,DR07,120,143/70,39.3,Follow-up,Yes
+PAT0263,VIS00263,2025-04-11 09:48:22,,76,Other,Emergency,Nausea,Cardiology,16,105,121,No,NR04,DR08,60,132/72,36.3,Follow-up,Yes
+PAT0264,VIS00264,2025-05-14 10:29:05,,52,Male,Semi-Urgent,Dizziness,Cardiology,23,182,205,No,NR05,DR01,61,126/85,37.1,Referral,No
+PAT0265,VIS00265,2025-02-24 10:06:05,,14,Female,Urgent,Abdominal Pain,Ophthalmology,14,236,250,Yes,NR06,DR02,114,135/65,38.6,New Visit,Yes
+PAT0266,VIS00266,2025-05-12 10:53:00,,44,Male,Semi-Urgent,Chest Pain,Orthopedics,85,166,251,No,NR07,DR03,110,137/79,39.1,Follow-up,Yes
+PAT0267,VIS00267,2025-05-06 01:29:56,,85,Male,Urgent,Allergic Reaction,Cardiology,11,22,33,Yes,NR08,DR04,82,120/70,38.3,Referral,Yes
+PAT0268,VIS00268,2025-06-07 07:13:14,,8,Other,Critical,Fracture,Cardiology,11,103,114,Yes,NR09,DR05,88,114/92,39.2,Referral,Yes
+PAT0269,VIS00269,2025-05-12 15:11:49,,8,Female,Emergency,Injury,ENT,14,63,77,No,NR10,DR06,82,120/65,38.0,Emergency,No
+PAT0270,VIS00270,2025-04-10 07:38:55,,6,Male,Critical,Injury,Dermatology,29,170,199,Yes,NR01,DR07,119,119/62,38.7,New Visit,Yes
+PAT0271,VIS00271,2025-04-04 04:42:06,,14,Male,Semi-Urgent,Headache,Neurology,8,72,80,No,NR02,DR08,111,145/88,36.9,Referral,Yes
+PAT0272,VIS00272,2025-06-22 09:13:47,,56,Female,Non-Urgent,Nausea,Pediatrics,57,167,224,Yes,NR03,DR01,75,155/94,38.0,Emergency,No
+PAT0273,VIS00273,2025-02-02 04:53:32,,76,Other,Critical,Fever,Pediatrics,24,148,172,No,NR04,DR02,108,117/87,36.9,New Visit,Yes
+PAT0274,VIS00274,2025-03-30 10:39:34,,60,Other,Emergency,Injury,General Medicine,28,60,88,No,NR05,DR03,83,155/89,37.4,New Visit,No
+PAT0275,VIS00275,2025-01-10 06:07:05,,32,Other,Critical,Headache,General Medicine,24,162,186,Yes,NR06,DR04,65,149/88,37.4,New Visit,No
+PAT0276,VIS00276,2025-02-27 21:15:55,,9,Male,Emergency,Abdominal Pain,Pediatrics,25,145,170,Yes,NR07,DR05,114,136/78,37.5,Referral,No
+PAT0277,VIS00277,2025-03-22 19:44:14,,51,Female,Non-Urgent,Fever,Neurology,40,182,222,Yes,NR08,DR06,113,117/81,36.9,Emergency,No
+PAT0278,VIS00278,2025-06-04 06:38:42,,76,Female,Semi-Urgent,Fever,ENT,71,64,135,No,NR09,DR07,91,126/96,39.1,Emergency,Yes
+PAT0279,VIS00279,2025-06-16 18:35:39,,72,Female,Semi-Urgent,Allergic Reaction,ENT,15,187,202,No,NR10,DR08,98,136/71,37.2,New Visit,Yes
+PAT0280,VIS00280,2025-03-22 09:21:26,,81,Male,Non-Urgent,Abdominal Pain,Orthopedics,50,97,147,No,NR01,DR01,66,121/77,37.2,New Visit,No
+PAT0281,VIS00281,2025-02-09 09:23:49,,26,Female,Critical,Fever,Ophthalmology,8,198,206,No,NR02,DR02,120,122/77,38.5,Referral,Yes
+PAT0282,VIS00282,2025-01-11 22:39:37,,51,Female,Urgent,Abdominal Pain,ENT,1,220,221,No,NR03,DR03,100,151/78,37.3,Emergency,Yes
+PAT0283,VIS00283,2025-03-01 01:32:53,,42,Female,Urgent,Nausea,Cardiology,19,15,34,Yes,NR04,DR04,118,122/88,37.1,Emergency,Yes
+PAT0284,VIS00284,2025-02-10 20:36:20,,86,Female,Non-Urgent,Shortness of Breath,ENT,100,23,123,No,NR05,DR05,99,131/82,37.9,Follow-up,Yes
+PAT0285,VIS00285,2025-04-08 04:54:38,,43,Other,Urgent,Dizziness,Dermatology,6,19,25,Yes,NR06,DR06,107,156/96,36.3,Emergency,Yes
+PAT0286,VIS00286,2025-01-21 19:27:17,,36,Female,Non-Urgent,Fever,General Medicine,62,54,116,No,NR07,DR07,110,113/84,39.1,Referral,No
+PAT0287,VIS00287,2025-02-13 18:14:13,,73,Other,Critical,Fever,General Medicine,9,111,120,Yes,NR08,DR08,80,146/99,37.0,Referral,No
+PAT0288,VIS00288,2025-05-09 00:59:43,,67,Male,Urgent,Allergic Reaction,General Medicine,2,143,145,Yes,NR09,DR01,82,134/84,38.7,Referral,No
+PAT0289,VIS00289,2025-06-08 01:06:03,,90,Other,Non-Urgent,Fracture,Orthopedics,68,168,236,No,NR10,DR02,93,136/100,37.5,Emergency,No
+PAT0290,VIS00290,2025-05-05 01:40:35,,85,Other,Non-Urgent,Injury,General Medicine,27,185,212,No,NR01,DR03,63,114/85,37.1,New Visit,Yes
+PAT0291,VIS00291,2025-01-05 03:32:40,,56,Male,Urgent,Injury,Ophthalmology,2,41,43,No,NR02,DR04,102,112/83,38.8,Referral,Yes
+PAT0292,VIS00292,2025-04-10 14:48:12,,32,Male,Semi-Urgent,Fever,Ophthalmology,19,36,55,No,NR03,DR05,61,129/86,38.3,Referral,Yes
+PAT0293,VIS00293,2025-04-15 08:49:22,,10,Other,Urgent,Abdominal Pain,Ophthalmology,23,147,170,No,NR04,DR06,111,135/76,36.7,Follow-up,No
+PAT0294,VIS00294,2025-05-17 01:24:58,,76,Other,Emergency,Headache,Orthopedics,11,240,251,No,NR05,DR07,62,158/72,37.7,Referral,No
+PAT0295,VIS00295,2025-05-03 06:43:47,,13,Other,Critical,Chest Pain,Pediatrics,18,172,190,No,NR06,DR08,95,145/63,39.4,New Visit,No
+PAT0296,VIS00296,2025-02-15 11:44:20,,26,Female,Emergency,Nausea,Cardiology,21,15,36,No,NR07,DR01,120,134/81,36.8,Referral,No
+PAT0297,VIS00297,2025-02-20 16:28:27,,85,Male,Non-Urgent,Abdominal Pain,Orthopedics,8,121,129,No,NR08,DR02,62,119/99,38.1,Referral,Yes
+PAT0298,VIS00298,2025-06-01 06:34:04,,79,Male,Emergency,Injury,Pediatrics,23,29,52,Yes,NR09,DR03,88,123/76,39.0,New Visit,No
+PAT0299,VIS00299,2025-05-04 04:26:11,,36,Male,Non-Urgent,Fracture,Pediatrics,87,96,183,No,NR10,DR04,62,134/78,38.9,Referral,Yes
+PAT0300,VIS00300,2025-01-14 22:04:35,,50,Other,Emergency,Nausea,Pediatrics,24,161,185,Yes,NR01,DR05,101,107/75,38.4,Follow-up,No
+PAT0301,VIS00301,2025-02-27 15:11:02,,35,Female,Urgent,Chest Pain,Pediatrics,23,191,214,Yes,NR02,DR06,69,121/87,36.0,Emergency,Yes
+PAT0302,VIS00302,2025-04-22 05:25:16,,34,Male,Urgent,Fever,General Medicine,4,67,71,No,NR03,DR07,66,152/86,37.6,Follow-up,No
+PAT0303,VIS00303,2025-02-02 21:29:06,,60,Female,Critical,Headache,General Medicine,25,93,118,No,NR04,DR08,74,132/62,38.4,Emergency,Yes
+PAT0304,VIS00304,2025-05-14 03:32:56,,63,Other,Non-Urgent,Allergic Reaction,General Medicine,1,202,203,No,NR05,DR01,65,113/95,39.4,Emergency,Yes
+PAT0305,VIS00305,2025-06-22 15:28:31,,20,Other,Semi-Urgent,Shortness of Breath,General Medicine,36,128,164,No,NR06,DR02,75,137/95,36.8,Follow-up,Yes
+PAT0306,VIS00306,2025-03-28 22:16:24,,88,Other,Non-Urgent,Nausea,Ophthalmology,94,70,164,No,NR07,DR03,101,107/96,38.6,New Visit,No
+PAT0307,VIS00307,2025-04-01 20:02:26,,20,Female,Urgent,Fever,Orthopedics,1,185,186,No,NR08,DR04,108,134/76,37.0,Emergency,Yes
+PAT0308,VIS00308,2025-01-12 10:10:48,,76,Male,Urgent,Fracture,General Medicine,4,86,90,Yes,NR09,DR05,84,108/94,39.1,Referral,No
+PAT0309,VIS00309,2025-04-05 02:29:09,,66,Other,Semi-Urgent,Abdominal Pain,Pediatrics,59,199,258,No,NR10,DR06,114,121/61,37.9,New Visit,No
+PAT0310,VIS00310,2025-06-13 12:59:09,,31,Female,Non-Urgent,Headache,General Medicine,118,90,208,No,NR01,DR07,117,125/67,36.7,Referral,Yes
+PAT0311,VIS00311,2025-05-23 06:07:55,,28,Other,Non-Urgent,Fracture,Dermatology,42,35,77,No,NR02,DR08,116,104/61,38.5,Emergency,No
+PAT0312,VIS00312,2025-04-29 06:37:25,,11,Female,Non-Urgent,Shortness of Breath,Cardiology,58,54,112,No,NR03,DR01,101,152/81,36.8,Emergency,Yes
+PAT0313,VIS00313,2025-01-19 16:07:21,,89,Female,Emergency,Shortness of Breath,Neurology,13,211,224,No,NR04,DR02,107,133/69,36.9,New Visit,No
+PAT0314,VIS00314,2025-01-22 22:13:09,,51,Male,Urgent,Abdominal Pain,ENT,9,220,229,No,NR05,DR03,70,107/95,38.5,Emergency,No
+PAT0315,VIS00315,2025-02-20 05:35:02,,80,Male,Semi-Urgent,Nausea,Cardiology,81,73,154,Yes,NR06,DR04,114,132/63,38.4,Emergency,No
+PAT0316,VIS00316,2025-04-15 23:02:06,,24,Female,Non-Urgent,Shortness of Breath,General Medicine,78,92,170,No,NR07,DR05,102,134/93,37.7,Referral,No
+PAT0317,VIS00317,2025-02-05 11:09:10,,44,Female,Emergency,Allergic Reaction,Neurology,18,202,220,Yes,NR08,DR06,82,134/81,36.8,Follow-up,Yes
+PAT0318,VIS00318,2025-06-15 18:54:18,,64,Female,Emergency,Headache,Ophthalmology,17,92,109,No,NR09,DR07,99,126/75,36.6,New Visit,Yes
+PAT0319,VIS00319,2025-06-03 18:47:17,,83,Female,Emergency,Fracture,Ophthalmology,11,50,61,No,NR10,DR08,88,149/83,39.4,Follow-up,Yes
+PAT0320,VIS00320,2025-02-25 19:08:48,,40,Male,Urgent,Nausea,Ophthalmology,26,116,142,Yes,NR01,DR01,87,145/65,37.3,Emergency,No
+PAT0321,VIS00321,2025-02-25 07:37:01,,44,Male,Semi-Urgent,Fever,ENT,118,215,333,No,NR02,DR02,86,132/81,38.1,Follow-up,No
+PAT0322,VIS00322,2025-02-09 14:22:00,,89,Female,Non-Urgent,Shortness of Breath,Dermatology,40,73,113,No,NR03,DR03,82,136/97,38.3,Follow-up,No
+PAT0323,VIS00323,2025-02-24 19:37:36,,14,Other,Emergency,Dizziness,Orthopedics,21,30,51,Yes,NR04,DR04,60,156/100,37.0,Referral,No
+PAT0324,VIS00324,2025-02-16 11:24:20,,67,Male,Emergency,Shortness of Breath,Neurology,22,23,45,Yes,NR05,DR05,94,141/68,37.7,New Visit,No
+PAT0325,VIS00325,2025-03-10 09:29:06,,5,Female,Emergency,Injury,Dermatology,30,166,196,No,NR06,DR06,94,123/93,38.1,New Visit,No
+PAT0326,VIS00326,2025-05-06 06:42:58,,16,Female,Semi-Urgent,Shortness of Breath,Dermatology,88,227,315,Yes,NR07,DR07,115,154/95,37.8,Follow-up,Yes
+PAT0327,VIS00327,2025-01-22 15:15:39,,89,Other,Emergency,Chest Pain,Dermatology,27,208,235,Yes,NR08,DR08,92,134/87,37.1,Follow-up,No
+PAT0328,VIS00328,2025-01-02 20:42:50,,53,Other,Urgent,Fracture,Ophthalmology,20,161,181,Yes,NR09,DR01,74,120/94,37.3,Follow-up,No
+PAT0329,VIS00329,2025-06-18 04:05:52,,30,Female,Urgent,Fracture,Dermatology,22,21,43,Yes,NR10,DR02,100,107/64,36.1,Follow-up,Yes
+PAT0330,VIS00330,2025-06-15 00:47:28,,63,Male,Semi-Urgent,Dizziness,Cardiology,107,189,296,No,NR01,DR03,74,139/77,36.3,Follow-up,No
+PAT0331,VIS00331,2025-06-11 15:31:36,,3,Other,Critical,Fever,Neurology,18,92,110,No,NR02,DR04,71,134/77,37.4,Follow-up,Yes
+PAT0332,VIS00332,2025-04-24 13:13:48,,28,Female,Semi-Urgent,Chest Pain,ENT,115,26,141,Yes,NR03,DR05,98,151/78,36.1,Referral,No
+PAT0333,VIS00333,2025-06-26 16:21:23,,12,Female,Non-Urgent,Allergic Reaction,Pediatrics,18,133,151,Yes,NR04,DR06,93,102/64,38.9,Follow-up,Yes
+PAT0334,VIS00334,2025-02-18 01:01:51,,31,Male,Emergency,Abdominal Pain,Neurology,16,171,187,No,NR05,DR07,73,133/80,37.7,Follow-up,Yes
+PAT0335,VIS00335,2025-01-02 11:18:03,,41,Male,Emergency,Fracture,Orthopedics,0,114,114,Yes,NR06,DR08,84,102/74,36.7,New Visit,Yes
+PAT0336,VIS00336,2025-06-14 01:17:22,,83,Female,Emergency,Injury,Ophthalmology,17,57,74,No,NR07,DR01,72,101/67,37.4,Follow-up,No
+PAT0337,VIS00337,2025-06-16 19:13:58,,34,Female,Urgent,Nausea,Cardiology,3,131,134,No,NR08,DR02,66,156/88,37.1,Referral,Yes
+PAT0338,VIS00338,2025-04-12 03:15:04,,17,Other,Non-Urgent,Allergic Reaction,Ophthalmology,74,101,175,No,NR09,DR03,78,100/69,38.0,Emergency,Yes
+PAT0339,VIS00339,2025-03-12 06:37:08,,24,Male,Urgent,Allergic Reaction,Dermatology,30,228,258,No,NR10,DR04,104,141/65,37.1,Follow-up,Yes
+PAT0340,VIS00340,2025-03-17 10:00:14,,6,Female,Emergency,Chest Pain,Ophthalmology,17,29,46,No,NR01,DR05,86,159/60,37.2,Referral,Yes
+PAT0341,VIS00341,2025-03-31 02:36:04,,87,Female,Semi-Urgent,Nausea,Dermatology,57,197,254,No,NR02,DR06,101,141/94,36.5,Referral,No
+PAT0342,VIS00342,2025-04-10 06:07:58,,86,Female,Non-Urgent,Abdominal Pain,ENT,17,237,254,Yes,NR03,DR07,91,152/92,36.5,Emergency,No
+PAT0343,VIS00343,2025-02-24 22:32:35,,47,Male,Non-Urgent,Chest Pain,ENT,89,231,320,Yes,NR04,DR08,102,118/84,39.2,New Visit,No
+PAT0344,VIS00344,2025-04-12 07:16:43,,70,Other,Semi-Urgent,Nausea,General Medicine,14,140,154,Yes,NR05,DR01,95,116/92,36.4,New Visit,Yes
+PAT0345,VIS00345,2025-03-03 19:07:05,,90,Female,Non-Urgent,Fracture,Cardiology,26,80,106,Yes,NR06,DR02,79,120/98,37.8,New Visit,Yes
+PAT0346,VIS00346,2025-03-22 18:37:52,,34,Other,Semi-Urgent,Fracture,General Medicine,31,110,141,No,NR07,DR03,84,144/75,36.2,New Visit,No
+PAT0347,VIS00347,2025-05-18 10:20:41,,16,Other,Non-Urgent,Dizziness,Neurology,22,200,222,Yes,NR08,DR04,78,144/84,37.3,Follow-up,Yes
+PAT0348,VIS00348,2025-06-19 00:32:45,,87,Other,Non-Urgent,Shortness of Breath,Cardiology,28,129,157,No,NR09,DR05,75,121/73,38.5,Follow-up,No
+PAT0349,VIS00349,2025-03-02 09:26:33,,54,Other,Non-Urgent,Chest Pain,Dermatology,28,58,86,No,NR10,DR06,94,135/69,39.1,Follow-up,No
+PAT0350,VIS00350,2025-04-07 15:14:37,,50,Female,Non-Urgent,Headache,Cardiology,24,139,163,No,NR01,DR07,99,103/100,36.3,Emergency,Yes
+PAT0351,VIS00351,2025-05-02 04:41:28,,69,Male,Non-Urgent,Nausea,Ophthalmology,54,110,164,Yes,NR02,DR08,64,138/88,36.7,Emergency,Yes
+PAT0352,VIS00352,2025-05-05 19:14:18,,35,Other,Semi-Urgent,Nausea,Dermatology,37,86,123,Yes,NR03,DR01,87,160/100,37.3,Follow-up,Yes
+PAT0353,VIS00353,2025-02-11 15:43:40,,67,Other,Urgent,Fracture,Orthopedics,4,60,64,No,NR04,DR02,115,120/79,38.0,New Visit,Yes
+PAT0354,VIS00354,2025-03-21 22:45:56,,5,Other,Non-Urgent,Shortness of Breath,General Medicine,92,197,289,Yes,NR05,DR03,85,142/92,38.0,New Visit,Yes
+PAT0355,VIS00355,2025-02-14 18:00:14,,15,Other,Critical,Allergic Reaction,Orthopedics,18,122,140,Yes,NR06,DR04,112,127/66,36.1,Referral,Yes
+PAT0356,VIS00356,2025-03-08 10:31:09,,78,Other,Non-Urgent,Shortness of Breath,Cardiology,15,18,33,No,NR07,DR05,94,132/66,36.2,Emergency,Yes
+PAT0357,VIS00357,2025-02-27 21:59:34,,17,Female,Non-Urgent,Nausea,General Medicine,42,106,148,Yes,NR08,DR06,113,108/93,36.2,Emergency,No
+PAT0358,VIS00358,2025-02-04 15:49:58,,60,Male,Urgent,Fracture,General Medicine,14,26,40,No,NR09,DR07,91,130/92,39.5,Emergency,No
+PAT0359,VIS00359,2025-03-18 07:22:21,,65,Other,Urgent,Chest Pain,Cardiology,6,97,103,No,NR10,DR08,113,139/82,37.3,Follow-up,Yes
+PAT0360,VIS00360,2025-05-03 16:58:58,,69,Female,Non-Urgent,Fracture,ENT,51,35,86,Yes,NR01,DR01,114,112/88,39.2,Referral,No
+PAT0361,VIS00361,2025-05-07 13:11:45,,5,Male,Non-Urgent,Fracture,Pediatrics,88,39,127,No,NR02,DR02,81,105/89,38.9,Referral,No
+PAT0362,VIS00362,2025-04-28 01:21:28,,62,Female,Semi-Urgent,Shortness of Breath,ENT,101,203,304,Yes,NR03,DR03,98,126/71,39.5,New Visit,Yes
+PAT0363,VIS00363,2025-04-30 17:01:40,,61,Other,Emergency,Injury,Orthopedics,14,227,241,Yes,NR04,DR04,115,157/70,36.5,Referral,No
+PAT0364,VIS00364,2025-03-26 00:47:35,,17,Female,Emergency,Injury,Ophthalmology,14,104,118,No,NR05,DR05,64,108/94,37.1,Follow-up,Yes
+PAT0365,VIS00365,2025-03-15 20:42:50,,57,Other,Critical,Fracture,Ophthalmology,12,200,212,No,NR06,DR06,84,156/60,36.2,Referral,No
+PAT0366,VIS00366,2025-02-13 12:28:12,,61,Male,Emergency,Chest Pain,Cardiology,25,187,212,Yes,NR07,DR07,91,101/99,36.9,Referral,No
+PAT0367,VIS00367,2025-06-29 05:02:54,,47,Female,Semi-Urgent,Allergic Reaction,ENT,110,128,238,Yes,NR08,DR08,106,117/88,38.6,Referral,Yes
+PAT0368,VIS00368,2025-04-23 00:45:00,,73,Female,Urgent,Shortness of Breath,Orthopedics,11,57,68,Yes,NR09,DR01,84,123/65,37.6,Emergency,Yes
+PAT0369,VIS00369,2025-02-07 11:19:56,,61,Female,Non-Urgent,Injury,Orthopedics,2,64,66,No,NR10,DR02,113,141/66,39.4,Emergency,Yes
+PAT0370,VIS00370,2025-04-18 04:03:31,,79,Other,Emergency,Headache,Dermatology,27,114,141,No,NR01,DR03,104,118/93,39.0,New Visit,Yes
+PAT0371,VIS00371,2025-04-06 15:25:03,,72,Male,Semi-Urgent,Chest Pain,Dermatology,39,185,224,No,NR02,DR04,119,134/86,36.5,Follow-up,Yes
+PAT0372,VIS00372,2025-04-12 15:29:38,,32,Male,Emergency,Abdominal Pain,Dermatology,9,123,132,No,NR03,DR05,63,143/100,38.2,Follow-up,Yes
+PAT0373,VIS00373,2025-06-10 12:00:39,,53,Male,Urgent,Shortness of Breath,Orthopedics,25,210,235,Yes,NR04,DR06,64,140/81,37.7,Referral,Yes
+PAT0374,VIS00374,2025-05-11 11:06:56,,25,Male,Semi-Urgent,Nausea,Pediatrics,114,201,315,No,NR05,DR07,113,157/77,37.5,Referral,Yes
+PAT0375,VIS00375,2025-06-15 10:41:03,,84,Female,Semi-Urgent,Fever,Neurology,85,157,242,Yes,NR06,DR08,102,120/86,37.9,Emergency,No
+PAT0376,VIS00376,2025-05-17 16:45:18,,51,Female,Urgent,Shortness of Breath,Ophthalmology,10,68,78,Yes,NR07,DR01,69,155/64,38.7,Emergency,Yes
+PAT0377,VIS00377,2025-03-28 14:37:55,,19,Male,Critical,Abdominal Pain,Orthopedics,29,16,45,No,NR08,DR02,99,122/93,38.7,Follow-up,No
+PAT0378,VIS00378,2025-01-13 07:47:27,,84,Male,Critical,Nausea,Pediatrics,17,56,73,Yes,NR09,DR03,110,111/98,36.7,New Visit,Yes
+PAT0379,VIS00379,2025-03-14 17:09:04,,57,Other,Urgent,Abdominal Pain,General Medicine,16,210,226,Yes,NR10,DR04,84,155/79,36.3,Emergency,No
+PAT0380,VIS00380,2025-03-24 16:19:23,,59,Other,Semi-Urgent,Fracture,ENT,71,68,139,Yes,NR01,DR05,117,119/87,39.4,Follow-up,No
+PAT0381,VIS00381,2025-03-08 13:50:20,,76,Other,Semi-Urgent,Dizziness,ENT,74,41,115,Yes,NR02,DR06,100,131/63,39.5,New Visit,No
+PAT0382,VIS00382,2025-02-02 19:31:01,,22,Other,Semi-Urgent,Nausea,Neurology,15,75,90,No,NR03,DR07,86,101/85,38.4,Emergency,No
+PAT0383,VIS00383,2025-03-15 12:41:50,,42,Male,Critical,Chest Pain,General Medicine,10,132,142,No,NR04,DR08,106,119/83,37.3,Follow-up,Yes
+PAT0384,VIS00384,2025-05-25 01:49:02,,80,Female,Emergency,Nausea,Orthopedics,3,109,112,Yes,NR05,DR01,101,134/68,37.5,Referral,Yes
+PAT0385,VIS00385,2025-06-21 10:19:41,,76,Other,Non-Urgent,Headache,General Medicine,30,128,158,No,NR06,DR02,116,159/81,38.9,Referral,No
+PAT0386,VIS00386,2025-06-08 16:45:02,,7,Female,Emergency,Fever,Pediatrics,17,105,122,No,NR07,DR03,102,139/75,36.0,New Visit,Yes
+PAT0387,VIS00387,2025-03-11 08:33:39,,77,Female,Critical,Headache,Orthopedics,6,56,62,Yes,NR08,DR04,65,108/68,38.3,Follow-up,Yes
+PAT0388,VIS00388,2025-04-29 16:51:03,,32,Male,Critical,Allergic Reaction,ENT,30,91,121,No,NR09,DR05,75,130/69,38.5,Emergency,Yes
+PAT0389,VIS00389,2025-05-29 04:48:03,,28,Female,Critical,Fever,Dermatology,18,210,228,Yes,NR10,DR06,60,127/75,37.2,Follow-up,No
+PAT0390,VIS00390,2025-02-14 11:54:17,,19,Other,Semi-Urgent,Dizziness,Orthopedics,80,159,239,No,NR01,DR07,116,104/78,38.7,Emergency,No
+PAT0391,VIS00391,2025-02-02 09:31:52,,29,Male,Non-Urgent,Injury,Orthopedics,29,42,71,Yes,NR02,DR08,118,148/93,36.5,Referral,Yes
+PAT0392,VIS00392,2025-01-14 23:04:51,,50,Female,Non-Urgent,Fever,General Medicine,83,122,205,Yes,NR03,DR01,91,106/65,38.6,Emergency,No
+PAT0393,VIS00393,2025-02-12 21:44:55,,65,Male,Non-Urgent,Dizziness,Neurology,106,25,131,Yes,NR04,DR02,69,144/91,37.9,Emergency,Yes
+PAT0394,VIS00394,2025-05-18 20:32:28,,75,Other,Emergency,Fracture,ENT,28,45,73,Yes,NR05,DR03,92,109/76,37.0,Follow-up,No
+PAT0395,VIS00395,2025-01-02 20:55:00,,65,Other,Emergency,Injury,ENT,29,88,117,Yes,NR06,DR04,67,146/80,37.9,New Visit,No
+PAT0396,VIS00396,2025-03-01 20:43:10,,82,Other,Semi-Urgent,Nausea,Neurology,41,126,167,Yes,NR07,DR05,112,145/92,36.9,New Visit,No
+PAT0397,VIS00397,2025-05-18 18:41:41,,21,Female,Emergency,Injury,Cardiology,26,162,188,No,NR08,DR06,95,155/76,38.1,New Visit,No
+PAT0398,VIS00398,2025-04-25 19:29:59,,60,Female,Emergency,Dizziness,General Medicine,30,91,121,Yes,NR09,DR07,113,159/64,37.4,New Visit,No
+PAT0399,VIS00399,2025-03-11 07:29:25,,82,Other,Semi-Urgent,Abdominal Pain,Orthopedics,53,123,176,No,NR10,DR08,110,105/60,39.4,New Visit,Yes
+PAT0400,VIS00400,2025-01-01 01:13:29,,18,Male,Semi-Urgent,Headache,Neurology,103,39,142,Yes,NR01,DR01,110,106/61,38.3,New Visit,No
+PAT0401,VIS00401,2025-05-07 20:41:19,,73,Female,Urgent,Nausea,Neurology,23,237,260,Yes,NR02,DR02,118,157/77,38.7,Emergency,Yes
+PAT0402,VIS00402,2025-04-14 15:34:16,,62,Female,Non-Urgent,Shortness of Breath,ENT,17,205,222,No,NR03,DR03,79,124/62,36.9,Emergency,Yes
+PAT0403,VIS00403,2025-04-06 13:57:26,,85,Male,Semi-Urgent,Fracture,Neurology,111,203,314,Yes,NR04,DR04,69,153/78,38.3,Emergency,Yes
+PAT0404,VIS00404,2025-05-03 13:21:18,,31,Female,Emergency,Abdominal Pain,ENT,0,53,53,No,NR05,DR05,101,155/71,39.1,Follow-up,Yes
+PAT0405,VIS00405,2025-05-22 15:30:37,,65,Female,Non-Urgent,Abdominal Pain,Pediatrics,17,213,230,No,NR06,DR06,68,101/79,36.6,Emergency,No
+PAT0406,VIS00406,2025-05-07 13:50:28,,48,Other,Non-Urgent,Fracture,Dermatology,1,34,35,Yes,NR07,DR07,118,146/83,39.5,Referral,Yes
+PAT0407,VIS00407,2025-03-27 07:47:42,,79,Female,Semi-Urgent,Allergic Reaction,Dermatology,53,122,175,No,NR08,DR08,77,137/70,38.8,New Visit,No
+PAT0408,VIS00408,2025-02-10 14:04:25,,14,Male,Non-Urgent,Chest Pain,General Medicine,13,85,98,No,NR09,DR01,118,141/79,36.0,Referral,Yes
+PAT0409,VIS00409,2025-01-05 20:13:02,,48,Female,Non-Urgent,Fever,Dermatology,60,87,147,No,NR10,DR02,64,132/69,38.7,Referral,No
+PAT0410,VIS00410,2025-05-09 19:52:58,,89,Male,Critical,Dizziness,Neurology,8,73,81,No,NR01,DR03,116,124/61,36.3,Follow-up,No
+PAT0411,VIS00411,2025-05-08 15:43:30,,24,Other,Critical,Abdominal Pain,Orthopedics,12,86,98,No,NR02,DR04,68,127/66,37.5,Referral,Yes
+PAT0412,VIS00412,2025-06-09 08:40:00,,39,Female,Non-Urgent,Headache,ENT,32,122,154,Yes,NR03,DR05,117,123/61,38.4,Referral,No
+PAT0413,VIS00413,2025-01-03 18:41:48,,55,Female,Urgent,Dizziness,General Medicine,29,128,157,No,NR04,DR06,81,123/84,38.7,Referral,Yes
+PAT0414,VIS00414,2025-06-16 20:43:11,,77,Other,Emergency,Dizziness,Ophthalmology,16,214,230,Yes,NR05,DR07,82,131/67,37.8,Referral,No
+PAT0415,VIS00415,2025-01-11 01:20:17,,1,Male,Critical,Allergic Reaction,Neurology,25,97,122,Yes,NR06,DR08,68,118/74,38.3,New Visit,No
+PAT0416,VIS00416,2025-05-22 11:11:19,,17,Male,Non-Urgent,Fracture,Pediatrics,39,160,199,No,NR07,DR01,60,149/69,39.2,Follow-up,No
+PAT0417,VIS00417,2025-06-26 19:44:36,,35,Male,Emergency,Shortness of Breath,Dermatology,1,134,135,No,NR08,DR02,87,148/64,38.9,Follow-up,No
+PAT0418,VIS00418,2025-01-29 13:32:14,,81,Male,Non-Urgent,Abdominal Pain,Cardiology,17,18,35,Yes,NR09,DR03,63,125/85,39.2,Follow-up,No
+PAT0419,VIS00419,2025-03-19 07:27:41,,82,Other,Urgent,Injury,Ophthalmology,4,46,50,No,NR10,DR04,116,101/68,38.7,Referral,No
+PAT0420,VIS00420,2025-01-24 02:37:59,,85,Other,Urgent,Fever,General Medicine,29,193,222,No,NR01,DR05,73,130/78,37.8,New Visit,Yes
+PAT0421,VIS00421,2025-05-10 03:53:15,,59,Male,Semi-Urgent,Fracture,Neurology,86,28,114,Yes,NR02,DR06,76,141/82,37.3,Emergency,No
+PAT0422,VIS00422,2025-05-17 20:38:08,,21,Male,Semi-Urgent,Injury,Orthopedics,88,110,198,No,NR03,DR07,78,111/73,36.9,New Visit,Yes
+PAT0423,VIS00423,2025-06-09 18:04:19,,67,Male,Urgent,Headache,Dermatology,21,109,130,No,NR04,DR08,110,104/98,37.2,Referral,No
+PAT0424,VIS00424,2025-02-26 23:18:00,,35,Other,Critical,Fever,General Medicine,5,72,77,No,NR05,DR01,79,102/61,39.4,Follow-up,Yes
+PAT0425,VIS00425,2025-02-20 01:41:54,,61,Other,Critical,Shortness of Breath,ENT,21,95,116,Yes,NR06,DR02,100,159/85,37.5,Emergency,No
+PAT0426,VIS00426,2025-04-10 00:54:07,,84,Other,Non-Urgent,Nausea,Pediatrics,1,135,136,No,NR07,DR03,105,125/66,36.1,New Visit,Yes
+PAT0427,VIS00427,2025-02-16 01:13:26,,79,Female,Emergency,Injury,ENT,24,145,169,Yes,NR08,DR04,118,133/62,37.8,Emergency,No
+PAT0428,VIS00428,2025-01-19 16:24:12,,56,Male,Emergency,Shortness of Breath,Dermatology,0,203,203,Yes,NR09,DR05,83,106/88,37.6,Emergency,Yes
+PAT0429,VIS00429,2025-03-23 00:34:34,,59,Female,Semi-Urgent,Nausea,Orthopedics,114,200,314,No,NR10,DR06,101,128/67,39.1,New Visit,Yes
+PAT0430,VIS00430,2025-02-09 05:23:25,,25,Other,Non-Urgent,Injury,Neurology,103,66,169,Yes,NR01,DR07,86,140/70,36.9,New Visit,No
+PAT0431,VIS00431,2025-06-07 15:31:42,,41,Other,Urgent,Fracture,ENT,17,181,198,Yes,NR02,DR08,65,131/78,38.8,Referral,Yes
+PAT0432,VIS00432,2025-01-11 08:57:19,,30,Male,Critical,Dizziness,General Medicine,16,139,155,No,NR03,DR01,72,154/94,39.5,New Visit,Yes
+PAT0433,VIS00433,2025-06-29 12:27:45,,12,Male,Urgent,Fever,Dermatology,21,220,241,Yes,NR04,DR02,63,154/87,36.9,Follow-up,No
+PAT0434,VIS00434,2025-06-10 19:46:48,,5,Other,Critical,Dizziness,General Medicine,17,217,234,Yes,NR05,DR03,61,126/81,36.7,Follow-up,Yes
+PAT0435,VIS00435,2025-02-24 05:40:13,,18,Other,Non-Urgent,Injury,Neurology,49,27,76,Yes,NR06,DR04,109,156/81,37.7,Follow-up,Yes
+PAT0436,VIS00436,2025-05-14 07:36:42,,90,Female,Non-Urgent,Headache,Dermatology,110,40,150,Yes,NR07,DR05,117,134/84,39.2,Follow-up,Yes
+PAT0437,VIS00437,2025-01-11 12:04:20,,60,Other,Non-Urgent,Dizziness,Orthopedics,82,179,261,No,NR08,DR06,97,100/78,38.6,Emergency,No
+PAT0438,VIS00438,2025-02-10 00:30:14,,77,Other,Semi-Urgent,Headache,Orthopedics,34,138,172,Yes,NR09,DR07,74,147/97,37.3,Referral,Yes
+PAT0439,VIS00439,2025-02-14 18:30:11,,7,Female,Urgent,Allergic Reaction,ENT,5,131,136,Yes,NR10,DR08,105,125/91,39.3,Follow-up,Yes
+PAT0440,VIS00440,2025-02-23 08:27:31,,35,Female,Semi-Urgent,Abdominal Pain,Ophthalmology,55,110,165,Yes,NR01,DR01,107,117/87,36.6,Emergency,No
+PAT0441,VIS00441,2025-05-22 22:06:13,,51,Other,Semi-Urgent,Injury,Pediatrics,89,167,256,No,NR02,DR02,71,138/64,36.8,Follow-up,Yes
+PAT0442,VIS00442,2025-04-05 14:45:55,,38,Other,Emergency,Abdominal Pain,Pediatrics,23,169,192,No,NR03,DR03,60,101/95,38.2,Referral,No
+PAT0443,VIS00443,2025-05-25 10:10:22,,52,Other,Critical,Dizziness,Dermatology,5,101,106,Yes,NR04,DR04,90,153/64,36.7,New Visit,Yes
+PAT0444,VIS00444,2025-04-25 19:36:47,,14,Other,Semi-Urgent,Fever,Dermatology,100,189,289,Yes,NR05,DR05,70,156/81,38.4,Follow-up,Yes
+PAT0445,VIS00445,2025-01-29 23:59:52,,90,Female,Non-Urgent,Allergic Reaction,Dermatology,45,224,269,Yes,NR06,DR06,101,133/75,36.6,New Visit,Yes
+PAT0446,VIS00446,2025-03-01 17:21:07,,37,Female,Urgent,Nausea,Pediatrics,8,144,152,No,NR07,DR07,118,112/73,39.4,Referral,No
+PAT0447,VIS00447,2025-03-07 14:24:51,,25,Female,Urgent,Injury,Ophthalmology,16,223,239,Yes,NR08,DR08,75,103/85,36.9,Emergency,No
+PAT0448,VIS00448,2025-04-18 05:39:09,,63,Female,Urgent,Nausea,Ophthalmology,29,105,134,Yes,NR09,DR01,105,153/86,39.1,Referral,Yes
+PAT0449,VIS00449,2025-02-21 20:41:39,,70,Other,Urgent,Abdominal Pain,Dermatology,2,137,139,No,NR10,DR02,79,139/66,36.7,Referral,No
+PAT0450,VIS00450,2025-06-03 20:31:00,,72,Male,Emergency,Allergic Reaction,Ophthalmology,4,147,151,No,NR01,DR03,70,142/60,37.2,New Visit,Yes
+PAT0451,VIS00451,2025-04-04 19:21:30,,71,Male,Non-Urgent,Chest Pain,Dermatology,51,151,202,Yes,NR02,DR04,92,100/71,37.5,Referral,No
+PAT0452,VIS00452,2025-05-10 22:27:02,,5,Male,Semi-Urgent,Dizziness,Dermatology,3,127,130,No,NR03,DR05,101,128/97,39.3,New Visit,No
+PAT0453,VIS00453,2025-02-25 11:45:05,,61,Female,Urgent,Abdominal Pain,Dermatology,15,54,69,No,NR04,DR06,86,141/76,38.9,Referral,Yes
+PAT0454,VIS00454,2025-04-19 01:55:48,,73,Female,Urgent,Abdominal Pain,Ophthalmology,0,68,68,No,NR05,DR07,84,127/95,38.4,New Visit,No
+PAT0455,VIS00455,2025-05-18 08:38:52,,11,Other,Semi-Urgent,Abdominal Pain,Ophthalmology,51,83,134,No,NR06,DR08,78,128/98,36.1,Emergency,No
+PAT0456,VIS00456,2025-04-20 23:38:11,,29,Female,Emergency,Chest Pain,Neurology,13,80,93,No,NR07,DR01,74,137/94,38.8,Emergency,No
+PAT0457,VIS00457,2025-04-24 17:04:11,,47,Male,Non-Urgent,Headache,Ophthalmology,70,56,126,No,NR08,DR02,115,155/79,36.1,New Visit,Yes
+PAT0458,VIS00458,2025-03-25 09:04:19,,22,Female,Semi-Urgent,Fracture,Neurology,91,217,308,No,NR09,DR03,75,101/73,36.0,Referral,No
+PAT0459,VIS00459,2025-04-12 08:55:21,,42,Male,Urgent,Abdominal Pain,Cardiology,22,145,167,No,NR10,DR04,63,107/61,37.6,New Visit,Yes
+PAT0460,VIS00460,2025-06-08 01:56:04,,74,Female,Non-Urgent,Chest Pain,Neurology,109,156,265,Yes,NR01,DR05,104,110/73,36.3,Follow-up,Yes
+PAT0461,VIS00461,2025-03-19 09:10:17,,70,Other,Emergency,Allergic Reaction,Dermatology,28,122,150,No,NR02,DR06,103,156/96,36.1,Emergency,Yes
+PAT0462,VIS00462,2025-04-15 19:58:40,,61,Female,Non-Urgent,Nausea,Ophthalmology,30,221,251,No,NR03,DR07,110,128/67,38.0,New Visit,Yes
+PAT0463,VIS00463,2025-02-04 21:44:34,,75,Female,Semi-Urgent,Chest Pain,Neurology,1,37,38,Yes,NR04,DR08,84,149/61,36.3,Referral,Yes
+PAT0464,VIS00464,2025-03-21 23:10:14,,20,Other,Non-Urgent,Nausea,Dermatology,12,134,146,No,NR05,DR01,113,133/60,38.8,Referral,No
+PAT0465,VIS00465,2025-04-13 21:37:24,,3,Other,Urgent,Fever,Orthopedics,3,97,100,No,NR06,DR02,67,141/100,39.2,Follow-up,No
+PAT0466,VIS00466,2025-05-26 03:40:55,,65,Female,Emergency,Dizziness,Neurology,11,198,209,No,NR07,DR03,98,133/93,38.9,Referral,No
+PAT0467,VIS00467,2025-04-14 16:30:20,,69,Other,Critical,Nausea,Neurology,16,97,113,No,NR08,DR04,116,129/97,39.0,Follow-up,No
+PAT0468,VIS00468,2025-02-12 04:43:37,,62,Female,Non-Urgent,Allergic Reaction,Pediatrics,117,232,349,Yes,NR09,DR05,85,102/69,38.0,Referral,Yes
+PAT0469,VIS00469,2025-04-02 04:07:37,,32,Other,Urgent,Abdominal Pain,Ophthalmology,26,20,46,No,NR10,DR06,76,151/74,39.2,New Visit,No
+PAT0470,VIS00470,2025-03-10 07:05:17,,90,Male,Urgent,Nausea,Cardiology,14,209,223,No,NR01,DR07,109,105/82,36.0,New Visit,Yes
+PAT0471,VIS00471,2025-03-14 22:32:37,,15,Other,Semi-Urgent,Nausea,ENT,58,227,285,Yes,NR02,DR08,98,145/69,36.9,Referral,Yes
+PAT0472,VIS00472,2025-01-08 17:03:32,,55,Male,Emergency,Chest Pain,Pediatrics,4,226,230,Yes,NR03,DR01,109,102/91,37.4,New Visit,No
+PAT0473,VIS00473,2025-04-10 07:00:09,,6,Male,Non-Urgent,Allergic Reaction,Orthopedics,50,43,93,No,NR04,DR02,114,103/100,36.6,Emergency,Yes
+PAT0474,VIS00474,2025-06-06 04:13:32,,19,Male,Non-Urgent,Dizziness,Ophthalmology,66,91,157,No,NR05,DR03,83,113/64,36.8,Referral,Yes
+PAT0475,VIS00475,2025-06-24 13:47:37,,30,Other,Emergency,Dizziness,Neurology,27,92,119,Yes,NR06,DR04,61,109/69,36.1,New Visit,No
+PAT0476,VIS00476,2025-05-11 20:29:34,,15,Other,Semi-Urgent,Injury,Neurology,59,237,296,No,NR07,DR05,65,137/75,38.8,Referral,Yes
+PAT0477,VIS00477,2025-02-01 22:55:09,,15,Male,Urgent,Shortness of Breath,ENT,13,214,227,No,NR08,DR06,72,103/86,38.5,Emergency,Yes
+PAT0478,VIS00478,2025-05-23 14:04:54,,8,Other,Semi-Urgent,Abdominal Pain,Pediatrics,20,86,106,No,NR09,DR07,86,115/74,39.2,Follow-up,No
+PAT0479,VIS00479,2025-06-24 17:27:25,,34,Male,Critical,Abdominal Pain,Dermatology,20,47,67,No,NR10,DR08,61,149/88,36.0,New Visit,No
+PAT0480,VIS00480,2025-05-16 07:22:04,,71,Male,Urgent,Nausea,Cardiology,8,80,88,Yes,NR01,DR01,79,152/100,38.5,Referral,No
+PAT0481,VIS00481,2025-01-07 17:01:17,,1,Other,Non-Urgent,Shortness of Breath,Dermatology,27,214,241,Yes,NR02,DR02,113,102/87,38.9,Referral,No
+PAT0482,VIS00482,2025-04-26 18:39:28,,46,Female,Urgent,Fracture,Dermatology,24,131,155,Yes,NR03,DR03,93,148/62,37.0,Emergency,Yes
+PAT0483,VIS00483,2025-01-11 04:17:18,,55,Female,Emergency,Nausea,General Medicine,5,231,236,Yes,NR04,DR04,87,128/69,37.3,New Visit,Yes
+PAT0484,VIS00484,2025-01-10 20:27:01,,81,Other,Critical,Fracture,Orthopedics,11,100,111,Yes,NR05,DR05,86,117/80,37.8,New Visit,No
+PAT0485,VIS00485,2025-05-17 00:45:14,,54,Female,Critical,Abdominal Pain,ENT,9,66,75,No,NR06,DR06,99,106/66,37.3,Referral,Yes
+PAT0486,VIS00486,2025-06-17 06:23:04,,1,Female,Non-Urgent,Shortness of Breath,General Medicine,86,190,276,Yes,NR07,DR07,97,122/98,39.2,Emergency,Yes
+PAT0487,VIS00487,2025-03-16 00:37:19,,33,Male,Critical,Allergic Reaction,Orthopedics,20,62,82,Yes,NR08,DR08,92,117/87,38.0,New Visit,No
+PAT0488,VIS00488,2025-01-28 01:30:53,,13,Male,Non-Urgent,Headache,Ophthalmology,63,190,253,No,NR09,DR01,101,124/80,38.2,Referral,Yes
+PAT0489,VIS00489,2025-01-14 04:51:43,,13,Male,Urgent,Fever,Cardiology,18,212,230,No,NR10,DR02,113,129/92,36.8,Follow-up,Yes
+PAT0490,VIS00490,2025-03-29 07:47:37,,15,Male,Semi-Urgent,Nausea,ENT,58,131,189,Yes,NR01,DR03,94,147/96,37.7,Referral,No
+PAT0491,VIS00491,2025-06-17 02:07:16,,38,Other,Urgent,Dizziness,Orthopedics,3,112,115,No,NR02,DR04,94,139/81,38.3,Emergency,Yes
+PAT0492,VIS00492,2025-05-06 14:51:38,,75,Female,Urgent,Dizziness,Cardiology,8,151,159,Yes,NR03,DR05,69,145/67,39.5,Follow-up,Yes
+PAT0493,VIS00493,2025-04-11 19:00:46,,29,Female,Emergency,Nausea,Dermatology,18,148,166,Yes,NR04,DR06,77,108/88,37.8,Referral,No
+PAT0494,VIS00494,2025-03-27 04:38:12,,43,Other,Critical,Fever,ENT,15,121,136,No,NR05,DR07,76,144/69,36.3,Follow-up,Yes
+PAT0495,VIS00495,2025-01-02 14:37:41,,5,Male,Critical,Fever,Pediatrics,14,153,167,No,NR06,DR08,112,143/71,37.7,New Visit,No
+PAT0496,VIS00496,2025-01-01 18:30:38,,18,Female,Critical,Headache,Ophthalmology,7,140,147,Yes,NR07,DR01,97,118/93,37.0,Emergency,No
+PAT0497,VIS00497,2025-05-28 03:55:38,,14,Male,Urgent,Fever,Cardiology,4,134,138,Yes,NR08,DR02,93,102/67,36.6,New Visit,No
+PAT0498,VIS00498,2025-06-08 08:55:56,,44,Male,Semi-Urgent,Chest Pain,Cardiology,110,194,304,No,NR09,DR03,69,101/61,36.3,Referral,No
+PAT0499,VIS00499,2025-05-04 18:35:21,,4,Male,Non-Urgent,Fracture,Pediatrics,11,215,226,No,NR10,DR04,80,138/86,38.0,Emergency,No
+PAT0500,VIS00500,2025-02-14 14:36:10,,46,Male,Non-Urgent,Shortness of Breath,Pediatrics,57,238,295,No,NR01,DR05,78,143/65,38.8,Follow-up,Yes
+PAT0501,VIS00501,2025-03-26 04:06:57,,53,Other,Critical,Headache,Dermatology,6,32,38,No,NR02,DR06,75,147/72,37.1,Follow-up,No
+PAT0502,VIS00502,2025-03-23 05:25:16,,49,Female,Critical,Allergic Reaction,Dermatology,22,201,223,Yes,NR03,DR07,92,109/94,37.0,Emergency,Yes
+PAT0503,VIS00503,2025-02-09 05:18:59,,43,Other,Semi-Urgent,Headache,Dermatology,83,228,311,Yes,NR04,DR08,68,122/95,38.6,Emergency,Yes
+PAT0504,VIS00504,2025-06-24 21:08:03,,22,Other,Urgent,Chest Pain,ENT,22,101,123,No,NR05,DR01,62,146/84,38.2,Emergency,Yes
+PAT0505,VIS00505,2025-05-05 02:02:32,,76,Female,Critical,Abdominal Pain,Cardiology,8,80,88,Yes,NR06,DR02,71,159/65,37.4,New Visit,Yes
+PAT0506,VIS00506,2025-01-01 06:44:53,,77,Other,Non-Urgent,Abdominal Pain,General Medicine,34,24,58,No,NR07,DR03,113,134/69,38.6,New Visit,Yes
+PAT0507,VIS00507,2025-05-01 04:17:56,,1,Female,Critical,Chest Pain,Neurology,6,110,116,No,NR08,DR04,102,145/63,39.2,New Visit,Yes
+PAT0508,VIS00508,2025-05-09 20:51:15,,47,Female,Urgent,Injury,General Medicine,19,61,80,Yes,NR09,DR05,119,125/92,37.2,Follow-up,Yes
+PAT0509,VIS00509,2025-03-24 02:49:33,,31,Male,Urgent,Injury,Orthopedics,22,76,98,Yes,NR10,DR06,116,107/84,38.8,Emergency,Yes
+PAT0510,VIS00510,2025-05-16 18:08:11,,48,Other,Emergency,Chest Pain,ENT,30,146,176,No,NR01,DR07,68,144/87,36.8,Follow-up,No
+PAT0511,VIS00511,2025-05-22 17:07:26,,14,Female,Critical,Dizziness,Neurology,14,106,120,Yes,NR02,DR08,66,130/62,39.2,Referral,No
+PAT0512,VIS00512,2025-03-28 22:07:46,,17,Female,Emergency,Headache,ENT,27,197,224,No,NR03,DR01,65,155/81,37.7,Follow-up,Yes
+PAT0513,VIS00513,2025-04-01 08:29:37,,71,Female,Semi-Urgent,Fever,Dermatology,47,235,282,No,NR04,DR02,80,129/83,36.3,New Visit,No
+PAT0514,VIS00514,2025-04-14 21:35:23,,65,Male,Non-Urgent,Abdominal Pain,ENT,18,89,107,No,NR05,DR03,105,153/84,38.1,New Visit,No
+PAT0515,VIS00515,2025-01-06 02:14:15,,20,Female,Semi-Urgent,Dizziness,Dermatology,106,134,240,Yes,NR06,DR04,96,146/72,37.1,New Visit,No
+PAT0516,VIS00516,2025-01-05 14:51:08,,52,Male,Non-Urgent,Nausea,Neurology,83,42,125,Yes,NR07,DR05,82,102/66,39.0,New Visit,No
+PAT0517,VIS00517,2025-04-17 16:03:23,,19,Other,Semi-Urgent,Fracture,Dermatology,68,24,92,No,NR08,DR06,111,115/87,37.2,Emergency,Yes
+PAT0518,VIS00518,2025-06-06 11:12:06,,45,Male,Emergency,Fever,Orthopedics,17,59,76,No,NR09,DR07,110,105/93,38.6,Emergency,No
+PAT0519,VIS00519,2025-01-15 09:30:46,,56,Male,Critical,Fever,Dermatology,26,212,238,No,NR10,DR08,76,143/67,36.5,New Visit,Yes
+PAT0520,VIS00520,2025-02-28 01:18:04,,29,Female,Semi-Urgent,Injury,Orthopedics,38,117,155,Yes,NR01,DR01,117,152/60,37.8,Referral,No
+PAT0521,VIS00521,2025-03-06 23:36:34,,44,Female,Critical,Fracture,Orthopedics,19,201,220,No,NR02,DR02,68,155/60,38.2,New Visit,Yes
+PAT0522,VIS00522,2025-06-05 09:34:31,,25,Female,Semi-Urgent,Allergic Reaction,Ophthalmology,110,196,306,No,NR03,DR03,81,130/82,37.1,Follow-up,No
+PAT0523,VIS00523,2025-06-19 12:45:30,,71,Female,Non-Urgent,Nausea,Neurology,39,53,92,Yes,NR04,DR04,99,159/86,38.4,Follow-up,Yes
+PAT0524,VIS00524,2025-04-27 10:20:00,,80,Female,Non-Urgent,Fever,Dermatology,95,64,159,No,NR05,DR05,110,121/87,39.0,Emergency,Yes
+PAT0525,VIS00525,2025-06-06 17:14:35,,68,Female,Emergency,Chest Pain,ENT,28,55,83,Yes,NR06,DR06,114,120/92,38.8,Emergency,No
+PAT0526,VIS00526,2025-05-15 20:36:38,,11,Male,Semi-Urgent,Nausea,Pediatrics,109,54,163,Yes,NR07,DR07,112,100/87,38.4,Emergency,No
+PAT0527,VIS00527,2025-01-15 12:04:33,,10,Other,Semi-Urgent,Nausea,Dermatology,34,42,76,Yes,NR08,DR08,79,160/94,39.1,Follow-up,No
+PAT0528,VIS00528,2025-05-05 14:22:10,,70,Female,Semi-Urgent,Abdominal Pain,Orthopedics,75,22,97,No,NR09,DR01,110,160/92,36.5,Emergency,No
+PAT0529,VIS00529,2025-04-07 18:15:40,,73,Male,Urgent,Shortness of Breath,ENT,30,128,158,No,NR10,DR02,89,134/97,36.3,Follow-up,Yes
+PAT0530,VIS00530,2025-02-15 01:59:52,,31,Male,Non-Urgent,Dizziness,Orthopedics,17,186,203,No,NR01,DR03,86,142/84,37.8,Emergency,Yes
+PAT0531,VIS00531,2025-04-04 18:41:32,,37,Other,Emergency,Allergic Reaction,Ophthalmology,19,202,221,No,NR02,DR04,120,148/64,37.8,Referral,No
+PAT0532,VIS00532,2025-03-07 07:28:57,,61,Other,Emergency,Abdominal Pain,Orthopedics,0,160,160,No,NR03,DR05,65,134/61,39.0,New Visit,Yes
+PAT0533,VIS00533,2025-06-04 21:54:26,,77,Female,Urgent,Nausea,ENT,4,55,59,Yes,NR04,DR06,118,127/98,39.3,Referral,No
+PAT0534,VIS00534,2025-06-26 22:27:35,,64,Other,Emergency,Shortness of Breath,General Medicine,11,152,163,No,NR05,DR07,116,106/81,38.2,New Visit,No
+PAT0535,VIS00535,2025-06-25 20:40:21,,82,Female,Semi-Urgent,Fracture,Neurology,113,180,293,No,NR06,DR08,74,141/61,37.8,New Visit,Yes
+PAT0536,VIS00536,2025-05-20 15:38:25,,10,Male,Non-Urgent,Headache,ENT,28,126,154,No,NR07,DR01,64,106/88,36.7,Emergency,Yes
+PAT0537,VIS00537,2025-05-05 23:20:21,,18,Male,Critical,Allergic Reaction,Orthopedics,17,217,234,Yes,NR08,DR02,76,150/89,36.3,Emergency,Yes
+PAT0538,VIS00538,2025-03-04 22:46:54,,85,Male,Non-Urgent,Shortness of Breath,Pediatrics,38,84,122,Yes,NR09,DR03,95,118/91,36.9,Emergency,Yes
+PAT0539,VIS00539,2025-05-08 19:25:32,,85,Female,Critical,Nausea,Orthopedics,7,108,115,Yes,NR10,DR04,113,124/68,36.3,New Visit,Yes
+PAT0540,VIS00540,2025-04-07 00:43:26,,88,Other,Emergency,Allergic Reaction,Cardiology,23,68,91,No,NR01,DR05,68,103/62,39.3,Referral,Yes
+PAT0541,VIS00541,2025-03-23 08:20:54,,22,Female,Urgent,Dizziness,Neurology,21,153,174,No,NR02,DR06,62,137/81,39.0,Follow-up,No
+PAT0542,VIS00542,2025-02-13 21:27:33,,42,Male,Critical,Injury,Ophthalmology,30,130,160,Yes,NR03,DR07,96,102/81,36.8,Referral,Yes
+PAT0543,VIS00543,2025-01-20 09:06:42,,39,Other,Emergency,Fracture,Cardiology,9,195,204,Yes,NR04,DR08,65,141/60,38.8,Emergency,No
+PAT0544,VIS00544,2025-04-21 08:47:57,,25,Other,Urgent,Abdominal Pain,Ophthalmology,28,129,157,No,NR05,DR01,99,120/90,36.3,Follow-up,No
+PAT0545,VIS00545,2025-03-25 03:48:06,,83,Female,Urgent,Chest Pain,Neurology,27,95,122,No,NR06,DR02,78,113/64,38.4,Referral,Yes
+PAT0546,VIS00546,2025-05-22 04:35:36,,44,Male,Critical,Injury,General Medicine,25,183,208,No,NR07,DR03,88,147/79,39.1,Referral,No
+PAT0547,VIS00547,2025-01-07 01:08:58,,73,Female,Urgent,Chest Pain,Pediatrics,29,193,222,Yes,NR08,DR04,94,117/98,36.8,Emergency,Yes
+PAT0548,VIS00548,2025-01-06 09:49:30,,40,Female,Emergency,Chest Pain,Pediatrics,16,68,84,No,NR09,DR05,120,110/95,37.4,Follow-up,No
+PAT0549,VIS00549,2025-01-17 07:07:39,,23,Other,Emergency,Fracture,Neurology,11,188,199,No,NR10,DR06,90,148/61,37.9,Referral,Yes
+PAT0550,VIS00550,2025-03-14 09:29:49,,49,Other,Semi-Urgent,Fever,Orthopedics,116,212,328,No,NR01,DR07,82,105/74,39.2,Referral,No
+PAT0551,VIS00551,2025-04-18 01:15:21,,87,Female,Urgent,Allergic Reaction,Ophthalmology,18,117,135,No,NR02,DR08,71,129/76,36.1,Referral,No
+PAT0552,VIS00552,2025-04-15 08:12:50,,7,Male,Urgent,Nausea,Orthopedics,15,88,103,No,NR03,DR01,93,159/65,36.7,Referral,No
+PAT0553,VIS00553,2025-04-24 13:06:51,,52,Male,Non-Urgent,Dizziness,General Medicine,10,130,140,Yes,NR04,DR02,91,139/88,36.9,Emergency,No
+PAT0554,VIS00554,2025-06-16 04:56:41,,57,Other,Non-Urgent,Shortness of Breath,Neurology,107,46,153,Yes,NR05,DR03,65,144/60,36.4,New Visit,No
+PAT0555,VIS00555,2025-02-15 15:37:07,,63,Male,Emergency,Allergic Reaction,ENT,28,231,259,Yes,NR06,DR04,74,136/77,38.6,Referral,Yes
+PAT0556,VIS00556,2025-05-23 10:06:18,,5,Other,Semi-Urgent,Chest Pain,Dermatology,10,186,196,No,NR07,DR05,70,158/91,36.5,Emergency,No
+PAT0557,VIS00557,2025-01-23 04:54:42,,24,Other,Urgent,Headache,Neurology,16,173,189,No,NR08,DR06,77,149/88,37.6,Referral,No
+PAT0558,VIS00558,2025-04-12 22:12:47,,53,Female,Critical,Abdominal Pain,General Medicine,25,136,161,No,NR09,DR07,110,159/89,37.0,Follow-up,No
+PAT0559,VIS00559,2025-01-17 02:12:49,,18,Male,Non-Urgent,Fracture,Orthopedics,3,189,192,No,NR10,DR08,64,109/93,38.2,New Visit,Yes
+PAT0560,VIS00560,2025-04-09 07:29:15,,11,Male,Non-Urgent,Fever,Ophthalmology,88,145,233,Yes,NR01,DR01,82,113/71,38.8,Follow-up,Yes
+PAT0561,VIS00561,2025-06-16 06:52:23,,15,Female,Emergency,Abdominal Pain,General Medicine,11,70,81,Yes,NR02,DR02,94,130/84,39.1,Follow-up,No
+PAT0562,VIS00562,2025-03-25 12:51:12,,64,Other,Non-Urgent,Abdominal Pain,Cardiology,101,61,162,Yes,NR03,DR03,71,141/76,38.8,Referral,Yes
+PAT0563,VIS00563,2025-03-16 12:20:32,,32,Other,Emergency,Injury,Cardiology,4,83,87,No,NR04,DR04,109,104/94,38.8,Referral,Yes
+PAT0564,VIS00564,2025-06-23 00:45:58,,31,Female,Urgent,Abdominal Pain,Dermatology,0,214,214,No,NR05,DR05,71,123/71,39.1,New Visit,Yes
+PAT0565,VIS00565,2025-01-26 03:32:14,,5,Male,Non-Urgent,Nausea,Cardiology,2,100,102,No,NR06,DR06,113,153/94,39.2,New Visit,Yes
+PAT0566,VIS00566,2025-06-04 03:28:57,,52,Male,Semi-Urgent,Shortness of Breath,Pediatrics,0,40,40,Yes,NR07,DR07,63,104/67,39.2,Emergency,Yes
+PAT0567,VIS00567,2025-03-22 21:31:47,,89,Other,Emergency,Chest Pain,General Medicine,11,49,60,Yes,NR08,DR08,101,133/99,37.8,Emergency,Yes
+PAT0568,VIS00568,2025-04-08 18:01:29,,16,Other,Emergency,Fever,Dermatology,28,113,141,No,NR09,DR01,116,140/85,37.3,New Visit,Yes
+PAT0569,VIS00569,2025-06-18 17:05:02,,77,Female,Emergency,Nausea,Ophthalmology,25,235,260,Yes,NR10,DR02,85,151/70,37.7,New Visit,No
+PAT0570,VIS00570,2025-01-23 11:42:28,,39,Other,Critical,Nausea,Neurology,4,218,222,No,NR01,DR03,109,142/75,37.0,Follow-up,No
+PAT0571,VIS00571,2025-01-08 03:09:00,,1,Male,Non-Urgent,Allergic Reaction,Dermatology,36,167,203,No,NR02,DR04,69,145/61,37.2,Referral,Yes
+PAT0572,VIS00572,2025-03-04 20:50:44,,70,Male,Emergency,Nausea,General Medicine,24,76,100,No,NR03,DR05,101,133/89,37.9,Follow-up,No
+PAT0573,VIS00573,2025-03-05 16:33:12,,2,Other,Urgent,Fracture,Dermatology,15,67,82,No,NR04,DR06,107,154/81,36.5,New Visit,Yes
+PAT0574,VIS00574,2025-04-24 05:22:19,,38,Male,Urgent,Dizziness,Orthopedics,14,214,228,Yes,NR05,DR07,81,158/64,38.0,Referral,Yes
+PAT0575,VIS00575,2025-03-03 06:32:24,,59,Female,Urgent,Fracture,Cardiology,19,42,61,No,NR06,DR08,112,143/85,39.2,Emergency,No
+PAT0576,VIS00576,2025-04-22 23:46:01,,71,Male,Urgent,Fracture,Pediatrics,17,209,226,No,NR07,DR01,91,147/63,36.8,Emergency,No
+PAT0577,VIS00577,2025-01-12 05:07:38,,69,Male,Semi-Urgent,Fracture,Pediatrics,21,80,101,No,NR08,DR02,90,158/78,39.1,Emergency,No
+PAT0578,VIS00578,2025-01-09 14:42:54,,27,Male,Critical,Headache,Ophthalmology,28,118,146,No,NR09,DR03,108,136/67,38.1,New Visit,Yes
+PAT0579,VIS00579,2025-02-21 23:34:39,,62,Female,Semi-Urgent,Fever,Orthopedics,43,60,103,No,NR10,DR04,75,136/76,36.1,Emergency,Yes
+PAT0580,VIS00580,2025-04-01 01:37:39,,65,Female,Urgent,Injury,ENT,2,198,200,No,NR01,DR05,91,141/97,37.4,Follow-up,No
+PAT0581,VIS00581,2025-03-06 16:24:31,,16,Male,Emergency,Nausea,ENT,28,105,133,No,NR02,DR06,72,111/70,37.2,Referral,No
+PAT0582,VIS00582,2025-05-06 02:53:54,,17,Other,Semi-Urgent,Nausea,Pediatrics,111,145,256,Yes,NR03,DR07,117,141/70,37.6,Emergency,No
+PAT0583,VIS00583,2025-04-12 07:34:34,,5,Female,Semi-Urgent,Allergic Reaction,Orthopedics,106,113,219,Yes,NR04,DR08,68,121/78,38.8,Referral,No
+PAT0584,VIS00584,2025-05-18 04:24:14,,15,Female,Non-Urgent,Fever,Neurology,6,76,82,Yes,NR05,DR01,104,132/78,36.4,Referral,No
+PAT0585,VIS00585,2025-03-12 20:07:05,,30,Female,Critical,Fracture,Cardiology,17,65,82,No,NR06,DR02,75,107/90,36.8,New Visit,Yes
+PAT0586,VIS00586,2025-02-07 23:13:33,,24,Other,Critical,Shortness of Breath,Pediatrics,2,167,169,Yes,NR07,DR03,81,123/74,36.1,Emergency,No
+PAT0587,VIS00587,2025-04-01 19:14:50,,28,Male,Semi-Urgent,Injury,Neurology,60,40,100,No,NR08,DR04,64,100/64,37.8,Follow-up,Yes
+PAT0588,VIS00588,2025-03-01 04:36:19,,72,Male,Emergency,Dizziness,Ophthalmology,21,213,234,Yes,NR09,DR05,108,153/75,38.8,Emergency,No
+PAT0589,VIS00589,2025-04-12 09:07:49,,73,Female,Emergency,Shortness of Breath,Cardiology,20,68,88,Yes,NR10,DR06,76,149/100,36.3,New Visit,No
+PAT0590,VIS00590,2025-01-14 19:07:58,,29,Male,Non-Urgent,Fracture,Cardiology,57,22,79,No,NR01,DR07,100,109/61,39.2,New Visit,Yes
+PAT0591,VIS00591,2025-06-25 15:15:57,,61,Female,Emergency,Abdominal Pain,Pediatrics,4,33,37,No,NR02,DR08,61,116/74,36.8,Referral,No
+PAT0592,VIS00592,2025-04-11 14:57:42,,7,Other,Critical,Dizziness,Dermatology,16,86,102,Yes,NR03,DR01,110,158/67,38.4,Referral,No
+PAT0593,VIS00593,2025-04-28 20:02:13,,54,Female,Semi-Urgent,Dizziness,ENT,99,169,268,Yes,NR04,DR02,106,110/99,38.6,New Visit,Yes
+PAT0594,VIS00594,2025-06-18 20:58:53,,37,Male,Urgent,Nausea,Orthopedics,26,88,114,No,NR05,DR03,69,115/93,38.3,New Visit,No
+PAT0595,VIS00595,2025-06-14 19:51:42,,3,Male,Non-Urgent,Fever,Ophthalmology,108,22,130,No,NR06,DR04,74,118/90,36.6,Referral,No
+PAT0596,VIS00596,2025-06-12 02:13:54,,13,Female,Non-Urgent,Fracture,Neurology,6,44,50,Yes,NR07,DR05,120,119/99,37.8,Emergency,No
+PAT0597,VIS00597,2025-06-02 17:28:35,,81,Female,Critical,Fracture,Neurology,27,90,117,Yes,NR08,DR06,71,118/78,39.3,Referral,No
+PAT0598,VIS00598,2025-01-01 01:34:39,,41,Male,Emergency,Fever,General Medicine,21,53,74,Yes,NR09,DR07,61,134/88,39.1,Emergency,Yes
+PAT0599,VIS00599,2025-02-17 22:24:56,,75,Female,Emergency,Chest Pain,Pediatrics,27,62,89,No,NR10,DR08,116,145/83,37.6,Follow-up,No
+PAT0600,VIS00600,2025-01-16 23:05:36,,28,Female,Urgent,Dizziness,Cardiology,22,170,192,No,NR01,DR01,96,158/70,36.6,Follow-up,No
+PAT0601,VIS00601,2025-02-18 15:35:15,,51,Female,Semi-Urgent,Headache,ENT,51,81,132,No,NR02,DR02,80,118/94,38.1,New Visit,No
+PAT0602,VIS00602,2025-03-01 15:59:17,,44,Male,Critical,Fever,Ophthalmology,9,165,174,No,NR03,DR03,76,131/98,38.9,Follow-up,Yes
+PAT0603,VIS00603,2025-02-19 06:54:54,,81,Female,Emergency,Nausea,Ophthalmology,11,75,86,No,NR04,DR04,75,132/82,36.9,Follow-up,No
+PAT0604,VIS00604,2025-03-05 21:43:22,,74,Male,Critical,Fracture,ENT,12,68,80,Yes,NR05,DR05,100,144/61,36.3,Follow-up,Yes
+PAT0605,VIS00605,2025-02-05 23:26:09,,83,Other,Urgent,Chest Pain,Cardiology,11,70,81,No,NR06,DR06,71,155/88,37.5,Referral,Yes
+PAT0606,VIS00606,2025-02-21 19:05:21,,88,Male,Critical,Fever,General Medicine,4,194,198,Yes,NR07,DR07,102,152/82,36.1,New Visit,No
+PAT0607,VIS00607,2025-06-12 03:48:28,,30,Male,Urgent,Fracture,General Medicine,8,181,189,No,NR08,DR08,73,123/100,37.4,Follow-up,Yes
+PAT0608,VIS00608,2025-05-27 07:16:28,,51,Male,Semi-Urgent,Fever,Neurology,23,237,260,Yes,NR09,DR01,68,128/65,38.9,Referral,No
+PAT0609,VIS00609,2025-06-23 19:25:12,,53,Male,Emergency,Shortness of Breath,Cardiology,3,207,210,No,NR10,DR02,101,132/79,38.2,Referral,No
+PAT0610,VIS00610,2025-05-30 17:16:11,,2,Male,Urgent,Injury,Orthopedics,3,104,107,No,NR01,DR03,86,101/72,36.3,Emergency,Yes
+PAT0611,VIS00611,2025-04-20 14:03:39,,39,Other,Emergency,Headache,Cardiology,30,15,45,Yes,NR02,DR04,74,110/89,38.0,Emergency,Yes
+PAT0612,VIS00612,2025-05-14 03:00:03,,71,Female,Critical,Nausea,Ophthalmology,6,47,53,Yes,NR03,DR05,97,123/82,36.7,Referral,No
+PAT0613,VIS00613,2025-02-15 04:42:57,,31,Other,Non-Urgent,Fever,Dermatology,105,72,177,No,NR04,DR06,68,133/73,38.2,Follow-up,No
+PAT0614,VIS00614,2025-01-24 13:13:20,,2,Female,Urgent,Nausea,Cardiology,21,121,142,No,NR05,DR07,70,126/93,39.1,Follow-up,Yes
+PAT0615,VIS00615,2025-03-30 21:28:25,,77,Male,Semi-Urgent,Nausea,Neurology,62,64,126,Yes,NR06,DR08,98,136/60,38.4,Follow-up,No
+PAT0616,VIS00616,2025-02-19 23:28:26,,59,Male,Non-Urgent,Chest Pain,Ophthalmology,10,216,226,Yes,NR07,DR01,117,114/77,38.7,Referral,No
+PAT0617,VIS00617,2025-01-24 17:15:28,,78,Female,Non-Urgent,Shortness of Breath,Neurology,13,209,222,No,NR08,DR02,73,120/74,37.7,Follow-up,No
+PAT0618,VIS00618,2025-04-02 17:55:14,,53,Male,Emergency,Nausea,General Medicine,2,21,23,No,NR09,DR03,62,143/80,38.5,Emergency,No
+PAT0619,VIS00619,2025-06-24 17:47:35,,82,Other,Critical,Fracture,Orthopedics,16,156,172,Yes,NR10,DR04,61,110/95,38.1,New Visit,No
+PAT0620,VIS00620,2025-04-21 22:23:16,,37,Female,Critical,Allergic Reaction,Neurology,22,152,174,No,NR01,DR05,115,138/100,39.3,Referral,Yes
+PAT0621,VIS00621,2025-04-07 19:49:15,,68,Male,Critical,Fever,General Medicine,3,233,236,No,NR02,DR06,117,154/64,36.4,Emergency,No
+PAT0622,VIS00622,2025-06-04 06:10:15,,40,Other,Semi-Urgent,Fracture,ENT,109,40,149,No,NR03,DR07,60,122/60,36.2,Follow-up,No
+PAT0623,VIS00623,2025-05-21 22:15:06,,16,Other,Semi-Urgent,Shortness of Breath,Dermatology,1,145,146,Yes,NR04,DR08,104,141/76,37.0,New Visit,Yes
+PAT0624,VIS00624,2025-06-28 06:32:28,,88,Male,Semi-Urgent,Dizziness,ENT,54,204,258,Yes,NR05,DR01,76,115/74,38.7,Emergency,Yes
+PAT0625,VIS00625,2025-05-18 18:35:08,,41,Other,Critical,Chest Pain,Ophthalmology,7,221,228,Yes,NR06,DR02,89,136/84,39.0,Follow-up,No
+PAT0626,VIS00626,2025-01-03 08:49:46,,68,Male,Non-Urgent,Injury,Dermatology,114,116,230,No,NR07,DR03,109,136/74,39.3,Emergency,No
+PAT0627,VIS00627,2025-06-13 01:44:44,,54,Male,Non-Urgent,Headache,General Medicine,117,98,215,No,NR08,DR04,110,154/96,38.2,Referral,Yes
+PAT0628,VIS00628,2025-04-19 10:59:36,,25,Female,Critical,Dizziness,Ophthalmology,14,89,103,No,NR09,DR05,91,156/62,37.6,New Visit,No
+PAT0629,VIS00629,2025-06-28 16:45:18,,23,Male,Critical,Fracture,Pediatrics,16,208,224,Yes,NR10,DR06,100,138/91,38.6,Referral,Yes
+PAT0630,VIS00630,2025-02-05 07:46:34,,54,Male,Semi-Urgent,Injury,Dermatology,58,139,197,Yes,NR01,DR07,111,129/63,38.1,New Visit,Yes
+PAT0631,VIS00631,2025-06-07 07:16:44,,74,Other,Critical,Allergic Reaction,ENT,10,22,32,Yes,NR02,DR08,80,119/69,36.7,Emergency,No
+PAT0632,VIS00632,2025-05-28 17:21:18,,49,Other,Non-Urgent,Fracture,Orthopedics,42,50,92,No,NR03,DR01,110,105/96,38.9,New Visit,No
+PAT0633,VIS00633,2025-04-03 14:03:14,,59,Female,Emergency,Shortness of Breath,General Medicine,9,90,99,No,NR04,DR02,61,119/86,36.7,Emergency,Yes
+PAT0634,VIS00634,2025-06-13 10:20:03,,80,Male,Non-Urgent,Dizziness,Orthopedics,58,125,183,No,NR05,DR03,109,143/61,37.8,Emergency,Yes
+PAT0635,VIS00635,2025-05-10 00:55:50,,61,Female,Semi-Urgent,Abdominal Pain,Ophthalmology,116,55,171,No,NR06,DR04,85,139/95,36.5,Emergency,No
+PAT0636,VIS00636,2025-03-07 11:13:29,,23,Male,Critical,Fracture,Neurology,19,176,195,No,NR07,DR05,113,115/65,38.8,Referral,Yes
+PAT0637,VIS00637,2025-06-16 07:08:37,,27,Female,Non-Urgent,Dizziness,ENT,106,30,136,No,NR08,DR06,102,104/69,38.0,New Visit,No
+PAT0638,VIS00638,2025-06-27 20:07:56,,88,Female,Critical,Abdominal Pain,Cardiology,22,107,129,Yes,NR09,DR07,117,145/84,38.0,New Visit,Yes
+PAT0639,VIS00639,2025-03-27 12:04:48,,1,Male,Urgent,Abdominal Pain,ENT,28,194,222,No,NR10,DR08,103,160/67,36.5,Follow-up,Yes
+PAT0640,VIS00640,2025-05-21 09:12:44,,4,Male,Urgent,Fever,General Medicine,12,190,202,Yes,NR01,DR01,71,159/62,36.4,New Visit,No
+PAT0641,VIS00641,2025-05-12 04:31:03,,56,Female,Urgent,Fever,Dermatology,22,192,214,No,NR02,DR02,102,157/79,39.1,Emergency,No
+PAT0642,VIS00642,2025-02-27 17:07:07,,33,Male,Urgent,Nausea,General Medicine,15,216,231,No,NR03,DR03,72,155/69,38.4,New Visit,No
+PAT0643,VIS00643,2025-03-17 15:26:45,,48,Other,Semi-Urgent,Fracture,General Medicine,95,236,331,No,NR04,DR04,64,127/87,38.4,Emergency,Yes
+PAT0644,VIS00644,2025-06-04 11:42:40,,83,Female,Critical,Shortness of Breath,General Medicine,0,96,96,No,NR05,DR05,77,136/77,36.2,Referral,Yes
+PAT0645,VIS00645,2025-02-15 02:30:13,,29,Female,Critical,Fever,Orthopedics,29,107,136,No,NR06,DR06,85,122/75,38.1,Referral,No
+PAT0646,VIS00646,2025-04-14 05:25:22,,31,Female,Critical,Injury,General Medicine,20,191,211,Yes,NR07,DR07,119,159/98,39.0,Follow-up,No
+PAT0647,VIS00647,2025-06-08 10:12:11,,43,Female,Critical,Headache,Orthopedics,2,186,188,Yes,NR08,DR08,62,108/82,39.3,New Visit,Yes
+PAT0648,VIS00648,2025-05-26 23:01:35,,7,Female,Critical,Abdominal Pain,General Medicine,12,199,211,No,NR09,DR01,90,132/67,39.2,Follow-up,No
+PAT0649,VIS00649,2025-02-11 08:26:14,,31,Other,Critical,Injury,Dermatology,17,191,208,No,NR10,DR02,74,104/73,37.0,New Visit,Yes
+PAT0650,VIS00650,2025-02-17 16:41:51,,80,Other,Critical,Abdominal Pain,ENT,16,45,61,Yes,NR01,DR03,102,129/68,36.4,New Visit,No
+PAT0651,VIS00651,2025-06-26 08:31:31,,28,Other,Non-Urgent,Fever,Dermatology,11,116,127,No,NR02,DR04,112,141/81,37.0,New Visit,No
+PAT0652,VIS00652,2025-03-03 05:10:49,,61,Male,Semi-Urgent,Allergic Reaction,Pediatrics,14,112,126,No,NR03,DR05,88,138/78,37.7,New Visit,No
+PAT0653,VIS00653,2025-05-18 13:32:13,,84,Other,Semi-Urgent,Allergic Reaction,Orthopedics,86,192,278,No,NR04,DR06,63,155/93,39.0,Referral,Yes
+PAT0654,VIS00654,2025-01-05 20:50:02,,42,Male,Semi-Urgent,Chest Pain,Dermatology,85,235,320,Yes,NR05,DR07,64,148/93,37.0,Emergency,No
+PAT0655,VIS00655,2025-01-29 23:41:59,,17,Male,Critical,Dizziness,Orthopedics,24,90,114,Yes,NR06,DR08,80,109/63,36.9,Emergency,No
+PAT0656,VIS00656,2025-06-14 12:40:14,,40,Female,Non-Urgent,Allergic Reaction,Cardiology,25,104,129,Yes,NR07,DR01,102,132/88,36.3,Referral,Yes
+PAT0657,VIS00657,2025-04-25 01:04:10,,27,Other,Emergency,Nausea,Orthopedics,29,222,251,No,NR08,DR02,117,153/95,38.3,Follow-up,Yes
+PAT0658,VIS00658,2025-05-29 00:07:56,,3,Male,Emergency,Injury,ENT,27,155,182,Yes,NR09,DR03,117,124/62,38.1,Follow-up,No
+PAT0659,VIS00659,2025-01-10 10:10:32,,30,Other,Semi-Urgent,Allergic Reaction,ENT,78,73,151,No,NR10,DR04,79,148/69,37.1,Referral,No
+PAT0660,VIS00660,2025-01-02 21:05:32,,65,Female,Non-Urgent,Injury,Orthopedics,34,80,114,Yes,NR01,DR05,70,117/94,36.7,New Visit,No
+PAT0661,VIS00661,2025-01-08 04:50:10,,81,Other,Emergency,Nausea,Dermatology,11,159,170,No,NR02,DR06,83,105/70,37.3,Follow-up,No
+PAT0662,VIS00662,2025-01-16 18:01:54,,77,Male,Emergency,Shortness of Breath,Pediatrics,2,81,83,No,NR03,DR07,77,133/80,38.4,New Visit,No
+PAT0663,VIS00663,2025-04-12 19:37:14,,12,Other,Semi-Urgent,Allergic Reaction,General Medicine,65,98,163,No,NR04,DR08,77,133/62,37.2,Follow-up,No
+PAT0664,VIS00664,2025-05-18 03:31:56,,45,Other,Critical,Chest Pain,General Medicine,30,168,198,Yes,NR05,DR01,78,123/95,36.1,Follow-up,No
+PAT0665,VIS00665,2025-01-31 08:06:19,,62,Other,Emergency,Shortness of Breath,Ophthalmology,11,240,251,No,NR06,DR02,62,155/70,38.7,New Visit,Yes
+PAT0666,VIS00666,2025-06-01 11:38:35,,12,Other,Urgent,Abdominal Pain,Ophthalmology,30,130,160,No,NR07,DR03,94,110/98,37.0,Emergency,No
+PAT0667,VIS00667,2025-05-20 21:37:44,,1,Other,Critical,Nausea,Neurology,13,109,122,No,NR08,DR04,99,153/100,37.2,Referral,Yes
+PAT0668,VIS00668,2025-04-29 17:16:33,,25,Male,Semi-Urgent,Nausea,Dermatology,97,220,317,Yes,NR09,DR05,78,101/67,36.5,Referral,No
+PAT0669,VIS00669,2025-06-10 18:03:07,,55,Other,Critical,Chest Pain,Pediatrics,25,56,81,Yes,NR10,DR06,86,134/81,38.6,Referral,No
+PAT0670,VIS00670,2025-03-15 09:56:36,,32,Other,Semi-Urgent,Nausea,Pediatrics,28,128,156,No,NR01,DR07,113,123/61,39.1,New Visit,No
+PAT0671,VIS00671,2025-05-26 16:12:57,,89,Female,Emergency,Fracture,Neurology,5,135,140,Yes,NR02,DR08,113,145/96,39.4,Referral,Yes
+PAT0672,VIS00672,2025-01-10 06:35:24,,33,Other,Emergency,Abdominal Pain,Cardiology,10,33,43,Yes,NR03,DR01,86,100/64,36.6,Emergency,Yes
+PAT0673,VIS00673,2025-06-16 13:29:01,,31,Female,Semi-Urgent,Fever,Orthopedics,27,200,227,No,NR04,DR02,74,116/75,37.3,Emergency,Yes
+PAT0674,VIS00674,2025-05-16 03:18:58,,22,Male,Semi-Urgent,Dizziness,Cardiology,13,156,169,No,NR05,DR03,79,151/82,37.0,Referral,No
+PAT0675,VIS00675,2025-02-02 00:00:16,,46,Female,Semi-Urgent,Allergic Reaction,Cardiology,86,128,214,Yes,NR06,DR04,117,152/60,36.7,Follow-up,No
+PAT0676,VIS00676,2025-03-20 07:43:45,,5,Other,Semi-Urgent,Fever,ENT,29,85,114,Yes,NR07,DR05,87,142/87,36.5,Follow-up,No
+PAT0677,VIS00677,2025-03-11 17:01:59,,19,Female,Semi-Urgent,Chest Pain,ENT,32,106,138,Yes,NR08,DR06,86,160/81,36.7,Emergency,No
+PAT0678,VIS00678,2025-04-27 09:05:34,,47,Female,Non-Urgent,Chest Pain,General Medicine,81,101,182,Yes,NR09,DR07,62,128/71,37.7,New Visit,No
+PAT0679,VIS00679,2025-04-02 23:15:09,,48,Other,Emergency,Shortness of Breath,Ophthalmology,4,206,210,Yes,NR10,DR08,99,106/97,38.8,New Visit,No
+PAT0680,VIS00680,2025-01-08 00:49:47,,68,Female,Non-Urgent,Chest Pain,Ophthalmology,26,36,62,No,NR01,DR01,92,114/79,39.0,New Visit,Yes
+PAT0681,VIS00681,2025-03-21 22:05:45,,69,Female,Emergency,Headache,Neurology,10,213,223,Yes,NR02,DR02,60,139/98,36.6,Emergency,Yes
+PAT0682,VIS00682,2025-05-08 04:56:33,,15,Other,Semi-Urgent,Injury,General Medicine,77,150,227,Yes,NR03,DR03,75,109/94,38.5,Follow-up,No
+PAT0683,VIS00683,2025-02-18 18:57:34,,60,Other,Emergency,Chest Pain,General Medicine,5,89,94,No,NR04,DR04,109,106/86,39.1,Emergency,Yes
+PAT0684,VIS00684,2025-02-08 09:04:00,,66,Female,Critical,Fracture,Orthopedics,11,156,167,No,NR05,DR05,79,123/85,39.0,New Visit,No
+PAT0685,VIS00685,2025-03-02 17:48:47,,37,Other,Critical,Injury,Ophthalmology,28,83,111,No,NR06,DR06,85,108/68,37.0,New Visit,Yes
+PAT0686,VIS00686,2025-04-22 02:45:29,,56,Male,Urgent,Dizziness,Cardiology,10,169,179,No,NR07,DR07,103,127/61,36.1,Referral,No
+PAT0687,VIS00687,2025-01-21 10:59:42,,1,Female,Urgent,Dizziness,Cardiology,29,95,124,No,NR08,DR08,97,136/95,36.7,Referral,Yes
+PAT0688,VIS00688,2025-02-07 01:20:43,,63,Female,Non-Urgent,Abdominal Pain,Dermatology,74,30,104,Yes,NR09,DR01,113,152/95,37.5,New Visit,No
+PAT0689,VIS00689,2025-02-09 17:52:24,,4,Female,Critical,Injury,Ophthalmology,13,195,208,No,NR10,DR02,97,103/67,36.8,New Visit,Yes
+PAT0690,VIS00690,2025-06-07 16:17:45,,77,Female,Urgent,Dizziness,ENT,12,75,87,No,NR01,DR03,114,140/92,37.4,Referral,Yes
+PAT0691,VIS00691,2025-04-04 11:09:05,,1,Male,Critical,Abdominal Pain,Neurology,21,82,103,No,NR02,DR04,88,147/93,36.6,Follow-up,Yes
+PAT0692,VIS00692,2025-01-25 16:34:10,,27,Female,Critical,Nausea,Orthopedics,28,173,201,No,NR03,DR05,77,150/60,38.7,New Visit,No
+PAT0693,VIS00693,2025-03-04 15:57:42,,5,Male,Semi-Urgent,Allergic Reaction,Dermatology,78,61,139,No,NR04,DR06,90,104/86,37.5,New Visit,No
+PAT0694,VIS00694,2025-03-29 06:17:38,,17,Male,Emergency,Injury,Dermatology,3,174,177,Yes,NR05,DR07,80,143/74,36.1,Follow-up,No
+PAT0695,VIS00695,2025-01-24 02:35:19,,78,Male,Emergency,Headache,Ophthalmology,14,71,85,Yes,NR06,DR08,113,131/63,37.3,New Visit,Yes
+PAT0696,VIS00696,2025-04-22 00:39:39,,90,Female,Non-Urgent,Dizziness,Orthopedics,13,46,59,No,NR07,DR01,90,105/73,37.8,New Visit,No
+PAT0697,VIS00697,2025-05-18 16:15:03,,69,Female,Urgent,Abdominal Pain,Orthopedics,18,18,36,Yes,NR08,DR02,92,146/94,37.9,Referral,No
+PAT0698,VIS00698,2025-01-06 21:53:55,,26,Female,Emergency,Abdominal Pain,General Medicine,9,179,188,Yes,NR09,DR03,111,113/96,36.5,New Visit,Yes
+PAT0699,VIS00699,2025-06-04 02:32:52,,66,Male,Non-Urgent,Dizziness,Neurology,22,71,93,Yes,NR10,DR04,91,154/76,36.2,Emergency,No
+PAT0700,VIS00700,2025-04-27 12:16:47,,5,Other,Critical,Allergic Reaction,Orthopedics,11,38,49,No,NR01,DR05,112,150/68,38.6,Follow-up,No
+PAT0701,VIS00701,2025-05-05 06:57:49,,25,Male,Urgent,Injury,ENT,3,170,173,No,NR02,DR06,71,123/75,36.6,Referral,Yes
+PAT0702,VIS00702,2025-03-31 03:31:18,,29,Other,Emergency,Headache,General Medicine,26,26,52,Yes,NR03,DR07,100,116/63,38.1,Follow-up,No
+PAT0703,VIS00703,2025-03-14 20:00:29,,14,Male,Critical,Headache,Ophthalmology,20,206,226,Yes,NR04,DR08,92,104/66,38.3,Referral,Yes
+PAT0704,VIS00704,2025-04-05 12:51:19,,18,Female,Semi-Urgent,Fever,Cardiology,100,73,173,Yes,NR05,DR01,62,114/79,39.3,Emergency,No
+PAT0705,VIS00705,2025-04-20 10:27:18,,60,Male,Emergency,Abdominal Pain,Neurology,13,229,242,No,NR06,DR02,81,141/63,38.5,Follow-up,Yes
+PAT0706,VIS00706,2025-01-02 10:50:40,,68,Male,Semi-Urgent,Abdominal Pain,Dermatology,111,88,199,Yes,NR07,DR03,98,157/66,36.9,Follow-up,Yes
+PAT0707,VIS00707,2025-02-16 03:50:24,,81,Other,Non-Urgent,Fracture,Cardiology,83,162,245,No,NR08,DR04,96,134/93,38.9,Emergency,No
+PAT0708,VIS00708,2025-01-26 17:28:50,,28,Male,Non-Urgent,Abdominal Pain,Dermatology,113,87,200,No,NR09,DR05,113,111/79,38.0,Emergency,No
+PAT0709,VIS00709,2025-06-05 16:25:43,,47,Male,Critical,Injury,Cardiology,24,113,137,Yes,NR10,DR06,116,141/66,36.5,Referral,Yes
+PAT0710,VIS00710,2025-03-27 20:20:12,,88,Other,Semi-Urgent,Injury,Orthopedics,120,128,248,Yes,NR01,DR07,71,146/64,36.3,Follow-up,No
+PAT0711,VIS00711,2025-03-06 07:59:40,,69,Female,Urgent,Nausea,Cardiology,18,102,120,No,NR02,DR08,116,154/68,38.8,New Visit,No
+PAT0712,VIS00712,2025-04-23 22:11:31,,15,Female,Emergency,Nausea,Orthopedics,4,122,126,No,NR03,DR01,113,108/65,36.1,Follow-up,Yes
+PAT0713,VIS00713,2025-02-03 22:56:20,,49,Other,Critical,Dizziness,Ophthalmology,30,82,112,No,NR04,DR02,75,156/69,36.6,Follow-up,Yes
+PAT0714,VIS00714,2025-06-09 20:52:13,,35,Male,Critical,Allergic Reaction,Neurology,13,238,251,No,NR05,DR03,113,107/75,38.1,Referral,Yes
+PAT0715,VIS00715,2025-02-10 12:03:12,,10,Male,Emergency,Dizziness,ENT,15,43,58,Yes,NR06,DR04,119,159/70,38.9,Emergency,No
+PAT0716,VIS00716,2025-02-20 18:19:03,,9,Other,Emergency,Dizziness,General Medicine,21,39,60,Yes,NR07,DR05,97,120/90,37.2,Follow-up,No
+PAT0717,VIS00717,2025-01-31 11:30:23,,19,Other,Urgent,Fever,Orthopedics,25,37,62,Yes,NR08,DR06,68,152/61,38.8,Referral,No
+PAT0718,VIS00718,2025-01-25 10:46:13,,82,Male,Semi-Urgent,Chest Pain,Pediatrics,18,178,196,No,NR09,DR07,95,101/90,37.1,Follow-up,Yes
+PAT0719,VIS00719,2025-01-11 00:35:49,,90,Male,Emergency,Fever,General Medicine,27,92,119,Yes,NR10,DR08,73,134/66,37.4,Follow-up,Yes
+PAT0720,VIS00720,2025-05-09 09:26:38,,34,Male,Non-Urgent,Headache,Cardiology,112,49,161,No,NR01,DR01,120,146/86,37.3,Referral,No
+PAT0721,VIS00721,2025-03-11 16:46:09,,51,Female,Semi-Urgent,Headache,Dermatology,90,186,276,Yes,NR02,DR02,94,155/82,38.0,Follow-up,No
+PAT0722,VIS00722,2025-02-25 19:00:02,,71,Other,Critical,Fever,Ophthalmology,4,102,106,Yes,NR03,DR03,120,105/85,38.6,New Visit,Yes
+PAT0723,VIS00723,2025-06-02 06:59:18,,28,Other,Emergency,Chest Pain,Pediatrics,23,108,131,No,NR04,DR04,118,104/75,36.2,Emergency,No
+PAT0724,VIS00724,2025-01-09 05:50:45,,7,Other,Critical,Fever,Neurology,16,117,133,No,NR05,DR05,77,138/79,37.7,Referral,Yes
+PAT0725,VIS00725,2025-05-23 22:46:16,,84,Male,Urgent,Injury,Cardiology,22,106,128,No,NR06,DR06,113,120/60,39.3,Follow-up,No
+PAT0726,VIS00726,2025-04-16 11:21:06,,24,Male,Emergency,Shortness of Breath,Pediatrics,14,19,33,Yes,NR07,DR07,118,151/79,38.9,Follow-up,No
+PAT0727,VIS00727,2025-06-17 11:12:56,,35,Other,Critical,Headache,ENT,10,45,55,Yes,NR08,DR08,111,119/92,38.4,Emergency,Yes
+PAT0728,VIS00728,2025-03-12 14:05:58,,3,Male,Non-Urgent,Dizziness,Ophthalmology,36,116,152,Yes,NR09,DR01,103,159/78,36.4,Emergency,No
+PAT0729,VIS00729,2025-05-09 10:52:27,,55,Other,Semi-Urgent,Abdominal Pain,Dermatology,93,70,163,No,NR10,DR02,97,131/71,37.8,New Visit,Yes
+PAT0730,VIS00730,2025-06-07 08:01:46,,49,Other,Non-Urgent,Nausea,Cardiology,39,162,201,No,NR01,DR03,86,110/77,37.6,New Visit,Yes
+PAT0731,VIS00731,2025-06-06 00:09:37,,39,Female,Critical,Injury,General Medicine,6,51,57,Yes,NR02,DR04,66,103/78,39.1,Emergency,No
+PAT0732,VIS00732,2025-03-27 05:54:16,,10,Male,Semi-Urgent,Nausea,Orthopedics,99,179,278,No,NR03,DR05,63,122/74,39.2,Follow-up,Yes
+PAT0733,VIS00733,2025-03-28 11:45:58,,82,Male,Urgent,Shortness of Breath,Cardiology,23,230,253,Yes,NR04,DR06,115,148/78,36.3,Emergency,No
+PAT0734,VIS00734,2025-04-20 17:43:58,,18,Other,Semi-Urgent,Shortness of Breath,General Medicine,45,116,161,Yes,NR05,DR07,119,123/63,36.0,Emergency,No
+PAT0735,VIS00735,2025-06-02 04:15:42,,51,Male,Non-Urgent,Nausea,Orthopedics,28,87,115,No,NR06,DR08,63,103/85,36.1,New Visit,Yes
+PAT0736,VIS00736,2025-06-03 07:55:13,,33,Female,Non-Urgent,Headache,Dermatology,33,31,64,No,NR07,DR01,97,160/96,39.3,Follow-up,Yes
+PAT0737,VIS00737,2025-04-20 23:49:59,,26,Male,Urgent,Nausea,Ophthalmology,18,170,188,No,NR08,DR02,91,113/88,37.0,Follow-up,Yes
+PAT0738,VIS00738,2025-03-07 08:47:16,,85,Male,Emergency,Nausea,Pediatrics,24,89,113,No,NR09,DR03,111,110/75,39.1,Emergency,Yes
+PAT0739,VIS00739,2025-05-03 14:07:25,,22,Other,Emergency,Fracture,Ophthalmology,14,105,119,No,NR10,DR04,106,114/85,36.5,Emergency,Yes
+PAT0740,VIS00740,2025-02-02 14:48:52,,66,Female,Semi-Urgent,Abdominal Pain,Cardiology,95,53,148,No,NR01,DR05,61,120/82,36.7,Follow-up,Yes
+PAT0741,VIS00741,2025-05-08 12:32:14,,81,Other,Semi-Urgent,Dizziness,Neurology,10,208,218,No,NR02,DR06,100,143/91,38.9,Referral,No
+PAT0742,VIS00742,2025-01-03 22:13:53,,48,Male,Emergency,Injury,General Medicine,26,22,48,No,NR03,DR07,94,112/71,39.2,Follow-up,Yes
+PAT0743,VIS00743,2025-01-22 13:29:51,,30,Female,Critical,Chest Pain,Ophthalmology,0,46,46,Yes,NR04,DR08,70,124/89,37.9,Emergency,No
+PAT0744,VIS00744,2025-03-23 20:08:05,,20,Male,Non-Urgent,Allergic Reaction,Orthopedics,102,122,224,No,NR05,DR01,82,154/61,39.4,Follow-up,Yes
+PAT0745,VIS00745,2025-06-07 22:32:53,,19,Female,Emergency,Fever,Cardiology,15,82,97,No,NR06,DR02,110,160/97,38.5,Follow-up,Yes
+PAT0746,VIS00746,2025-05-18 16:33:19,,66,Other,Semi-Urgent,Abdominal Pain,Ophthalmology,46,76,122,No,NR07,DR03,112,118/65,36.3,Emergency,No
+PAT0747,VIS00747,2025-01-09 14:49:42,,47,Other,Semi-Urgent,Shortness of Breath,Orthopedics,85,188,273,No,NR08,DR04,112,125/88,36.0,Referral,Yes
+PAT0748,VIS00748,2025-03-03 18:14:22,,80,Male,Semi-Urgent,Nausea,Neurology,108,150,258,Yes,NR09,DR05,118,139/92,38.0,Referral,Yes
+PAT0749,VIS00749,2025-01-26 22:54:20,,73,Female,Non-Urgent,Headache,Orthopedics,33,44,77,No,NR10,DR06,61,115/78,37.3,New Visit,Yes
+PAT0750,VIS00750,2025-05-19 23:11:24,,86,Male,Urgent,Abdominal Pain,ENT,29,162,191,No,NR01,DR07,68,103/78,37.9,Emergency,Yes
+PAT0751,VIS00751,2025-02-10 01:30:20,,88,Other,Urgent,Injury,Dermatology,22,108,130,Yes,NR02,DR08,116,157/97,38.0,Referral,No
+PAT0752,VIS00752,2025-05-04 09:54:20,,22,Male,Urgent,Fracture,Orthopedics,24,23,47,No,NR03,DR01,65,131/91,36.3,Emergency,Yes
+PAT0753,VIS00753,2025-03-01 06:57:40,,21,Female,Emergency,Fracture,ENT,30,108,138,Yes,NR04,DR02,98,149/90,37.2,Follow-up,No
+PAT0754,VIS00754,2025-04-29 09:24:45,,31,Male,Semi-Urgent,Abdominal Pain,Pediatrics,34,178,212,Yes,NR05,DR03,111,119/97,37.5,Emergency,No
+PAT0755,VIS00755,2025-01-08 20:04:19,,41,Female,Semi-Urgent,Injury,General Medicine,95,227,322,No,NR06,DR04,93,159/91,38.1,Follow-up,No
+PAT0756,VIS00756,2025-02-15 03:16:40,,12,Other,Critical,Nausea,Cardiology,25,104,129,Yes,NR07,DR05,64,117/61,37.6,Referral,No
+PAT0757,VIS00757,2025-05-10 13:02:32,,76,Other,Non-Urgent,Fever,ENT,27,237,264,No,NR08,DR06,112,140/68,36.8,New Visit,No
+PAT0758,VIS00758,2025-05-04 11:50:59,,72,Other,Non-Urgent,Fever,Ophthalmology,25,119,144,No,NR09,DR07,97,148/78,37.6,Follow-up,Yes
+PAT0759,VIS00759,2025-02-09 06:58:39,,56,Female,Urgent,Abdominal Pain,Dermatology,20,59,79,Yes,NR10,DR08,69,107/98,37.0,New Visit,No
+PAT0760,VIS00760,2025-03-19 03:33:16,,69,Male,Urgent,Fever,Orthopedics,27,78,105,No,NR01,DR01,66,115/98,37.5,Follow-up,Yes
+PAT0761,VIS00761,2025-04-05 06:03:39,,39,Female,Critical,Fever,ENT,22,208,230,Yes,NR02,DR02,80,151/81,37.3,Referral,No
+PAT0762,VIS00762,2025-06-16 08:42:25,,37,Female,Non-Urgent,Chest Pain,Dermatology,29,60,89,Yes,NR03,DR03,66,113/82,38.8,Emergency,No
+PAT0763,VIS00763,2025-05-21 10:35:58,,30,Female,Semi-Urgent,Headache,Neurology,5,30,35,No,NR04,DR04,86,153/71,39.3,Emergency,Yes
+PAT0764,VIS00764,2025-01-26 10:36:43,,87,Other,Critical,Dizziness,Neurology,5,142,147,No,NR05,DR05,101,153/68,39.4,Emergency,Yes
+PAT0765,VIS00765,2025-06-29 14:31:50,,17,Male,Semi-Urgent,Abdominal Pain,Orthopedics,26,157,183,Yes,NR06,DR06,115,120/84,36.7,Referral,Yes
+PAT0766,VIS00766,2025-05-20 02:27:11,,73,Male,Critical,Dizziness,Ophthalmology,11,109,120,Yes,NR07,DR07,70,156/85,37.3,Referral,Yes
+PAT0767,VIS00767,2025-05-01 22:16:54,,45,Male,Emergency,Abdominal Pain,General Medicine,16,110,126,Yes,NR08,DR08,79,155/72,39.0,Referral,Yes
+PAT0768,VIS00768,2025-02-19 01:48:56,,68,Female,Critical,Injury,ENT,16,209,225,No,NR09,DR01,71,145/80,36.7,New Visit,No
+PAT0769,VIS00769,2025-04-14 15:43:07,,88,Female,Non-Urgent,Fever,Pediatrics,8,35,43,No,NR10,DR02,71,151/67,39.1,New Visit,No
+PAT0770,VIS00770,2025-06-17 11:14:59,,59,Female,Urgent,Chest Pain,Neurology,16,97,113,Yes,NR01,DR03,88,122/72,36.2,Referral,No
+PAT0771,VIS00771,2025-05-19 11:51:52,,69,Male,Semi-Urgent,Shortness of Breath,General Medicine,4,56,60,No,NR02,DR04,92,152/99,38.2,Emergency,Yes
+PAT0772,VIS00772,2025-03-06 17:37:33,,21,Other,Semi-Urgent,Nausea,Neurology,82,126,208,Yes,NR03,DR05,109,109/87,37.1,Referral,Yes
+PAT0773,VIS00773,2025-03-08 02:15:26,,37,Male,Urgent,Fever,General Medicine,24,155,179,No,NR04,DR06,88,117/78,38.9,Referral,Yes
+PAT0774,VIS00774,2025-06-14 13:33:18,,85,Female,Emergency,Chest Pain,Neurology,28,141,169,No,NR05,DR07,105,119/76,39.3,Emergency,No
+PAT0775,VIS00775,2025-05-28 18:19:32,,78,Male,Emergency,Headache,ENT,7,61,68,No,NR06,DR08,100,155/71,36.9,Referral,No
+PAT0776,VIS00776,2025-01-26 22:01:59,,28,Female,Critical,Dizziness,Neurology,27,77,104,No,NR07,DR01,74,134/72,38.6,Follow-up,Yes
+PAT0777,VIS00777,2025-06-17 05:07:31,,19,Female,Emergency,Nausea,Ophthalmology,18,218,236,Yes,NR08,DR02,79,148/100,37.5,Follow-up,No
+PAT0778,VIS00778,2025-02-20 04:18:39,,40,Male,Critical,Fracture,Orthopedics,20,239,259,No,NR09,DR03,67,155/70,37.0,Emergency,Yes
+PAT0779,VIS00779,2025-05-22 05:02:04,,28,Female,Semi-Urgent,Headache,Orthopedics,58,172,230,Yes,NR10,DR04,60,145/72,37.8,Follow-up,Yes
+PAT0780,VIS00780,2025-02-04 21:19:45,,42,Male,Non-Urgent,Chest Pain,Ophthalmology,46,193,239,No,NR01,DR05,83,116/95,39.4,Emergency,No
+PAT0781,VIS00781,2025-06-24 03:21:14,,62,Other,Non-Urgent,Chest Pain,Pediatrics,44,48,92,Yes,NR02,DR06,60,112/60,37.9,Follow-up,No
+PAT0782,VIS00782,2025-01-18 09:48:15,,8,Male,Urgent,Headache,Dermatology,23,112,135,Yes,NR03,DR07,87,122/79,36.5,Referral,No
+PAT0783,VIS00783,2025-01-22 17:29:55,,44,Male,Non-Urgent,Nausea,Orthopedics,78,211,289,Yes,NR04,DR08,63,145/60,36.3,Follow-up,Yes
+PAT0784,VIS00784,2025-02-25 09:29:15,,82,Other,Urgent,Allergic Reaction,Neurology,13,203,216,Yes,NR05,DR01,87,133/78,37.6,Emergency,Yes
+PAT0785,VIS00785,2025-05-15 08:21:51,,19,Other,Critical,Fever,Pediatrics,23,60,83,No,NR06,DR02,80,137/93,39.1,Emergency,Yes
+PAT0786,VIS00786,2025-05-13 02:49:13,,47,Male,Urgent,Fracture,Neurology,8,166,174,Yes,NR07,DR03,83,102/77,36.6,Emergency,No
+PAT0787,VIS00787,2025-04-26 13:46:18,,26,Female,Semi-Urgent,Shortness of Breath,Cardiology,80,41,121,Yes,NR08,DR04,104,135/72,36.2,Follow-up,Yes
+PAT0788,VIS00788,2025-05-03 08:28:20,,87,Male,Emergency,Nausea,Neurology,25,100,125,Yes,NR09,DR05,83,130/97,38.2,Emergency,No
+PAT0789,VIS00789,2025-06-17 18:48:38,,10,Male,Emergency,Abdominal Pain,Ophthalmology,23,213,236,No,NR10,DR06,113,143/92,37.6,Emergency,No
+PAT0790,VIS00790,2025-01-10 20:27:55,,20,Other,Emergency,Chest Pain,Cardiology,17,166,183,No,NR01,DR07,77,135/79,38.9,Emergency,Yes
+PAT0791,VIS00791,2025-05-20 15:04:05,,1,Male,Urgent,Chest Pain,Ophthalmology,2,85,87,No,NR02,DR08,63,126/85,39.1,Follow-up,No
+PAT0792,VIS00792,2025-01-02 06:36:54,,23,Female,Urgent,Fracture,Orthopedics,18,140,158,No,NR03,DR01,77,138/86,38.6,Referral,Yes
+PAT0793,VIS00793,2025-05-22 16:09:47,,49,Male,Urgent,Fever,Orthopedics,14,230,244,No,NR04,DR02,67,101/64,37.8,New Visit,Yes
+PAT0794,VIS00794,2025-04-02 19:54:00,,15,Female,Critical,Abdominal Pain,Pediatrics,22,145,167,No,NR05,DR03,102,153/90,38.0,New Visit,No
+PAT0795,VIS00795,2025-02-11 08:33:26,,51,Male,Urgent,Dizziness,Neurology,27,156,183,No,NR06,DR04,92,137/79,39.4,Emergency,Yes
+PAT0796,VIS00796,2025-04-03 15:27:32,,6,Other,Semi-Urgent,Allergic Reaction,Orthopedics,115,204,319,No,NR07,DR05,112,158/63,37.2,New Visit,No
+PAT0797,VIS00797,2025-05-10 23:15:29,,56,Other,Non-Urgent,Fever,Orthopedics,24,147,171,No,NR08,DR06,81,116/70,37.0,New Visit,No
+PAT0798,VIS00798,2025-05-13 10:16:59,,17,Other,Urgent,Fever,Orthopedics,26,49,75,No,NR09,DR07,95,119/80,38.2,Follow-up,No
+PAT0799,VIS00799,2025-03-30 18:23:21,,56,Other,Critical,Headache,Dermatology,28,111,139,No,NR10,DR08,116,152/66,36.7,New Visit,Yes
+PAT0800,VIS00800,2025-03-04 01:02:51,,4,Male,Semi-Urgent,Allergic Reaction,Dermatology,43,112,155,Yes,NR01,DR01,96,129/89,37.4,Emergency,Yes
+PAT0801,VIS00801,2025-03-24 15:23:47,,9,Male,Semi-Urgent,Nausea,Dermatology,40,26,66,Yes,NR02,DR02,105,156/72,38.2,Referral,No
+PAT0802,VIS00802,2025-04-03 17:56:07,,65,Male,Urgent,Allergic Reaction,Orthopedics,12,41,53,Yes,NR03,DR03,92,120/99,38.7,Follow-up,No
+PAT0803,VIS00803,2025-05-25 13:59:18,,73,Male,Semi-Urgent,Nausea,General Medicine,19,232,251,No,NR04,DR04,64,133/95,38.8,Follow-up,No
+PAT0804,VIS00804,2025-02-27 21:35:59,,33,Female,Urgent,Dizziness,Neurology,9,33,42,Yes,NR05,DR05,68,114/99,38.4,New Visit,No
+PAT0805,VIS00805,2025-04-14 22:16:44,,2,Male,Emergency,Dizziness,Ophthalmology,30,96,126,No,NR06,DR06,98,107/98,36.4,New Visit,No
+PAT0806,VIS00806,2025-02-06 05:20:22,,32,Female,Urgent,Headache,General Medicine,20,164,184,Yes,NR07,DR07,97,120/92,36.3,Referral,Yes
+PAT0807,VIS00807,2025-01-20 05:03:42,,68,Other,Non-Urgent,Chest Pain,Ophthalmology,87,191,278,No,NR08,DR08,105,137/73,37.6,New Visit,Yes
+PAT0808,VIS00808,2025-01-26 16:48:11,,54,Male,Non-Urgent,Nausea,Cardiology,42,152,194,No,NR09,DR01,98,145/80,39.5,Follow-up,Yes
+PAT0809,VIS00809,2025-06-19 12:34:58,,48,Male,Semi-Urgent,Nausea,Neurology,114,77,191,No,NR10,DR02,91,154/99,36.9,Emergency,No
+PAT0810,VIS00810,2025-03-31 17:32:04,,22,Other,Emergency,Fracture,Pediatrics,2,45,47,No,NR01,DR03,114,156/64,39.2,Referral,Yes
+PAT0811,VIS00811,2025-02-15 03:31:59,,61,Male,Critical,Fracture,Orthopedics,17,78,95,No,NR02,DR04,107,109/73,37.4,Follow-up,Yes
+PAT0812,VIS00812,2025-06-10 19:59:30,,28,Female,Urgent,Fever,ENT,13,105,118,Yes,NR03,DR05,62,148/93,39.3,Emergency,Yes
+PAT0813,VIS00813,2025-05-27 18:40:54,,32,Other,Non-Urgent,Chest Pain,Ophthalmology,26,151,177,No,NR04,DR06,112,149/89,37.4,New Visit,Yes
+PAT0814,VIS00814,2025-05-14 16:57:15,,32,Other,Non-Urgent,Fracture,Cardiology,104,98,202,No,NR05,DR07,97,125/67,37.8,Referral,Yes
+PAT0815,VIS00815,2025-05-19 06:37:16,,21,Other,Non-Urgent,Nausea,ENT,97,165,262,No,NR06,DR08,67,119/72,39.1,Emergency,Yes
+PAT0816,VIS00816,2025-05-19 00:25:02,,19,Other,Critical,Fever,ENT,26,224,250,No,NR07,DR01,70,111/78,36.8,Follow-up,No
+PAT0817,VIS00817,2025-03-18 06:19:30,,68,Other,Semi-Urgent,Abdominal Pain,Dermatology,66,174,240,Yes,NR08,DR02,71,159/70,36.1,Referral,No
+PAT0818,VIS00818,2025-02-10 15:07:29,,60,Other,Semi-Urgent,Allergic Reaction,General Medicine,114,97,211,No,NR09,DR03,94,156/86,38.0,Follow-up,No
+PAT0819,VIS00819,2025-05-20 16:58:25,,52,Other,Emergency,Fever,Orthopedics,11,50,61,No,NR10,DR04,62,100/79,36.7,Referral,Yes
+PAT0820,VIS00820,2025-06-11 08:23:39,,44,Female,Emergency,Headache,General Medicine,22,60,82,No,NR01,DR05,67,154/86,38.0,Referral,No
+PAT0821,VIS00821,2025-02-19 00:51:17,,28,Female,Non-Urgent,Fracture,Pediatrics,40,229,269,No,NR02,DR06,94,122/82,37.5,New Visit,Yes
+PAT0822,VIS00822,2025-02-18 11:16:52,,33,Female,Emergency,Headache,Cardiology,30,196,226,No,NR03,DR07,79,134/77,36.3,Referral,Yes
+PAT0823,VIS00823,2025-03-29 23:03:37,,47,Other,Semi-Urgent,Shortness of Breath,ENT,11,50,61,Yes,NR04,DR08,113,143/83,36.1,Emergency,Yes
+PAT0824,VIS00824,2025-06-11 12:41:21,,35,Male,Urgent,Shortness of Breath,Neurology,30,134,164,Yes,NR05,DR01,92,119/80,36.1,New Visit,No
+PAT0825,VIS00825,2025-06-23 21:42:14,,17,Male,Non-Urgent,Fever,Dermatology,104,150,254,No,NR06,DR02,115,100/65,37.9,Follow-up,Yes
+PAT0826,VIS00826,2025-04-18 05:16:10,,5,Male,Non-Urgent,Fever,General Medicine,52,126,178,No,NR07,DR03,85,137/84,39.3,Follow-up,Yes
+PAT0827,VIS00827,2025-05-26 21:36:42,,90,Other,Emergency,Fever,Ophthalmology,22,202,224,No,NR08,DR04,116,149/84,37.0,Referral,No
+PAT0828,VIS00828,2025-02-21 03:00:25,,14,Other,Semi-Urgent,Dizziness,ENT,85,176,261,No,NR09,DR05,71,103/71,36.8,New Visit,No
+PAT0829,VIS00829,2025-02-25 00:45:02,,3,Female,Emergency,Headache,ENT,2,60,62,No,NR10,DR06,80,138/86,36.1,Referral,No
+PAT0830,VIS00830,2025-06-24 09:17:33,,1,Male,Critical,Shortness of Breath,ENT,28,21,49,Yes,NR01,DR07,60,143/66,39.4,Emergency,No
+PAT0831,VIS00831,2025-04-14 04:58:49,,90,Male,Urgent,Fever,General Medicine,1,166,167,No,NR02,DR08,62,100/93,37.2,Follow-up,Yes
+PAT0832,VIS00832,2025-01-22 20:26:03,,77,Female,Non-Urgent,Fever,Orthopedics,66,138,204,No,NR03,DR01,75,126/60,37.8,Referral,Yes
+PAT0833,VIS00833,2025-05-05 04:23:28,,50,Female,Critical,Fracture,Pediatrics,13,113,126,No,NR04,DR02,92,109/94,36.4,Follow-up,No
+PAT0834,VIS00834,2025-06-13 10:51:17,,58,Other,Semi-Urgent,Fracture,Orthopedics,68,23,91,Yes,NR05,DR03,112,110/61,39.3,Emergency,No
+PAT0835,VIS00835,2025-01-03 22:52:39,,79,Female,Emergency,Nausea,General Medicine,30,235,265,Yes,NR06,DR04,81,150/88,36.9,New Visit,No
+PAT0836,VIS00836,2025-01-03 08:48:10,,42,Female,Critical,Nausea,ENT,10,200,210,No,NR07,DR05,74,139/86,39.2,Emergency,No
+PAT0837,VIS00837,2025-01-10 20:26:40,,38,Other,Critical,Nausea,Dermatology,12,53,65,No,NR08,DR06,110,138/63,38.8,Follow-up,Yes
+PAT0838,VIS00838,2025-06-18 13:09:58,,80,Female,Emergency,Abdominal Pain,Neurology,2,228,230,Yes,NR09,DR07,119,125/69,36.7,Follow-up,Yes
+PAT0839,VIS00839,2025-06-19 22:28:03,,26,Other,Non-Urgent,Headache,Dermatology,104,106,210,Yes,NR10,DR08,79,121/76,39.5,Follow-up,Yes
+PAT0840,VIS00840,2025-06-03 18:00:52,,45,Male,Non-Urgent,Injury,Pediatrics,114,83,197,Yes,NR01,DR01,115,119/71,38.0,New Visit,No
+PAT0841,VIS00841,2025-02-01 15:22:48,,18,Male,Emergency,Fracture,Dermatology,21,210,231,No,NR02,DR02,96,107/84,37.2,Referral,No
+PAT0842,VIS00842,2025-03-12 21:33:59,,74,Male,Urgent,Chest Pain,General Medicine,2,49,51,No,NR03,DR03,81,118/72,39.0,New Visit,No
+PAT0843,VIS00843,2025-04-16 06:41:06,,19,Female,Emergency,Fracture,ENT,23,43,66,Yes,NR04,DR04,62,100/65,38.6,Referral,Yes
+PAT0844,VIS00844,2025-03-29 04:22:35,,89,Female,Non-Urgent,Allergic Reaction,Pediatrics,46,153,199,Yes,NR05,DR05,79,127/94,36.6,Emergency,No
+PAT0845,VIS00845,2025-05-05 00:52:48,,58,Male,Critical,Fever,Cardiology,0,96,96,No,NR06,DR06,76,105/67,38.8,Follow-up,Yes
+PAT0846,VIS00846,2025-03-13 14:05:29,,4,Other,Non-Urgent,Injury,ENT,51,38,89,No,NR07,DR07,99,104/96,36.6,Referral,No
+PAT0847,VIS00847,2025-06-09 22:07:48,,48,Female,Critical,Shortness of Breath,ENT,30,195,225,No,NR08,DR08,103,120/75,36.6,Emergency,Yes
+PAT0848,VIS00848,2025-03-21 06:45:47,,61,Male,Urgent,Abdominal Pain,Orthopedics,14,200,214,No,NR09,DR01,75,160/77,38.7,Follow-up,Yes
+PAT0849,VIS00849,2025-01-30 09:47:05,,4,Other,Semi-Urgent,Injury,Pediatrics,39,134,173,No,NR10,DR02,110,135/87,37.6,Follow-up,Yes
+PAT0850,VIS00850,2025-01-16 01:59:33,,35,Female,Urgent,Injury,Neurology,1,208,209,Yes,NR01,DR03,87,135/82,36.6,New Visit,Yes
+PAT0851,VIS00851,2025-01-09 20:53:28,,47,Female,Urgent,Fracture,General Medicine,1,66,67,No,NR02,DR04,113,144/79,36.4,Follow-up,Yes
+PAT0852,VIS00852,2025-04-18 19:38:12,,3,Other,Semi-Urgent,Chest Pain,Orthopedics,39,146,185,No,NR03,DR05,78,103/84,38.0,Emergency,No
+PAT0853,VIS00853,2025-03-20 00:22:52,,20,Male,Semi-Urgent,Shortness of Breath,Ophthalmology,32,85,117,Yes,NR04,DR06,110,156/93,38.1,Referral,No
+PAT0854,VIS00854,2025-03-21 21:57:23,,26,Other,Critical,Nausea,Ophthalmology,28,141,169,Yes,NR05,DR07,119,128/63,38.4,Follow-up,Yes
+PAT0855,VIS00855,2025-04-01 18:37:02,,81,Other,Non-Urgent,Fracture,Pediatrics,104,42,146,Yes,NR06,DR08,80,141/86,39.4,New Visit,Yes
+PAT0856,VIS00856,2025-04-12 17:28:45,,30,Other,Urgent,Headache,Pediatrics,29,235,264,No,NR07,DR01,65,142/73,37.5,Referral,Yes
+PAT0857,VIS00857,2025-04-03 00:22:28,,57,Other,Urgent,Fracture,Ophthalmology,8,129,137,Yes,NR08,DR02,98,109/73,39.2,New Visit,No
+PAT0858,VIS00858,2025-03-10 02:44:57,,57,Male,Semi-Urgent,Fever,General Medicine,97,70,167,No,NR09,DR03,109,121/76,37.1,Follow-up,Yes
+PAT0859,VIS00859,2025-01-08 20:01:27,,31,Female,Semi-Urgent,Headache,ENT,84,237,321,No,NR10,DR04,115,112/73,36.9,Referral,Yes
+PAT0860,VIS00860,2025-04-07 16:00:10,,38,Male,Non-Urgent,Shortness of Breath,Cardiology,84,124,208,No,NR01,DR05,64,113/93,39.3,New Visit,No
+PAT0861,VIS00861,2025-05-09 19:11:04,,73,Male,Semi-Urgent,Abdominal Pain,Neurology,40,206,246,No,NR02,DR06,96,148/98,39.3,Referral,No
+PAT0862,VIS00862,2025-01-18 19:38:50,,14,Female,Critical,Chest Pain,ENT,22,108,130,No,NR03,DR07,82,148/68,37.9,Emergency,Yes
+PAT0863,VIS00863,2025-05-13 02:15:35,,33,Male,Semi-Urgent,Nausea,Dermatology,83,197,280,Yes,NR04,DR08,89,135/64,39.3,Follow-up,Yes
+PAT0864,VIS00864,2025-04-11 05:09:03,,31,Male,Emergency,Nausea,Ophthalmology,25,55,80,No,NR05,DR01,114,107/61,36.2,New Visit,No
+PAT0865,VIS00865,2025-05-26 01:54:22,,52,Female,Urgent,Shortness of Breath,Orthopedics,18,229,247,Yes,NR06,DR02,91,130/83,37.2,Referral,No
+PAT0866,VIS00866,2025-02-27 01:23:27,,20,Male,Non-Urgent,Injury,Cardiology,108,42,150,No,NR07,DR03,101,123/89,36.7,New Visit,Yes
+PAT0867,VIS00867,2025-05-13 12:18:53,,17,Female,Urgent,Shortness of Breath,Cardiology,24,204,228,No,NR08,DR04,87,138/100,37.0,Referral,Yes
+PAT0868,VIS00868,2025-04-06 01:27:47,,82,Male,Semi-Urgent,Fracture,Dermatology,0,201,201,No,NR09,DR05,103,104/61,39.1,Referral,No
+PAT0869,VIS00869,2025-05-23 18:48:51,,36,Male,Critical,Chest Pain,Neurology,29,126,155,No,NR10,DR06,96,156/80,38.3,New Visit,Yes
+PAT0870,VIS00870,2025-01-22 11:05:48,,39,Female,Non-Urgent,Headache,Ophthalmology,20,133,153,Yes,NR01,DR07,63,139/99,39.3,Referral,Yes
+PAT0871,VIS00871,2025-03-18 09:28:22,,12,Other,Urgent,Headache,Neurology,0,200,200,No,NR02,DR08,87,123/85,39.1,Emergency,Yes
+PAT0872,VIS00872,2025-01-27 03:57:41,,7,Male,Semi-Urgent,Fever,Cardiology,30,204,234,No,NR03,DR01,77,122/77,38.7,Emergency,No
+PAT0873,VIS00873,2025-01-15 04:23:50,,16,Male,Emergency,Abdominal Pain,Ophthalmology,0,218,218,No,NR04,DR02,96,117/66,36.8,Referral,No
+PAT0874,VIS00874,2025-01-10 23:13:04,,37,Female,Semi-Urgent,Nausea,Ophthalmology,43,89,132,No,NR05,DR03,87,110/60,39.1,Follow-up,Yes
+PAT0875,VIS00875,2025-05-05 09:28:57,,76,Other,Non-Urgent,Chest Pain,Orthopedics,79,215,294,No,NR06,DR04,101,126/70,39.0,Follow-up,No
+PAT0876,VIS00876,2025-01-22 10:45:06,,82,Female,Non-Urgent,Abdominal Pain,ENT,113,104,217,Yes,NR07,DR05,81,118/60,37.9,Follow-up,Yes
+PAT0877,VIS00877,2025-04-02 19:08:20,,11,Female,Urgent,Headache,ENT,17,150,167,Yes,NR08,DR06,90,114/74,36.0,Follow-up,Yes
+PAT0878,VIS00878,2025-03-15 08:55:14,,66,Male,Semi-Urgent,Injury,Ophthalmology,109,39,148,Yes,NR09,DR07,114,118/97,36.9,New Visit,No
+PAT0879,VIS00879,2025-01-25 07:48:04,,60,Female,Critical,Dizziness,Neurology,16,122,138,No,NR10,DR08,116,147/96,37.8,Referral,No
+PAT0880,VIS00880,2025-04-10 07:05:15,,62,Male,Semi-Urgent,Allergic Reaction,Neurology,6,43,49,No,NR01,DR01,79,147/90,37.1,Follow-up,No
+PAT0881,VIS00881,2025-02-20 23:00:25,,13,Other,Emergency,Dizziness,Ophthalmology,6,24,30,No,NR02,DR02,115,122/63,36.5,Emergency,Yes
+PAT0882,VIS00882,2025-04-13 01:24:31,,57,Other,Non-Urgent,Nausea,Dermatology,65,68,133,No,NR03,DR03,79,130/85,37.1,New Visit,Yes
+PAT0883,VIS00883,2025-01-08 12:36:34,,38,Other,Non-Urgent,Abdominal Pain,Pediatrics,16,179,195,No,NR04,DR04,62,115/87,37.3,Follow-up,Yes
+PAT0884,VIS00884,2025-01-26 18:47:55,,31,Other,Critical,Headache,General Medicine,7,58,65,No,NR05,DR05,66,128/83,38.8,Emergency,No
+PAT0885,VIS00885,2025-01-06 21:25:11,,24,Male,Critical,Chest Pain,Ophthalmology,7,95,102,No,NR06,DR06,63,137/76,39.5,Emergency,Yes
+PAT0886,VIS00886,2025-06-10 15:52:48,,87,Female,Non-Urgent,Headache,Cardiology,54,77,131,Yes,NR07,DR07,120,149/91,36.7,Referral,No
+PAT0887,VIS00887,2025-02-02 05:02:35,,35,Female,Emergency,Injury,Ophthalmology,15,166,181,No,NR08,DR08,94,147/67,36.7,Emergency,Yes
+PAT0888,VIS00888,2025-06-10 23:20:43,,58,Other,Critical,Headache,ENT,21,116,137,No,NR09,DR01,78,132/61,37.3,Referral,Yes
+PAT0889,VIS00889,2025-01-07 05:59:30,,70,Female,Urgent,Shortness of Breath,Orthopedics,30,150,180,No,NR10,DR02,77,107/82,39.3,Emergency,Yes
+PAT0890,VIS00890,2025-06-07 13:43:55,,38,Other,Semi-Urgent,Nausea,Dermatology,100,59,159,No,NR01,DR03,118,159/98,38.5,New Visit,No
+PAT0891,VIS00891,2025-03-14 08:13:31,,28,Male,Non-Urgent,Allergic Reaction,General Medicine,108,71,179,Yes,NR02,DR04,118,111/76,38.4,New Visit,Yes
+PAT0892,VIS00892,2025-04-08 18:50:41,,13,Male,Critical,Injury,Dermatology,22,142,164,No,NR03,DR05,77,149/71,39.0,New Visit,No
+PAT0893,VIS00893,2025-04-06 07:57:34,,31,Female,Semi-Urgent,Injury,General Medicine,68,225,293,No,NR04,DR06,75,140/76,36.7,Follow-up,No
+PAT0894,VIS00894,2025-05-30 20:20:37,,80,Female,Critical,Shortness of Breath,General Medicine,11,198,209,Yes,NR05,DR07,116,108/85,37.3,Emergency,Yes
+PAT0895,VIS00895,2025-01-04 10:57:14,,66,Other,Emergency,Injury,Pediatrics,27,145,172,Yes,NR06,DR08,71,158/89,39.0,Emergency,Yes
+PAT0896,VIS00896,2025-03-21 15:17:33,,13,Other,Critical,Fracture,ENT,5,226,231,Yes,NR07,DR01,107,100/94,36.7,Follow-up,No
+PAT0897,VIS00897,2025-05-25 21:18:55,,62,Other,Urgent,Fever,Orthopedics,17,137,154,No,NR08,DR02,63,156/81,37.2,Emergency,Yes
+PAT0898,VIS00898,2025-03-21 05:26:12,,21,Female,Semi-Urgent,Abdominal Pain,General Medicine,111,132,243,No,NR09,DR03,62,134/78,39.1,Referral,Yes
+PAT0899,VIS00899,2025-04-15 09:47:40,,16,Female,Urgent,Abdominal Pain,General Medicine,24,156,180,Yes,NR10,DR04,81,104/88,37.2,New Visit,Yes
+PAT0900,VIS00900,2025-04-23 01:23:34,,53,Female,Critical,Shortness of Breath,Neurology,8,96,104,No,NR01,DR05,85,150/87,37.6,Emergency,No
+PAT0901,VIS00901,2025-06-16 06:16:55,,16,Other,Emergency,Fever,Pediatrics,3,146,149,Yes,NR02,DR06,120,109/79,39.3,Follow-up,No
+PAT0902,VIS00902,2025-01-04 01:35:51,,15,Other,Semi-Urgent,Nausea,Cardiology,3,119,122,Yes,NR03,DR07,81,103/83,39.2,New Visit,No
+PAT0903,VIS00903,2025-03-07 09:41:58,,57,Male,Emergency,Abdominal Pain,Pediatrics,23,46,69,Yes,NR04,DR08,94,112/62,39.1,Emergency,No
+PAT0904,VIS00904,2025-01-04 14:25:00,,37,Other,Semi-Urgent,Abdominal Pain,General Medicine,69,212,281,Yes,NR05,DR01,107,145/79,39.3,New Visit,No
+PAT0905,VIS00905,2025-04-11 13:33:39,,40,Male,Semi-Urgent,Injury,General Medicine,52,77,129,Yes,NR06,DR02,82,142/90,38.5,Emergency,No
+PAT0906,VIS00906,2025-06-17 09:07:56,,42,Male,Emergency,Nausea,ENT,16,64,80,No,NR07,DR03,79,139/90,37.9,Referral,No
+PAT0907,VIS00907,2025-04-18 02:42:56,,74,Female,Non-Urgent,Abdominal Pain,General Medicine,23,171,194,Yes,NR08,DR04,62,117/88,36.5,Emergency,No
+PAT0908,VIS00908,2025-02-28 19:32:37,,67,Male,Non-Urgent,Fever,Pediatrics,108,68,176,No,NR09,DR05,87,151/91,37.9,Emergency,Yes
+PAT0909,VIS00909,2025-05-22 02:59:47,,23,Other,Urgent,Nausea,Dermatology,18,66,84,No,NR10,DR06,104,136/99,36.2,Emergency,Yes
+PAT0910,VIS00910,2025-03-19 11:50:41,,68,Other,Non-Urgent,Allergic Reaction,Cardiology,35,177,212,No,NR01,DR07,82,145/69,39.4,Follow-up,No
+PAT0911,VIS00911,2025-04-01 21:03:33,,42,Other,Emergency,Shortness of Breath,Dermatology,10,33,43,No,NR02,DR08,100,109/60,36.2,Referral,No
+PAT0912,VIS00912,2025-06-01 15:39:02,,48,Female,Semi-Urgent,Chest Pain,Cardiology,39,166,205,No,NR03,DR01,106,101/93,39.5,Emergency,No
+PAT0913,VIS00913,2025-06-29 16:10:59,,20,Female,Critical,Headache,Dermatology,18,68,86,No,NR04,DR02,95,151/91,37.0,Emergency,No
+PAT0914,VIS00914,2025-06-16 04:20:39,,52,Male,Non-Urgent,Allergic Reaction,Orthopedics,27,210,237,No,NR05,DR03,71,119/93,38.9,Emergency,Yes
+PAT0915,VIS00915,2025-01-06 12:56:23,,76,Male,Semi-Urgent,Shortness of Breath,Dermatology,92,218,310,Yes,NR06,DR04,90,128/83,37.2,New Visit,Yes
+PAT0916,VIS00916,2025-02-08 13:46:02,,84,Other,Semi-Urgent,Injury,Neurology,115,61,176,Yes,NR07,DR05,91,123/90,36.4,Follow-up,Yes
+PAT0917,VIS00917,2025-03-06 04:08:45,,54,Female,Critical,Nausea,Neurology,18,206,224,Yes,NR08,DR06,72,140/63,39.2,New Visit,No
+PAT0918,VIS00918,2025-01-14 04:41:47,,7,Female,Non-Urgent,Fever,Orthopedics,4,122,126,No,NR09,DR07,119,160/80,36.6,Follow-up,No
+PAT0919,VIS00919,2025-06-04 21:13:30,,30,Female,Critical,Fever,ENT,21,129,150,Yes,NR10,DR08,91,152/88,36.5,New Visit,No
+PAT0920,VIS00920,2025-05-05 23:04:28,,89,Other,Urgent,Injury,ENT,22,177,199,Yes,NR01,DR01,104,100/98,38.0,Referral,No
+PAT0921,VIS00921,2025-04-10 12:40:38,,29,Male,Non-Urgent,Shortness of Breath,Ophthalmology,85,20,105,No,NR02,DR02,86,142/83,36.1,New Visit,Yes
+PAT0922,VIS00922,2025-04-10 06:21:02,,22,Female,Non-Urgent,Dizziness,Neurology,61,17,78,Yes,NR03,DR03,92,135/80,37.9,Emergency,Yes
+PAT0923,VIS00923,2025-06-28 20:08:06,,48,Other,Emergency,Injury,Orthopedics,13,45,58,Yes,NR04,DR04,120,127/98,38.6,Emergency,No
+PAT0924,VIS00924,2025-05-26 14:38:34,,84,Female,Urgent,Headache,Pediatrics,23,158,181,Yes,NR05,DR05,95,137/69,36.2,Referral,Yes
+PAT0925,VIS00925,2025-04-23 07:04:00,,73,Other,Semi-Urgent,Fever,Cardiology,85,21,106,Yes,NR06,DR06,110,134/99,36.3,Emergency,No
+PAT0926,VIS00926,2025-03-19 01:27:19,,17,Other,Critical,Headache,ENT,6,162,168,Yes,NR07,DR07,87,157/100,38.2,Follow-up,No
+PAT0927,VIS00927,2025-04-16 19:33:25,,26,Other,Critical,Injury,Ophthalmology,3,209,212,No,NR08,DR08,89,139/83,37.0,New Visit,No
+PAT0928,VIS00928,2025-01-17 23:19:44,,74,Other,Emergency,Shortness of Breath,Pediatrics,19,169,188,No,NR09,DR01,65,116/62,39.3,Referral,Yes
+PAT0929,VIS00929,2025-06-26 11:09:33,,45,Female,Urgent,Injury,Dermatology,1,61,62,Yes,NR10,DR02,102,158/74,36.4,Referral,Yes
+PAT0930,VIS00930,2025-04-07 03:04:07,,83,Other,Non-Urgent,Nausea,Cardiology,82,194,276,Yes,NR01,DR03,73,122/84,36.1,Follow-up,No
+PAT0931,VIS00931,2025-05-05 17:22:12,,26,Female,Critical,Shortness of Breath,ENT,28,78,106,Yes,NR02,DR04,91,139/69,39.3,Emergency,Yes
+PAT0932,VIS00932,2025-02-03 20:52:19,,84,Female,Non-Urgent,Injury,ENT,78,110,188,Yes,NR03,DR05,62,120/97,38.5,Follow-up,Yes
+PAT0933,VIS00933,2025-01-04 17:21:06,,44,Other,Urgent,Injury,Orthopedics,21,157,178,No,NR04,DR06,66,107/91,37.1,Referral,No
+PAT0934,VIS00934,2025-01-21 17:38:17,,20,Male,Non-Urgent,Shortness of Breath,Cardiology,87,25,112,No,NR05,DR07,107,134/73,38.7,Follow-up,No
+PAT0935,VIS00935,2025-03-16 17:17:33,,61,Other,Non-Urgent,Abdominal Pain,Pediatrics,48,85,133,No,NR06,DR08,106,157/73,36.4,Follow-up,No
+PAT0936,VIS00936,2025-05-03 18:09:30,,56,Other,Emergency,Fracture,ENT,18,186,204,No,NR07,DR01,73,110/77,38.1,Follow-up,No
+PAT0937,VIS00937,2025-04-03 01:04:11,,51,Female,Critical,Fracture,Pediatrics,19,208,227,No,NR08,DR02,72,142/71,36.5,Referral,Yes
+PAT0938,VIS00938,2025-01-03 16:18:50,,85,Other,Non-Urgent,Dizziness,General Medicine,83,126,209,No,NR09,DR03,100,105/65,38.2,Referral,Yes
+PAT0939,VIS00939,2025-05-07 14:26:29,,21,Male,Non-Urgent,Abdominal Pain,General Medicine,33,91,124,No,NR10,DR04,113,124/68,38.1,New Visit,Yes
+PAT0940,VIS00940,2025-01-08 00:44:43,,25,Male,Semi-Urgent,Injury,General Medicine,8,168,176,No,NR01,DR05,91,133/74,37.4,New Visit,Yes
+PAT0941,VIS00941,2025-05-01 06:40:02,,62,Male,Critical,Fracture,Orthopedics,1,114,115,No,NR02,DR06,69,133/82,39.2,Follow-up,Yes
+PAT0942,VIS00942,2025-05-16 07:14:39,,89,Female,Emergency,Headache,General Medicine,28,223,251,No,NR03,DR07,67,128/68,38.0,New Visit,Yes
+PAT0943,VIS00943,2025-02-19 02:57:10,,39,Male,Emergency,Injury,General Medicine,24,168,192,No,NR04,DR08,89,119/80,36.9,Follow-up,No
+PAT0944,VIS00944,2025-03-18 11:09:31,,44,Female,Non-Urgent,Fracture,Cardiology,12,107,119,Yes,NR05,DR01,79,118/72,38.5,Emergency,No
+PAT0945,VIS00945,2025-03-08 12:44:46,,9,Male,Emergency,Shortness of Breath,General Medicine,5,172,177,No,NR06,DR02,97,157/94,36.2,Emergency,Yes
+PAT0946,VIS00946,2025-01-26 01:43:35,,62,Female,Critical,Fever,Pediatrics,8,148,156,No,NR07,DR03,116,123/81,38.9,Follow-up,No
+PAT0947,VIS00947,2025-05-21 04:45:12,,66,Male,Semi-Urgent,Abdominal Pain,ENT,116,220,336,No,NR08,DR04,111,101/78,36.9,Referral,Yes
+PAT0948,VIS00948,2025-03-12 20:19:05,,9,Female,Semi-Urgent,Fracture,Cardiology,23,41,64,No,NR09,DR05,81,145/81,37.5,New Visit,No
+PAT0949,VIS00949,2025-04-04 04:31:49,,17,Male,Urgent,Allergic Reaction,ENT,27,218,245,No,NR10,DR06,99,137/66,36.2,Follow-up,Yes
+PAT0950,VIS00950,2025-05-19 23:15:45,,18,Other,Urgent,Allergic Reaction,Neurology,3,81,84,Yes,NR01,DR07,92,147/69,36.4,Referral,No
+PAT0951,VIS00951,2025-04-13 10:36:20,,3,Female,Emergency,Fracture,Cardiology,17,116,133,No,NR02,DR08,89,133/90,38.6,Emergency,Yes
+PAT0952,VIS00952,2025-05-25 01:52:48,,49,Female,Semi-Urgent,Fever,Cardiology,54,134,188,No,NR03,DR01,89,133/85,37.2,Emergency,No
+PAT0953,VIS00953,2025-02-28 16:34:54,,8,Other,Semi-Urgent,Abdominal Pain,General Medicine,54,176,230,No,NR04,DR02,120,106/67,36.4,Follow-up,Yes
+PAT0954,VIS00954,2025-05-24 09:54:30,,20,Male,Critical,Fracture,Pediatrics,30,171,201,Yes,NR05,DR03,119,128/83,37.8,New Visit,No
+PAT0955,VIS00955,2025-03-05 00:32:35,,48,Other,Semi-Urgent,Nausea,Neurology,12,63,75,No,NR06,DR04,111,151/91,38.2,Referral,No
+PAT0956,VIS00956,2025-04-06 13:47:08,,45,Male,Emergency,Headache,ENT,23,204,227,Yes,NR07,DR05,83,100/65,39.4,Referral,Yes
+PAT0957,VIS00957,2025-02-19 20:45:53,,4,Male,Non-Urgent,Fracture,Dermatology,23,94,117,No,NR08,DR06,82,114/91,39.1,Referral,No
+PAT0958,VIS00958,2025-06-08 21:32:37,,55,Male,Emergency,Headache,Ophthalmology,17,221,238,Yes,NR09,DR07,69,148/60,36.8,Emergency,Yes
+PAT0959,VIS00959,2025-04-13 09:29:05,,16,Other,Critical,Nausea,Orthopedics,16,214,230,No,NR10,DR08,104,152/62,36.2,New Visit,Yes
+PAT0960,VIS00960,2025-03-28 03:03:20,,67,Female,Semi-Urgent,Abdominal Pain,Orthopedics,111,27,138,No,NR01,DR01,84,160/77,36.0,Follow-up,No
+PAT0961,VIS00961,2025-06-20 17:05:43,,8,Female,Emergency,Fracture,Dermatology,0,201,201,No,NR02,DR02,118,145/74,38.5,New Visit,No
+PAT0962,VIS00962,2025-01-30 10:51:52,,72,Male,Non-Urgent,Chest Pain,Neurology,92,139,231,No,NR03,DR03,66,134/94,37.4,Referral,Yes
+PAT0963,VIS00963,2025-03-30 22:14:38,,59,Other,Urgent,Fracture,General Medicine,8,208,216,No,NR04,DR04,89,136/97,37.4,New Visit,No
+PAT0964,VIS00964,2025-05-13 07:41:28,,21,Male,Semi-Urgent,Fever,Cardiology,66,146,212,No,NR05,DR05,67,155/68,39.4,Follow-up,Yes
+PAT0965,VIS00965,2025-03-02 14:06:16,,15,Male,Urgent,Allergic Reaction,ENT,2,157,159,Yes,NR06,DR06,106,119/63,37.8,Emergency,Yes
+PAT0966,VIS00966,2025-04-09 00:18:55,,16,Female,Critical,Fracture,Ophthalmology,26,50,76,Yes,NR07,DR07,109,130/92,37.3,Emergency,No
+PAT0967,VIS00967,2025-05-27 12:01:15,,25,Male,Non-Urgent,Nausea,Pediatrics,82,230,312,Yes,NR08,DR08,80,137/60,39.3,Emergency,No
+PAT0968,VIS00968,2025-01-10 16:43:32,,31,Female,Critical,Fracture,ENT,24,203,227,Yes,NR09,DR01,102,106/69,37.5,Emergency,No
+PAT0969,VIS00969,2025-03-28 09:30:04,,70,Male,Non-Urgent,Abdominal Pain,Orthopedics,36,223,259,No,NR10,DR02,98,121/77,36.5,Emergency,Yes
+PAT0970,VIS00970,2025-01-22 13:54:23,,88,Male,Non-Urgent,Abdominal Pain,Neurology,20,17,37,No,NR01,DR03,102,147/90,36.1,Referral,Yes
+PAT0971,VIS00971,2025-03-14 23:05:31,,32,Male,Urgent,Dizziness,Pediatrics,3,77,80,No,NR02,DR04,80,133/63,39.3,New Visit,No
+PAT0972,VIS00972,2025-03-01 18:10:59,,66,Other,Non-Urgent,Chest Pain,Cardiology,32,37,69,No,NR03,DR05,92,101/73,37.6,Follow-up,No
+PAT0973,VIS00973,2025-01-19 04:37:07,,4,Female,Critical,Fracture,Ophthalmology,15,164,179,Yes,NR04,DR06,117,139/93,36.4,Referral,Yes
+PAT0974,VIS00974,2025-06-01 22:17:13,,32,Female,Semi-Urgent,Headache,Dermatology,1,199,200,No,NR05,DR07,85,112/96,36.8,Referral,No
+PAT0975,VIS00975,2025-05-23 02:48:41,,44,Other,Critical,Chest Pain,Ophthalmology,26,189,215,Yes,NR06,DR08,88,147/80,39.1,New Visit,Yes
+PAT0976,VIS00976,2025-04-10 23:20:14,,69,Other,Semi-Urgent,Chest Pain,ENT,100,103,203,No,NR07,DR01,74,141/71,37.4,Follow-up,No
+PAT0977,VIS00977,2025-01-28 16:58:18,,38,Male,Emergency,Allergic Reaction,Neurology,19,142,161,No,NR08,DR02,97,138/91,37.9,Follow-up,No
+PAT0978,VIS00978,2025-05-13 00:39:03,,84,Male,Semi-Urgent,Allergic Reaction,Dermatology,82,175,257,No,NR09,DR03,70,153/99,38.0,New Visit,Yes
+PAT0979,VIS00979,2025-04-02 15:49:45,,71,Male,Emergency,Chest Pain,Pediatrics,6,108,114,No,NR10,DR04,72,114/91,36.7,Referral,Yes
+PAT0980,VIS00980,2025-02-09 04:35:07,,41,Male,Critical,Dizziness,Neurology,24,181,205,No,NR01,DR05,107,155/97,38.4,Follow-up,Yes
+PAT0981,VIS00981,2025-01-14 22:19:53,,82,Female,Non-Urgent,Fracture,General Medicine,106,218,324,No,NR02,DR06,118,133/79,36.5,Emergency,Yes
+PAT0982,VIS00982,2025-03-11 17:30:22,,73,Other,Semi-Urgent,Injury,ENT,59,189,248,No,NR03,DR07,98,150/100,39.1,Referral,Yes
+PAT0983,VIS00983,2025-03-28 14:44:35,,86,Male,Non-Urgent,Shortness of Breath,Dermatology,85,188,273,No,NR04,DR08,114,118/73,36.0,Follow-up,No
+PAT0984,VIS00984,2025-06-18 20:05:13,,79,Other,Non-Urgent,Shortness of Breath,Neurology,109,169,278,No,NR05,DR01,96,103/63,36.7,Referral,No
+PAT0985,VIS00985,2025-03-29 09:18:52,,32,Other,Urgent,Injury,Orthopedics,23,229,252,Yes,NR06,DR02,119,107/72,37.6,New Visit,No
+PAT0986,VIS00986,2025-01-17 16:41:10,,58,Female,Urgent,Nausea,General Medicine,24,52,76,Yes,NR07,DR03,114,156/73,36.8,Follow-up,Yes
+PAT0987,VIS00987,2025-01-27 22:33:30,,26,Male,Non-Urgent,Fever,Orthopedics,41,192,233,No,NR08,DR04,101,141/76,37.8,Follow-up,No
+PAT0988,VIS00988,2025-02-22 19:24:18,,15,Male,Non-Urgent,Dizziness,ENT,55,219,274,Yes,NR09,DR05,91,151/72,39.4,Follow-up,No
+PAT0989,VIS00989,2025-06-28 12:53:07,,49,Other,Emergency,Shortness of Breath,Pediatrics,5,115,120,No,NR10,DR06,111,157/75,36.2,Follow-up,Yes
+PAT0990,VIS00990,2025-06-23 03:07:51,,51,Female,Semi-Urgent,Dizziness,Neurology,49,165,214,No,NR01,DR07,66,159/96,39.0,Follow-up,No
+PAT0991,VIS00991,2025-02-15 17:27:22,,89,Male,Urgent,Fever,ENT,11,94,105,Yes,NR02,DR08,62,113/83,36.7,Emergency,No
+PAT0992,VIS00992,2025-06-05 04:43:42,,76,Female,Non-Urgent,Allergic Reaction,ENT,21,164,185,No,NR03,DR01,83,138/85,36.3,New Visit,No
+PAT0993,VIS00993,2025-03-26 13:20:10,,71,Male,Urgent,Abdominal Pain,Ophthalmology,30,198,228,No,NR04,DR02,93,108/81,37.4,New Visit,Yes
+PAT0994,VIS00994,2025-04-05 00:11:46,,55,Male,Emergency,Dizziness,ENT,13,53,66,Yes,NR05,DR03,89,105/80,38.0,New Visit,Yes
+PAT0995,VIS00995,2025-04-26 20:05:02,,50,Male,Emergency,Nausea,ENT,7,230,237,No,NR06,DR04,114,104/92,38.1,New Visit,No
+PAT0996,VIS00996,2025-05-11 00:27:49,,32,Other,Emergency,Headache,Ophthalmology,8,193,201,No,NR07,DR05,98,100/63,39.4,New Visit,Yes
+PAT0997,VIS00997,2025-06-29 03:35:20,,55,Male,Urgent,Abdominal Pain,Neurology,20,74,94,Yes,NR08,DR06,102,111/70,39.2,New Visit,No
+PAT0998,VIS00998,2025-03-29 10:54:40,,89,Female,Urgent,Abdominal Pain,Pediatrics,25,180,205,Yes,NR09,DR07,100,130/61,38.1,Emergency,No
+PAT0999,VIS00999,2025-02-01 12:45:57,,7,Male,Non-Urgent,Dizziness,Pediatrics,43,96,139,Yes,NR10,DR08,92,117/70,37.5,Emergency,No
+PAT1000,VIS01000,2025-05-03 13:37:15,,48,Male,Critical,Chest Pain,Neurology,27,45,72,Yes,NR01,DR01,100,125/67,38.7,Referral,Yes
+PAT1001,VIS01001,2025-01-30 17:50:15,,16,Male,Urgent,Fever,General Medicine,13,162,175,Yes,NR02,DR02,77,118/99,36.3,Follow-up,No
+PAT1002,VIS01002,2025-01-19 20:25:18,,39,Other,Emergency,Dizziness,Pediatrics,1,164,165,No,NR03,DR03,87,146/80,37.0,Follow-up,Yes
+PAT1003,VIS01003,2025-06-02 08:16:54,,65,Female,Emergency,Chest Pain,Neurology,25,156,181,Yes,NR04,DR04,109,109/74,37.5,Follow-up,No
+PAT1004,VIS01004,2025-03-01 21:22:19,,2,Other,Urgent,Injury,Ophthalmology,20,226,246,Yes,NR05,DR05,111,145/70,38.0,New Visit,No
+PAT1005,VIS01005,2025-05-20 11:31:07,,51,Female,Critical,Fever,Cardiology,16,163,179,Yes,NR06,DR06,102,135/91,38.1,Emergency,Yes
+PAT1006,VIS01006,2025-04-05 10:14:34,,63,Male,Critical,Headache,Orthopedics,30,54,84,Yes,NR07,DR07,119,148/94,37.5,Emergency,Yes
+PAT1007,VIS01007,2025-04-03 09:37:10,,55,Male,Non-Urgent,Fracture,Dermatology,84,36,120,Yes,NR08,DR08,117,121/94,39.4,New Visit,Yes
+PAT1008,VIS01008,2025-05-01 18:07:07,,62,Male,Semi-Urgent,Headache,General Medicine,16,215,231,No,NR09,DR01,63,100/92,36.9,Emergency,Yes
+PAT1009,VIS01009,2025-02-04 17:22:33,,29,Male,Urgent,Nausea,Pediatrics,26,199,225,No,NR10,DR02,87,109/83,38.1,Referral,Yes
+PAT1010,VIS01010,2025-06-22 06:11:57,,59,Female,Semi-Urgent,Headache,Cardiology,36,34,70,No,NR01,DR03,111,113/94,36.7,Follow-up,No
+PAT1011,VIS01011,2025-02-11 05:20:52,,36,Other,Semi-Urgent,Headache,Dermatology,22,209,231,Yes,NR02,DR04,120,105/78,37.2,New Visit,Yes
+PAT1012,VIS01012,2025-01-09 07:52:20,,77,Other,Emergency,Headache,Pediatrics,11,208,219,Yes,NR03,DR05,75,138/68,38.2,Follow-up,Yes
+PAT1013,VIS01013,2025-05-23 12:27:55,,79,Male,Semi-Urgent,Dizziness,Dermatology,16,126,142,Yes,NR04,DR06,97,141/92,36.2,New Visit,Yes
+PAT1014,VIS01014,2025-02-01 10:23:35,,22,Other,Emergency,Nausea,Orthopedics,25,234,259,No,NR05,DR07,80,131/95,36.5,Referral,No
+PAT1015,VIS01015,2025-01-09 13:55:20,,43,Female,Semi-Urgent,Fracture,Dermatology,0,45,45,No,NR06,DR08,66,131/73,38.8,Follow-up,No
+PAT1016,VIS01016,2025-04-27 21:28:54,,83,Other,Critical,Chest Pain,Dermatology,20,230,250,No,NR07,DR01,64,114/75,37.8,Referral,No
+PAT1017,VIS01017,2025-02-01 15:54:30,,72,Other,Non-Urgent,Shortness of Breath,Pediatrics,51,31,82,No,NR08,DR02,87,134/85,38.3,Emergency,No
+PAT1018,VIS01018,2025-01-02 16:47:35,,86,Male,Critical,Headache,Pediatrics,22,123,145,Yes,NR09,DR03,78,115/83,37.6,Follow-up,No
+PAT1019,VIS01019,2025-05-15 03:28:29,,69,Female,Urgent,Shortness of Breath,Ophthalmology,12,132,144,No,NR10,DR04,91,102/91,39.4,Emergency,No
+PAT1020,VIS01020,2025-04-14 08:05:56,,26,Other,Semi-Urgent,Allergic Reaction,Orthopedics,26,124,150,Yes,NR01,DR05,76,142/81,36.2,Referral,Yes
+PAT1021,VIS01021,2025-04-24 17:27:49,,65,Other,Semi-Urgent,Headache,Pediatrics,103,129,232,Yes,NR02,DR06,103,111/87,36.7,New Visit,Yes
+PAT1022,VIS01022,2025-01-16 17:21:46,,41,Other,Semi-Urgent,Chest Pain,Orthopedics,110,210,320,Yes,NR03,DR07,70,159/88,37.6,Referral,Yes
+PAT1023,VIS01023,2025-03-30 22:51:13,,31,Male,Non-Urgent,Allergic Reaction,General Medicine,100,197,297,No,NR04,DR08,114,103/78,38.1,Referral,No
+PAT1024,VIS01024,2025-02-27 12:08:45,,22,Female,Emergency,Headache,Cardiology,27,119,146,No,NR05,DR01,117,143/90,36.0,Referral,Yes
+PAT1025,VIS01025,2025-01-11 13:34:29,,60,Female,Non-Urgent,Abdominal Pain,Dermatology,117,170,287,No,NR06,DR02,73,110/65,36.4,Follow-up,Yes
+PAT1026,VIS01026,2025-04-13 09:46:33,,85,Female,Semi-Urgent,Dizziness,Neurology,61,186,247,Yes,NR07,DR03,94,135/79,38.0,Emergency,No
+PAT1027,VIS01027,2025-04-09 13:45:54,,77,Male,Critical,Shortness of Breath,Dermatology,20,168,188,Yes,NR08,DR04,73,132/100,37.6,New Visit,Yes
+PAT1028,VIS01028,2025-05-27 00:08:41,,54,Female,Urgent,Nausea,Ophthalmology,23,65,88,No,NR09,DR05,96,125/72,36.5,Emergency,No
+PAT1029,VIS01029,2025-02-25 04:24:34,,25,Male,Emergency,Injury,General Medicine,2,68,70,No,NR10,DR06,68,138/99,37.8,Referral,No
+PAT1030,VIS01030,2025-04-03 07:11:52,,28,Female,Emergency,Fracture,Pediatrics,29,115,144,No,NR01,DR07,112,120/64,38.1,Referral,No
+PAT1031,VIS01031,2025-05-27 08:37:51,,67,Other,Semi-Urgent,Abdominal Pain,Orthopedics,113,21,134,No,NR02,DR08,81,143/68,39.4,Follow-up,Yes
+PAT1032,VIS01032,2025-03-01 10:32:21,,3,Female,Non-Urgent,Chest Pain,Pediatrics,109,230,339,Yes,NR03,DR01,114,101/86,37.4,Follow-up,Yes
+PAT1033,VIS01033,2025-06-16 15:45:07,,86,Female,Emergency,Dizziness,Orthopedics,21,157,178,No,NR04,DR02,107,141/100,36.3,Emergency,No
+PAT1034,VIS01034,2025-01-12 20:50:16,,31,Other,Critical,Shortness of Breath,Ophthalmology,23,46,69,No,NR05,DR03,112,113/99,39.1,Emergency,No
+PAT1035,VIS01035,2025-04-14 21:17:26,,82,Female,Urgent,Fracture,General Medicine,11,202,213,No,NR06,DR04,107,141/60,37.1,Emergency,No
+PAT1036,VIS01036,2025-02-26 05:43:23,,49,Other,Urgent,Dizziness,Cardiology,8,228,236,Yes,NR07,DR05,95,139/68,38.1,Referral,No
+PAT1037,VIS01037,2025-06-24 02:58:35,,61,Other,Emergency,Fever,Cardiology,20,149,169,Yes,NR08,DR06,62,152/89,37.4,Follow-up,No
+PAT1038,VIS01038,2025-01-21 09:33:06,,6,Female,Urgent,Chest Pain,Neurology,28,212,240,No,NR09,DR07,100,109/93,38.0,New Visit,No
+PAT1039,VIS01039,2025-01-05 20:57:44,,36,Other,Emergency,Dizziness,Neurology,17,142,159,No,NR10,DR08,111,155/90,37.6,Referral,Yes
+PAT1040,VIS01040,2025-02-26 05:11:56,,71,Other,Semi-Urgent,Nausea,ENT,1,73,74,Yes,NR01,DR01,80,120/98,36.9,Referral,No
+PAT1041,VIS01041,2025-01-29 17:29:48,,90,Other,Emergency,Nausea,Pediatrics,3,114,117,No,NR02,DR02,95,117/81,38.3,Referral,No
+PAT1042,VIS01042,2025-04-28 11:47:54,,16,Male,Semi-Urgent,Allergic Reaction,ENT,118,185,303,No,NR03,DR03,82,106/79,37.9,New Visit,No
+PAT1043,VIS01043,2025-06-13 05:02:19,,18,Female,Semi-Urgent,Nausea,Neurology,104,86,190,No,NR04,DR04,103,134/90,37.6,Referral,Yes
+PAT1044,VIS01044,2025-01-19 19:38:05,,55,Male,Urgent,Shortness of Breath,General Medicine,2,60,62,No,NR05,DR05,103,120/98,38.8,Emergency,No
+PAT1045,VIS01045,2025-04-17 22:12:17,,60,Other,Non-Urgent,Injury,Cardiology,112,198,310,No,NR06,DR06,104,142/78,37.3,Emergency,No
+PAT1046,VIS01046,2025-04-24 16:41:37,,37,Other,Emergency,Dizziness,Dermatology,11,132,143,No,NR07,DR07,105,113/72,36.9,Referral,Yes
+PAT1047,VIS01047,2025-05-25 07:32:23,,26,Male,Non-Urgent,Nausea,Cardiology,32,240,272,Yes,NR08,DR08,87,107/72,37.5,Follow-up,No
+PAT1048,VIS01048,2025-02-01 10:01:33,,80,Male,Emergency,Injury,ENT,25,152,177,No,NR09,DR01,90,157/79,36.5,Emergency,No
+PAT1049,VIS01049,2025-03-03 21:01:39,,4,Male,Emergency,Shortness of Breath,ENT,15,103,118,Yes,NR10,DR02,103,146/65,36.7,New Visit,No
+PAT1050,VIS01050,2025-04-11 22:16:15,,53,Other,Emergency,Chest Pain,Pediatrics,28,83,111,No,NR01,DR03,95,115/74,37.7,New Visit,Yes
+PAT1051,VIS01051,2025-01-06 05:43:05,,78,Other,Urgent,Chest Pain,ENT,7,83,90,Yes,NR02,DR04,104,119/91,39.2,New Visit,No
+PAT1052,VIS01052,2025-06-21 10:09:42,,53,Male,Critical,Shortness of Breath,Dermatology,12,235,247,No,NR03,DR05,98,123/70,39.3,Referral,No
+PAT1053,VIS01053,2025-05-04 09:27:31,,31,Other,Non-Urgent,Fever,Cardiology,40,172,212,Yes,NR04,DR06,116,148/87,37.8,Emergency,Yes
+PAT1054,VIS01054,2025-06-18 19:27:30,,79,Male,Semi-Urgent,Headache,Orthopedics,117,160,277,No,NR05,DR07,117,153/70,37.2,Follow-up,No
+PAT1055,VIS01055,2025-04-28 08:44:46,,33,Female,Urgent,Allergic Reaction,Orthopedics,9,15,24,Yes,NR06,DR08,112,159/99,37.6,Follow-up,Yes
+PAT1056,VIS01056,2025-06-09 21:06:59,,71,Male,Semi-Urgent,Allergic Reaction,Cardiology,45,72,117,Yes,NR07,DR01,65,105/92,38.9,Follow-up,No
+PAT1057,VIS01057,2025-06-29 21:08:44,,55,Other,Critical,Fever,General Medicine,23,171,194,No,NR08,DR02,90,151/94,36.4,Follow-up,No
+PAT1058,VIS01058,2025-01-29 04:15:32,,15,Other,Urgent,Allergic Reaction,Pediatrics,2,23,25,Yes,NR09,DR03,107,106/81,38.8,New Visit,No
+PAT1059,VIS01059,2025-03-25 16:45:15,,32,Male,Semi-Urgent,Nausea,General Medicine,115,93,208,Yes,NR10,DR04,70,137/65,38.9,Follow-up,Yes
+PAT1060,VIS01060,2025-03-23 22:46:18,,58,Female,Semi-Urgent,Headache,Dermatology,73,18,91,No,NR01,DR05,118,114/61,38.4,Follow-up,Yes
+PAT1061,VIS01061,2025-02-24 01:34:32,,41,Male,Urgent,Injury,Pediatrics,3,42,45,Yes,NR02,DR06,109,144/84,36.2,Follow-up,Yes
+PAT1062,VIS01062,2025-03-24 02:10:53,,83,Other,Non-Urgent,Nausea,General Medicine,115,174,289,No,NR03,DR07,116,138/61,36.0,New Visit,Yes
+PAT1063,VIS01063,2025-04-12 10:59:51,,37,Other,Urgent,Nausea,Ophthalmology,20,33,53,No,NR04,DR08,101,158/66,39.2,Emergency,No
+PAT1064,VIS01064,2025-03-09 10:03:25,,64,Male,Semi-Urgent,Shortness of Breath,Dermatology,20,174,194,No,NR05,DR01,61,136/81,39.4,Follow-up,No
+PAT1065,VIS01065,2025-04-13 09:44:29,,73,Female,Semi-Urgent,Nausea,Neurology,79,144,223,Yes,NR06,DR02,78,150/85,39.5,Follow-up,No
+PAT1066,VIS01066,2025-01-22 05:50:54,,23,Female,Semi-Urgent,Abdominal Pain,Dermatology,114,239,353,No,NR07,DR03,97,137/79,38.8,Emergency,Yes
+PAT1067,VIS01067,2025-05-06 16:16:39,,25,Female,Semi-Urgent,Fracture,Ophthalmology,40,239,279,Yes,NR08,DR04,85,118/78,36.9,Referral,Yes
+PAT1068,VIS01068,2025-03-09 22:15:49,,57,Other,Emergency,Nausea,ENT,4,143,147,No,NR09,DR05,77,129/84,38.5,New Visit,Yes
+PAT1069,VIS01069,2025-03-31 02:26:47,,27,Female,Semi-Urgent,Allergic Reaction,Orthopedics,48,132,180,No,NR10,DR06,120,107/68,38.3,Referral,Yes
+PAT1070,VIS01070,2025-01-04 04:03:29,,65,Male,Non-Urgent,Fracture,Cardiology,39,73,112,Yes,NR01,DR07,111,106/97,39.4,Referral,No
+PAT1071,VIS01071,2025-04-14 05:33:50,,52,Male,Critical,Abdominal Pain,General Medicine,22,137,159,No,NR02,DR08,69,146/96,37.2,Emergency,Yes
+PAT1072,VIS01072,2025-02-13 22:20:35,,75,Female,Urgent,Allergic Reaction,Ophthalmology,11,47,58,No,NR03,DR01,69,157/66,38.0,New Visit,No
+PAT1073,VIS01073,2025-05-14 18:52:12,,3,Female,Non-Urgent,Nausea,Orthopedics,10,129,139,Yes,NR04,DR02,104,155/85,36.1,Follow-up,Yes
+PAT1074,VIS01074,2025-02-21 12:45:17,,20,Other,Non-Urgent,Allergic Reaction,Ophthalmology,76,44,120,No,NR05,DR03,66,150/64,36.4,Referral,Yes
+PAT1075,VIS01075,2025-01-02 12:48:12,,67,Other,Non-Urgent,Dizziness,Dermatology,80,120,200,Yes,NR06,DR04,64,104/65,36.9,Emergency,No
+PAT1076,VIS01076,2025-05-31 15:20:41,,59,Other,Non-Urgent,Nausea,General Medicine,26,198,224,No,NR07,DR05,72,148/64,36.2,Follow-up,No
+PAT1077,VIS01077,2025-03-09 00:03:14,,11,Male,Urgent,Chest Pain,Orthopedics,10,234,244,No,NR08,DR06,91,126/79,36.7,Emergency,No
+PAT1078,VIS01078,2025-02-25 06:32:08,,38,Other,Non-Urgent,Headache,Ophthalmology,81,76,157,Yes,NR09,DR07,116,148/93,38.1,Follow-up,Yes
+PAT1079,VIS01079,2025-05-23 06:24:29,,57,Female,Critical,Nausea,Neurology,13,119,132,No,NR10,DR08,76,112/84,38.2,Follow-up,Yes
+PAT1080,VIS01080,2025-04-28 12:58:03,,8,Male,Semi-Urgent,Nausea,Neurology,7,37,44,No,NR01,DR01,111,125/72,39.3,New Visit,No
+PAT1081,VIS01081,2025-03-17 05:45:19,,63,Other,Semi-Urgent,Fever,Ophthalmology,13,80,93,Yes,NR02,DR02,71,152/100,37.1,Referral,Yes
+PAT1082,VIS01082,2025-05-04 02:36:53,,3,Male,Non-Urgent,Allergic Reaction,General Medicine,40,159,199,No,NR03,DR03,114,160/95,38.5,Follow-up,Yes
+PAT1083,VIS01083,2025-01-07 07:34:35,,70,Male,Semi-Urgent,Injury,General Medicine,27,176,203,Yes,NR04,DR04,111,140/100,36.1,Referral,No
+PAT1084,VIS01084,2025-01-10 07:28:21,,50,Female,Critical,Dizziness,Ophthalmology,8,156,164,No,NR05,DR05,112,122/74,36.7,New Visit,No
+PAT1085,VIS01085,2025-04-22 09:14:04,,67,Female,Emergency,Fever,Dermatology,15,119,134,No,NR06,DR06,91,148/76,37.8,New Visit,Yes
+PAT1086,VIS01086,2025-06-14 17:42:00,,2,Female,Critical,Allergic Reaction,Cardiology,18,175,193,No,NR07,DR07,114,117/100,38.6,Follow-up,No
+PAT1087,VIS01087,2025-05-06 10:15:48,,55,Other,Semi-Urgent,Injury,Pediatrics,95,78,173,No,NR08,DR08,103,116/95,38.5,Referral,Yes
+PAT1088,VIS01088,2025-05-12 13:00:18,,73,Female,Critical,Nausea,General Medicine,25,184,209,No,NR09,DR01,72,126/68,38.6,Follow-up,No
+PAT1089,VIS01089,2025-04-21 06:38:22,,64,Female,Critical,Fever,Ophthalmology,3,119,122,No,NR10,DR02,112,117/90,38.1,Follow-up,No
+PAT1090,VIS01090,2025-03-28 22:09:43,,84,Male,Urgent,Headache,ENT,9,49,58,No,NR01,DR03,74,154/97,38.3,Follow-up,No
+PAT1091,VIS01091,2025-03-27 04:14:48,,85,Female,Non-Urgent,Nausea,Orthopedics,49,49,98,No,NR02,DR04,82,128/63,36.6,New Visit,Yes
+PAT1092,VIS01092,2025-02-24 17:36:54,,51,Other,Semi-Urgent,Shortness of Breath,Pediatrics,12,166,178,No,NR03,DR05,102,108/63,36.7,Emergency,No
+PAT1093,VIS01093,2025-03-29 04:05:49,,17,Male,Emergency,Abdominal Pain,Orthopedics,20,178,198,Yes,NR04,DR06,82,158/88,36.1,Emergency,Yes
+PAT1094,VIS01094,2025-04-02 21:33:06,,65,Female,Critical,Chest Pain,Ophthalmology,27,102,129,No,NR05,DR07,100,122/86,37.9,Referral,No
+PAT1095,VIS01095,2025-06-28 23:02:33,,9,Male,Critical,Allergic Reaction,ENT,19,227,246,No,NR06,DR08,95,134/79,39.3,Follow-up,Yes
+PAT1096,VIS01096,2025-01-27 18:56:36,,28,Male,Critical,Fracture,Orthopedics,30,162,192,Yes,NR07,DR01,84,111/73,36.5,New Visit,Yes
+PAT1097,VIS01097,2025-05-11 23:15:51,,40,Other,Critical,Abdominal Pain,Orthopedics,8,21,29,No,NR08,DR02,64,123/75,38.1,Follow-up,No
+PAT1098,VIS01098,2025-03-11 13:55:40,,71,Other,Semi-Urgent,Shortness of Breath,Pediatrics,107,35,142,No,NR09,DR03,75,106/95,37.9,New Visit,Yes
+PAT1099,VIS01099,2025-06-18 14:16:38,,1,Other,Emergency,Abdominal Pain,Pediatrics,9,238,247,No,NR10,DR04,119,101/87,36.0,Follow-up,Yes
+PAT1100,VIS01100,2025-02-20 21:46:07,,3,Male,Non-Urgent,Abdominal Pain,General Medicine,94,28,122,No,NR01,DR05,60,100/70,38.5,Emergency,Yes
+PAT1101,VIS01101,2025-05-13 00:51:22,,88,Other,Urgent,Allergic Reaction,Dermatology,18,116,134,No,NR02,DR06,101,105/65,37.6,Emergency,Yes
+PAT1102,VIS01102,2025-01-07 00:07:50,,8,Female,Semi-Urgent,Chest Pain,Ophthalmology,55,166,221,No,NR03,DR07,99,109/92,38.7,Referral,Yes
+PAT1103,VIS01103,2025-04-08 20:17:40,,19,Other,Emergency,Injury,Dermatology,2,238,240,Yes,NR04,DR08,102,155/76,39.5,New Visit,No
+PAT1104,VIS01104,2025-02-12 17:40:23,,83,Male,Critical,Chest Pain,Cardiology,9,71,80,Yes,NR05,DR01,91,125/99,38.4,Emergency,No
+PAT1105,VIS01105,2025-01-23 11:17:57,,76,Male,Urgent,Allergic Reaction,ENT,17,232,249,No,NR06,DR02,91,114/100,38.3,Emergency,No
+PAT1106,VIS01106,2025-04-29 16:54:37,,51,Male,Critical,Fever,General Medicine,12,181,193,No,NR07,DR03,87,125/93,38.7,New Visit,No
+PAT1107,VIS01107,2025-05-29 13:01:54,,86,Male,Urgent,Abdominal Pain,ENT,4,54,58,No,NR08,DR04,100,153/83,36.9,Follow-up,No
+PAT1108,VIS01108,2025-02-07 15:01:12,,84,Male,Semi-Urgent,Headache,Pediatrics,82,121,203,Yes,NR09,DR05,116,143/66,39.0,Follow-up,Yes
+PAT1109,VIS01109,2025-06-19 07:56:36,,38,Other,Semi-Urgent,Headache,Dermatology,16,179,195,Yes,NR10,DR06,90,127/85,39.2,Follow-up,Yes
+PAT1110,VIS01110,2025-01-11 12:40:51,,24,Male,Critical,Fracture,General Medicine,9,82,91,No,NR01,DR07,61,134/64,39.5,New Visit,No
+PAT1111,VIS01111,2025-05-09 02:49:59,,8,Male,Emergency,Allergic Reaction,Cardiology,1,35,36,No,NR02,DR08,77,125/65,36.6,Follow-up,Yes
+PAT1112,VIS01112,2025-03-01 16:54:05,,32,Other,Semi-Urgent,Chest Pain,Pediatrics,53,78,131,No,NR03,DR01,93,101/80,39.3,Referral,Yes
+PAT1113,VIS01113,2025-01-27 13:48:58,,78,Other,Emergency,Dizziness,Cardiology,8,140,148,No,NR04,DR02,93,126/67,37.8,Follow-up,Yes
+PAT1114,VIS01114,2025-06-01 21:28:17,,76,Other,Emergency,Fracture,ENT,23,157,180,Yes,NR05,DR03,116,136/82,38.7,Referral,Yes
+PAT1115,VIS01115,2025-03-20 09:12:49,,89,Female,Non-Urgent,Injury,Orthopedics,97,65,162,No,NR06,DR04,95,136/93,38.1,New Visit,Yes
+PAT1116,VIS01116,2025-04-03 12:43:50,,6,Other,Non-Urgent,Fracture,Neurology,58,170,228,No,NR07,DR05,80,115/88,36.1,New Visit,No
+PAT1117,VIS01117,2025-01-13 03:26:24,,48,Other,Semi-Urgent,Abdominal Pain,ENT,35,176,211,No,NR08,DR06,72,131/85,38.7,Referral,Yes
+PAT1118,VIS01118,2025-06-01 05:31:58,,37,Male,Semi-Urgent,Shortness of Breath,General Medicine,107,128,235,Yes,NR09,DR07,83,103/100,36.2,Emergency,Yes
+PAT1119,VIS01119,2025-05-06 01:29:28,,56,Male,Non-Urgent,Chest Pain,General Medicine,120,207,327,Yes,NR10,DR08,67,158/72,36.4,New Visit,No
+PAT1120,VIS01120,2025-05-01 08:27:49,,72,Female,Urgent,Abdominal Pain,Neurology,6,17,23,Yes,NR01,DR01,63,101/71,36.0,New Visit,No
+PAT1121,VIS01121,2025-01-31 05:54:39,,75,Other,Semi-Urgent,Chest Pain,Neurology,73,95,168,Yes,NR02,DR02,61,158/89,36.1,Emergency,Yes
+PAT1122,VIS01122,2025-03-20 06:43:23,,44,Male,Urgent,Fracture,Cardiology,15,43,58,No,NR03,DR03,113,128/77,38.8,Referral,Yes
+PAT1123,VIS01123,2025-02-01 10:17:54,,84,Other,Emergency,Fracture,Dermatology,29,213,242,Yes,NR04,DR04,107,138/81,38.7,Emergency,Yes
+PAT1124,VIS01124,2025-05-17 02:24:44,,32,Male,Urgent,Fever,Pediatrics,13,83,96,No,NR05,DR05,73,136/74,36.8,Follow-up,No
+PAT1125,VIS01125,2025-01-17 19:23:19,,47,Male,Emergency,Headache,Ophthalmology,21,178,199,Yes,NR06,DR06,75,122/79,39.1,New Visit,No
+PAT1126,VIS01126,2025-06-11 01:47:16,,37,Male,Critical,Shortness of Breath,Cardiology,19,76,95,Yes,NR07,DR07,111,101/91,39.5,New Visit,Yes
+PAT1127,VIS01127,2025-04-25 20:00:16,,11,Male,Critical,Dizziness,Ophthalmology,26,30,56,No,NR08,DR08,106,160/69,38.1,New Visit,No
+PAT1128,VIS01128,2025-05-15 12:50:28,,48,Female,Emergency,Chest Pain,ENT,6,213,219,No,NR09,DR01,100,135/87,37.3,Follow-up,No
+PAT1129,VIS01129,2025-05-22 00:59:28,,80,Male,Critical,Shortness of Breath,ENT,8,74,82,No,NR10,DR02,115,129/85,36.2,Follow-up,No
+PAT1130,VIS01130,2025-03-17 00:27:57,,2,Female,Critical,Chest Pain,General Medicine,11,184,195,Yes,NR01,DR03,114,112/99,38.7,Referral,No
+PAT1131,VIS01131,2025-02-16 23:41:30,,22,Male,Semi-Urgent,Fever,General Medicine,56,228,284,No,NR02,DR04,68,122/82,37.3,New Visit,Yes
+PAT1132,VIS01132,2025-02-16 00:48:35,,85,Male,Urgent,Dizziness,Cardiology,18,73,91,No,NR03,DR05,109,120/70,38.7,Referral,No
+PAT1133,VIS01133,2025-05-15 20:21:20,,2,Male,Emergency,Chest Pain,Dermatology,10,149,159,No,NR04,DR06,106,122/97,38.7,Follow-up,No
+PAT1134,VIS01134,2025-02-16 13:35:43,,28,Other,Urgent,Abdominal Pain,ENT,17,202,219,No,NR05,DR07,101,157/65,39.3,New Visit,Yes
+PAT1135,VIS01135,2025-02-21 13:43:52,,2,Other,Urgent,Abdominal Pain,General Medicine,27,165,192,No,NR06,DR08,100,132/99,36.7,New Visit,No
+PAT1136,VIS01136,2025-02-04 21:38:28,,26,Male,Semi-Urgent,Allergic Reaction,Cardiology,86,107,193,Yes,NR07,DR01,75,120/86,37.4,Referral,Yes
+PAT1137,VIS01137,2025-03-27 11:30:45,,69,Male,Semi-Urgent,Nausea,General Medicine,64,50,114,Yes,NR08,DR02,60,132/72,39.5,Emergency,No
+PAT1138,VIS01138,2025-03-04 03:21:38,,69,Other,Emergency,Nausea,Ophthalmology,28,60,88,No,NR09,DR03,89,118/92,37.4,Referral,Yes
+PAT1139,VIS01139,2025-01-22 14:04:33,,78,Male,Semi-Urgent,Allergic Reaction,Neurology,23,143,166,Yes,NR10,DR04,117,122/65,37.1,Follow-up,Yes
+PAT1140,VIS01140,2025-01-17 14:08:55,,70,Female,Critical,Fracture,Neurology,18,28,46,No,NR01,DR05,115,129/67,37.4,New Visit,Yes
+PAT1141,VIS01141,2025-01-28 19:42:40,,64,Female,Emergency,Headache,Pediatrics,9,65,74,Yes,NR02,DR06,65,135/75,39.3,New Visit,Yes
+PAT1142,VIS01142,2025-03-03 14:19:58,,67,Male,Non-Urgent,Nausea,Pediatrics,70,79,149,No,NR03,DR07,107,106/85,37.5,Referral,Yes
+PAT1143,VIS01143,2025-06-14 01:03:56,,54,Male,Urgent,Fracture,Pediatrics,1,186,187,No,NR04,DR08,111,128/98,36.3,Follow-up,No
+PAT1144,VIS01144,2025-02-17 19:34:03,,72,Other,Semi-Urgent,Injury,Pediatrics,73,238,311,No,NR05,DR01,109,110/87,39.4,Follow-up,Yes
+PAT1145,VIS01145,2025-01-27 19:00:04,,34,Female,Emergency,Dizziness,Ophthalmology,23,181,204,Yes,NR06,DR02,73,151/87,38.8,Referral,Yes
+PAT1146,VIS01146,2025-05-20 04:46:27,,6,Male,Critical,Allergic Reaction,Orthopedics,6,165,171,No,NR07,DR03,100,112/97,37.5,Emergency,Yes
+PAT1147,VIS01147,2025-02-21 09:48:36,,47,Other,Non-Urgent,Allergic Reaction,Orthopedics,51,37,88,No,NR08,DR04,86,131/64,39.1,Follow-up,No
+PAT1148,VIS01148,2025-01-16 09:52:16,,31,Female,Emergency,Fever,Neurology,27,183,210,No,NR09,DR05,120,142/95,38.9,New Visit,Yes
+PAT1149,VIS01149,2025-06-09 15:26:53,,49,Male,Non-Urgent,Allergic Reaction,ENT,9,94,103,No,NR10,DR06,72,113/91,38.4,New Visit,Yes
+PAT1150,VIS01150,2025-06-10 10:04:29,,55,Female,Non-Urgent,Chest Pain,ENT,106,239,345,No,NR01,DR07,61,148/90,38.2,Follow-up,No
+PAT1151,VIS01151,2025-02-05 16:59:20,,79,Female,Emergency,Chest Pain,ENT,28,192,220,No,NR02,DR08,86,134/68,37.5,Follow-up,No
+PAT1152,VIS01152,2025-03-09 10:13:20,,3,Female,Non-Urgent,Chest Pain,ENT,110,205,315,No,NR03,DR01,80,125/82,36.5,Emergency,No
+PAT1153,VIS01153,2025-06-05 17:20:47,,25,Male,Urgent,Injury,ENT,30,68,98,Yes,NR04,DR02,91,130/82,38.8,Referral,No
+PAT1154,VIS01154,2025-02-12 00:52:53,,10,Other,Non-Urgent,Chest Pain,Cardiology,97,214,311,No,NR05,DR03,112,112/61,37.2,New Visit,No
+PAT1155,VIS01155,2025-04-29 01:05:10,,10,Male,Semi-Urgent,Fracture,Cardiology,82,231,313,No,NR06,DR04,114,148/80,39.1,Emergency,Yes
+PAT1156,VIS01156,2025-01-08 12:28:23,,18,Male,Non-Urgent,Dizziness,Orthopedics,27,109,136,No,NR07,DR05,64,145/66,36.7,Follow-up,Yes
+PAT1157,VIS01157,2025-06-24 00:52:10,,41,Other,Emergency,Injury,Orthopedics,12,125,137,No,NR08,DR06,98,133/66,37.5,Emergency,No
+PAT1158,VIS01158,2025-02-13 20:35:59,,44,Male,Semi-Urgent,Nausea,Neurology,108,198,306,No,NR09,DR07,88,129/75,38.7,Follow-up,No
+PAT1159,VIS01159,2025-06-19 17:19:51,,66,Female,Critical,Shortness of Breath,General Medicine,0,161,161,No,NR10,DR08,115,135/96,37.5,New Visit,Yes
+PAT1160,VIS01160,2025-03-22 19:25:36,,55,Female,Critical,Injury,Pediatrics,23,208,231,No,NR01,DR01,75,150/97,37.5,Follow-up,No
+PAT1161,VIS01161,2025-05-24 13:38:54,,86,Female,Critical,Abdominal Pain,Cardiology,6,34,40,No,NR02,DR02,73,145/77,38.3,Emergency,No
+PAT1162,VIS01162,2025-04-22 11:20:34,,89,Other,Urgent,Allergic Reaction,Ophthalmology,28,50,78,No,NR03,DR03,88,110/83,38.4,Follow-up,Yes
+PAT1163,VIS01163,2025-06-27 20:19:58,,61,Female,Semi-Urgent,Headache,Pediatrics,32,192,224,Yes,NR04,DR04,94,113/63,37.0,Emergency,Yes
+PAT1164,VIS01164,2025-03-05 14:51:32,,23,Male,Critical,Fracture,Orthopedics,23,206,229,No,NR05,DR05,100,144/74,38.2,Emergency,No
+PAT1165,VIS01165,2025-02-26 04:45:19,,4,Female,Critical,Allergic Reaction,Pediatrics,5,129,134,No,NR06,DR06,104,124/100,38.0,Follow-up,No
+PAT1166,VIS01166,2025-05-15 11:56:17,,68,Male,Critical,Allergic Reaction,Neurology,11,136,147,Yes,NR07,DR07,89,123/78,36.5,New Visit,Yes
+PAT1167,VIS01167,2025-01-25 23:40:57,,25,Male,Semi-Urgent,Fever,Pediatrics,41,125,166,No,NR08,DR08,79,150/93,36.7,Emergency,No
+PAT1168,VIS01168,2025-05-22 05:43:26,,42,Other,Emergency,Dizziness,Ophthalmology,18,33,51,Yes,NR09,DR01,81,118/70,37.3,Emergency,Yes
+PAT1169,VIS01169,2025-02-24 01:33:47,,78,Male,Urgent,Fever,Cardiology,4,151,155,Yes,NR10,DR02,62,126/98,36.9,Referral,No
+PAT1170,VIS01170,2025-05-23 10:29:28,,87,Female,Semi-Urgent,Fever,Orthopedics,57,23,80,No,NR01,DR03,60,155/66,36.6,New Visit,Yes
+PAT1171,VIS01171,2025-03-20 21:42:18,,19,Male,Urgent,Injury,Orthopedics,21,182,203,No,NR02,DR04,65,138/60,37.9,New Visit,No
+PAT1172,VIS01172,2025-05-17 20:58:15,,47,Female,Non-Urgent,Shortness of Breath,ENT,21,154,175,Yes,NR03,DR05,117,145/88,36.9,New Visit,Yes
+PAT1173,VIS01173,2025-05-15 05:48:58,,5,Other,Semi-Urgent,Shortness of Breath,Pediatrics,16,54,70,No,NR04,DR06,71,125/82,39.5,Emergency,Yes
+PAT1174,VIS01174,2025-04-17 19:41:48,,44,Male,Semi-Urgent,Dizziness,Cardiology,23,94,117,Yes,NR05,DR07,99,111/87,38.7,Referral,Yes
+PAT1175,VIS01175,2025-03-26 07:14:53,,79,Male,Emergency,Nausea,ENT,8,116,124,Yes,NR06,DR08,111,100/91,37.6,Referral,Yes
+PAT1176,VIS01176,2025-01-03 13:26:50,,8,Other,Emergency,Shortness of Breath,Dermatology,17,184,201,Yes,NR07,DR01,99,117/88,39.4,Emergency,No
+PAT1177,VIS01177,2025-04-27 08:12:42,,68,Female,Critical,Fracture,General Medicine,0,210,210,No,NR08,DR02,67,146/74,38.4,Emergency,Yes
+PAT1178,VIS01178,2025-06-07 21:43:54,,53,Other,Non-Urgent,Fever,Cardiology,57,21,78,Yes,NR09,DR03,63,116/66,36.5,Emergency,Yes
+PAT1179,VIS01179,2025-02-16 03:42:12,,59,Male,Semi-Urgent,Shortness of Breath,Pediatrics,114,43,157,No,NR10,DR04,70,157/61,38.7,Emergency,Yes
+PAT1180,VIS01180,2025-06-10 23:41:53,,77,Female,Non-Urgent,Shortness of Breath,Pediatrics,100,81,181,No,NR01,DR05,90,116/60,36.9,Follow-up,No
+PAT1181,VIS01181,2025-02-01 09:25:16,,81,Other,Critical,Shortness of Breath,Dermatology,19,186,205,Yes,NR02,DR06,120,160/84,39.1,Emergency,No
+PAT1182,VIS01182,2025-04-29 10:43:05,,87,Male,Critical,Chest Pain,Neurology,4,55,59,Yes,NR03,DR07,111,110/60,37.4,Referral,No
+PAT1183,VIS01183,2025-02-11 13:18:10,,4,Male,Critical,Chest Pain,ENT,13,134,147,Yes,NR04,DR08,80,160/90,38.3,Follow-up,Yes
+PAT1184,VIS01184,2025-03-04 21:08:29,,46,Other,Critical,Shortness of Breath,Dermatology,27,69,96,No,NR05,DR01,69,157/61,38.5,Emergency,No
+PAT1185,VIS01185,2025-05-15 12:12:00,,57,Male,Critical,Headache,Neurology,27,226,253,Yes,NR06,DR02,96,119/83,36.5,Referral,No
+PAT1186,VIS01186,2025-05-16 07:36:50,,15,Male,Critical,Dizziness,Pediatrics,21,176,197,Yes,NR07,DR03,89,102/68,37.7,Referral,Yes
+PAT1187,VIS01187,2025-05-11 13:26:37,,72,Other,Emergency,Fracture,Dermatology,13,227,240,No,NR08,DR04,107,138/94,38.0,Emergency,No
+PAT1188,VIS01188,2025-06-20 12:11:19,,73,Other,Critical,Abdominal Pain,ENT,7,35,42,No,NR09,DR05,70,113/62,38.3,Follow-up,Yes
+PAT1189,VIS01189,2025-04-17 00:50:16,,1,Male,Semi-Urgent,Headache,Orthopedics,14,110,124,Yes,NR10,DR06,61,145/73,36.1,Emergency,No
+PAT1190,VIS01190,2025-04-04 09:34:45,,27,Female,Critical,Injury,Neurology,29,99,128,No,NR01,DR07,93,140/70,38.3,Emergency,No
+PAT1191,VIS01191,2025-03-18 21:38:10,,83,Female,Critical,Fever,Neurology,21,148,169,Yes,NR02,DR08,115,102/93,36.6,Referral,No
+PAT1192,VIS01192,2025-03-28 18:35:07,,5,Female,Critical,Fracture,Ophthalmology,30,169,199,Yes,NR03,DR01,75,142/72,39.4,Emergency,No
+PAT1193,VIS01193,2025-06-21 15:10:29,,28,Male,Non-Urgent,Headache,General Medicine,24,152,176,No,NR04,DR02,111,112/94,39.0,New Visit,No
+PAT1194,VIS01194,2025-06-11 05:41:08,,10,Other,Emergency,Dizziness,Orthopedics,11,184,195,No,NR05,DR03,105,120/71,38.7,Follow-up,Yes
+PAT1195,VIS01195,2025-03-28 04:51:28,,32,Male,Non-Urgent,Shortness of Breath,Cardiology,10,238,248,No,NR06,DR04,73,108/82,38.5,Emergency,No
+PAT1196,VIS01196,2025-01-22 14:43:55,,65,Male,Emergency,Dizziness,Orthopedics,2,112,114,Yes,NR07,DR05,117,109/77,36.9,Emergency,Yes
+PAT1197,VIS01197,2025-01-03 21:30:17,,69,Other,Urgent,Headache,Neurology,6,47,53,Yes,NR08,DR06,102,149/99,38.1,Follow-up,Yes
+PAT1198,VIS01198,2025-03-17 10:22:29,,77,Other,Critical,Shortness of Breath,Neurology,28,216,244,Yes,NR09,DR07,71,117/65,38.9,Referral,Yes
+PAT1199,VIS01199,2025-06-24 04:45:04,,25,Other,Semi-Urgent,Abdominal Pain,Dermatology,11,201,212,No,NR10,DR08,83,151/61,36.7,Emergency,Yes
+PAT1200,VIS01200,2025-04-18 23:59:14,,33,Female,Emergency,Fracture,Cardiology,28,192,220,Yes,NR01,DR01,77,102/62,39.1,New Visit,Yes
+PAT1201,VIS01201,2025-02-27 15:34:24,,77,Male,Emergency,Shortness of Breath,Pediatrics,6,64,70,No,NR02,DR02,104,142/73,37.4,Referral,No
+PAT1202,VIS01202,2025-02-16 10:12:09,,64,Male,Emergency,Allergic Reaction,Pediatrics,3,157,160,Yes,NR03,DR03,118,138/85,37.3,Follow-up,Yes
+PAT1203,VIS01203,2025-04-14 22:12:40,,73,Male,Non-Urgent,Nausea,Pediatrics,8,148,156,No,NR04,DR04,72,128/79,36.6,Referral,Yes
+PAT1204,VIS01204,2025-06-03 06:04:06,,74,Male,Emergency,Dizziness,Ophthalmology,0,86,86,Yes,NR05,DR05,89,117/81,38.9,Emergency,Yes
+PAT1205,VIS01205,2025-05-24 05:21:59,,70,Male,Semi-Urgent,Chest Pain,Orthopedics,32,240,272,Yes,NR06,DR06,85,145/84,36.6,Referral,Yes
+PAT1206,VIS01206,2025-01-28 23:32:21,,34,Female,Semi-Urgent,Fever,Ophthalmology,50,22,72,No,NR07,DR07,78,102/62,36.1,Follow-up,Yes
+PAT1207,VIS01207,2025-06-10 21:40:12,,59,Other,Urgent,Fracture,ENT,13,127,140,No,NR08,DR08,103,121/60,38.6,New Visit,Yes
+PAT1208,VIS01208,2025-04-14 18:21:40,,13,Other,Non-Urgent,Abdominal Pain,Neurology,65,36,101,No,NR09,DR01,96,145/77,36.0,Follow-up,No
+PAT1209,VIS01209,2025-06-09 09:53:37,,67,Male,Non-Urgent,Nausea,General Medicine,89,111,200,Yes,NR10,DR02,83,117/79,37.3,Follow-up,No
+PAT1210,VIS01210,2025-05-22 12:12:18,,30,Male,Semi-Urgent,Dizziness,General Medicine,112,214,326,No,NR01,DR03,60,132/86,36.0,Referral,Yes
+PAT1211,VIS01211,2025-06-06 06:27:11,,32,Male,Emergency,Chest Pain,Neurology,3,24,27,No,NR02,DR04,82,131/95,36.2,New Visit,No
+PAT1212,VIS01212,2025-03-17 03:47:55,,50,Female,Urgent,Nausea,Pediatrics,27,201,228,No,NR03,DR05,91,124/95,39.3,Emergency,Yes
+PAT1213,VIS01213,2025-02-04 19:51:27,,43,Female,Semi-Urgent,Fracture,Orthopedics,115,143,258,No,NR04,DR06,89,159/82,38.9,Follow-up,Yes
+PAT1214,VIS01214,2025-03-26 07:32:18,,63,Male,Urgent,Allergic Reaction,Dermatology,1,218,219,Yes,NR05,DR07,114,101/92,38.3,New Visit,No
+PAT1215,VIS01215,2025-01-29 14:35:21,,47,Other,Non-Urgent,Fever,ENT,75,57,132,Yes,NR06,DR08,83,117/73,36.7,Emergency,No
+PAT1216,VIS01216,2025-03-27 16:11:22,,49,Female,Urgent,Injury,Ophthalmology,25,201,226,Yes,NR07,DR01,99,150/76,38.3,Follow-up,Yes
+PAT1217,VIS01217,2025-01-10 20:41:16,,34,Other,Emergency,Abdominal Pain,Cardiology,14,72,86,No,NR08,DR02,116,103/65,36.8,Emergency,No
+PAT1218,VIS01218,2025-05-09 14:24:52,,54,Other,Non-Urgent,Headache,Neurology,23,129,152,Yes,NR09,DR03,71,125/64,36.1,New Visit,Yes
+PAT1219,VIS01219,2025-01-02 22:00:02,,23,Female,Non-Urgent,Abdominal Pain,Neurology,37,101,138,Yes,NR10,DR04,102,114/81,37.9,Emergency,No
+PAT1220,VIS01220,2025-04-12 17:41:33,,82,Male,Critical,Nausea,ENT,30,209,239,No,NR01,DR05,108,160/93,36.2,New Visit,Yes
+PAT1221,VIS01221,2025-04-08 17:50:50,,1,Male,Urgent,Chest Pain,Cardiology,11,142,153,No,NR02,DR06,104,155/90,37.0,New Visit,No
+PAT1222,VIS01222,2025-04-21 01:04:36,,22,Male,Semi-Urgent,Fever,Cardiology,55,57,112,Yes,NR03,DR07,102,158/91,37.9,New Visit,Yes
+PAT1223,VIS01223,2025-03-01 18:54:08,,19,Male,Semi-Urgent,Fever,General Medicine,6,39,45,Yes,NR04,DR08,93,158/96,39.0,Follow-up,Yes
+PAT1224,VIS01224,2025-02-05 06:57:38,,17,Other,Emergency,Nausea,Cardiology,12,219,231,No,NR05,DR01,103,119/68,37.2,Referral,No
+PAT1225,VIS01225,2025-01-18 16:32:28,,46,Other,Semi-Urgent,Dizziness,Orthopedics,12,126,138,No,NR06,DR02,120,131/98,37.7,Referral,Yes
+PAT1226,VIS01226,2025-01-29 03:39:02,,30,Male,Critical,Fever,ENT,29,56,85,No,NR07,DR03,62,117/70,36.1,Follow-up,No
+PAT1227,VIS01227,2025-06-07 23:21:47,,86,Male,Non-Urgent,Abdominal Pain,Pediatrics,106,28,134,No,NR08,DR04,99,100/84,36.3,Referral,No
+PAT1228,VIS01228,2025-03-22 07:10:39,,84,Female,Emergency,Dizziness,Dermatology,29,154,183,Yes,NR09,DR05,81,151/97,38.3,Referral,Yes
+PAT1229,VIS01229,2025-06-13 09:24:07,,65,Other,Non-Urgent,Allergic Reaction,Neurology,66,233,299,No,NR10,DR06,117,126/85,38.5,New Visit,No
+PAT1230,VIS01230,2025-06-08 09:11:34,,49,Female,Urgent,Fracture,Ophthalmology,4,219,223,Yes,NR01,DR07,87,120/97,37.6,Follow-up,No
+PAT1231,VIS01231,2025-03-07 13:17:23,,48,Other,Emergency,Allergic Reaction,Orthopedics,4,109,113,Yes,NR02,DR08,101,132/76,36.8,New Visit,Yes
+PAT1232,VIS01232,2025-06-28 17:07:42,,68,Male,Semi-Urgent,Fracture,Ophthalmology,61,66,127,Yes,NR03,DR01,79,153/86,38.2,Follow-up,No
+PAT1233,VIS01233,2025-03-05 22:27:01,,30,Female,Semi-Urgent,Nausea,Neurology,91,23,114,No,NR04,DR02,115,123/81,36.4,Emergency,Yes
+PAT1234,VIS01234,2025-05-11 02:52:28,,54,Male,Non-Urgent,Abdominal Pain,Orthopedics,106,209,315,Yes,NR05,DR03,99,138/90,38.7,Referral,Yes
+PAT1235,VIS01235,2025-06-11 07:15:50,,77,Female,Non-Urgent,Abdominal Pain,Dermatology,21,239,260,Yes,NR06,DR04,91,110/84,39.4,New Visit,No
+PAT1236,VIS01236,2025-03-05 03:20:09,,27,Other,Critical,Injury,Dermatology,30,110,140,No,NR07,DR05,88,133/66,39.3,New Visit,Yes
+PAT1237,VIS01237,2025-04-26 10:09:55,,63,Other,Critical,Chest Pain,Neurology,24,80,104,Yes,NR08,DR06,106,111/73,36.6,Emergency,Yes
+PAT1238,VIS01238,2025-05-12 07:56:57,,51,Female,Non-Urgent,Abdominal Pain,Dermatology,88,171,259,No,NR09,DR07,97,135/81,36.0,Follow-up,No
+PAT1239,VIS01239,2025-04-01 09:45:34,,85,Female,Non-Urgent,Dizziness,Dermatology,99,219,318,Yes,NR10,DR08,109,100/79,36.8,Emergency,No
+PAT1240,VIS01240,2025-05-17 19:51:54,,29,Female,Urgent,Allergic Reaction,ENT,10,203,213,Yes,NR01,DR01,74,154/62,38.9,Referral,Yes
+PAT1241,VIS01241,2025-06-02 13:26:34,,27,Female,Non-Urgent,Dizziness,Orthopedics,28,49,77,Yes,NR02,DR02,92,108/77,36.5,Emergency,No
+PAT1242,VIS01242,2025-04-13 09:31:21,,5,Female,Semi-Urgent,Dizziness,Dermatology,94,194,288,No,NR03,DR03,103,157/71,37.4,Referral,Yes
+PAT1243,VIS01243,2025-02-22 03:59:06,,40,Other,Critical,Nausea,Dermatology,28,74,102,No,NR04,DR04,69,144/78,36.6,New Visit,No
+PAT1244,VIS01244,2025-06-12 22:54:24,,63,Male,Non-Urgent,Dizziness,General Medicine,116,181,297,No,NR05,DR05,97,156/87,38.4,New Visit,Yes
+PAT1245,VIS01245,2025-02-05 05:20:54,,56,Female,Urgent,Chest Pain,Ophthalmology,25,66,91,No,NR06,DR06,105,123/71,38.9,New Visit,Yes
+PAT1246,VIS01246,2025-05-24 05:51:09,,72,Female,Emergency,Fever,General Medicine,15,40,55,No,NR07,DR07,115,101/93,38.6,Referral,No
+PAT1247,VIS01247,2025-03-14 04:53:39,,86,Female,Non-Urgent,Injury,General Medicine,106,148,254,No,NR08,DR08,103,124/60,38.7,New Visit,No
+PAT1248,VIS01248,2025-01-05 09:33:40,,46,Female,Non-Urgent,Nausea,Cardiology,19,23,42,Yes,NR09,DR01,96,113/73,39.4,Emergency,No
+PAT1249,VIS01249,2025-06-06 11:17:48,,60,Male,Non-Urgent,Injury,Orthopedics,88,132,220,No,NR10,DR02,72,136/66,39.4,New Visit,No
+PAT1250,VIS01250,2025-03-06 21:15:18,,36,Male,Non-Urgent,Abdominal Pain,Pediatrics,26,16,42,Yes,NR01,DR03,62,156/90,39.1,Follow-up,No
+PAT1251,VIS01251,2025-06-19 06:20:59,,28,Male,Emergency,Dizziness,General Medicine,3,31,34,No,NR02,DR04,72,130/95,37.2,New Visit,No
+PAT1252,VIS01252,2025-05-31 06:06:28,,36,Male,Non-Urgent,Shortness of Breath,Pediatrics,39,63,102,Yes,NR03,DR05,73,100/85,38.9,Referral,No
+PAT1253,VIS01253,2025-04-09 05:39:20,,19,Female,Emergency,Injury,General Medicine,15,117,132,Yes,NR04,DR06,75,146/87,36.3,New Visit,Yes
+PAT1254,VIS01254,2025-02-21 23:45:10,,44,Male,Emergency,Abdominal Pain,Orthopedics,5,179,184,Yes,NR05,DR07,61,138/69,37.4,Emergency,No
+PAT1255,VIS01255,2025-05-24 11:21:05,,36,Male,Critical,Allergic Reaction,Neurology,1,87,88,No,NR06,DR08,64,126/84,37.2,New Visit,Yes
+PAT1256,VIS01256,2025-01-05 14:59:31,,85,Male,Emergency,Chest Pain,Cardiology,23,78,101,No,NR07,DR01,79,118/60,38.3,Emergency,Yes
+PAT1257,VIS01257,2025-04-08 00:10:19,,58,Male,Non-Urgent,Fever,Orthopedics,30,150,180,No,NR08,DR02,116,123/94,36.9,Emergency,No
+PAT1258,VIS01258,2025-04-27 06:30:11,,68,Female,Critical,Abdominal Pain,ENT,26,201,227,Yes,NR09,DR03,97,105/72,37.3,Emergency,Yes
+PAT1259,VIS01259,2025-02-07 08:45:14,,74,Female,Semi-Urgent,Allergic Reaction,ENT,106,39,145,No,NR10,DR04,95,133/81,37.1,Follow-up,Yes
+PAT1260,VIS01260,2025-05-23 02:29:54,,89,Female,Critical,Injury,Pediatrics,1,169,170,Yes,NR01,DR05,86,101/86,36.1,Referral,No
+PAT1261,VIS01261,2025-03-11 05:47:43,,62,Female,Emergency,Abdominal Pain,Orthopedics,19,96,115,Yes,NR02,DR06,84,131/98,36.4,Follow-up,No
+PAT1262,VIS01262,2025-06-14 01:31:29,,85,Male,Critical,Nausea,Cardiology,19,233,252,Yes,NR03,DR07,71,160/76,36.3,Emergency,No
+PAT1263,VIS01263,2025-02-16 00:42:53,,51,Male,Critical,Dizziness,Orthopedics,29,51,80,Yes,NR04,DR08,112,150/73,36.3,New Visit,Yes
+PAT1264,VIS01264,2025-03-06 12:21:52,,67,Male,Semi-Urgent,Nausea,Ophthalmology,54,219,273,No,NR05,DR01,94,134/92,37.7,Referral,Yes
+PAT1265,VIS01265,2025-01-23 01:12:12,,67,Male,Urgent,Allergic Reaction,ENT,4,173,177,Yes,NR06,DR02,83,131/95,38.5,Referral,Yes
+PAT1266,VIS01266,2025-05-02 16:11:16,,18,Female,Emergency,Chest Pain,Cardiology,27,29,56,No,NR07,DR03,91,100/69,36.8,Referral,Yes
+PAT1267,VIS01267,2025-06-11 15:20:05,,18,Female,Semi-Urgent,Fever,Cardiology,84,50,134,No,NR08,DR04,102,107/92,38.2,New Visit,No
+PAT1268,VIS01268,2025-02-26 20:23:13,,71,Female,Semi-Urgent,Dizziness,Cardiology,99,16,115,No,NR09,DR05,96,101/94,37.8,Emergency,Yes
+PAT1269,VIS01269,2025-01-27 12:04:05,,26,Male,Non-Urgent,Abdominal Pain,Orthopedics,41,122,163,No,NR10,DR06,66,151/100,36.6,Follow-up,Yes
+PAT1270,VIS01270,2025-04-14 11:44:21,,29,Female,Semi-Urgent,Chest Pain,Ophthalmology,45,55,100,No,NR01,DR07,91,156/98,37.1,Emergency,Yes
+PAT1271,VIS01271,2025-04-16 00:15:46,,67,Other,Urgent,Allergic Reaction,Dermatology,8,172,180,Yes,NR02,DR08,105,130/88,36.4,Referral,No
+PAT1272,VIS01272,2025-01-17 23:08:30,,17,Male,Emergency,Headache,Cardiology,19,181,200,No,NR03,DR01,103,113/88,37.0,New Visit,Yes
+PAT1273,VIS01273,2025-02-28 23:57:11,,4,Male,Urgent,Abdominal Pain,Orthopedics,12,176,188,No,NR04,DR02,114,157/67,38.9,Follow-up,Yes
+PAT1274,VIS01274,2025-02-24 09:23:58,,16,Male,Emergency,Dizziness,Dermatology,27,138,165,Yes,NR05,DR03,88,150/82,36.9,Referral,No
+PAT1275,VIS01275,2025-04-22 21:14:51,,63,Female,Critical,Abdominal Pain,Neurology,24,238,262,No,NR06,DR04,114,148/75,39.0,Emergency,Yes
+PAT1276,VIS01276,2025-02-27 14:01:42,,40,Female,Urgent,Nausea,Cardiology,23,165,188,Yes,NR07,DR05,60,160/86,37.4,Follow-up,Yes
+PAT1277,VIS01277,2025-06-26 06:36:24,,42,Other,Urgent,Chest Pain,General Medicine,27,25,52,Yes,NR08,DR06,69,158/91,38.4,New Visit,Yes
+PAT1278,VIS01278,2025-03-19 16:38:27,,50,Other,Urgent,Allergic Reaction,Orthopedics,5,146,151,Yes,NR09,DR07,105,124/84,36.4,Emergency,Yes
+PAT1279,VIS01279,2025-05-24 06:22:30,,1,Female,Urgent,Headache,General Medicine,8,36,44,No,NR10,DR08,72,122/61,37.1,Referral,Yes
+PAT1280,VIS01280,2025-06-10 13:25:47,,87,Female,Critical,Nausea,Pediatrics,16,180,196,No,NR01,DR01,95,152/64,36.2,New Visit,Yes
+PAT1281,VIS01281,2025-01-17 22:38:54,,21,Female,Non-Urgent,Fracture,Ophthalmology,21,140,161,No,NR02,DR02,81,107/96,36.3,New Visit,No
+PAT1282,VIS01282,2025-04-17 19:10:07,,8,Other,Semi-Urgent,Fever,Cardiology,106,157,263,Yes,NR03,DR03,74,106/91,38.1,Follow-up,No
+PAT1283,VIS01283,2025-01-25 10:00:53,,53,Male,Critical,Dizziness,Dermatology,21,209,230,No,NR04,DR04,87,143/90,38.7,Emergency,No
+PAT1284,VIS01284,2025-05-17 02:03:29,,72,Female,Urgent,Fracture,Neurology,1,239,240,No,NR05,DR05,60,102/96,38.3,Referral,No
+PAT1285,VIS01285,2025-04-23 01:58:55,,81,Female,Critical,Dizziness,Neurology,27,153,180,No,NR06,DR06,64,133/94,38.4,New Visit,Yes
+PAT1286,VIS01286,2025-01-23 06:59:11,,62,Male,Non-Urgent,Chest Pain,Neurology,107,25,132,Yes,NR07,DR07,70,110/61,37.6,New Visit,Yes
+PAT1287,VIS01287,2025-03-25 08:56:20,,19,Female,Urgent,Fracture,ENT,29,114,143,No,NR08,DR08,89,139/67,38.0,Follow-up,Yes
+PAT1288,VIS01288,2025-04-30 16:24:12,,31,Male,Emergency,Dizziness,Pediatrics,13,211,224,No,NR09,DR01,60,129/80,39.3,New Visit,No
+PAT1289,VIS01289,2025-05-13 20:56:25,,9,Other,Non-Urgent,Fever,Orthopedics,73,132,205,No,NR10,DR02,93,148/87,38.0,Referral,Yes
+PAT1290,VIS01290,2025-02-28 06:00:11,,53,Other,Non-Urgent,Fever,Orthopedics,107,62,169,No,NR01,DR03,82,129/74,37.4,Emergency,No
+PAT1291,VIS01291,2025-04-14 19:51:47,,41,Other,Semi-Urgent,Headache,Dermatology,79,16,95,Yes,NR02,DR04,90,141/63,38.0,Emergency,Yes
+PAT1292,VIS01292,2025-06-09 23:32:34,,54,Female,Semi-Urgent,Injury,Neurology,34,28,62,No,NR03,DR05,113,104/65,39.1,New Visit,No
+PAT1293,VIS01293,2025-02-07 14:52:35,,3,Other,Non-Urgent,Allergic Reaction,General Medicine,10,206,216,Yes,NR04,DR06,68,105/64,36.7,Emergency,Yes
+PAT1294,VIS01294,2025-03-06 13:03:45,,31,Female,Critical,Allergic Reaction,Cardiology,9,143,152,Yes,NR05,DR07,108,129/87,36.6,Referral,Yes
+PAT1295,VIS01295,2025-06-23 02:57:18,,27,Female,Semi-Urgent,Fracture,General Medicine,18,238,256,No,NR06,DR08,93,138/84,36.7,Emergency,No
+PAT1296,VIS01296,2025-06-26 00:14:03,,59,Male,Semi-Urgent,Dizziness,Pediatrics,11,150,161,No,NR07,DR01,111,117/78,36.4,Referral,No
+PAT1297,VIS01297,2025-03-16 15:52:18,,31,Male,Critical,Headache,Orthopedics,15,81,96,No,NR08,DR02,96,109/90,37.7,Follow-up,Yes
+PAT1298,VIS01298,2025-02-16 11:11:31,,81,Female,Emergency,Allergic Reaction,Pediatrics,7,79,86,No,NR09,DR03,99,135/60,36.5,Emergency,No
+PAT1299,VIS01299,2025-02-22 13:24:24,,76,Female,Critical,Injury,Ophthalmology,8,70,78,Yes,NR10,DR04,114,103/63,36.5,Emergency,No
+PAT1300,VIS01300,2025-05-09 14:00:34,,53,Other,Critical,Abdominal Pain,Cardiology,18,41,59,Yes,NR01,DR05,73,148/97,39.5,Emergency,Yes
+PAT1301,VIS01301,2025-03-13 10:07:13,,73,Female,Emergency,Nausea,Pediatrics,4,158,162,No,NR02,DR06,89,126/84,37.2,New Visit,Yes
+PAT1302,VIS01302,2025-04-03 19:53:59,,36,Male,Non-Urgent,Allergic Reaction,Ophthalmology,7,70,77,No,NR03,DR07,69,116/81,36.7,Follow-up,Yes
+PAT1303,VIS01303,2025-02-18 15:28:47,,30,Female,Semi-Urgent,Fracture,Ophthalmology,65,43,108,No,NR04,DR08,114,121/83,37.9,New Visit,No
+PAT1304,VIS01304,2025-02-10 10:54:36,,20,Other,Non-Urgent,Nausea,Pediatrics,47,138,185,Yes,NR05,DR01,94,104/60,39.1,New Visit,Yes
+PAT1305,VIS01305,2025-03-11 22:05:29,,78,Female,Semi-Urgent,Shortness of Breath,Cardiology,109,64,173,No,NR06,DR02,92,156/66,36.7,Follow-up,Yes
+PAT1306,VIS01306,2025-05-07 20:23:24,,75,Female,Semi-Urgent,Abdominal Pain,Neurology,112,39,151,No,NR07,DR03,72,139/90,38.7,New Visit,No
+PAT1307,VIS01307,2025-06-18 00:58:26,,47,Female,Urgent,Injury,General Medicine,20,217,237,Yes,NR08,DR04,86,156/77,39.3,Emergency,No
+PAT1308,VIS01308,2025-02-06 11:03:15,,86,Male,Critical,Headache,ENT,2,155,157,No,NR09,DR05,102,146/86,38.5,Follow-up,No
+PAT1309,VIS01309,2025-02-22 08:16:39,,82,Female,Non-Urgent,Abdominal Pain,Orthopedics,66,53,119,Yes,NR10,DR06,78,141/70,38.7,New Visit,No
+PAT1310,VIS01310,2025-05-09 01:13:09,,38,Male,Urgent,Chest Pain,General Medicine,8,25,33,Yes,NR01,DR07,94,146/76,36.1,New Visit,Yes
+PAT1311,VIS01311,2025-01-03 04:26:41,,55,Other,Critical,Abdominal Pain,Dermatology,1,68,69,Yes,NR02,DR08,88,126/100,38.2,Referral,Yes
+PAT1312,VIS01312,2025-04-03 13:43:55,,83,Other,Semi-Urgent,Fever,Ophthalmology,13,206,219,No,NR03,DR01,69,153/88,39.1,Referral,Yes
+PAT1313,VIS01313,2025-02-01 15:54:09,,36,Male,Emergency,Dizziness,Pediatrics,29,151,180,Yes,NR04,DR02,67,124/72,38.8,New Visit,Yes
+PAT1314,VIS01314,2025-02-24 00:17:48,,31,Male,Critical,Abdominal Pain,Neurology,1,102,103,Yes,NR05,DR03,87,136/100,37.5,Emergency,No
+PAT1315,VIS01315,2025-05-24 09:01:46,,32,Other,Emergency,Fever,ENT,13,37,50,Yes,NR06,DR04,68,157/69,37.8,Emergency,Yes
+PAT1316,VIS01316,2025-05-14 18:37:12,,39,Male,Critical,Shortness of Breath,Neurology,0,56,56,Yes,NR07,DR05,108,160/97,36.1,Follow-up,No
+PAT1317,VIS01317,2025-05-26 03:44:42,,23,Other,Non-Urgent,Nausea,Ophthalmology,88,29,117,No,NR08,DR06,95,158/96,39.5,Emergency,No
+PAT1318,VIS01318,2025-04-13 12:36:09,,10,Other,Non-Urgent,Headache,ENT,94,57,151,Yes,NR09,DR07,78,147/63,37.5,Follow-up,Yes
+PAT1319,VIS01319,2025-05-30 02:10:52,,5,Male,Semi-Urgent,Allergic Reaction,General Medicine,7,42,49,No,NR10,DR08,91,150/62,38.8,Referral,Yes
+PAT1320,VIS01320,2025-02-06 02:20:27,,26,Other,Urgent,Shortness of Breath,ENT,29,128,157,No,NR01,DR01,65,123/85,38.1,New Visit,Yes
+PAT1321,VIS01321,2025-05-10 22:03:57,,46,Other,Urgent,Dizziness,ENT,3,135,138,No,NR02,DR02,82,116/92,37.7,Referral,No
+PAT1322,VIS01322,2025-05-05 09:42:34,,45,Other,Semi-Urgent,Shortness of Breath,ENT,51,86,137,No,NR03,DR03,60,111/81,36.4,New Visit,No
+PAT1323,VIS01323,2025-04-24 05:50:03,,14,Other,Urgent,Headache,Pediatrics,20,172,192,No,NR04,DR04,109,139/79,38.1,Referral,Yes
+PAT1324,VIS01324,2025-01-26 10:25:57,,53,Female,Urgent,Dizziness,ENT,6,135,141,No,NR05,DR05,87,152/66,36.7,New Visit,Yes
+PAT1325,VIS01325,2025-06-13 12:17:04,,38,Other,Emergency,Injury,Cardiology,15,221,236,Yes,NR06,DR06,63,139/75,37.7,Follow-up,No
+PAT1326,VIS01326,2025-05-28 17:55:56,,58,Male,Emergency,Dizziness,ENT,16,88,104,No,NR07,DR07,86,112/73,39.0,New Visit,Yes
+PAT1327,VIS01327,2025-05-24 15:28:00,,49,Other,Urgent,Nausea,Ophthalmology,17,83,100,No,NR08,DR08,103,150/66,37.6,Follow-up,Yes
+PAT1328,VIS01328,2025-01-03 00:15:30,,55,Other,Semi-Urgent,Chest Pain,Pediatrics,34,37,71,No,NR09,DR01,91,113/81,38.9,Referral,Yes
+PAT1329,VIS01329,2025-05-20 09:41:41,,57,Other,Emergency,Injury,Cardiology,14,34,48,No,NR10,DR02,86,137/90,37.6,Referral,No
+PAT1330,VIS01330,2025-04-30 22:52:53,,15,Other,Non-Urgent,Fracture,Cardiology,35,237,272,No,NR01,DR03,115,147/97,36.6,New Visit,No
+PAT1331,VIS01331,2025-05-05 21:46:55,,19,Male,Emergency,Injury,Dermatology,0,123,123,No,NR02,DR04,115,153/71,38.1,Follow-up,No
+PAT1332,VIS01332,2025-01-17 17:55:14,,2,Male,Emergency,Headache,Neurology,8,73,81,Yes,NR03,DR05,73,104/94,38.8,New Visit,Yes
+PAT1333,VIS01333,2025-01-23 11:02:56,,23,Other,Urgent,Dizziness,Orthopedics,14,69,83,Yes,NR04,DR06,78,120/72,38.1,Referral,No
+PAT1334,VIS01334,2025-05-05 22:25:50,,88,Male,Critical,Fever,Neurology,29,59,88,No,NR05,DR07,61,110/88,39.3,New Visit,Yes
+PAT1335,VIS01335,2025-02-24 08:09:35,,27,Female,Non-Urgent,Headache,Pediatrics,108,231,339,No,NR06,DR08,83,119/61,39.4,New Visit,Yes
+PAT1336,VIS01336,2025-06-04 01:43:54,,19,Other,Urgent,Allergic Reaction,Orthopedics,5,19,24,No,NR07,DR01,94,157/74,37.9,Follow-up,No
+PAT1337,VIS01337,2025-06-27 22:24:47,,34,Other,Critical,Shortness of Breath,Neurology,6,182,188,No,NR08,DR02,107,121/64,38.5,New Visit,Yes
+PAT1338,VIS01338,2025-06-21 18:52:16,,50,Other,Critical,Abdominal Pain,Ophthalmology,15,17,32,Yes,NR09,DR03,89,118/99,38.2,New Visit,No
+PAT1339,VIS01339,2025-02-25 13:52:57,,51,Male,Urgent,Allergic Reaction,Cardiology,15,201,216,Yes,NR10,DR04,71,115/91,38.0,Referral,No
+PAT1340,VIS01340,2025-03-15 10:55:40,,10,Other,Emergency,Injury,Dermatology,1,137,138,Yes,NR01,DR05,90,139/96,39.1,Emergency,Yes
+PAT1341,VIS01341,2025-03-24 22:53:58,,74,Male,Semi-Urgent,Fracture,Neurology,0,38,38,No,NR02,DR06,73,107/78,37.4,Follow-up,Yes
+PAT1342,VIS01342,2025-03-18 18:17:20,,22,Male,Non-Urgent,Abdominal Pain,Dermatology,5,188,193,Yes,NR03,DR07,85,153/86,36.1,Referral,Yes
+PAT1343,VIS01343,2025-03-22 10:35:56,,19,Female,Semi-Urgent,Headache,Ophthalmology,100,26,126,No,NR04,DR08,86,130/65,36.8,Referral,Yes
+PAT1344,VIS01344,2025-03-24 16:29:33,,45,Male,Critical,Fracture,Ophthalmology,6,63,69,No,NR05,DR01,61,138/93,39.0,New Visit,Yes
+PAT1345,VIS01345,2025-06-20 15:59:17,,79,Female,Urgent,Shortness of Breath,General Medicine,27,84,111,Yes,NR06,DR02,104,105/71,38.2,New Visit,Yes
+PAT1346,VIS01346,2025-05-05 10:09:03,,40,Male,Semi-Urgent,Fracture,General Medicine,10,142,152,Yes,NR07,DR03,95,157/74,38.2,Emergency,No
+PAT1347,VIS01347,2025-05-14 17:49:02,,8,Other,Emergency,Shortness of Breath,Neurology,24,209,233,Yes,NR08,DR04,74,112/81,38.3,Follow-up,No
+PAT1348,VIS01348,2025-06-07 10:36:59,,21,Other,Critical,Abdominal Pain,ENT,8,197,205,Yes,NR09,DR05,105,142/72,38.8,Follow-up,No
+PAT1349,VIS01349,2025-05-01 01:46:11,,20,Male,Urgent,Chest Pain,Neurology,13,53,66,Yes,NR10,DR06,110,100/70,37.5,Emergency,No
+PAT1350,VIS01350,2025-04-23 14:16:49,,76,Other,Semi-Urgent,Allergic Reaction,Cardiology,58,133,191,Yes,NR01,DR07,110,135/84,37.8,Follow-up,No
+PAT1351,VIS01351,2025-05-12 08:08:48,,50,Other,Urgent,Chest Pain,Neurology,14,237,251,Yes,NR02,DR08,100,153/67,39.3,New Visit,Yes
+PAT1352,VIS01352,2025-05-01 04:21:32,,79,Female,Non-Urgent,Fever,Pediatrics,10,228,238,No,NR03,DR01,98,153/96,39.3,Emergency,No
+PAT1353,VIS01353,2025-02-27 11:04:56,,46,Female,Emergency,Shortness of Breath,Pediatrics,30,209,239,Yes,NR04,DR02,94,133/90,39.4,Emergency,Yes
+PAT1354,VIS01354,2025-03-28 13:56:00,,40,Other,Non-Urgent,Injury,Neurology,87,98,185,Yes,NR05,DR03,68,128/92,38.3,Emergency,No
+PAT1355,VIS01355,2025-05-03 11:30:29,,14,Female,Non-Urgent,Nausea,Neurology,112,222,334,No,NR06,DR04,102,120/61,38.8,Emergency,Yes
+PAT1356,VIS01356,2025-04-22 02:23:47,,68,Other,Emergency,Chest Pain,General Medicine,27,19,46,No,NR07,DR05,72,114/96,38.7,Referral,Yes
+PAT1357,VIS01357,2025-04-20 05:45:34,,39,Female,Critical,Fever,Ophthalmology,13,38,51,Yes,NR08,DR06,86,129/97,39.1,New Visit,Yes
+PAT1358,VIS01358,2025-04-21 03:08:44,,82,Male,Emergency,Chest Pain,Cardiology,9,206,215,No,NR09,DR07,113,107/70,38.6,Follow-up,Yes
+PAT1359,VIS01359,2025-03-16 07:09:11,,42,Other,Critical,Nausea,Orthopedics,12,69,81,Yes,NR10,DR08,62,125/73,36.2,Emergency,Yes
+PAT1360,VIS01360,2025-03-27 05:32:38,,7,Other,Semi-Urgent,Fever,Ophthalmology,7,140,147,Yes,NR01,DR01,119,101/80,38.9,New Visit,No
+PAT1361,VIS01361,2025-01-18 22:23:14,,11,Male,Semi-Urgent,Shortness of Breath,Neurology,54,109,163,No,NR02,DR02,79,137/87,38.4,Emergency,Yes
+PAT1362,VIS01362,2025-01-06 02:55:07,,67,Female,Urgent,Fracture,Cardiology,14,123,137,No,NR03,DR03,82,159/100,37.8,Referral,No
+PAT1363,VIS01363,2025-06-05 04:33:06,,1,Male,Critical,Injury,Pediatrics,13,65,78,Yes,NR04,DR04,105,147/62,39.5,Referral,Yes
+PAT1364,VIS01364,2025-03-28 16:58:13,,89,Other,Non-Urgent,Abdominal Pain,General Medicine,74,99,173,No,NR05,DR05,84,107/99,37.3,Referral,No
+PAT1365,VIS01365,2025-05-15 05:18:18,,7,Female,Non-Urgent,Headache,ENT,55,149,204,No,NR06,DR06,66,132/81,39.3,Follow-up,No
+PAT1366,VIS01366,2025-04-19 13:58:56,,21,Other,Urgent,Headache,Ophthalmology,24,188,212,Yes,NR07,DR07,106,108/78,36.5,Emergency,Yes
+PAT1367,VIS01367,2025-03-01 15:57:21,,37,Other,Emergency,Allergic Reaction,ENT,29,135,164,No,NR08,DR08,108,109/90,37.5,Referral,Yes
+PAT1368,VIS01368,2025-04-21 21:54:53,,71,Other,Urgent,Abdominal Pain,Neurology,13,176,189,Yes,NR09,DR01,113,121/72,37.2,Follow-up,No
+PAT1369,VIS01369,2025-02-01 14:20:42,,78,Other,Non-Urgent,Abdominal Pain,Orthopedics,10,187,197,Yes,NR10,DR02,63,137/70,37.2,Emergency,No
+PAT1370,VIS01370,2025-02-26 19:47:40,,17,Other,Emergency,Allergic Reaction,Neurology,15,85,100,No,NR01,DR03,111,104/93,39.0,Follow-up,No
+PAT1371,VIS01371,2025-03-21 21:59:07,,79,Male,Emergency,Allergic Reaction,ENT,14,216,230,Yes,NR02,DR04,70,139/89,39.3,Referral,Yes
+PAT1372,VIS01372,2025-06-10 02:01:10,,11,Other,Non-Urgent,Nausea,Ophthalmology,65,137,202,Yes,NR03,DR05,100,144/67,36.4,Follow-up,No
+PAT1373,VIS01373,2025-03-25 14:08:50,,30,Other,Urgent,Abdominal Pain,Neurology,10,95,105,No,NR04,DR06,79,126/66,36.6,Follow-up,No
+PAT1374,VIS01374,2025-05-24 21:31:48,,79,Other,Emergency,Headache,Ophthalmology,10,87,97,No,NR05,DR07,109,140/73,36.0,Referral,Yes
+PAT1375,VIS01375,2025-02-02 07:00:16,,86,Male,Non-Urgent,Abdominal Pain,General Medicine,102,227,329,Yes,NR06,DR08,89,145/83,37.4,Follow-up,Yes
+PAT1376,VIS01376,2025-02-01 04:52:14,,19,Male,Urgent,Headache,Dermatology,4,76,80,Yes,NR07,DR01,113,148/98,39.0,Follow-up,No
+PAT1377,VIS01377,2025-02-10 17:03:30,,74,Male,Critical,Abdominal Pain,Neurology,11,53,64,No,NR08,DR02,109,112/73,37.1,Follow-up,No
+PAT1378,VIS01378,2025-04-01 11:37:48,,62,Male,Critical,Shortness of Breath,Orthopedics,2,16,18,No,NR09,DR03,114,154/93,36.5,New Visit,Yes
+PAT1379,VIS01379,2025-02-22 03:04:06,,61,Other,Critical,Headache,Orthopedics,25,181,206,Yes,NR10,DR04,60,121/69,36.8,New Visit,Yes
+PAT1380,VIS01380,2025-04-20 14:37:09,,80,Male,Critical,Shortness of Breath,Ophthalmology,16,33,49,No,NR01,DR05,115,138/78,38.7,New Visit,Yes
+PAT1381,VIS01381,2025-05-27 07:20:10,,20,Female,Semi-Urgent,Headache,Pediatrics,74,134,208,No,NR02,DR06,60,123/81,37.7,New Visit,Yes
+PAT1382,VIS01382,2025-01-08 12:59:03,,26,Female,Semi-Urgent,Headache,Dermatology,58,204,262,No,NR03,DR07,101,159/89,37.0,Referral,No
+PAT1383,VIS01383,2025-06-07 22:42:47,,20,Female,Critical,Injury,Ophthalmology,20,117,137,Yes,NR04,DR08,94,154/79,37.2,Follow-up,Yes
+PAT1384,VIS01384,2025-05-17 17:35:31,,15,Other,Non-Urgent,Shortness of Breath,Neurology,109,79,188,No,NR05,DR01,91,117/65,38.9,Referral,No
+PAT1385,VIS01385,2025-05-20 17:38:22,,60,Other,Critical,Injury,Ophthalmology,10,53,63,No,NR06,DR02,79,143/71,37.7,Follow-up,Yes
+PAT1386,VIS01386,2025-05-24 22:28:37,,52,Female,Critical,Shortness of Breath,Ophthalmology,22,47,69,Yes,NR07,DR03,91,160/92,38.2,Referral,No
+PAT1387,VIS01387,2025-05-06 04:38:11,,49,Female,Emergency,Dizziness,Pediatrics,2,106,108,Yes,NR08,DR04,77,128/76,39.4,Referral,Yes
+PAT1388,VIS01388,2025-03-25 23:00:13,,13,Other,Non-Urgent,Fracture,Orthopedics,100,67,167,Yes,NR09,DR05,114,100/69,36.9,New Visit,Yes
+PAT1389,VIS01389,2025-04-04 18:00:51,,84,Other,Critical,Dizziness,Cardiology,14,238,252,Yes,NR10,DR06,92,121/70,38.6,Referral,No
+PAT1390,VIS01390,2025-05-16 15:13:34,,76,Male,Critical,Chest Pain,Pediatrics,16,26,42,No,NR01,DR07,107,102/87,39.5,Referral,No
+PAT1391,VIS01391,2025-01-27 03:03:26,,41,Male,Emergency,Fracture,Ophthalmology,9,150,159,No,NR02,DR08,112,115/73,36.9,Emergency,No
+PAT1392,VIS01392,2025-05-13 13:02:08,,90,Other,Non-Urgent,Dizziness,Cardiology,23,169,192,Yes,NR03,DR01,94,148/88,37.0,Emergency,No
+PAT1393,VIS01393,2025-04-09 03:18:12,,4,Male,Critical,Injury,Cardiology,14,163,177,No,NR04,DR02,72,107/62,36.6,New Visit,No
+PAT1394,VIS01394,2025-06-14 03:54:45,,56,Male,Emergency,Chest Pain,Neurology,0,114,114,Yes,NR05,DR03,95,124/97,39.4,Follow-up,No
+PAT1395,VIS01395,2025-06-27 12:01:15,,69,Other,Critical,Chest Pain,Neurology,28,160,188,No,NR06,DR04,101,123/62,38.0,Referral,Yes
+PAT1396,VIS01396,2025-04-27 13:22:07,,30,Male,Semi-Urgent,Chest Pain,General Medicine,34,197,231,Yes,NR07,DR05,61,151/88,39.5,New Visit,Yes
+PAT1397,VIS01397,2025-02-13 20:29:55,,87,Female,Urgent,Shortness of Breath,Pediatrics,28,240,268,No,NR08,DR06,64,125/81,39.3,New Visit,No
+PAT1398,VIS01398,2025-01-06 10:50:47,,48,Other,Emergency,Dizziness,Neurology,23,33,56,Yes,NR09,DR07,74,149/98,37.7,New Visit,No
+PAT1399,VIS01399,2025-05-22 21:26:47,,73,Female,Critical,Injury,Cardiology,26,165,191,Yes,NR10,DR08,120,114/93,37.9,New Visit,Yes
+PAT1400,VIS01400,2025-06-27 02:11:51,,57,Male,Semi-Urgent,Abdominal Pain,Dermatology,43,219,262,No,NR01,DR01,67,101/91,36.8,Emergency,No
+PAT1401,VIS01401,2025-05-04 11:32:10,,73,Female,Non-Urgent,Headache,General Medicine,33,196,229,No,NR02,DR02,112,110/74,39.0,Referral,No
+PAT1402,VIS01402,2025-01-14 20:54:57,,41,Female,Urgent,Injury,Neurology,22,73,95,Yes,NR03,DR03,92,148/94,39.3,Referral,Yes
+PAT1403,VIS01403,2025-01-13 21:57:45,,17,Male,Critical,Injury,General Medicine,22,204,226,No,NR04,DR04,105,147/62,39.4,Follow-up,Yes
+PAT1404,VIS01404,2025-03-30 15:51:24,,48,Female,Non-Urgent,Allergic Reaction,Neurology,39,225,264,No,NR05,DR05,67,137/82,36.0,Emergency,Yes
+PAT1405,VIS01405,2025-06-18 18:33:01,,59,Male,Non-Urgent,Dizziness,Neurology,79,197,276,No,NR06,DR06,107,147/82,38.2,Referral,Yes
+PAT1406,VIS01406,2025-03-27 11:52:59,,74,Male,Urgent,Fracture,General Medicine,23,156,179,Yes,NR07,DR07,77,110/100,36.2,Follow-up,No
+PAT1407,VIS01407,2025-05-29 03:05:13,,88,Male,Urgent,Fracture,General Medicine,24,45,69,No,NR08,DR08,97,160/77,38.8,Emergency,Yes
+PAT1408,VIS01408,2025-01-27 22:13:38,,39,Male,Emergency,Fracture,Neurology,0,28,28,Yes,NR09,DR01,72,157/73,37.7,Follow-up,No
+PAT1409,VIS01409,2025-01-28 20:08:37,,74,Male,Semi-Urgent,Fever,Cardiology,0,53,53,No,NR10,DR02,106,103/88,37.3,New Visit,Yes
+PAT1410,VIS01410,2025-06-01 19:48:13,,61,Male,Emergency,Shortness of Breath,Dermatology,10,226,236,Yes,NR01,DR03,88,160/76,37.4,Referral,No
+PAT1411,VIS01411,2025-04-25 23:21:09,,33,Other,Semi-Urgent,Chest Pain,Neurology,112,17,129,No,NR02,DR04,89,109/96,38.7,New Visit,No
+PAT1412,VIS01412,2025-06-05 17:33:56,,47,Other,Non-Urgent,Fracture,Ophthalmology,83,139,222,No,NR03,DR05,87,109/71,37.3,Follow-up,Yes
+PAT1413,VIS01413,2025-01-01 22:53:36,,77,Male,Non-Urgent,Shortness of Breath,Ophthalmology,66,17,83,No,NR04,DR06,61,130/73,36.8,Referral,Yes
+PAT1414,VIS01414,2025-02-23 07:58:48,,60,Female,Non-Urgent,Abdominal Pain,Ophthalmology,116,182,298,No,NR05,DR07,73,122/63,37.2,Referral,Yes
+PAT1415,VIS01415,2025-04-26 12:21:17,,23,Other,Critical,Injury,Dermatology,1,177,178,Yes,NR06,DR08,71,155/98,39.5,New Visit,No
+PAT1416,VIS01416,2025-06-15 05:04:00,,71,Other,Emergency,Fracture,ENT,0,158,158,No,NR07,DR01,77,115/63,36.8,New Visit,No
+PAT1417,VIS01417,2025-04-24 22:35:44,,68,Male,Critical,Allergic Reaction,General Medicine,16,96,112,Yes,NR08,DR02,65,143/64,36.6,New Visit,No
+PAT1418,VIS01418,2025-03-25 12:11:30,,89,Male,Urgent,Injury,ENT,19,103,122,Yes,NR09,DR03,111,147/74,38.0,Follow-up,No
+PAT1419,VIS01419,2025-02-09 08:51:14,,20,Male,Semi-Urgent,Allergic Reaction,Cardiology,107,119,226,No,NR10,DR04,109,146/70,36.6,Referral,No
+PAT1420,VIS01420,2025-04-05 19:30:53,,47,Female,Emergency,Headache,Dermatology,28,204,232,No,NR01,DR05,103,160/78,36.3,Emergency,Yes
+PAT1421,VIS01421,2025-04-06 05:27:11,,11,Other,Emergency,Fracture,Ophthalmology,22,221,243,Yes,NR02,DR06,118,141/63,37.6,Follow-up,No
+PAT1422,VIS01422,2025-04-30 04:08:08,,16,Other,Semi-Urgent,Abdominal Pain,Neurology,108,221,329,Yes,NR03,DR07,92,116/91,36.9,Referral,No
+PAT1423,VIS01423,2025-01-26 00:15:20,,36,Female,Semi-Urgent,Injury,Dermatology,2,56,58,No,NR04,DR08,116,121/64,36.2,New Visit,No
+PAT1424,VIS01424,2025-03-30 10:55:57,,10,Other,Critical,Allergic Reaction,General Medicine,11,137,148,No,NR05,DR01,75,141/74,38.2,Referral,No
+PAT1425,VIS01425,2025-03-16 20:01:19,,4,Other,Emergency,Fever,Ophthalmology,6,154,160,Yes,NR06,DR02,81,155/95,36.0,Emergency,Yes
+PAT1426,VIS01426,2025-03-14 13:54:52,,80,Other,Critical,Injury,Dermatology,13,73,86,No,NR07,DR03,84,121/70,36.1,Referral,No
+PAT1427,VIS01427,2025-06-12 00:19:31,,55,Female,Semi-Urgent,Fracture,Ophthalmology,44,229,273,No,NR08,DR04,97,137/76,38.6,Follow-up,Yes
+PAT1428,VIS01428,2025-04-01 03:50:12,,42,Female,Non-Urgent,Fracture,General Medicine,95,208,303,No,NR09,DR05,84,133/95,36.8,New Visit,Yes
+PAT1429,VIS01429,2025-05-01 10:48:56,,30,Female,Urgent,Headache,Pediatrics,6,98,104,No,NR10,DR06,110,113/73,36.9,Referral,Yes
+PAT1430,VIS01430,2025-02-09 11:00:39,,60,Male,Semi-Urgent,Dizziness,Neurology,7,231,238,Yes,NR01,DR07,75,141/76,39.1,Follow-up,Yes
+PAT1431,VIS01431,2025-04-24 18:36:09,,86,Male,Critical,Headache,General Medicine,7,224,231,Yes,NR02,DR08,107,134/63,38.8,Emergency,Yes
+PAT1432,VIS01432,2025-01-31 09:19:39,,84,Female,Semi-Urgent,Injury,Dermatology,24,131,155,No,NR03,DR01,86,157/69,36.9,Follow-up,No
+PAT1433,VIS01433,2025-01-11 07:06:06,,48,Female,Non-Urgent,Shortness of Breath,ENT,54,26,80,No,NR04,DR02,94,119/97,36.3,New Visit,Yes
+PAT1434,VIS01434,2025-06-09 19:36:30,,87,Male,Critical,Fever,Orthopedics,1,212,213,Yes,NR05,DR03,88,106/86,39.0,Follow-up,Yes
+PAT1435,VIS01435,2025-01-12 13:50:34,,51,Other,Emergency,Headache,Pediatrics,24,94,118,No,NR06,DR04,76,129/88,39.4,Referral,Yes
+PAT1436,VIS01436,2025-01-10 16:14:19,,15,Female,Semi-Urgent,Shortness of Breath,Dermatology,22,89,111,No,NR07,DR05,76,104/90,37.8,Referral,No
+PAT1437,VIS01437,2025-03-20 03:21:51,,64,Female,Critical,Chest Pain,ENT,29,137,166,Yes,NR08,DR06,103,150/91,36.1,Referral,No
+PAT1438,VIS01438,2025-04-22 03:07:15,,5,Female,Emergency,Fever,General Medicine,6,42,48,No,NR09,DR07,106,146/61,38.0,Referral,Yes
+PAT1439,VIS01439,2025-05-10 20:00:55,,70,Other,Semi-Urgent,Headache,Cardiology,112,15,127,No,NR10,DR08,81,154/63,37.9,Referral,Yes
+PAT1440,VIS01440,2025-05-16 13:43:21,,52,Male,Emergency,Allergic Reaction,Dermatology,11,137,148,No,NR01,DR01,88,160/88,37.5,Follow-up,Yes
+PAT1441,VIS01441,2025-06-23 02:47:42,,74,Other,Semi-Urgent,Shortness of Breath,ENT,20,152,172,Yes,NR02,DR02,73,103/73,37.3,Referral,No
+PAT1442,VIS01442,2025-05-14 10:17:47,,90,Male,Semi-Urgent,Nausea,General Medicine,32,140,172,Yes,NR03,DR03,98,119/65,38.9,Referral,Yes
+PAT1443,VIS01443,2025-03-18 20:06:00,,88,Other,Urgent,Fracture,Dermatology,11,60,71,Yes,NR04,DR04,80,142/93,37.6,Follow-up,No
+PAT1444,VIS01444,2025-02-18 16:55:36,,39,Other,Non-Urgent,Headache,ENT,71,37,108,No,NR05,DR05,105,123/81,36.2,Emergency,No
+PAT1445,VIS01445,2025-03-22 21:46:31,,77,Male,Non-Urgent,Allergic Reaction,Neurology,86,28,114,No,NR06,DR06,105,148/71,37.0,New Visit,No
+PAT1446,VIS01446,2025-03-26 05:22:39,,33,Male,Non-Urgent,Nausea,Pediatrics,54,228,282,Yes,NR07,DR07,117,153/96,38.0,Referral,Yes
+PAT1447,VIS01447,2025-04-21 19:41:13,,50,Male,Semi-Urgent,Headache,Neurology,85,156,241,Yes,NR08,DR08,64,130/77,38.4,Emergency,No
+PAT1448,VIS01448,2025-01-04 00:00:18,,57,Female,Semi-Urgent,Shortness of Breath,Orthopedics,72,77,149,Yes,NR09,DR01,95,151/76,37.4,New Visit,Yes
+PAT1449,VIS01449,2025-05-01 16:19:37,,23,Female,Emergency,Nausea,Orthopedics,1,32,33,No,NR10,DR02,100,119/66,36.8,Referral,No
+PAT1450,VIS01450,2025-03-21 09:29:44,,88,Female,Non-Urgent,Shortness of Breath,Cardiology,105,240,345,Yes,NR01,DR03,104,117/79,38.6,New Visit,No
+PAT1451,VIS01451,2025-03-18 03:18:51,,20,Female,Non-Urgent,Headache,Cardiology,119,101,220,No,NR02,DR04,116,134/77,36.8,Follow-up,No
+PAT1452,VIS01452,2025-06-27 06:36:37,,23,Female,Non-Urgent,Fracture,ENT,14,23,37,Yes,NR03,DR05,69,157/64,36.3,Emergency,No
+PAT1453,VIS01453,2025-05-21 07:41:20,,31,Female,Urgent,Chest Pain,ENT,3,223,226,Yes,NR04,DR06,118,157/74,37.6,New Visit,Yes
+PAT1454,VIS01454,2025-01-29 09:28:29,,27,Other,Semi-Urgent,Shortness of Breath,General Medicine,50,152,202,No,NR05,DR07,114,150/98,36.5,Follow-up,Yes
+PAT1455,VIS01455,2025-03-31 14:08:14,,30,Other,Semi-Urgent,Dizziness,Pediatrics,6,152,158,No,NR06,DR08,77,114/87,36.4,Emergency,No
+PAT1456,VIS01456,2025-05-13 04:25:13,,76,Female,Non-Urgent,Abdominal Pain,Orthopedics,33,151,184,No,NR07,DR01,85,132/60,36.2,New Visit,Yes
+PAT1457,VIS01457,2025-01-30 06:26:12,,25,Other,Urgent,Abdominal Pain,Ophthalmology,3,111,114,No,NR08,DR02,92,142/60,37.5,Referral,Yes
+PAT1458,VIS01458,2025-05-10 14:32:12,,17,Male,Urgent,Fracture,Ophthalmology,29,130,159,Yes,NR09,DR03,60,146/66,37.1,Emergency,No
+PAT1459,VIS01459,2025-06-11 17:21:51,,75,Female,Critical,Injury,Neurology,10,226,236,No,NR10,DR04,97,128/87,36.0,Follow-up,Yes
+PAT1460,VIS01460,2025-04-18 14:34:42,,36,Other,Critical,Fracture,Neurology,24,218,242,No,NR01,DR05,94,104/62,37.0,Emergency,Yes
+PAT1461,VIS01461,2025-02-02 19:23:15,,24,Male,Emergency,Nausea,Pediatrics,7,30,37,No,NR02,DR06,100,120/65,38.3,Referral,No
+PAT1462,VIS01462,2025-04-25 03:08:25,,59,Other,Urgent,Allergic Reaction,Pediatrics,16,35,51,No,NR03,DR07,101,144/68,38.8,New Visit,Yes
+PAT1463,VIS01463,2025-02-16 09:15:42,,59,Male,Semi-Urgent,Dizziness,Cardiology,92,25,117,Yes,NR04,DR08,107,126/91,39.0,Follow-up,Yes
+PAT1464,VIS01464,2025-06-07 04:19:42,,7,Other,Urgent,Fever,Cardiology,6,49,55,No,NR05,DR01,107,100/93,37.2,Emergency,No
+PAT1465,VIS01465,2025-02-10 05:41:07,,86,Male,Critical,Headache,Ophthalmology,30,88,118,No,NR06,DR02,92,136/93,36.8,New Visit,No
+PAT1466,VIS01466,2025-01-04 21:34:01,,1,Female,Non-Urgent,Fracture,Orthopedics,18,74,92,No,NR07,DR03,91,115/91,37.2,Referral,Yes
+PAT1467,VIS01467,2025-04-25 13:19:13,,53,Male,Semi-Urgent,Fever,Pediatrics,11,22,33,No,NR08,DR04,86,114/99,38.9,New Visit,No
+PAT1468,VIS01468,2025-04-18 07:17:00,,25,Female,Emergency,Fever,ENT,18,136,154,No,NR09,DR05,97,148/62,37.1,Follow-up,No
+PAT1469,VIS01469,2025-04-16 01:54:42,,86,Other,Emergency,Fever,ENT,3,201,204,No,NR10,DR06,104,102/68,39.0,Emergency,No
+PAT1470,VIS01470,2025-05-11 00:16:34,,3,Male,Non-Urgent,Fever,Ophthalmology,42,144,186,No,NR01,DR07,79,109/94,36.9,Referral,Yes
+PAT1471,VIS01471,2025-03-28 09:08:59,,81,Other,Semi-Urgent,Fever,Pediatrics,75,28,103,No,NR02,DR08,98,151/84,36.2,Follow-up,Yes
+PAT1472,VIS01472,2025-01-09 15:36:56,,42,Male,Urgent,Nausea,Ophthalmology,0,147,147,Yes,NR03,DR01,90,135/69,37.2,Emergency,Yes
+PAT1473,VIS01473,2025-02-23 22:49:04,,82,Male,Emergency,Fever,General Medicine,5,44,49,No,NR04,DR02,104,104/84,37.6,Emergency,Yes
+PAT1474,VIS01474,2025-01-07 04:15:34,,67,Female,Critical,Shortness of Breath,Orthopedics,8,37,45,Yes,NR05,DR03,98,119/98,36.5,Follow-up,Yes
+PAT1475,VIS01475,2025-01-16 15:28:26,,43,Male,Urgent,Fever,Dermatology,9,34,43,Yes,NR06,DR04,100,160/67,38.7,New Visit,Yes
+PAT1476,VIS01476,2025-01-08 14:20:40,,82,Other,Critical,Nausea,General Medicine,28,135,163,No,NR07,DR05,97,112/97,37.1,Follow-up,Yes
+PAT1477,VIS01477,2025-02-13 22:34:22,,82,Male,Semi-Urgent,Fever,Orthopedics,49,16,65,No,NR08,DR06,68,119/67,37.6,New Visit,No
+PAT1478,VIS01478,2025-03-28 18:57:14,,11,Male,Emergency,Allergic Reaction,Pediatrics,16,144,160,No,NR09,DR07,66,152/85,38.5,Follow-up,Yes
+PAT1479,VIS01479,2025-04-07 16:03:44,,54,Female,Emergency,Fracture,Pediatrics,20,182,202,Yes,NR10,DR08,100,150/69,38.4,New Visit,Yes
+PAT1480,VIS01480,2025-02-17 14:18:12,,13,Female,Semi-Urgent,Fracture,Cardiology,105,108,213,No,NR01,DR01,83,118/88,37.7,Referral,Yes
+PAT1481,VIS01481,2025-06-04 05:01:56,,10,Female,Emergency,Allergic Reaction,General Medicine,28,194,222,No,NR02,DR02,117,130/75,36.8,Referral,Yes
+PAT1482,VIS01482,2025-01-17 08:21:34,,37,Female,Critical,Allergic Reaction,Ophthalmology,21,193,214,No,NR03,DR03,60,132/86,36.2,Follow-up,Yes
+PAT1483,VIS01483,2025-06-03 04:35:05,,13,Male,Urgent,Chest Pain,Neurology,19,145,164,No,NR04,DR04,95,138/77,37.5,Referral,Yes
+PAT1484,VIS01484,2025-02-20 07:08:45,,46,Other,Non-Urgent,Allergic Reaction,Cardiology,71,137,208,Yes,NR05,DR05,103,117/99,36.7,Follow-up,No
+PAT1485,VIS01485,2025-03-25 16:07:29,,76,Female,Urgent,Dizziness,Cardiology,0,15,15,No,NR06,DR06,94,127/60,36.8,New Visit,Yes
+PAT1486,VIS01486,2025-02-28 16:58:35,,58,Male,Urgent,Allergic Reaction,General Medicine,26,134,160,Yes,NR07,DR07,67,118/77,39.3,Referral,Yes
+PAT1487,VIS01487,2025-01-22 19:44:26,,77,Female,Urgent,Chest Pain,Dermatology,25,85,110,No,NR08,DR08,71,102/91,37.1,New Visit,Yes
+PAT1488,VIS01488,2025-01-07 03:18:36,,61,Male,Emergency,Shortness of Breath,Pediatrics,23,207,230,No,NR09,DR01,81,131/71,36.9,Referral,Yes
+PAT1489,VIS01489,2025-06-02 13:31:50,,80,Male,Urgent,Fracture,Ophthalmology,29,79,108,No,NR10,DR02,62,139/71,38.1,Emergency,No
+PAT1490,VIS01490,2025-03-04 19:25:13,,29,Female,Semi-Urgent,Shortness of Breath,Neurology,87,99,186,Yes,NR01,DR03,104,122/73,39.2,Referral,Yes
+PAT1491,VIS01491,2025-01-02 22:27:24,,67,Female,Non-Urgent,Injury,Orthopedics,51,77,128,No,NR02,DR04,79,142/89,39.4,New Visit,Yes
+PAT1492,VIS01492,2025-02-15 17:56:08,,54,Other,Urgent,Injury,Pediatrics,16,226,242,No,NR03,DR05,105,132/75,38.7,New Visit,Yes
+PAT1493,VIS01493,2025-06-18 04:02:26,,68,Other,Urgent,Fracture,General Medicine,13,91,104,Yes,NR04,DR06,90,140/73,39.4,New Visit,No
+PAT1494,VIS01494,2025-06-27 00:30:47,,70,Male,Urgent,Headache,Ophthalmology,15,35,50,No,NR05,DR07,83,146/97,37.4,Referral,No
+PAT1495,VIS01495,2025-04-14 22:19:33,,36,Male,Semi-Urgent,Fever,General Medicine,83,15,98,Yes,NR06,DR08,75,119/91,39.1,New Visit,No
+PAT1496,VIS01496,2025-01-26 13:27:48,,62,Male,Semi-Urgent,Headache,Ophthalmology,18,30,48,No,NR07,DR01,114,121/64,38.1,New Visit,Yes
+PAT1497,VIS01497,2025-06-29 22:44:13,,14,Other,Non-Urgent,Fracture,Cardiology,21,86,107,No,NR08,DR02,65,146/64,38.2,Referral,No
+PAT1498,VIS01498,2025-02-04 21:19:18,,77,Female,Semi-Urgent,Allergic Reaction,Pediatrics,114,57,171,No,NR09,DR03,99,101/99,36.7,Emergency,No
+PAT1499,VIS01499,2025-06-14 09:04:18,,65,Other,Urgent,Abdominal Pain,Pediatrics,17,43,60,No,NR10,DR04,107,106/72,38.0,Referral,Yes
+PAT1500,VIS01500,2025-03-17 00:09:27,,33,Other,Critical,Dizziness,Pediatrics,23,134,157,No,NR01,DR05,111,137/73,37.3,Referral,Yes

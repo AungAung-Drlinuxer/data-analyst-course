@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,product_id,product_name,product_category,warehouse_id,warehouse_city,warehouse_zone,order_qty,unit_cost,unit_price,shipping_charges,total_revenue,order_status,fulfillment_days,carrier,return_status,return_reason
+1,2024-07-02,CUST0001,PROD0001,Institution,Beauty,WH02,Lake Amanda,East Zone,3,229.77,378.59,133.7,1135.77,Delivered,9,DTDC,Returned,Wrong Size
+2,2025-02-22,CUST0002,PROD0002,Thousand,Electronics,WH03,South Leslie,South Zone,13,2230.28,4136.04,50.28,53768.52,Delivered,8,DTDC,Not Returned,
+3,2024-10-28,CUST0003,PROD0003,Recently,Home & Kitchen,WH04,Hicksfurt,Central Zone,1,1698.99,2999.32,38.55,2999.32,Processing,12,FedEx,Not Returned,
+4,2024-04-11,CUST0004,PROD0004,One,Sports,WH05,Lake Christina,East Zone,6,4675.42,9965.17,186.59,59791.02,Delivered,9,DTDC,Not Returned,
+5,2024-01-03,CUST0005,PROD0005,Film,Clothing,WH06,East Kathleen,West Zone,5,4092.14,5775.87,35.17,28879.35,Delivered,7,Ecom Express,Returned,Not Needed
+6,2024-02-01,CUST0006,PROD0006,Large,Electronics,WH07,Port Mary,South Zone,12,962.51,1190.42,84.18,14285.04,Delivered,11,Ecom Express,Not Returned,
+7,2024-06-26,CUST0007,PROD0007,Usually,Groceries,WH08,Stanleyville,Central Zone,2,119.28,273.84,140.95,547.68,Delivered,7,Delhivery,Not Returned,
+8,2025-05-24,CUST0008,PROD0008,Different,Electronics,WH09,Lake Glenn,North Zone,8,1631.59,2979.05,186.95,23832.4,Shipped,7,XpressBees,Not Returned,
+9,2024-04-27,CUST0009,PROD0009,Person,Beauty,WH10,Kimtown,North Zone,3,391.16,516.38,191.78,1549.14,Delivered,3,Blue Dart,Not Returned,
+10,2025-02-20,CUST0010,PROD0010,Laugh,Toys,WH01,Lake John,East Zone,16,4304.35,6026.81,14.52,96428.96,Shipped,1,XpressBees,Replacement Requested,Exchange Request
+11,2024-12-11,CUST0011,PROD0011,Girl,Groceries,WH02,West Danielberg,South Zone,5,4533.4,5650.03,90.38,28250.15,Delivered,7,Ecom Express,Not Returned,
+12,2025-05-28,CUST0012,PROD0012,Reach,Books,WH03,North Donnaton,Central Zone,5,3761.43,4561.35,97.01,22806.75,Shipped,3,FedEx,Not Returned,
+13,2024-08-17,CUST0013,PROD0013,Field,Groceries,WH04,Lake Jamesfurt,South Zone,8,2927.12,6545.85,196.98,52366.8,Shipped,14,DTDC,Not Returned,
+14,2024-11-17,CUST0014,PROD0014,Point,Beauty,WH05,Matthewchester,South Zone,12,450.92,890.79,18.27,10689.48,Delivered,12,DTDC,Not Returned,
+15,2024-04-25,CUST0015,PROD0015,Media,Clothing,WH06,Hillberg,North Zone,5,3475.89,5982.36,95.7,29911.8,Delivered,8,Blue Dart,Not Returned,
+16,2025-05-06,CUST0016,PROD0016,As,Home & Kitchen,WH07,Paulahaven,West Zone,13,4818.04,8684.72,25.84,112901.36,Processing,3,DTDC,Returned,Delivery Damaged
+17,2024-09-26,CUST0017,PROD0017,Know,Sports,WH08,Lake Alice,South Zone,13,2364.85,5438.24,196.27,70697.12,Delivered,5,Ecom Express,Not Returned,
+18,2025-03-17,CUST0018,PROD0018,Magazine,Home & Kitchen,WH09,West Mark,West Zone,18,959.94,1488.2,64.81,26787.6,Shipped,3,Delhivery,Returned,Delivery Damaged
+19,2025-03-27,CUST0019,PROD0019,Son,Clothing,WH10,North Roberthaven,South Zone,20,1676.39,2444.13,162.59,48882.6,Delivered,4,DTDC,Not Returned,
+20,2025-03-19,CUST0020,PROD0020,Gun,Sports,WH01,Nashmouth,Central Zone,10,261.54,523.65,94.9,5236.5,Delivered,8,XpressBees,Not Returned,
+21,2024-10-17,CUST0021,PROD0021,Lot,Groceries,WH02,South Robert,Central Zone,18,538.07,1286.53,101.57,23157.54,Delivered,1,DTDC,Not Returned,
+22,2024-03-01,CUST0022,PROD0022,Risk,Toys,WH03,Laurenport,Central Zone,3,3510.94,5879.68,49.2,17639.04,Processing,5,DTDC,Not Returned,
+23,2024-01-14,CUST0023,PROD0023,Bank,Home & Kitchen,WH04,West Melanie,North Zone,19,1195.24,2533.57,109.03,48137.83,Delivered,12,Ecom Express,Not Returned,
+24,2025-04-04,CUST0024,PROD0024,Cause,Beauty,WH05,Penningtonchester,West Zone,8,3970.5,7946.74,82.1,63573.92,Shipped,10,Blue Dart,Not Returned,
+25,2024-07-21,CUST0025,PROD0025,Rate,Groceries,WH06,North Victoriashire,West Zone,1,465.79,814.96,196.48,814.96,Delivered,6,XpressBees,Replacement Requested,Exchange Request
+26,2024-05-07,CUST0026,PROD0026,Ready,Books,WH07,Matthewborough,Central Zone,19,2638.46,3699.36,74.8,70287.84,Delivered,11,Ecom Express,Not Returned,
+27,2024-12-09,CUST0027,PROD0027,Budget,Electronics,WH08,Amberberg,East Zone,10,4449.27,9018.01,188.44,90180.1,Delivered,2,DTDC,Returned,Defective
+28,2024-04-19,CUST0028,PROD0028,Brother,Beauty,WH09,Harrisland,East Zone,2,59.56,135.7,104.89,271.4,Shipped,9,Blue Dart,Replacement Requested,Exchange Request
+29,2024-03-03,CUST0029,PROD0029,Fall,Sports,WH10,East Christopher,North Zone,11,4205.63,7364.13,143.64,81005.43,Delivered,14,DTDC,Not Returned,
+30,2024-08-08,CUST0030,PROD0030,It,Beauty,WH01,New Davidville,Central Zone,2,1684.53,2520.49,100.62,5040.98,Delivered,8,Ecom Express,Not Returned,
+31,2024-02-05,CUST0031,PROD0031,Blue,Clothing,WH02,Aimeeborough,North Zone,15,693.12,992.73,23.67,14890.95,Delivered,8,DTDC,Not Returned,
+32,2025-01-27,CUST0032,PROD0032,Generation,Groceries,WH03,Davidsonhaven,West Zone,14,1425.62,1919.54,14.62,26873.56,Processing,5,DTDC,Not Returned,
+33,2024-08-07,CUST0033,PROD0033,Allow,Groceries,WH04,North Marvinchester,North Zone,11,3067.17,5392.64,45.43,59319.04,Shipped,2,DTDC,Not Returned,
+34,2025-06-24,CUST0034,PROD0034,Mr,Electronics,WH05,Jenniferfort,West Zone,7,3301.54,5453.65,83.15,38175.55,Processing,13,XpressBees,Replacement Requested,Exchange Request
+35,2024-03-07,CUST0035,PROD0035,Without,Home & Kitchen,WH06,Port Davidview,South Zone,7,3618.4,6942.92,188.34,48600.44,Delivered,7,Blue Dart,Returned,Delivery Damaged
+36,2024-07-02,CUST0036,PROD0036,Recently,Beauty,WH07,Mooreport,North Zone,14,3223.41,4633.19,140.89,64864.66,Delivered,8,XpressBees,Not Returned,
+37,2024-03-02,CUST0037,PROD0037,Half,Beauty,WH08,South Leahmouth,Central Zone,7,4550.63,11207.65,180.57,78453.55,Delivered,2,Delhivery,Not Returned,
+38,2025-01-23,CUST0038,PROD0038,Quickly,Toys,WH09,Lake Lauraborough,Central Zone,13,4698.57,6235.68,127.84,81063.84,Pending,8,Delhivery,Not Returned,
+39,2024-06-14,CUST0039,PROD0039,Wide,Groceries,WH10,New Veronicastad,North Zone,6,2359.23,4749.24,16.16,28495.44,Delivered,1,Delhivery,Not Returned,
+40,2025-05-12,CUST0040,PROD0040,Anything,Books,WH01,Adamschester,East Zone,4,1016.42,1954.45,38.52,7817.8,Delivered,11,Delhivery,Not Returned,
+41,2025-06-28,CUST0041,PROD0041,Office,Clothing,WH02,Bryanside,West Zone,14,391.03,561.74,121.66,7864.36,Delivered,2,Blue Dart,Not Returned,
+42,2025-05-14,CUST0042,PROD0042,Development,Groceries,WH03,New Maxbury,Central Zone,11,3937.08,6498.56,60.37,71484.16,Delivered,12,Blue Dart,Not Returned,
+43,2024-01-12,CUST0043,PROD0043,Involve,Beauty,WH04,East Dennis,North Zone,12,94.04,152.98,46.44,1835.76,Delivered,9,DTDC,Replacement Requested,Exchange Request
+44,2025-04-24,CUST0044,PROD0044,Doctor,Sports,WH05,New Andrea,East Zone,17,1430.97,3517.61,168.51,59799.37,Shipped,2,FedEx,Replacement Requested,Exchange Request
+45,2025-05-22,CUST0045,PROD0045,Everyone,Books,WH06,North Davidhaven,East Zone,6,1908.25,3584.52,55.94,21507.12,Cancelled,9,DTDC,Returned,Wrong Size
+46,2025-02-20,CUST0046,PROD0046,Smile,Clothing,WH07,Davidhaven,South Zone,12,3560.47,6422.68,171.85,77072.16,Shipped,11,Delhivery,Not Returned,
+47,2025-01-02,CUST0047,PROD0047,Conference,Books,WH08,South Rachelbury,East Zone,12,1640.76,2194.86,91.71,26338.32,Shipped,11,Blue Dart,Returned,Delivery Damaged
+48,2024-05-08,CUST0048,PROD0048,Along,Sports,WH09,Hernandezbury,Central Zone,4,864.86,1502.6,41.71,6010.4,Delivered,6,FedEx,Not Returned,
+49,2024-04-21,CUST0049,PROD0049,Style,Sports,WH10,New Charles,East Zone,8,4705.78,7433.55,142.16,59468.4,Delivered,8,Ecom Express,Not Returned,
+50,2024-11-08,CUST0050,PROD0050,Fly,Beauty,WH01,Thompsonfort,East Zone,5,695.38,1135.64,152.9,5678.2,Shipped,6,Ecom Express,Returned,Wrong Size
+51,2024-08-25,CUST0051,PROD0051,Piece,Beauty,WH02,Cynthiahaven,South Zone,13,4301.11,7396.32,39.25,96152.16,Processing,8,Blue Dart,Not Returned,
+52,2024-02-05,CUST0052,PROD0052,Specific,Toys,WH03,Vazquezfurt,East Zone,4,3709.48,6838.84,73.93,27355.36,Delivered,7,Delhivery,Not Returned,
+53,2025-03-21,CUST0053,PROD0053,Manage,Toys,WH04,Garciafort,West Zone,14,526.03,1044.91,11.21,14628.74,Pending,13,Blue Dart,Not Returned,
+54,2024-02-20,CUST0054,PROD0054,My,Electronics,WH05,Kirbyhaven,South Zone,3,3655.37,6905.27,62.88,20715.81,Delivered,9,Blue Dart,Not Returned,
+55,2024-02-04,CUST0055,PROD0055,Per,Home & Kitchen,WH06,North Christopher,Central Zone,4,2812.89,4840.83,155.53,19363.32,Shipped,14,FedEx,Not Returned,
+56,2024-11-15,CUST0056,PROD0056,Buy,Beauty,WH07,Sweeneyhaven,North Zone,20,3766.72,6994.61,74.97,139892.2,Delivered,14,XpressBees,Replacement Requested,Exchange Request
+57,2024-03-04,CUST0057,PROD0057,Good,Home & Kitchen,WH08,New Joshua,North Zone,15,4990.1,11200.63,97.69,168009.45,Processing,6,Delhivery,Returned,Quality Issue
+58,2024-07-22,CUST0058,PROD0058,Benefit,Electronics,WH09,Lake Jamesview,South Zone,6,3415.15,8484.6,156.07,50907.6,Pending,3,Ecom Express,Not Returned,
+59,2024-07-29,CUST0059,PROD0059,Course,Beauty,WH10,East Angela,South Zone,6,1880.71,4421.62,51.34,26529.72,Delivered,2,Delhivery,Not Returned,
+60,2024-01-18,CUST0060,PROD0060,Must,Toys,WH01,Candaceborough,South Zone,19,178.86,400.35,160.11,7606.65,Pending,3,Blue Dart,Replacement Requested,Exchange Request
+61,2025-05-02,CUST0061,PROD0061,Themselves,Home & Kitchen,WH02,Port Javiermouth,East Zone,13,2423.98,3763.28,90.87,48922.64,Delivered,8,XpressBees,Not Returned,
+62,2024-03-02,CUST0062,PROD0062,Way,Electronics,WH03,Randyshire,South Zone,10,3299.81,7318.62,38.12,73186.2,Delivered,6,DTDC,Not Returned,
+63,2024-10-29,CUST0063,PROD0063,Resource,Books,WH04,Kelseyfurt,South Zone,20,3447.25,5271.35,117.55,105427.0,Delivered,8,XpressBees,Not Returned,
+64,2024-12-30,CUST0064,PROD0064,Data,Toys,WH05,Ramirezton,North Zone,1,3341.41,7413.99,79.24,7413.99,Shipped,14,DTDC,Not Returned,
+65,2024-12-07,CUST0065,PROD0065,Mind,Books,WH06,Sonyachester,East Zone,4,4687.58,8999.93,41.02,35999.72,Cancelled,12,DTDC,Not Returned,
+66,2025-04-15,CUST0066,PROD0066,On,Home & Kitchen,WH07,New Rileyborough,Central Zone,19,3870.14,8844.4,35.08,168043.6,Processing,3,XpressBees,Not Returned,
+67,2024-03-14,CUST0067,PROD0067,But,Beauty,WH08,Lake Ryan,East Zone,20,684.6,1147.41,181.96,22948.2,Shipped,4,XpressBees,Replacement Requested,Exchange Request
+68,2024-05-04,CUST0068,PROD0068,Spring,Electronics,WH09,South Jonhaven,West Zone,7,2114.47,2835.77,171.87,19850.39,Delivered,4,Delhivery,Not Returned,
+69,2024-12-28,CUST0069,PROD0069,Prepare,Sports,WH10,East Brandon,East Zone,5,2935.66,5719.16,49.72,28595.8,Delivered,5,FedEx,Replacement Requested,Exchange Request
+70,2024-01-18,CUST0070,PROD0070,State,Beauty,WH01,East Amanda,West Zone,1,4864.36,8836.34,121.74,8836.34,Delivered,8,Blue Dart,Replacement Requested,Exchange Request
+71,2024-07-31,CUST0071,PROD0071,And,Books,WH02,Smithville,Central Zone,9,1753.33,3977.62,16.12,35798.58,Shipped,11,Delhivery,Not Returned,
+72,2024-07-11,CUST0072,PROD0072,These,Sports,WH03,West Lauraton,East Zone,3,2002.38,2706.97,187.91,8120.91,Delivered,2,XpressBees,Replacement Requested,Exchange Request
+73,2025-06-14,CUST0073,PROD0073,As,Electronics,WH04,Jasonton,West Zone,18,4519.24,6266.13,170.8,112790.34,Delivered,4,Blue Dart,Not Returned,
+74,2025-01-29,CUST0074,PROD0074,Simple,Beauty,WH05,North Melissashire,Central Zone,11,473.37,1037.02,81.93,11407.22,Delivered,12,XpressBees,Replacement Requested,Exchange Request
+75,2024-07-25,CUST0075,PROD0075,Ask,Toys,WH06,Schmittland,East Zone,18,4473.59,5581.82,196.81,100472.76,Delivered,5,XpressBees,Not Returned,
+76,2025-05-26,CUST0076,PROD0076,Almost,Beauty,WH07,Stoneport,West Zone,6,2395.83,3534.27,165.87,21205.62,Pending,12,FedEx,Not Returned,
+77,2025-01-06,CUST0077,PROD0077,Fact,Books,WH08,New Brittney,East Zone,7,851.15,2021.37,155.03,14149.59,Delivered,9,DTDC,Not Returned,
+78,2024-09-15,CUST0078,PROD0078,Nature,Sports,WH09,Heatherhaven,Central Zone,12,3234.23,5234.12,112.61,62809.44,Shipped,11,XpressBees,Not Returned,
+79,2024-05-19,CUST0079,PROD0079,Position,Electronics,WH10,South Catherine,South Zone,17,4441.98,6073.68,28.62,103252.56,Delivered,14,DTDC,Returned,Delivery Damaged
+80,2024-06-19,CUST0080,PROD0080,Fly,Electronics,WH01,Port Lindahaven,Central Zone,8,3050.95,4187.2,106.52,33497.6,Delivered,5,XpressBees,Not Returned,
+81,2025-04-08,CUST0081,PROD0081,Study,Toys,WH02,South Julie,North Zone,6,4598.43,10637.16,178.04,63822.96,Cancelled,7,Delhivery,Returned,Defective
+82,2025-03-25,CUST0082,PROD0082,Form,Clothing,WH03,Danatown,South Zone,1,4790.19,10435.58,173.38,10435.58,Delivered,10,Ecom Express,Returned,Delivery Damaged
+83,2024-12-11,CUST0083,PROD0083,Read,Toys,WH04,North Matthewborough,South Zone,2,3735.33,8448.65,93.6,16897.3,Processing,9,XpressBees,Returned,Defective
+84,2024-05-10,CUST0084,PROD0084,Do,Sports,WH05,Brownshire,Central Zone,20,4618.12,7313.04,198.41,146260.8,Delivered,14,Ecom Express,Not Returned,
+85,2024-01-08,CUST0085,PROD0085,Interview,Clothing,WH06,Port Davidton,West Zone,1,4985.09,6976.29,12.39,6976.29,Delivered,9,Ecom Express,Replacement Requested,Exchange Request
+86,2024-12-19,CUST0086,PROD0086,Grow,Books,WH07,North Travis,West Zone,10,704.24,1100.8,94.18,11008.0,Delivered,1,XpressBees,Not Returned,
+87,2024-11-09,CUST0087,PROD0087,State,Toys,WH08,Brownchester,West Zone,14,4546.31,10247.23,135.48,143461.22,Delivered,1,DTDC,Not Returned,
+88,2024-02-22,CUST0088,PROD0088,Inside,Electronics,WH09,South James,South Zone,3,1214.84,2842.82,56.93,8528.46,Delivered,11,XpressBees,Returned,Quality Issue
+89,2024-04-18,CUST0089,PROD0089,Strategy,Beauty,WH10,North Lorishire,South Zone,4,653.09,1454.61,54.52,5818.44,Delivered,13,XpressBees,Returned,Not Needed
+90,2024-11-20,CUST0090,PROD0090,Five,Beauty,WH01,Jaredmouth,Central Zone,1,3123.2,5747.34,92.2,5747.34,Delivered,1,DTDC,Not Returned,
+91,2024-11-04,CUST0091,PROD0091,Statement,Home & Kitchen,WH02,Nguyenmouth,Central Zone,3,1763.02,3023.1,54.51,9069.3,Delivered,7,DTDC,Not Returned,
+92,2024-09-14,CUST0092,PROD0092,Laugh,Beauty,WH03,South Michael,South Zone,13,2392.35,4856.85,112.56,63139.05,Delivered,12,Blue Dart,Not Returned,
+93,2024-07-04,CUST0093,PROD0093,Near,Groceries,WH04,Barajasborough,West Zone,13,4929.44,11566.53,40.96,150364.89,Shipped,8,Delhivery,Not Returned,
+94,2024-05-16,CUST0094,PROD0094,Generation,Groceries,WH05,Russellside,North Zone,16,3035.77,6657.77,172.16,106524.32,Delivered,1,DTDC,Not Returned,
+95,2024-07-26,CUST0095,PROD0095,No,Beauty,WH06,Lake Kendra,East Zone,5,4217.14,8538.24,31.24,42691.2,Shipped,9,XpressBees,Returned,Not Needed
+96,2024-03-30,CUST0096,PROD0096,Job,Beauty,WH07,North Billyshire,Central Zone,12,3521.0,4542.7,189.92,54512.4,Delivered,6,DTDC,Replacement Requested,Exchange Request
+97,2025-03-04,CUST0097,PROD0097,Civil,Clothing,WH08,North Melissa,North Zone,14,2572.05,4952.8,151.22,69339.2,Delivered,8,Ecom Express,Not Returned,
+98,2024-09-01,CUST0098,PROD0098,They,Clothing,WH09,New Ivanshire,South Zone,5,2299.93,3766.9,20.95,18834.5,Delivered,7,Blue Dart,Not Returned,
+99,2025-05-21,CUST0099,PROD0099,House,Books,WH10,Warrenland,South Zone,6,1974.16,2396.52,142.68,14379.12,Delivered,6,FedEx,Not Returned,
+100,2025-02-01,CUST0100,PROD0100,Large,Books,WH01,Port Charles,North Zone,10,1971.35,4914.61,48.69,49146.1,Cancelled,8,Delhivery,Not Returned,
+101,2024-05-20,CUST0101,PROD0101,Especially,Beauty,WH02,Campbellburgh,Central Zone,2,4384.26,9843.54,137.52,19687.08,Pending,14,Delhivery,Not Returned,
+102,2024-10-30,CUST0102,PROD0102,Lot,Home & Kitchen,WH03,East Markview,West Zone,18,3674.87,6916.26,196.28,124492.68,Delivered,12,Ecom Express,Not Returned,
+103,2024-10-20,CUST0103,PROD0103,Term,Books,WH04,East Madelineburgh,East Zone,14,4213.33,8169.19,163.9,114368.66,Delivered,8,FedEx,Returned,Delivery Damaged
+104,2024-06-01,CUST0104,PROD0104,Travel,Electronics,WH05,Tiffanyfurt,North Zone,9,2690.66,4519.97,55.41,40679.73,Delivered,2,XpressBees,Returned,Not Needed
+105,2025-05-13,CUST0105,PROD0105,Itself,Beauty,WH06,Diazhaven,South Zone,2,2699.48,6102.49,182.63,12204.98,Delivered,7,DTDC,Not Returned,
+106,2025-02-27,CUST0106,PROD0106,Unit,Beauty,WH07,East Jose,South Zone,14,3000.71,6654.95,24.15,93169.3,Delivered,12,XpressBees,Replacement Requested,Exchange Request
+107,2024-08-20,CUST0107,PROD0107,Example,Clothing,WH08,Matthewchester,East Zone,20,4232.54,6698.01,158.49,133960.2,Cancelled,11,FedEx,Returned,Delivery Damaged
+108,2024-03-04,CUST0108,PROD0108,Relate,Sports,WH09,Torreshaven,North Zone,3,4345.47,6172.62,189.55,18517.86,Delivered,8,DTDC,Not Returned,
+109,2024-08-06,CUST0109,PROD0109,Garden,Books,WH10,Port Colleenbury,East Zone,20,2842.12,5329.06,32.97,106581.2,Pending,2,FedEx,Not Returned,
+110,2024-08-17,CUST0110,PROD0110,Story,Books,WH01,East Jessicaborough,North Zone,5,4322.85,7750.44,86.87,38752.2,Cancelled,8,DTDC,Not Returned,
+111,2025-03-31,CUST0111,PROD0111,Decide,Toys,WH02,Dixonport,South Zone,3,4221.88,6207.02,60.56,18621.06,Delivered,10,FedEx,Replacement Requested,Exchange Request
+112,2024-11-24,CUST0112,PROD0112,Something,Sports,WH03,Port Alan,South Zone,2,378.92,626.95,51.72,1253.9,Delivered,7,Blue Dart,Returned,Quality Issue
+113,2025-06-03,CUST0113,PROD0113,Much,Clothing,WH04,Morganland,South Zone,15,2856.4,4090.85,18.46,61362.75,Delivered,1,DTDC,Not Returned,
+114,2024-03-03,CUST0114,PROD0114,Way,Clothing,WH05,Kaylaview,Central Zone,5,1508.46,2853.11,43.97,14265.55,Shipped,2,Blue Dart,Not Returned,
+115,2024-01-16,CUST0115,PROD0115,List,Clothing,WH06,Port Jamesview,South Zone,19,2624.63,3457.16,40.57,65686.04,Delivered,12,XpressBees,Not Returned,
+116,2024-11-08,CUST0116,PROD0116,Southern,Books,WH07,Gilbertton,West Zone,8,3176.9,5913.91,101.48,47311.28,Delivered,10,Blue Dart,Returned,Defective
+117,2024-01-27,CUST0117,PROD0117,Movie,Books,WH08,North Jacob,West Zone,18,2273.98,4569.96,172.77,82259.28,Shipped,10,Delhivery,Not Returned,
+118,2024-06-05,CUST0118,PROD0118,Region,Home & Kitchen,WH09,East Seanside,North Zone,20,4098.21,9198.51,103.25,183970.2,Shipped,6,XpressBees,Replacement Requested,Exchange Request
+119,2024-02-08,CUST0119,PROD0119,Out,Groceries,WH10,Hectorland,North Zone,4,2144.18,4796.17,142.31,19184.68,Delivered,11,DTDC,Not Returned,
+120,2024-09-27,CUST0120,PROD0120,Simple,Groceries,WH01,Annettemouth,Central Zone,11,894.82,1981.2,126.05,21793.2,Cancelled,14,Blue Dart,Not Returned,
+121,2024-11-06,CUST0121,PROD0121,Begin,Home & Kitchen,WH02,North Timothymouth,North Zone,9,3265.52,4250.35,39.25,38253.15,Pending,4,Ecom Express,Not Returned,
+122,2024-11-28,CUST0122,PROD0122,Skin,Toys,WH03,Thompsonland,Central Zone,12,2065.39,4667.86,146.61,56014.32,Pending,6,DTDC,Returned,Defective
+123,2025-03-02,CUST0123,PROD0123,Party,Books,WH04,Andersonborough,Central Zone,14,4199.42,9152.07,33.04,128128.98,Cancelled,10,XpressBees,Not Returned,
+124,2024-03-01,CUST0124,PROD0124,Trial,Sports,WH05,East Michaelchester,East Zone,9,1168.0,2263.8,164.73,20374.2,Delivered,2,Ecom Express,Not Returned,
+125,2025-02-07,CUST0125,PROD0125,Personal,Books,WH06,Brownport,East Zone,12,2291.37,5521.69,48.84,66260.28,Delivered,13,FedEx,Replacement Requested,Exchange Request
+126,2024-06-30,CUST0126,PROD0126,Carry,Toys,WH07,Port Saramouth,East Zone,11,1295.23,2289.49,97.66,25184.39,Delivered,7,XpressBees,Replacement Requested,Exchange Request
+127,2024-03-31,CUST0127,PROD0127,Wide,Home & Kitchen,WH08,Stevensview,North Zone,18,2784.2,3552.58,162.06,63946.44,Shipped,1,Delhivery,Returned,Delivery Damaged
+128,2025-05-20,CUST0128,PROD0128,At,Beauty,WH09,East Meganfurt,Central Zone,13,4087.07,5132.0,92.09,66716.0,Delivered,12,XpressBees,Not Returned,
+129,2025-02-12,CUST0129,PROD0129,Size,Books,WH10,Lake Jasmine,Central Zone,9,3307.64,6069.98,44.35,54629.82,Delivered,8,FedEx,Replacement Requested,Exchange Request
+130,2024-11-16,CUST0130,PROD0130,Rock,Toys,WH01,East Beckystad,South Zone,16,1321.47,2295.7,75.71,36731.2,Delivered,8,DTDC,Returned,Defective
+131,2024-07-19,CUST0131,PROD0131,News,Home & Kitchen,WH02,Lake Lisa,South Zone,11,4700.97,6786.01,71.05,74646.11,Cancelled,1,XpressBees,Not Returned,
+132,2024-09-20,CUST0132,PROD0132,Health,Toys,WH03,South Tiffanyberg,North Zone,16,4654.6,5600.06,181.54,89600.96,Delivered,1,Ecom Express,Returned,Defective
+133,2024-04-01,CUST0133,PROD0133,Loss,Toys,WH04,Port Mary,South Zone,13,4051.24,4889.67,36.28,63565.71,Delivered,7,Blue Dart,Replacement Requested,Exchange Request
+134,2025-02-08,CUST0134,PROD0134,Partner,Electronics,WH05,Lake Jeffreyberg,Central Zone,7,4383.8,6180.87,11.0,43266.09,Delivered,11,Ecom Express,Not Returned,
+135,2024-09-28,CUST0135,PROD0135,Wind,Books,WH06,Olsenberg,West Zone,11,4695.16,11450.1,25.6,125951.1,Delivered,2,Ecom Express,Returned,Wrong Size
+136,2025-06-07,CUST0136,PROD0136,Tonight,Beauty,WH07,New Chelsea,Central Zone,16,1430.7,3068.02,194.58,49088.32,Delivered,5,FedEx,Not Returned,
+137,2025-04-06,CUST0137,PROD0137,Item,Electronics,WH08,Candacetown,East Zone,18,2181.01,4209.35,85.68,75768.3,Delivered,6,XpressBees,Replacement Requested,Exchange Request
+138,2024-12-17,CUST0138,PROD0138,Party,Clothing,WH09,Port Jerometown,West Zone,12,741.19,1233.74,158.51,14804.88,Cancelled,4,Delhivery,Not Returned,
+139,2024-12-11,CUST0139,PROD0139,Focus,Sports,WH10,Nelsonchester,East Zone,5,1279.25,2375.73,55.39,11878.65,Cancelled,10,XpressBees,Replacement Requested,Exchange Request
+140,2024-04-03,CUST0140,PROD0140,Way,Groceries,WH01,North Holly,North Zone,4,503.44,1064.72,68.02,4258.88,Shipped,12,XpressBees,Not Returned,
+141,2024-12-01,CUST0141,PROD0141,Hold,Sports,WH02,Payneport,North Zone,20,979.57,2431.4,117.45,48628.0,Delivered,12,Ecom Express,Not Returned,
+142,2025-04-20,CUST0142,PROD0142,Wide,Toys,WH03,Gonzalestown,East Zone,18,1613.52,3631.65,177.15,65369.7,Processing,14,Ecom Express,Not Returned,
+143,2024-11-28,CUST0143,PROD0143,Cost,Electronics,WH04,Lake Heather,South Zone,15,4765.7,7776.69,41.03,116650.35,Delivered,3,FedEx,Not Returned,
+144,2024-05-28,CUST0144,PROD0144,Challenge,Sports,WH05,West Derrickfurt,North Zone,11,2603.47,6366.72,64.98,70033.92,Cancelled,6,Ecom Express,Replacement Requested,Exchange Request
+145,2025-05-06,CUST0145,PROD0145,Sign,Groceries,WH06,North Dannyside,West Zone,1,962.9,1223.2,46.7,1223.2,Delivered,13,DTDC,Not Returned,
+146,2024-09-04,CUST0146,PROD0146,Movie,Clothing,WH07,Jameschester,Central Zone,9,1831.8,3210.17,93.53,28891.53,Delivered,5,Blue Dart,Not Returned,
+147,2024-11-06,CUST0147,PROD0147,Accept,Electronics,WH08,Port Rachel,West Zone,11,4307.21,6054.1,24.88,66595.1,Delivered,10,DTDC,Returned,Wrong Size
+148,2024-02-27,CUST0148,PROD0148,Pretty,Sports,WH09,West Leahhaven,East Zone,2,3533.2,5786.94,182.41,11573.88,Shipped,14,Ecom Express,Returned,Defective
+149,2025-03-18,CUST0149,PROD0149,By,Groceries,WH10,Stephanieshire,West Zone,17,3613.96,4366.27,172.03,74226.59,Shipped,1,Blue Dart,Not Returned,
+150,2025-03-08,CUST0150,PROD0150,Wide,Clothing,WH01,South Kelly,North Zone,19,1327.06,3115.25,120.85,59189.75,Shipped,12,DTDC,Not Returned,
+151,2025-01-26,CUST0151,PROD0151,Before,Beauty,WH02,Wendybury,Central Zone,8,3754.83,8161.15,95.73,65289.2,Processing,10,DTDC,Not Returned,
+152,2024-07-04,CUST0152,PROD0152,Difficult,Beauty,WH03,Turnerstad,North Zone,11,2616.65,3950.5,24.91,43455.5,Delivered,13,DTDC,Not Returned,
+153,2024-02-18,CUST0153,PROD0153,Edge,Toys,WH04,Adamsland,North Zone,7,1549.43,1872.2,89.65,13105.4,Delivered,13,FedEx,Returned,Quality Issue
+154,2024-08-06,CUST0154,PROD0154,It,Beauty,WH05,Garnerfort,South Zone,4,4792.49,8688.55,143.47,34754.2,Shipped,5,Ecom Express,Replacement Requested,Exchange Request
+155,2024-04-26,CUST0155,PROD0155,Majority,Groceries,WH06,Ortizville,North Zone,8,3469.74,7841.92,114.42,62735.36,Delivered,9,Blue Dart,Not Returned,
+156,2024-08-03,CUST0156,PROD0156,There,Home & Kitchen,WH07,South Robertport,North Zone,3,2524.05,5975.9,190.93,17927.7,Delivered,11,FedEx,Not Returned,
+157,2024-09-17,CUST0157,PROD0157,Material,Beauty,WH08,Lake Rachelborough,North Zone,6,2280.51,3074.15,61.38,18444.9,Shipped,10,Delhivery,Replacement Requested,Exchange Request
+158,2025-02-25,CUST0158,PROD0158,Community,Home & Kitchen,WH09,Joshualand,South Zone,6,1686.33,3033.35,47.4,18200.1,Delivered,10,FedEx,Not Returned,
+159,2025-02-21,CUST0159,PROD0159,Walk,Beauty,WH10,Patriciachester,Central Zone,10,211.41,456.82,170.92,4568.2,Delivered,8,Blue Dart,Not Returned,
+160,2025-04-02,CUST0160,PROD0160,Do,Electronics,WH01,Aguilarside,North Zone,13,3016.85,7073.74,185.02,91958.62,Cancelled,7,XpressBees,Replacement Requested,Exchange Request
+161,2024-07-14,CUST0161,PROD0161,These,Groceries,WH02,New Timothyberg,South Zone,2,914.74,1805.92,16.3,3611.84,Shipped,6,Ecom Express,Not Returned,
+162,2025-04-16,CUST0162,PROD0162,Tree,Sports,WH03,North Wandaville,South Zone,3,4813.62,7672.93,90.3,23018.79,Shipped,7,Blue Dart,Replacement Requested,Exchange Request
+163,2024-03-24,CUST0163,PROD0163,Task,Electronics,WH04,West Brandon,West Zone,7,737.23,1310.12,100.1,9170.84,Delivered,3,Blue Dart,Replacement Requested,Exchange Request
+164,2024-04-23,CUST0164,PROD0164,Now,Clothing,WH05,Westfort,Central Zone,8,4185.78,9699.47,58.34,77595.76,Delivered,3,Blue Dart,Not Returned,
+165,2025-01-13,CUST0165,PROD0165,Some,Home & Kitchen,WH06,Port Micheleport,West Zone,17,4397.77,8039.18,181.16,136666.06,Delivered,13,XpressBees,Replacement Requested,Exchange Request
+166,2024-02-17,CUST0166,PROD0166,Market,Books,WH07,West Georgeville,West Zone,8,3840.31,5063.87,74.26,40510.96,Delivered,13,XpressBees,Not Returned,
+167,2024-10-14,CUST0167,PROD0167,Reality,Home & Kitchen,WH08,Katherinechester,West Zone,20,3432.89,8225.04,130.03,164500.8,Shipped,2,Delhivery,Not Returned,
+168,2024-07-25,CUST0168,PROD0168,Go,Home & Kitchen,WH09,New Adam,Central Zone,7,579.29,1100.72,90.75,7705.04,Delivered,3,XpressBees,Not Returned,
+169,2024-09-22,CUST0169,PROD0169,Figure,Home & Kitchen,WH10,Danielleshire,East Zone,12,1478.13,1983.9,12.14,23806.8,Delivered,8,XpressBees,Not Returned,
+170,2024-01-30,CUST0170,PROD0170,Social,Home & Kitchen,WH01,New Heather,North Zone,4,3902.21,6617.46,81.39,26469.84,Delivered,8,XpressBees,Not Returned,
+171,2024-05-02,CUST0171,PROD0171,World,Clothing,WH02,Melissamouth,Central Zone,6,2077.87,4002.53,182.57,24015.18,Pending,10,DTDC,Returned,Wrong Size
+172,2024-08-26,CUST0172,PROD0172,Institution,Sports,WH03,Newtonside,West Zone,8,636.47,987.3,158.81,7898.4,Delivered,7,Delhivery,Not Returned,
+173,2024-11-10,CUST0173,PROD0173,Structure,Clothing,WH04,North Angela,West Zone,3,4241.87,5531.41,107.23,16594.23,Delivered,13,Blue Dart,Returned,Not Needed
+174,2025-01-23,CUST0174,PROD0174,Maybe,Clothing,WH05,Port Andrealand,East Zone,10,3258.3,6169.44,159.75,61694.4,Processing,4,Ecom Express,Not Returned,
+175,2024-09-14,CUST0175,PROD0175,Try,Beauty,WH06,New Rachelview,Central Zone,9,2896.82,3922.8,41.67,35305.2,Delivered,11,Ecom Express,Not Returned,
+176,2025-04-11,CUST0176,PROD0176,Election,Electronics,WH07,Brandiberg,South Zone,7,4463.19,10153.79,43.43,71076.53,Delivered,4,Delhivery,Not Returned,
+177,2025-01-08,CUST0177,PROD0177,Performance,Groceries,WH08,Robertsburgh,West Zone,10,3788.15,4611.96,67.14,46119.6,Delivered,2,Delhivery,Not Returned,
+178,2025-05-29,CUST0178,PROD0178,Garden,Electronics,WH09,Joshuaport,North Zone,6,354.17,644.06,171.67,3864.36,Pending,14,DTDC,Not Returned,
+179,2024-08-17,CUST0179,PROD0179,Now,Books,WH10,Christopherhaven,North Zone,16,1163.37,2074.58,104.1,33193.28,Delivered,11,Blue Dart,Not Returned,
+180,2025-02-01,CUST0180,PROD0180,Community,Sports,WH01,Port Samuelview,South Zone,12,2101.54,4226.69,115.31,50720.28,Pending,6,Blue Dart,Not Returned,
+181,2024-06-01,CUST0181,PROD0181,Factor,Groceries,WH02,Toddmouth,West Zone,5,2245.24,3195.13,173.57,15975.65,Delivered,14,FedEx,Not Returned,
+182,2025-05-28,CUST0182,PROD0182,Quite,Home & Kitchen,WH03,Smithside,Central Zone,14,501.57,833.89,108.86,11674.46,Shipped,2,FedEx,Not Returned,
+183,2025-03-11,CUST0183,PROD0183,Much,Beauty,WH04,West Madisonshire,West Zone,4,3276.3,7704.29,125.88,30817.16,Delivered,8,Delhivery,Replacement Requested,Exchange Request
+184,2024-11-15,CUST0184,PROD0184,Reduce,Beauty,WH05,East Ryanbury,East Zone,4,1061.31,2226.47,21.67,8905.88,Delivered,7,Blue Dart,Replacement Requested,Exchange Request
+185,2025-05-19,CUST0185,PROD0185,Wonder,Sports,WH06,New Michelleport,Central Zone,17,3976.71,6876.27,44.46,116896.59,Shipped,13,Ecom Express,Replacement Requested,Exchange Request
+186,2024-09-18,CUST0186,PROD0186,Might,Beauty,WH07,New Steveshire,Central Zone,8,194.15,458.17,19.32,3665.36,Delivered,3,DTDC,Not Returned,
+187,2024-10-03,CUST0187,PROD0187,Firm,Toys,WH08,Toddside,South Zone,19,1414.3,2090.47,100.68,39718.93,Shipped,3,XpressBees,Not Returned,
+188,2024-02-22,CUST0188,PROD0188,Campaign,Groceries,WH09,Cruzfort,Central Zone,15,939.3,1479.77,135.82,22196.55,Delivered,14,FedEx,Returned,Delivery Damaged
+189,2024-06-01,CUST0189,PROD0189,Financial,Sports,WH10,Wallershire,East Zone,12,770.6,1382.13,43.54,16585.56,Cancelled,1,XpressBees,Not Returned,
+190,2024-11-13,CUST0190,PROD0190,Wide,Clothing,WH01,Pereztown,Central Zone,9,127.05,280.81,173.46,2527.29,Delivered,12,Delhivery,Not Returned,
+191,2025-06-25,CUST0191,PROD0191,Or,Toys,WH02,Haneystad,North Zone,10,2294.24,3283.67,136.77,32836.7,Cancelled,1,FedEx,Not Returned,
+192,2024-06-03,CUST0192,PROD0192,Big,Sports,WH03,East Robertbury,South Zone,11,4562.05,6790.12,160.29,74691.32,Shipped,5,XpressBees,Replacement Requested,Exchange Request
+193,2025-06-26,CUST0193,PROD0193,Travel,Clothing,WH04,East Christopher,East Zone,2,3503.76,8569.47,45.08,17138.94,Shipped,1,DTDC,Not Returned,
+194,2024-12-18,CUST0194,PROD0194,Clear,Toys,WH05,Lake Ashley,South Zone,18,1145.55,1426.71,189.26,25680.78,Delivered,9,Blue Dart,Not Returned,
+195,2025-01-18,CUST0195,PROD0195,Shake,Beauty,WH06,South Yvonnechester,West Zone,11,2453.08,5837.4,77.04,64211.4,Processing,9,XpressBees,Not Returned,
+196,2025-01-17,CUST0196,PROD0196,Around,Clothing,WH07,East Lynnmouth,South Zone,18,3937.0,7788.14,64.05,140186.52,Cancelled,11,Ecom Express,Returned,Delivery Damaged
+197,2024-04-09,CUST0197,PROD0197,Court,Home & Kitchen,WH08,Snyderstad,Central Zone,4,4453.94,6140.35,77.94,24561.4,Delivered,4,XpressBees,Returned,Not Needed
+198,2024-03-08,CUST0198,PROD0198,Exactly,Beauty,WH09,Orrport,South Zone,7,750.12,1628.46,118.19,11399.22,Delivered,4,FedEx,Not Returned,
+199,2024-10-04,CUST0199,PROD0199,Father,Sports,WH10,Michaelstad,Central Zone,7,2243.98,4079.81,58.49,28558.67,Shipped,2,FedEx,Not Returned,
+200,2025-01-19,CUST0200,PROD0200,Entire,Groceries,WH01,Douglasview,West Zone,3,4484.59,5521.25,92.89,16563.75,Delivered,6,Ecom Express,Not Returned,
+201,2024-03-27,CUST0201,PROD0201,Low,Beauty,WH02,Davidhaven,North Zone,17,3577.84,4307.71,61.35,73231.07,Delivered,14,XpressBees,Not Returned,
+202,2025-04-12,CUST0202,PROD0202,Leave,Toys,WH03,Stanleyton,Central Zone,8,4476.56,10247.15,176.82,81977.2,Delivered,12,Ecom Express,Returned,Delivery Damaged
+203,2025-02-09,CUST0203,PROD0203,Sit,Beauty,WH04,New Tamara,North Zone,15,1280.13,1830.35,12.36,27455.25,Processing,13,DTDC,Replacement Requested,Exchange Request
+204,2024-08-20,CUST0204,PROD0204,Movement,Home & Kitchen,WH05,Campbellville,Central Zone,18,4179.11,7434.98,53.02,133829.64,Processing,12,FedEx,Not Returned,
+205,2024-07-17,CUST0205,PROD0205,Level,Home & Kitchen,WH06,Walkerton,East Zone,5,898.38,1740.89,177.27,8704.45,Delivered,9,Blue Dart,Not Returned,
+206,2025-02-03,CUST0206,PROD0206,Degree,Books,WH07,East Jenniferhaven,East Zone,5,2016.49,3986.03,65.24,19930.15,Shipped,4,Blue Dart,Returned,Quality Issue
+207,2024-04-17,CUST0207,PROD0207,Cup,Clothing,WH08,Port Donald,East Zone,3,747.3,1514.6,33.96,4543.8,Shipped,7,Blue Dart,Not Returned,
+208,2024-08-20,CUST0208,PROD0208,Lose,Groceries,WH09,South Andrew,East Zone,5,1520.08,2461.38,127.52,12306.9,Delivered,11,Delhivery,Returned,Wrong Size
+209,2024-08-14,CUST0209,PROD0209,Television,Electronics,WH10,East Richardside,North Zone,3,4339.04,8005.98,90.71,24017.94,Processing,6,Ecom Express,Returned,Defective
+210,2024-02-13,CUST0210,PROD0210,Soon,Toys,WH01,Lake Stevenland,Central Zone,14,340.53,656.54,98.94,9191.56,Delivered,13,DTDC,Returned,Defective
+211,2024-07-15,CUST0211,PROD0211,Nor,Books,WH02,Johnbury,East Zone,20,603.57,1331.7,58.15,26634.0,Shipped,4,FedEx,Replacement Requested,Exchange Request
+212,2024-11-14,CUST0212,PROD0212,Majority,Home & Kitchen,WH03,Bishopview,West Zone,9,3880.86,4744.58,14.38,42701.22,Shipped,14,Delhivery,Returned,Defective
+213,2025-04-18,CUST0213,PROD0213,Learn,Beauty,WH04,Russoview,Central Zone,15,1366.44,1640.27,25.03,24604.05,Processing,8,Ecom Express,Replacement Requested,Exchange Request
+214,2024-04-08,CUST0214,PROD0214,Suddenly,Books,WH05,Jameston,Central Zone,3,3791.87,6133.21,176.23,18399.63,Delivered,12,FedEx,Replacement Requested,Exchange Request
+215,2025-06-04,CUST0215,PROD0215,Mrs,Sports,WH06,Port Amberport,East Zone,14,1025.5,2287.49,155.25,32024.86,Shipped,1,Ecom Express,Not Returned,
+216,2024-06-01,CUST0216,PROD0216,Energy,Sports,WH07,Kennedyfort,South Zone,3,642.9,1253.67,145.83,3761.01,Delivered,3,Delhivery,Not Returned,
+217,2024-09-20,CUST0217,PROD0217,Live,Home & Kitchen,WH08,Barajasfurt,North Zone,16,493.33,1005.38,48.98,16086.08,Delivered,6,Blue Dart,Returned,Quality Issue
+218,2024-09-28,CUST0218,PROD0218,Election,Home & Kitchen,WH09,West Carolynburgh,West Zone,5,3965.22,7839.94,79.26,39199.7,Delivered,13,Delhivery,Not Returned,
+219,2024-10-20,CUST0219,PROD0219,Maybe,Clothing,WH10,East Nicholasville,East Zone,4,906.2,1962.69,69.97,7850.76,Delivered,8,XpressBees,Replacement Requested,Exchange Request
+220,2025-04-16,CUST0220,PROD0220,Everyone,Sports,WH01,Dianatown,North Zone,9,661.16,1481.89,66.62,13337.01,Delivered,13,Blue Dart,Returned,Wrong Size
+221,2024-08-07,CUST0221,PROD0221,Single,Beauty,WH02,Tarabury,Central Zone,1,1116.8,1577.49,59.81,1577.49,Delivered,1,FedEx,Not Returned,
+222,2024-08-24,CUST0222,PROD0222,Get,Clothing,WH03,Brightbury,East Zone,6,3556.1,7043.06,11.98,42258.36,Delivered,10,Ecom Express,Not Returned,
+223,2025-01-26,CUST0223,PROD0223,Suffer,Books,WH04,North Benjaminmouth,South Zone,15,708.07,1036.48,76.4,15547.2,Delivered,4,FedEx,Not Returned,
+224,2025-05-28,CUST0224,PROD0224,Sure,Toys,WH05,Port Ronald,South Zone,19,4947.75,11266.32,79.93,214060.08,Cancelled,14,Blue Dart,Not Returned,
+225,2024-10-10,CUST0225,PROD0225,After,Home & Kitchen,WH06,South Lisaberg,East Zone,3,2315.31,5250.5,107.44,15751.5,Shipped,10,XpressBees,Replacement Requested,Exchange Request
+226,2024-02-13,CUST0226,PROD0226,Left,Books,WH07,Wesleybury,South Zone,14,1856.92,4439.72,118.55,62156.08,Delivered,10,FedEx,Not Returned,
+227,2024-11-09,CUST0227,PROD0227,Buy,Toys,WH08,Lauramouth,East Zone,7,3198.98,5024.46,39.82,35171.22,Delivered,9,Blue Dart,Returned,Delivery Damaged
+228,2024-07-25,CUST0228,PROD0228,Congress,Books,WH09,Mollymouth,East Zone,15,4080.99,8668.54,130.25,130028.1,Shipped,7,Blue Dart,Returned,Wrong Size
+229,2024-04-05,CUST0229,PROD0229,Product,Beauty,WH10,Hayesbury,South Zone,8,943.14,2315.31,38.37,18522.48,Delivered,3,Ecom Express,Not Returned,
+230,2025-06-02,CUST0230,PROD0230,Who,Clothing,WH01,Amyland,East Zone,11,3801.98,5766.18,136.72,63427.98,Delivered,4,Blue Dart,Not Returned,
+231,2024-03-27,CUST0231,PROD0231,Result,Clothing,WH02,Wendystad,West Zone,9,1073.71,2391.27,64.26,21521.43,Delivered,2,DTDC,Returned,Wrong Size
+232,2024-03-21,CUST0232,PROD0232,Rock,Toys,WH03,Kimtown,East Zone,16,3567.7,5759.19,106.01,92147.04,Delivered,8,Ecom Express,Replacement Requested,Exchange Request
+233,2024-09-24,CUST0233,PROD0233,Despite,Toys,WH04,Robyntown,South Zone,12,2229.85,4853.97,116.31,58247.64,Processing,7,XpressBees,Returned,Quality Issue
+234,2024-01-05,CUST0234,PROD0234,Relate,Electronics,WH05,Oliverview,East Zone,16,2093.29,4760.92,23.55,76174.72,Delivered,8,FedEx,Replacement Requested,Exchange Request
+235,2024-12-03,CUST0235,PROD0235,Race,Electronics,WH06,Elizabethburgh,South Zone,6,1876.09,3205.79,173.11,19234.74,Processing,2,XpressBees,Returned,Delivery Damaged
+236,2025-05-19,CUST0236,PROD0236,State,Toys,WH07,North Stephaniemouth,South Zone,2,577.43,1271.1,152.37,2542.2,Delivered,11,Ecom Express,Replacement Requested,Exchange Request
+237,2025-05-20,CUST0237,PROD0237,Compare,Beauty,WH08,Nortonfurt,East Zone,14,2732.92,3788.23,193.28,53035.22,Delivered,1,Delhivery,Returned,Delivery Damaged
+238,2024-11-13,CUST0238,PROD0238,Mind,Books,WH09,Pachecoburgh,East Zone,12,641.53,1377.49,127.36,16529.88,Delivered,3,Delhivery,Returned,Defective
+239,2025-06-10,CUST0239,PROD0239,Land,Clothing,WH10,Port Carlos,West Zone,9,1002.0,1937.89,197.66,17441.01,Shipped,3,FedEx,Not Returned,
+240,2024-06-30,CUST0240,PROD0240,Former,Beauty,WH01,Port Christina,South Zone,14,4461.84,10361.85,180.58,145065.9,Shipped,4,XpressBees,Returned,Wrong Size
+241,2024-06-24,CUST0241,PROD0241,Decision,Beauty,WH02,New Timothymouth,South Zone,16,2786.85,3809.32,89.81,60949.12,Delivered,11,Ecom Express,Not Returned,
+242,2025-06-26,CUST0242,PROD0242,Hour,Clothing,WH03,East Jonmouth,West Zone,5,1458.81,2051.85,167.39,10259.25,Cancelled,7,XpressBees,Not Returned,
+243,2024-09-21,CUST0243,PROD0243,Skin,Groceries,WH04,Rogersmouth,East Zone,6,4997.98,7272.65,132.41,43635.9,Processing,12,Ecom Express,Returned,Defective
+244,2024-03-16,CUST0244,PROD0244,Interesting,Beauty,WH05,West Nathanieltown,Central Zone,7,2440.52,4329.67,159.58,30307.69,Shipped,10,XpressBees,Not Returned,
+245,2024-07-08,CUST0245,PROD0245,Design,Books,WH06,Martinborough,South Zone,10,4273.66,6438.49,21.7,64384.9,Delivered,9,FedEx,Replacement Requested,Exchange Request
+246,2024-02-01,CUST0246,PROD0246,Admit,Beauty,WH07,South William,West Zone,10,1382.35,1723.94,71.64,17239.4,Delivered,8,XpressBees,Not Returned,
+247,2024-05-18,CUST0247,PROD0247,Hold,Beauty,WH08,Jamesport,East Zone,11,3098.93,3926.68,52.24,43193.48,Processing,6,Blue Dart,Replacement Requested,Exchange Request
+248,2024-03-01,CUST0248,PROD0248,Get,Clothing,WH09,Brittanyton,East Zone,2,1075.86,1417.23,22.27,2834.46,Delivered,2,DTDC,Returned,Quality Issue
+249,2024-12-19,CUST0249,PROD0249,Drug,Beauty,WH10,New Williamstad,North Zone,7,1538.96,2546.84,76.09,17827.88,Processing,6,FedEx,Not Returned,
+250,2025-01-11,CUST0250,PROD0250,Seven,Toys,WH01,North Amy,West Zone,18,2255.93,5399.38,125.88,97188.84,Delivered,12,Blue Dart,Not Returned,
+251,2024-06-09,CUST0251,PROD0251,Reduce,Home & Kitchen,WH02,Maymouth,East Zone,11,941.04,2212.73,139.98,24340.03,Delivered,3,DTDC,Not Returned,
+252,2025-04-29,CUST0252,PROD0252,Decision,Toys,WH03,Lake Donnabury,East Zone,6,3354.06,6454.74,177.5,38728.44,Delivered,4,DTDC,Not Returned,
+253,2024-12-16,CUST0253,PROD0253,Movie,Sports,WH04,Lake Angelaport,South Zone,18,1553.26,2563.57,173.45,46144.26,Delivered,8,XpressBees,Returned,Quality Issue
+254,2024-05-24,CUST0254,PROD0254,Everybody,Clothing,WH05,Camerontown,Central Zone,17,2161.99,5396.07,29.38,91733.19,Cancelled,12,Blue Dart,Not Returned,
+255,2024-05-15,CUST0255,PROD0255,Finish,Books,WH06,Richardhaven,West Zone,12,4997.0,7825.52,179.16,93906.24,Shipped,5,DTDC,Not Returned,
+256,2024-03-05,CUST0256,PROD0256,Accept,Clothing,WH07,Port Jacquelinestad,West Zone,12,4909.67,7375.99,123.21,88511.88,Shipped,11,DTDC,Not Returned,
+257,2024-08-20,CUST0257,PROD0257,Catch,Electronics,WH08,Chadview,North Zone,5,3570.21,8045.63,197.67,40228.15,Delivered,9,FedEx,Replacement Requested,Exchange Request
+258,2025-03-25,CUST0258,PROD0258,Out,Groceries,WH09,East Juanville,East Zone,4,1668.29,2185.2,145.76,8740.8,Processing,3,Ecom Express,Replacement Requested,Exchange Request
+259,2024-09-27,CUST0259,PROD0259,Pattern,Clothing,WH10,Courtneyhaven,East Zone,15,102.62,205.33,68.05,3079.95,Shipped,7,FedEx,Not Returned,
+260,2024-06-03,CUST0260,PROD0260,Fear,Electronics,WH01,South Eric,East Zone,18,2581.56,3167.23,172.59,57010.14,Delivered,7,FedEx,Not Returned,
+261,2025-06-16,CUST0261,PROD0261,Plan,Sports,WH02,South Stephanie,Central Zone,19,1658.03,3581.63,192.59,68050.97,Shipped,6,Delhivery,Not Returned,
+262,2025-01-13,CUST0262,PROD0262,Month,Electronics,WH03,Travistown,East Zone,18,2541.95,5455.29,98.69,98195.22,Cancelled,2,Blue Dart,Replacement Requested,Exchange Request
+263,2025-05-08,CUST0263,PROD0263,Exist,Groceries,WH04,East Paulville,South Zone,5,3571.99,7063.03,78.74,35315.15,Processing,9,XpressBees,Replacement Requested,Exchange Request
+264,2024-07-29,CUST0264,PROD0264,Good,Home & Kitchen,WH05,Port Keith,North Zone,19,1272.1,1989.48,87.1,37800.12,Delivered,10,Delhivery,Not Returned,
+265,2024-01-26,CUST0265,PROD0265,Deep,Beauty,WH06,Mitchellborough,West Zone,11,1744.16,2165.33,182.07,23818.63,Delivered,6,FedEx,Not Returned,
+266,2024-07-06,CUST0266,PROD0266,Spend,Electronics,WH07,Oconnellmouth,East Zone,4,4977.99,6261.25,97.03,25045.0,Delivered,14,Delhivery,Not Returned,
+267,2024-11-16,CUST0267,PROD0267,Hear,Groceries,WH08,West Michelle,Central Zone,14,4631.36,9529.19,46.55,133408.66,Shipped,4,Blue Dart,Not Returned,
+268,2024-12-12,CUST0268,PROD0268,Anyone,Sports,WH09,New Mistyside,Central Zone,15,2936.34,7191.57,173.51,107873.55,Delivered,4,FedEx,Not Returned,
+269,2024-02-21,CUST0269,PROD0269,Green,Toys,WH10,Port Ryan,West Zone,18,3800.28,7638.26,45.49,137488.68,Delivered,11,Delhivery,Not Returned,
+270,2024-02-28,CUST0270,PROD0270,Difference,Sports,WH01,Flemingtown,East Zone,3,2975.96,3872.69,66.51,11618.07,Delivered,5,XpressBees,Returned,Defective
+271,2024-09-09,CUST0271,PROD0271,Country,Clothing,WH02,Port Heather,West Zone,13,4927.63,6996.27,25.53,90951.51,Cancelled,13,Delhivery,Returned,Not Needed
+272,2024-01-16,CUST0272,PROD0272,Staff,Clothing,WH03,North Michael,West Zone,1,1673.59,2300.33,81.9,2300.33,Delivered,8,XpressBees,Not Returned,
+273,2024-07-08,CUST0273,PROD0273,Deal,Toys,WH04,Lake Tyler,Central Zone,14,529.48,1068.42,86.98,14957.88,Delivered,3,Delhivery,Not Returned,
+274,2024-12-24,CUST0274,PROD0274,Part,Beauty,WH05,West Autumn,Central Zone,13,3251.07,5391.0,142.22,70083.0,Delivered,3,XpressBees,Returned,Quality Issue
+275,2024-02-14,CUST0275,PROD0275,Church,Sports,WH06,North Thomas,West Zone,3,2172.85,4314.08,103.55,12942.24,Delivered,7,XpressBees,Replacement Requested,Exchange Request
+276,2024-01-08,CUST0276,PROD0276,Energy,Toys,WH07,Bautistaville,South Zone,7,4163.62,7720.4,176.23,54042.8,Delivered,4,DTDC,Not Returned,
+277,2025-02-17,CUST0277,PROD0277,Traditional,Books,WH08,Margaretfurt,North Zone,1,3713.96,6028.8,127.41,6028.8,Delivered,3,XpressBees,Returned,Defective
+278,2024-04-07,CUST0278,PROD0278,Become,Groceries,WH09,Berryberg,East Zone,17,4758.87,11449.45,87.23,194640.65,Delivered,9,Delhivery,Not Returned,
+279,2025-02-10,CUST0279,PROD0279,Cut,Groceries,WH10,New Peterstad,North Zone,15,2856.28,4739.11,106.37,71086.65,Delivered,4,Ecom Express,Replacement Requested,Exchange Request
+280,2024-12-24,CUST0280,PROD0280,Project,Beauty,WH01,North Tinaburgh,North Zone,11,273.32,364.35,98.85,4007.85,Cancelled,4,DTDC,Not Returned,
+281,2024-10-06,CUST0281,PROD0281,Ever,Home & Kitchen,WH02,Lake Tinaville,East Zone,6,4073.82,4981.62,151.91,29889.72,Delivered,5,Ecom Express,Not Returned,
+282,2025-05-02,CUST0282,PROD0282,Large,Home & Kitchen,WH03,Jennifertown,West Zone,3,803.91,1407.01,176.53,4221.03,Delivered,12,Blue Dart,Not Returned,
+283,2024-08-24,CUST0283,PROD0283,Police,Groceries,WH04,West Deanna,South Zone,18,917.31,1682.29,88.81,30281.22,Shipped,9,DTDC,Not Returned,
+284,2025-06-16,CUST0284,PROD0284,Meeting,Groceries,WH05,Lake Rachel,North Zone,1,2314.03,3910.31,54.0,3910.31,Shipped,8,DTDC,Not Returned,
+285,2024-04-14,CUST0285,PROD0285,If,Clothing,WH06,Blackmouth,South Zone,9,2398.27,4307.17,181.61,38764.53,Processing,2,FedEx,Replacement Requested,Exchange Request
+286,2024-05-30,CUST0286,PROD0286,Star,Sports,WH07,Matthewton,South Zone,7,4779.6,10212.18,146.61,71485.26,Delivered,3,DTDC,Returned,Not Needed
+287,2024-08-20,CUST0287,PROD0287,Though,Home & Kitchen,WH08,Kristinaland,East Zone,6,1863.27,2476.94,98.33,14861.64,Shipped,7,Ecom Express,Returned,Wrong Size
+288,2024-10-15,CUST0288,PROD0288,Staff,Clothing,WH09,Rebeccaton,East Zone,11,4871.21,10416.67,164.97,114583.37,Delivered,7,Blue Dart,Returned,Delivery Damaged
+289,2024-11-09,CUST0289,PROD0289,Program,Groceries,WH10,Thorntonside,East Zone,14,4451.13,7545.47,52.22,105636.58,Delivered,3,FedEx,Not Returned,
+290,2024-11-18,CUST0290,PROD0290,Company,Electronics,WH01,Smithstad,West Zone,18,4549.36,8883.81,125.72,159908.58,Delivered,8,Ecom Express,Replacement Requested,Exchange Request
+291,2024-08-15,CUST0291,PROD0291,But,Books,WH02,East Jeffreyview,North Zone,11,1571.59,3060.48,113.3,33665.28,Delivered,6,Blue Dart,Replacement Requested,Exchange Request
+292,2025-06-01,CUST0292,PROD0292,Leader,Clothing,WH03,Port Christineton,West Zone,17,290.09,577.04,96.56,9809.68,Shipped,3,DTDC,Not Returned,
+293,2025-03-21,CUST0293,PROD0293,And,Electronics,WH04,Melindamouth,West Zone,19,1903.69,2937.13,92.82,55805.47,Cancelled,8,XpressBees,Not Returned,
+294,2024-01-07,CUST0294,PROD0294,Police,Groceries,WH05,Deniseton,West Zone,10,4469.13,6143.21,50.58,61432.1,Processing,9,XpressBees,Not Returned,
+295,2025-05-26,CUST0295,PROD0295,Development,Electronics,WH06,Jasonview,North Zone,14,4445.21,7763.95,84.32,108695.3,Delivered,10,Delhivery,Replacement Requested,Exchange Request
+296,2025-04-16,CUST0296,PROD0296,Level,Electronics,WH07,South Luischester,North Zone,11,574.25,1425.82,13.43,15684.02,Delivered,9,Ecom Express,Replacement Requested,Exchange Request
+297,2025-05-06,CUST0297,PROD0297,Seem,Books,WH08,Timothyhaven,North Zone,4,383.93,524.83,122.05,2099.32,Delivered,4,Blue Dart,Not Returned,
+298,2024-05-31,CUST0298,PROD0298,Avoid,Books,WH09,East Tonybury,Central Zone,17,1554.17,2064.64,172.99,35098.88,Delivered,10,XpressBees,Returned,Defective
+299,2024-03-04,CUST0299,PROD0299,Cause,Books,WH10,Marioside,West Zone,3,3959.39,9029.19,68.67,27087.57,Shipped,6,Ecom Express,Not Returned,
+300,2025-01-22,CUST0300,PROD0300,Clearly,Beauty,WH01,Schaeferstad,West Zone,19,2806.96,5771.71,160.16,109662.49,Delivered,6,Delhivery,Replacement Requested,Exchange Request
+301,2024-03-12,CUST0301,PROD0301,News,Toys,WH02,East Suzannetown,South Zone,6,4277.58,5814.75,126.99,34888.5,Delivered,7,Blue Dart,Not Returned,
+302,2024-11-03,CUST0302,PROD0302,Society,Toys,WH03,Aaronland,West Zone,15,4978.55,9446.89,27.89,141703.35,Delivered,11,FedEx,Not Returned,
+303,2024-09-16,CUST0303,PROD0303,Trip,Clothing,WH04,Shawnport,Central Zone,12,2668.6,6399.03,44.65,76788.36,Shipped,1,DTDC,Not Returned,
+304,2024-07-08,CUST0304,PROD0304,Single,Sports,WH05,Richardport,Central Zone,13,862.68,1203.87,135.4,15650.31,Shipped,2,Delhivery,Not Returned,
+305,2024-10-05,CUST0305,PROD0305,Every,Books,WH06,Port Ronaldstad,Central Zone,3,3696.45,5835.42,178.82,17506.26,Delivered,9,Delhivery,Not Returned,
+306,2024-02-17,CUST0306,PROD0306,Guy,Toys,WH07,Nicholasmouth,East Zone,13,3188.84,6361.08,71.15,82694.04,Delivered,13,Ecom Express,Replacement Requested,Exchange Request
+307,2024-07-06,CUST0307,PROD0307,Here,Electronics,WH08,Rodriguezside,West Zone,18,1761.15,2256.99,182.38,40625.82,Delivered,10,FedEx,Returned,Quality Issue
+308,2025-04-26,CUST0308,PROD0308,Minute,Electronics,WH09,Jamesview,West Zone,16,3581.44,7182.21,36.64,114915.36,Delivered,14,Delhivery,Not Returned,
+309,2025-02-26,CUST0309,PROD0309,Language,Sports,WH10,Johnville,South Zone,13,2499.47,3242.66,54.84,42154.58,Cancelled,8,Delhivery,Returned,Wrong Size
+310,2025-01-01,CUST0310,PROD0310,Ever,Sports,WH01,North Timothychester,East Zone,11,3387.09,6734.99,50.94,74084.89,Processing,1,Ecom Express,Returned,Defective
+311,2024-03-28,CUST0311,PROD0311,Hard,Sports,WH02,Ochoaland,East Zone,18,3950.81,7314.74,131.05,131665.32,Delivered,5,Ecom Express,Returned,Quality Issue
+312,2024-04-02,CUST0312,PROD0312,Entire,Groceries,WH03,Rickyborough,East Zone,3,3689.44,5708.21,53.0,17124.63,Cancelled,10,Blue Dart,Returned,Delivery Damaged
+313,2024-07-27,CUST0313,PROD0313,Democratic,Toys,WH04,Lake Allen,Central Zone,6,3401.08,6816.28,144.79,40897.68,Processing,5,XpressBees,Not Returned,
+314,2024-03-07,CUST0314,PROD0314,Strong,Electronics,WH05,Port Meganton,South Zone,7,687.55,1714.13,158.94,11998.91,Shipped,5,Ecom Express,Not Returned,
+315,2024-06-28,CUST0315,PROD0315,Even,Electronics,WH06,Hallville,Central Zone,19,4088.01,8231.51,193.22,156398.69,Delivered,5,XpressBees,Not Returned,
+316,2024-04-16,CUST0316,PROD0316,Although,Home & Kitchen,WH07,West Ricky,East Zone,13,3969.49,7282.22,182.87,94668.86,Processing,4,DTDC,Replacement Requested,Exchange Request
+317,2025-01-21,CUST0317,PROD0317,Learn,Clothing,WH08,East Douglas,West Zone,11,2152.41,4583.88,65.53,50422.68,Delivered,10,Ecom Express,Not Returned,
+318,2024-05-11,CUST0318,PROD0318,Against,Groceries,WH09,Richardsfort,South Zone,11,73.08,141.06,197.72,1551.66,Delivered,4,DTDC,Not Returned,
+319,2024-01-30,CUST0319,PROD0319,Able,Clothing,WH10,North Dominiqueton,Central Zone,20,4454.53,7155.5,191.27,143110.0,Delivered,9,Blue Dart,Returned,Wrong Size
+320,2024-04-16,CUST0320,PROD0320,Put,Groceries,WH01,Carterfurt,East Zone,20,1105.28,2329.84,68.46,46596.8,Delivered,3,Delhivery,Not Returned,
+321,2024-09-09,CUST0321,PROD0321,Action,Sports,WH02,Ianburgh,Central Zone,3,3821.87,5956.34,129.2,17869.02,Delivered,6,Delhivery,Not Returned,
+322,2025-02-09,CUST0322,PROD0322,Kind,Clothing,WH03,South Juanton,Central Zone,5,1383.46,2237.79,15.52,11188.95,Delivered,5,Delhivery,Replacement Requested,Exchange Request
+323,2024-05-19,CUST0323,PROD0323,Economic,Beauty,WH04,New Tinaport,West Zone,9,3983.61,5246.39,173.36,47217.51,Delivered,8,XpressBees,Not Returned,
+324,2024-12-05,CUST0324,PROD0324,Respond,Books,WH05,North Tony,South Zone,12,1286.47,2764.03,105.67,33168.36,Delivered,5,Blue Dart,Not Returned,
+325,2024-01-29,CUST0325,PROD0325,End,Sports,WH06,South Jennifer,South Zone,13,4974.94,10104.85,44.33,131363.05,Delivered,12,Ecom Express,Not Returned,
+326,2024-09-19,CUST0326,PROD0326,Brother,Clothing,WH07,Norrisside,Central Zone,10,1902.57,2646.38,121.3,26463.8,Delivered,9,FedEx,Returned,Not Needed
+327,2025-03-14,CUST0327,PROD0327,Individual,Toys,WH08,Timothyside,North Zone,18,835.08,1827.89,22.11,32902.02,Delivered,2,Delhivery,Not Returned,
+328,2024-11-02,CUST0328,PROD0328,Top,Books,WH09,West Jennifer,South Zone,3,1550.04,2796.3,107.15,8388.9,Delivered,12,Blue Dart,Replacement Requested,Exchange Request
+329,2024-10-22,CUST0329,PROD0329,Whom,Electronics,WH10,South Andreaville,East Zone,10,4853.99,7060.9,145.81,70609.0,Delivered,7,Ecom Express,Not Returned,
+330,2025-04-25,CUST0330,PROD0330,Modern,Sports,WH01,South Erikaborough,South Zone,7,912.59,1549.61,186.84,10847.27,Delivered,9,Ecom Express,Returned,Defective
+331,2024-06-19,CUST0331,PROD0331,Time,Beauty,WH02,Antoniobury,North Zone,13,1707.53,3125.56,26.63,40632.28,Delivered,12,DTDC,Not Returned,
+332,2024-05-13,CUST0332,PROD0332,Affect,Groceries,WH03,Jenniferhaven,East Zone,10,181.26,314.08,17.55,3140.8,Shipped,4,XpressBees,Replacement Requested,Exchange Request
+333,2024-07-05,CUST0333,PROD0333,Modern,Books,WH04,Bradshire,West Zone,18,1174.58,1628.68,28.13,29316.24,Processing,13,Delhivery,Not Returned,
+334,2024-06-13,CUST0334,PROD0334,Pattern,Books,WH05,Shanefort,South Zone,12,119.06,156.13,105.41,1873.56,Processing,13,XpressBees,Not Returned,
+335,2024-02-03,CUST0335,PROD0335,Red,Toys,WH06,Ferrellstad,West Zone,3,2877.42,5732.78,165.69,17198.34,Shipped,11,Ecom Express,Returned,Defective
+336,2024-07-15,CUST0336,PROD0336,Message,Clothing,WH07,New Mark,Central Zone,6,582.4,1247.9,145.98,7487.4,Delivered,3,DTDC,Not Returned,
+337,2024-11-16,CUST0337,PROD0337,Teach,Groceries,WH08,South Jessicashire,North Zone,16,3415.64,6361.95,64.69,101791.2,Cancelled,9,XpressBees,Not Returned,
+338,2025-06-23,CUST0338,PROD0338,Despite,Clothing,WH09,New Ericland,North Zone,17,4590.69,8758.57,26.65,148895.69,Cancelled,5,Delhivery,Not Returned,
+339,2024-08-06,CUST0339,PROD0339,Minute,Beauty,WH10,North Amber,East Zone,14,3049.6,4174.33,35.95,58440.62,Shipped,10,Blue Dart,Returned,Wrong Size
+340,2024-11-16,CUST0340,PROD0340,Road,Home & Kitchen,WH01,South Robertburgh,Central Zone,10,4245.97,7756.56,22.99,77565.6,Shipped,8,DTDC,Not Returned,
+341,2024-07-11,CUST0341,PROD0341,Attack,Home & Kitchen,WH02,South Cassidystad,South Zone,8,4550.94,7806.4,77.25,62451.2,Delivered,13,DTDC,Not Returned,
+342,2025-02-25,CUST0342,PROD0342,Party,Beauty,WH03,Port Adam,South Zone,15,1017.62,2529.07,51.87,37936.05,Delivered,8,Ecom Express,Not Returned,
+343,2025-05-27,CUST0343,PROD0343,Simple,Groceries,WH04,Pricestad,West Zone,12,3725.75,5156.36,37.26,61876.32,Delivered,1,DTDC,Replacement Requested,Exchange Request
+344,2024-04-03,CUST0344,PROD0344,Everyone,Sports,WH05,North Keith,Central Zone,7,2032.54,3143.11,190.97,22001.77,Delivered,7,Ecom Express,Not Returned,
+345,2024-10-07,CUST0345,PROD0345,Customer,Groceries,WH06,Parkfurt,North Zone,1,3387.43,6116.62,176.21,6116.62,Delivered,11,XpressBees,Not Returned,
+346,2025-01-28,CUST0346,PROD0346,Inside,Home & Kitchen,WH07,Johnbury,South Zone,3,1476.65,3325.08,191.19,9975.24,Pending,1,Blue Dart,Not Returned,
+347,2024-11-07,CUST0347,PROD0347,Site,Groceries,WH08,Higginsfurt,Central Zone,18,939.78,1178.26,189.38,21208.68,Pending,4,Delhivery,Not Returned,
+348,2025-02-27,CUST0348,PROD0348,Free,Groceries,WH09,Alanhaven,North Zone,7,1707.55,3376.39,25.3,23634.73,Delivered,2,Ecom Express,Not Returned,
+349,2025-01-11,CUST0349,PROD0349,White,Electronics,WH10,West Matthewhaven,East Zone,17,1837.67,4314.54,37.61,73347.18,Delivered,5,DTDC,Not Returned,
+350,2024-12-05,CUST0350,PROD0350,View,Groceries,WH01,Lake Sheri,East Zone,16,2112.18,3580.5,25.53,57288.0,Processing,8,Ecom Express,Replacement Requested,Exchange Request
+351,2024-12-04,CUST0351,PROD0351,Agent,Home & Kitchen,WH02,Benjaminstad,East Zone,15,2869.78,5973.9,23.91,89608.5,Shipped,8,Blue Dart,Not Returned,
+352,2025-03-28,CUST0352,PROD0352,Newspaper,Sports,WH03,Port Rebeccaland,South Zone,18,581.45,697.88,103.94,12561.84,Delivered,9,FedEx,Replacement Requested,Exchange Request
+353,2024-12-06,CUST0353,PROD0353,Participant,Electronics,WH04,South Ronald,West Zone,1,2433.64,3138.36,77.94,3138.36,Cancelled,13,Blue Dart,Not Returned,
+354,2024-04-10,CUST0354,PROD0354,Factor,Clothing,WH05,Lake Kyleport,South Zone,11,3083.94,4576.7,13.74,50343.7,Pending,5,FedEx,Replacement Requested,Exchange Request
+355,2025-03-24,CUST0355,PROD0355,Something,Groceries,WH06,South Susanburgh,South Zone,13,829.76,1427.28,95.29,18554.64,Delivered,11,DTDC,Not Returned,
+356,2025-03-14,CUST0356,PROD0356,Together,Beauty,WH07,Lake Beverly,West Zone,17,4366.06,5455.42,112.17,92742.14,Delivered,4,DTDC,Not Returned,
+357,2024-01-12,CUST0357,PROD0357,Turn,Clothing,WH08,Brycehaven,South Zone,11,909.18,1947.78,20.66,21425.58,Shipped,8,XpressBees,Not Returned,
+358,2024-11-30,CUST0358,PROD0358,Fish,Groceries,WH09,North Zachary,Central Zone,15,399.97,550.75,10.36,8261.25,Shipped,13,Delhivery,Not Returned,
+359,2025-02-03,CUST0359,PROD0359,Act,Clothing,WH10,Bowmanside,Central Zone,11,1371.97,1902.26,12.45,20924.86,Delivered,7,FedEx,Replacement Requested,Exchange Request
+360,2025-05-03,CUST0360,PROD0360,Share,Clothing,WH01,East Robertport,North Zone,6,3451.18,5550.2,162.84,33301.2,Delivered,4,DTDC,Not Returned,
+361,2024-02-21,CUST0361,PROD0361,Task,Clothing,WH02,Carlosmouth,South Zone,6,300.44,653.49,99.25,3920.94,Pending,14,FedEx,Returned,Defective
+362,2025-06-03,CUST0362,PROD0362,Become,Groceries,WH03,Sierraland,East Zone,13,3120.81,6770.99,93.85,88022.87,Shipped,1,Blue Dart,Not Returned,
+363,2024-06-13,CUST0363,PROD0363,Instead,Toys,WH04,Boltonborough,South Zone,12,3385.86,6769.82,148.43,81237.84,Processing,2,DTDC,Not Returned,
+364,2024-04-06,CUST0364,PROD0364,Democrat,Electronics,WH05,Adamchester,North Zone,15,3587.35,4831.48,142.6,72472.2,Shipped,6,Ecom Express,Not Returned,
+365,2024-10-25,CUST0365,PROD0365,Yard,Electronics,WH06,Johnport,South Zone,8,764.66,919.94,26.8,7359.52,Shipped,9,XpressBees,Returned,Quality Issue
+366,2024-06-27,CUST0366,PROD0366,Somebody,Beauty,WH07,North Maria,East Zone,15,1924.67,2898.62,162.78,43479.3,Delivered,14,DTDC,Not Returned,
+367,2024-06-20,CUST0367,PROD0367,Especially,Electronics,WH08,North Peggy,South Zone,8,4437.19,8187.86,122.95,65502.88,Processing,9,DTDC,Not Returned,
+368,2024-08-27,CUST0368,PROD0368,List,Groceries,WH09,Nicolemouth,West Zone,10,3723.4,7705.25,12.25,77052.5,Delivered,10,FedEx,Returned,Delivery Damaged
+369,2024-12-22,CUST0369,PROD0369,Health,Electronics,WH10,Kimberlyborough,Central Zone,6,3494.39,5426.87,89.75,32561.22,Delivered,1,Ecom Express,Not Returned,
+370,2024-06-22,CUST0370,PROD0370,Across,Clothing,WH01,New Adam,North Zone,2,3469.19,6738.26,129.87,13476.52,Delivered,10,Blue Dart,Not Returned,
+371,2025-04-08,CUST0371,PROD0371,End,Clothing,WH02,Martinezburgh,South Zone,15,4271.28,10171.3,98.72,152569.5,Processing,4,Ecom Express,Not Returned,
+372,2024-07-05,CUST0372,PROD0372,Staff,Clothing,WH03,Pamelaville,South Zone,11,2001.86,3451.75,128.81,37969.25,Pending,5,FedEx,Not Returned,
+373,2024-10-26,CUST0373,PROD0373,Consumer,Electronics,WH04,Palmerview,West Zone,9,1606.71,3335.42,56.1,30018.78,Pending,7,Ecom Express,Returned,Not Needed
+374,2024-03-05,CUST0374,PROD0374,Nearly,Sports,WH05,Tristanchester,West Zone,20,4427.8,10342.15,80.44,206843.0,Shipped,7,DTDC,Returned,Delivery Damaged
+375,2025-04-11,CUST0375,PROD0375,Exist,Groceries,WH06,Travishaven,West Zone,14,2872.99,3549.19,54.14,49688.66,Delivered,5,FedEx,Not Returned,
+376,2024-05-02,CUST0376,PROD0376,Per,Toys,WH07,Wesleyfurt,North Zone,4,3740.39,6112.6,116.85,24450.4,Delivered,4,DTDC,Not Returned,
+377,2024-06-08,CUST0377,PROD0377,Quite,Clothing,WH08,Jeremymouth,Central Zone,3,2592.74,3950.15,28.28,11850.45,Delivered,5,Ecom Express,Not Returned,
+378,2024-11-26,CUST0378,PROD0378,Down,Beauty,WH09,New Douglas,Central Zone,4,2158.05,3397.57,174.28,13590.28,Delivered,9,XpressBees,Returned,Wrong Size
+379,2024-05-30,CUST0379,PROD0379,Under,Beauty,WH10,New Steven,East Zone,4,3632.89,8693.95,36.13,34775.8,Delivered,9,DTDC,Returned,Quality Issue
+380,2024-06-18,CUST0380,PROD0380,World,Clothing,WH01,Kirkstad,North Zone,14,3736.47,5337.14,142.87,74719.96,Shipped,8,Ecom Express,Replacement Requested,Exchange Request
+381,2024-11-28,CUST0381,PROD0381,Go,Home & Kitchen,WH02,Katherinemouth,East Zone,10,3903.02,6288.36,109.49,62883.6,Delivered,11,DTDC,Returned,Delivery Damaged
+382,2024-09-08,CUST0382,PROD0382,Laugh,Clothing,WH03,East Kimberly,West Zone,11,3794.51,9067.23,135.67,99739.53,Processing,2,DTDC,Not Returned,
+383,2024-12-02,CUST0383,PROD0383,Close,Clothing,WH04,West Morganmouth,West Zone,20,1415.51,2248.76,173.92,44975.2,Cancelled,4,Blue Dart,Not Returned,
+384,2024-12-13,CUST0384,PROD0384,Soon,Books,WH05,Hilltown,West Zone,16,2315.72,3196.93,50.95,51150.88,Processing,6,FedEx,Not Returned,
+385,2024-01-07,CUST0385,PROD0385,Fund,Home & Kitchen,WH06,East Normaland,South Zone,18,2043.66,4406.96,180.28,79325.28,Processing,3,Delhivery,Not Returned,
+386,2025-06-06,CUST0386,PROD0386,Gun,Books,WH07,Stewartborough,West Zone,2,1434.5,3139.31,192.43,6278.62,Delivered,8,Delhivery,Not Returned,
+387,2024-07-09,CUST0387,PROD0387,Claim,Groceries,WH08,Reyeshaven,North Zone,10,3283.92,6520.06,145.94,65200.6,Shipped,10,Blue Dart,Not Returned,
+388,2024-08-01,CUST0388,PROD0388,Model,Beauty,WH09,Collinsberg,South Zone,15,2237.13,4836.83,110.18,72552.45,Delivered,8,Blue Dart,Replacement Requested,Exchange Request
+389,2024-12-22,CUST0389,PROD0389,Hot,Electronics,WH10,South Chelseaborough,East Zone,7,4038.37,6316.18,111.68,44213.26,Shipped,5,Ecom Express,Not Returned,
+390,2024-06-03,CUST0390,PROD0390,This,Electronics,WH01,Lake Timothy,South Zone,14,2421.75,3009.82,126.83,42137.48,Delivered,1,Blue Dart,Not Returned,
+391,2024-08-24,CUST0391,PROD0391,Congress,Home & Kitchen,WH02,Mejiahaven,East Zone,9,1960.59,3155.15,148.61,28396.35,Delivered,8,Delhivery,Not Returned,
+392,2025-03-18,CUST0392,PROD0392,Most,Electronics,WH03,Lake Richardchester,East Zone,12,3737.38,8077.91,50.4,96934.92,Delivered,6,FedEx,Replacement Requested,Exchange Request
+393,2025-03-05,CUST0393,PROD0393,Shoulder,Beauty,WH04,South Patriciatown,North Zone,9,689.48,1144.55,109.93,10300.95,Processing,12,XpressBees,Replacement Requested,Exchange Request
+394,2025-01-02,CUST0394,PROD0394,Year,Toys,WH05,Sergiohaven,Central Zone,11,1564.56,2208.46,181.72,24293.06,Shipped,9,Blue Dart,Not Returned,
+395,2024-03-20,CUST0395,PROD0395,Idea,Books,WH06,New Christopherhaven,South Zone,9,2697.59,6094.16,23.13,54847.44,Delivered,2,XpressBees,Replacement Requested,Exchange Request
+396,2024-04-17,CUST0396,PROD0396,Successful,Groceries,WH07,New Michaelborough,Central Zone,7,3670.38,4748.09,49.14,33236.63,Delivered,8,Delhivery,Not Returned,
+397,2024-12-09,CUST0397,PROD0397,Take,Clothing,WH08,West Brianna,East Zone,4,2904.29,4243.78,142.49,16975.12,Delivered,4,Ecom Express,Not Returned,
+398,2024-05-31,CUST0398,PROD0398,Ask,Clothing,WH09,North Hector,West Zone,13,1962.06,2548.87,131.22,33135.31,Delivered,5,DTDC,Returned,Not Needed
+399,2024-03-28,CUST0399,PROD0399,Detail,Toys,WH10,Anthonytown,Central Zone,16,1173.07,2683.66,57.93,42938.56,Delivered,4,DTDC,Not Returned,
+400,2025-01-25,CUST0400,PROD0400,Market,Toys,WH01,Port Amybury,East Zone,14,3235.29,8035.56,122.07,112497.84,Delivered,1,XpressBees,Replacement Requested,Exchange Request
+401,2024-03-28,CUST0401,PROD0401,Tough,Books,WH02,Lake Betty,East Zone,7,1592.87,3410.27,101.9,23871.89,Delivered,3,Ecom Express,Not Returned,
+402,2024-02-20,CUST0402,PROD0402,Few,Beauty,WH03,Curtisbury,South Zone,20,1069.01,1938.57,183.66,38771.4,Delivered,12,Delhivery,Replacement Requested,Exchange Request
+403,2024-05-18,CUST0403,PROD0403,Beyond,Sports,WH04,Davidview,North Zone,16,3353.66,4242.3,139.27,67876.8,Shipped,8,XpressBees,Replacement Requested,Exchange Request
+404,2025-06-21,CUST0404,PROD0404,Second,Home & Kitchen,WH05,New Matthew,North Zone,8,4017.42,9194.68,148.08,73557.44,Delivered,4,Ecom Express,Not Returned,
+405,2025-01-23,CUST0405,PROD0405,Child,Books,WH06,Melissaton,West Zone,10,4270.15,8333.81,157.16,83338.1,Delivered,2,XpressBees,Replacement Requested,Exchange Request
+406,2024-02-23,CUST0406,PROD0406,Wish,Groceries,WH07,East Matthewton,East Zone,5,2145.68,3037.43,40.66,15187.15,Delivered,5,Blue Dart,Not Returned,
+407,2024-03-17,CUST0407,PROD0407,Meet,Sports,WH08,Lake Sharonchester,East Zone,17,2715.02,4796.32,22.58,81537.44,Processing,9,XpressBees,Not Returned,
+408,2025-03-29,CUST0408,PROD0408,Possible,Home & Kitchen,WH09,West Garyton,South Zone,1,373.92,685.81,134.05,685.81,Delivered,2,Blue Dart,Not Returned,
+409,2024-08-04,CUST0409,PROD0409,Simply,Books,WH10,Tonyhaven,South Zone,17,4209.15,5538.07,57.82,94147.19,Shipped,2,FedEx,Not Returned,
+410,2024-07-05,CUST0410,PROD0410,Power,Groceries,WH01,Timothymouth,South Zone,9,3306.82,7458.89,193.94,67130.01,Delivered,7,Ecom Express,Not Returned,
+411,2024-04-23,CUST0411,PROD0411,Bring,Toys,WH02,Port Jamie,West Zone,8,2527.64,3671.78,169.03,29374.24,Processing,5,DTDC,Returned,Defective
+412,2025-02-10,CUST0412,PROD0412,Require,Home & Kitchen,WH03,Josemouth,South Zone,10,421.34,896.5,39.32,8965.0,Processing,2,DTDC,Returned,Not Needed
+413,2024-02-28,CUST0413,PROD0413,Treat,Clothing,WH04,Adamview,East Zone,17,901.09,2116.25,45.72,35976.25,Delivered,8,DTDC,Not Returned,
+414,2025-01-06,CUST0414,PROD0414,Free,Home & Kitchen,WH05,East Daniel,South Zone,20,4537.36,10696.06,129.76,213921.2,Delivered,11,XpressBees,Not Returned,
+415,2024-08-24,CUST0415,PROD0415,Sea,Home & Kitchen,WH06,East Williamstad,Central Zone,1,2260.42,3450.07,171.79,3450.07,Delivered,7,Delhivery,Returned,Delivery Damaged
+416,2024-12-26,CUST0416,PROD0416,Capital,Toys,WH07,Lake Blake,South Zone,16,1088.21,1875.26,192.45,30004.16,Shipped,6,XpressBees,Not Returned,
+417,2024-05-05,CUST0417,PROD0417,Leave,Books,WH08,Snydermouth,West Zone,10,2040.97,4860.56,154.2,48605.6,Delivered,1,Ecom Express,Returned,Quality Issue
+418,2025-01-09,CUST0418,PROD0418,Scientist,Beauty,WH09,Port Brittany,South Zone,5,730.45,897.03,103.03,4485.15,Processing,1,DTDC,Replacement Requested,Exchange Request
+419,2025-04-24,CUST0419,PROD0419,Bring,Books,WH10,Seanbury,Central Zone,20,1982.61,4843.3,122.77,96866.0,Shipped,8,DTDC,Not Returned,
+420,2025-03-17,CUST0420,PROD0420,Job,Books,WH01,North Laurenton,South Zone,7,1045.96,2377.05,26.33,16639.35,Shipped,11,Delhivery,Returned,Defective
+421,2025-03-22,CUST0421,PROD0421,Star,Home & Kitchen,WH02,Ashleyport,West Zone,20,3253.47,7783.36,107.17,155667.2,Delivered,1,DTDC,Not Returned,
+422,2025-04-07,CUST0422,PROD0422,Have,Clothing,WH03,West Williamfort,West Zone,2,3378.17,4114.43,35.61,8228.86,Shipped,5,Delhivery,Replacement Requested,Exchange Request
+423,2025-04-15,CUST0423,PROD0423,Phone,Clothing,WH04,East Helenfurt,North Zone,8,2911.24,7255.25,71.21,58042.0,Shipped,6,FedEx,Not Returned,
+424,2024-10-25,CUST0424,PROD0424,Scene,Books,WH05,West Samuelstad,West Zone,12,194.62,264.8,77.15,3177.6,Delivered,6,XpressBees,Replacement Requested,Exchange Request
+425,2025-04-23,CUST0425,PROD0425,Few,Clothing,WH06,Johnhaven,West Zone,15,4961.74,6213.81,150.91,93207.15,Delivered,7,XpressBees,Not Returned,
+426,2025-02-14,CUST0426,PROD0426,Congress,Sports,WH07,Gonzalezport,East Zone,5,1078.7,2175.35,93.17,10876.75,Delivered,11,XpressBees,Replacement Requested,Exchange Request
+427,2025-06-23,CUST0427,PROD0427,Official,Home & Kitchen,WH08,East Bryan,Central Zone,7,58.7,76.15,191.03,533.05,Delivered,8,FedEx,Not Returned,
+428,2024-11-22,CUST0428,PROD0428,War,Books,WH09,Garciaville,West Zone,19,2695.21,5956.89,157.0,113180.91,Delivered,6,Delhivery,Not Returned,
+429,2025-04-13,CUST0429,PROD0429,Fund,Toys,WH10,Brandiville,West Zone,4,95.3,202.73,91.93,810.92,Delivered,5,Ecom Express,Not Returned,
+430,2024-05-27,CUST0430,PROD0430,Much,Clothing,WH01,Brendaport,South Zone,18,254.9,457.29,154.15,8231.22,Delivered,4,Delhivery,Not Returned,
+431,2024-05-16,CUST0431,PROD0431,Forget,Toys,WH02,Markhaven,Central Zone,11,378.54,577.38,158.51,6351.18,Delivered,7,DTDC,Replacement Requested,Exchange Request
+432,2024-12-19,CUST0432,PROD0432,Chance,Beauty,WH03,Maryhaven,Central Zone,16,1315.36,2591.76,172.35,41468.16,Delivered,12,Ecom Express,Returned,Defective
+433,2024-09-13,CUST0433,PROD0433,Close,Clothing,WH04,Lake Robertville,South Zone,15,316.54,761.43,159.15,11421.45,Processing,10,Blue Dart,Returned,Wrong Size
+434,2024-07-02,CUST0434,PROD0434,Toward,Clothing,WH05,East Destiny,West Zone,20,2230.97,5090.76,155.25,101815.2,Delivered,14,Delhivery,Not Returned,
+435,2025-01-14,CUST0435,PROD0435,Night,Beauty,WH06,New Paulberg,Central Zone,9,1244.72,2883.9,83.42,25955.1,Delivered,2,XpressBees,Not Returned,
+436,2025-05-05,CUST0436,PROD0436,Suffer,Toys,WH07,Walkerfort,East Zone,7,595.42,1450.5,180.08,10153.5,Delivered,12,Blue Dart,Not Returned,
+437,2025-02-09,CUST0437,PROD0437,Wait,Beauty,WH08,Stewartchester,East Zone,3,2375.22,5298.1,193.88,15894.3,Delivered,3,Ecom Express,Returned,Delivery Damaged
+438,2024-07-15,CUST0438,PROD0438,Campaign,Groceries,WH09,Port Richard,Central Zone,8,105.9,254.52,75.76,2036.16,Delivered,11,XpressBees,Replacement Requested,Exchange Request
+439,2025-03-23,CUST0439,PROD0439,Heart,Books,WH10,Victorborough,East Zone,11,1511.94,2295.97,127.1,25255.67,Delivered,5,Delhivery,Returned,Defective
+440,2024-07-19,CUST0440,PROD0440,Quite,Groceries,WH01,North Bianca,South Zone,1,2741.61,5226.41,186.52,5226.41,Delivered,5,DTDC,Returned,Quality Issue
+441,2024-03-22,CUST0441,PROD0441,Strong,Clothing,WH02,Port Nancychester,Central Zone,10,1057.17,1823.51,54.37,18235.1,Delivered,11,Ecom Express,Replacement Requested,Exchange Request
+442,2024-10-07,CUST0442,PROD0442,Up,Beauty,WH03,Walkerland,South Zone,17,2756.69,6461.9,83.56,109852.3,Shipped,3,FedEx,Replacement Requested,Exchange Request
+443,2024-01-21,CUST0443,PROD0443,Maybe,Beauty,WH04,Murphyfort,North Zone,10,4700.42,7708.11,92.61,77081.1,Delivered,3,DTDC,Replacement Requested,Exchange Request
+444,2025-05-11,CUST0444,PROD0444,Simple,Toys,WH05,Port Victorland,North Zone,19,1190.48,1978.4,61.43,37589.6,Delivered,4,Blue Dart,Not Returned,
+445,2024-11-08,CUST0445,PROD0445,Thing,Toys,WH06,South Joshua,South Zone,17,4245.9,9379.83,133.83,159457.11,Shipped,10,Blue Dart,Returned,Not Needed
+446,2025-02-15,CUST0446,PROD0446,Red,Home & Kitchen,WH07,Mathewsborough,South Zone,19,2628.18,5365.69,186.37,101948.11,Delivered,1,DTDC,Not Returned,
+447,2024-04-20,CUST0447,PROD0447,Important,Toys,WH08,Lake Paul,Central Zone,12,2571.53,4362.59,30.89,52351.08,Shipped,10,DTDC,Returned,Delivery Damaged
+448,2024-06-09,CUST0448,PROD0448,Road,Sports,WH09,Mclaughlinside,East Zone,19,2063.98,4751.97,76.61,90287.43,Delivered,9,Delhivery,Not Returned,
+449,2024-10-02,CUST0449,PROD0449,Hair,Beauty,WH10,Port Julieberg,West Zone,9,4409.91,8764.65,18.65,78881.85,Processing,10,Delhivery,Not Returned,
+450,2025-02-28,CUST0450,PROD0450,Story,Clothing,WH01,Lake Kellie,Central Zone,11,4824.46,9732.79,40.98,107060.69,Delivered,10,FedEx,Returned,Delivery Damaged
+451,2024-01-28,CUST0451,PROD0451,Drop,Toys,WH02,Ryanville,South Zone,7,4042.8,7327.12,109.56,51289.84,Pending,12,Blue Dart,Not Returned,
+452,2025-05-08,CUST0452,PROD0452,Blood,Books,WH03,Hayeshaven,East Zone,1,3975.26,9252.83,19.28,9252.83,Pending,14,Delhivery,Not Returned,
+453,2024-12-29,CUST0453,PROD0453,Expect,Books,WH04,Danieltown,West Zone,20,856.29,1656.96,43.72,33139.2,Processing,11,Blue Dart,Not Returned,
+454,2025-04-01,CUST0454,PROD0454,Public,Electronics,WH05,Mercadoville,West Zone,1,1619.52,3136.65,135.76,3136.65,Delivered,4,Delhivery,Not Returned,
+455,2025-05-08,CUST0455,PROD0455,Quite,Beauty,WH06,New Andrewport,East Zone,17,4830.72,6328.18,152.38,107579.06,Processing,12,DTDC,Returned,Defective
+456,2024-11-16,CUST0456,PROD0456,Lot,Electronics,WH07,Lake Karenton,Central Zone,1,2480.01,4523.61,27.95,4523.61,Shipped,2,DTDC,Not Returned,
+457,2024-03-20,CUST0457,PROD0457,Deep,Clothing,WH08,Davidbury,South Zone,9,1623.52,2770.71,151.01,24936.39,Shipped,6,DTDC,Returned,Wrong Size
+458,2024-12-30,CUST0458,PROD0458,End,Toys,WH09,Jerryville,East Zone,10,468.84,1118.74,58.55,11187.4,Delivered,4,Delhivery,Not Returned,
+459,2024-09-12,CUST0459,PROD0459,Trip,Home & Kitchen,WH10,New Lauramouth,South Zone,6,721.74,900.98,105.43,5405.88,Processing,3,XpressBees,Replacement Requested,Exchange Request
+460,2024-09-12,CUST0460,PROD0460,Each,Groceries,WH01,Lake Matthew,Central Zone,8,3198.22,7953.47,187.22,63627.76,Processing,13,XpressBees,Not Returned,
+461,2024-04-21,CUST0461,PROD0461,Until,Sports,WH02,Kleinmouth,East Zone,3,3100.76,6503.71,153.38,19511.13,Delivered,4,Blue Dart,Not Returned,
+462,2025-01-08,CUST0462,PROD0462,Large,Books,WH03,West Anthony,Central Zone,1,186.09,290.23,66.06,290.23,Shipped,7,Blue Dart,Not Returned,
+463,2024-05-15,CUST0463,PROD0463,Road,Books,WH04,Williamsborough,East Zone,2,1519.61,3577.66,42.95,7155.32,Delivered,4,DTDC,Not Returned,
+464,2025-04-18,CUST0464,PROD0464,Poor,Home & Kitchen,WH05,New Anthonyview,North Zone,10,487.57,1060.08,178.57,10600.8,Delivered,13,XpressBees,Returned,Delivery Damaged
+465,2025-03-08,CUST0465,PROD0465,Appear,Beauty,WH06,New Brittany,Central Zone,9,4365.03,8948.8,92.68,80539.2,Shipped,5,FedEx,Not Returned,
+466,2024-09-05,CUST0466,PROD0466,Allow,Sports,WH07,North Chad,East Zone,8,240.93,570.51,49.2,4564.08,Delivered,9,FedEx,Not Returned,
+467,2024-02-17,CUST0467,PROD0467,Ten,Electronics,WH08,Davisland,East Zone,11,2088.92,3605.82,180.57,39664.02,Delivered,3,Ecom Express,Replacement Requested,Exchange Request
+468,2024-05-04,CUST0468,PROD0468,Pm,Groceries,WH09,Lake Stephanie,South Zone,3,3812.04,8426.07,44.67,25278.21,Delivered,12,DTDC,Replacement Requested,Exchange Request
+469,2024-10-13,CUST0469,PROD0469,Office,Clothing,WH10,Alexandershire,Central Zone,18,4533.0,7662.19,74.54,137919.42,Delivered,7,DTDC,Not Returned,
+470,2025-05-25,CUST0470,PROD0470,Science,Toys,WH01,West Colleen,North Zone,2,635.56,821.88,37.35,1643.76,Cancelled,13,XpressBees,Not Returned,
+471,2024-09-26,CUST0471,PROD0471,Wait,Home & Kitchen,WH02,East Samantha,East Zone,16,4545.99,5675.76,64.61,90812.16,Shipped,2,XpressBees,Returned,Quality Issue
+472,2024-05-18,CUST0472,PROD0472,Seem,Groceries,WH03,Molinaland,West Zone,8,3879.83,5877.99,54.47,47023.92,Cancelled,1,Blue Dart,Not Returned,
+473,2024-05-18,CUST0473,PROD0473,Field,Beauty,WH04,Lesliefort,North Zone,15,3789.26,4920.0,157.64,73800.0,Delivered,9,Ecom Express,Not Returned,
+474,2024-06-25,CUST0474,PROD0474,Voice,Toys,WH05,Thomasmouth,Central Zone,7,1277.95,2154.47,108.5,15081.29,Processing,5,Delhivery,Not Returned,
+475,2025-05-19,CUST0475,PROD0475,Which,Books,WH06,North Cindyshire,Central Zone,15,4827.35,6308.12,153.87,94621.8,Shipped,7,Blue Dart,Returned,Not Needed
+476,2024-09-28,CUST0476,PROD0476,Sea,Beauty,WH07,Port Stephen,South Zone,20,461.69,927.54,192.82,18550.8,Delivered,8,DTDC,Not Returned,
+477,2024-01-10,CUST0477,PROD0477,Administration,Groceries,WH08,Jessicaland,West Zone,8,3085.76,5335.23,29.56,42681.84,Delivered,4,Blue Dart,Replacement Requested,Exchange Request
+478,2024-04-17,CUST0478,PROD0478,Believe,Groceries,WH09,Michaelstad,East Zone,8,1816.7,2877.5,105.42,23020.0,Delivered,11,DTDC,Not Returned,
+479,2025-06-13,CUST0479,PROD0479,School,Electronics,WH10,Kyleport,Central Zone,5,4869.52,7712.89,163.99,38564.45,Delivered,13,DTDC,Not Returned,
+480,2024-05-27,CUST0480,PROD0480,Security,Electronics,WH01,Darinhaven,South Zone,5,3291.44,6793.57,37.21,33967.85,Cancelled,11,Ecom Express,Returned,Not Needed
+481,2025-03-11,CUST0481,PROD0481,Third,Toys,WH02,New Andrewhaven,South Zone,9,3028.44,5025.49,94.62,45229.41,Delivered,7,Blue Dart,Returned,Delivery Damaged
+482,2025-01-27,CUST0482,PROD0482,Growth,Toys,WH03,Sarahmouth,Central Zone,17,3460.68,5938.5,166.72,100954.5,Delivered,2,DTDC,Returned,Defective
+483,2025-05-09,CUST0483,PROD0483,Each,Home & Kitchen,WH04,Jenniferburgh,East Zone,4,4138.25,5886.98,161.05,23547.92,Delivered,14,FedEx,Not Returned,
+484,2024-07-20,CUST0484,PROD0484,Piece,Electronics,WH05,Williamport,Central Zone,1,2337.02,3525.85,95.02,3525.85,Shipped,9,FedEx,Not Returned,
+485,2024-10-26,CUST0485,PROD0485,Second,Home & Kitchen,WH06,Chenbury,West Zone,18,2871.79,3452.53,66.26,62145.54,Shipped,4,Ecom Express,Not Returned,
+486,2024-07-24,CUST0486,PROD0486,Find,Clothing,WH07,Taylorton,East Zone,17,1386.21,2715.54,176.1,46164.18,Delivered,7,DTDC,Returned,Delivery Damaged
+487,2024-03-14,CUST0487,PROD0487,Partner,Clothing,WH08,North Valerie,West Zone,7,3847.59,7030.6,111.83,49214.2,Shipped,11,Ecom Express,Not Returned,
+488,2024-08-10,CUST0488,PROD0488,Most,Home & Kitchen,WH09,North Brian,South Zone,10,4619.08,9961.41,99.88,99614.1,Shipped,12,Blue Dart,Replacement Requested,Exchange Request
+489,2024-07-19,CUST0489,PROD0489,Name,Home & Kitchen,WH10,Brownland,North Zone,6,2672.01,5801.32,117.49,34807.92,Delivered,10,FedEx,Returned,Defective
+490,2024-11-13,CUST0490,PROD0490,Peace,Clothing,WH01,Andrewfort,North Zone,19,4606.38,10102.7,10.03,191951.3,Shipped,9,Blue Dart,Not Returned,
+491,2025-06-29,CUST0491,PROD0491,Seven,Sports,WH02,Grossview,South Zone,20,2470.0,4802.72,19.64,96054.4,Pending,9,Delhivery,Not Returned,
+492,2025-05-27,CUST0492,PROD0492,Nice,Home & Kitchen,WH03,West Nathanielstad,South Zone,12,1639.91,2340.6,186.05,28087.2,Delivered,14,XpressBees,Not Returned,
+493,2024-03-04,CUST0493,PROD0493,Office,Books,WH04,Walterstad,North Zone,4,2795.09,6052.03,106.7,24208.12,Shipped,1,FedEx,Not Returned,
+494,2024-10-23,CUST0494,PROD0494,Their,Beauty,WH05,Christophermouth,West Zone,19,4202.19,10206.58,63.82,193925.02,Shipped,1,Ecom Express,Not Returned,
+495,2024-05-24,CUST0495,PROD0495,Your,Books,WH06,Caitlinshire,East Zone,17,4128.13,7697.45,189.28,130856.65,Cancelled,12,DTDC,Not Returned,
+496,2025-05-21,CUST0496,PROD0496,Land,Books,WH07,Lake Ashley,North Zone,3,2494.98,5007.53,197.47,15022.59,Delivered,9,XpressBees,Not Returned,
+497,2025-06-09,CUST0497,PROD0497,Old,Toys,WH08,Kathrynfurt,North Zone,18,3403.65,4627.62,171.74,83297.16,Shipped,4,FedEx,Not Returned,
+498,2025-06-13,CUST0498,PROD0498,Audience,Electronics,WH09,North Louis,South Zone,2,4930.61,7605.34,59.89,15210.68,Pending,12,Blue Dart,Not Returned,
+499,2025-02-19,CUST0499,PROD0499,Statement,Toys,WH10,Lindseytown,North Zone,13,915.07,1692.92,188.26,22007.96,Cancelled,5,Ecom Express,Replacement Requested,Exchange Request
+500,2024-07-31,CUST0500,PROD0500,Maintain,Sports,WH01,Johnsonshire,South Zone,5,2287.33,3422.62,150.06,17113.1,Delivered,7,Ecom Express,Not Returned,
+501,2024-11-01,CUST0501,PROD0501,Ability,Books,WH02,Riveraborough,East Zone,4,4957.11,6599.64,78.62,26398.56,Pending,1,XpressBees,Not Returned,
+502,2024-05-03,CUST0502,PROD0502,Write,Clothing,WH03,South Patrick,North Zone,6,2615.65,4340.46,178.22,26042.76,Delivered,11,Ecom Express,Returned,Delivery Damaged
+503,2025-06-20,CUST0503,PROD0503,Organization,Toys,WH04,Jonathanmouth,North Zone,10,3843.38,6184.57,116.85,61845.7,Processing,1,Delhivery,Not Returned,
+504,2024-11-17,CUST0504,PROD0504,Book,Home & Kitchen,WH05,Andersonburgh,West Zone,15,2124.46,2724.67,49.41,40870.05,Delivered,14,DTDC,Not Returned,
+505,2025-02-22,CUST0505,PROD0505,Care,Clothing,WH06,East Dorothyfort,East Zone,7,1132.5,2033.81,40.25,14236.67,Delivered,11,DTDC,Not Returned,
+506,2024-07-30,CUST0506,PROD0506,End,Home & Kitchen,WH07,Lake Yesenia,Central Zone,6,4416.81,9646.07,105.95,57876.42,Delivered,3,XpressBees,Replacement Requested,Exchange Request
+507,2025-06-16,CUST0507,PROD0507,Traditional,Groceries,WH08,West Jerryhaven,Central Zone,5,960.2,2077.94,39.34,10389.7,Processing,9,Blue Dart,Replacement Requested,Exchange Request
+508,2025-05-05,CUST0508,PROD0508,Above,Groceries,WH09,Fosterborough,Central Zone,12,2198.51,3838.34,29.95,46060.08,Delivered,7,XpressBees,Returned,Quality Issue
+509,2024-11-28,CUST0509,PROD0509,Lose,Beauty,WH10,Port Angelaport,North Zone,12,1424.84,2221.55,187.6,26658.6,Processing,9,FedEx,Replacement Requested,Exchange Request
+510,2025-02-06,CUST0510,PROD0510,Activity,Groceries,WH01,East Jared,West Zone,6,647.97,1270.34,14.6,7622.04,Delivered,3,Ecom Express,Not Returned,
+511,2024-08-20,CUST0511,PROD0511,Letter,Sports,WH02,New Rose,North Zone,11,1495.02,2892.36,62.42,31815.96,Delivered,9,FedEx,Not Returned,
+512,2024-09-23,CUST0512,PROD0512,Explain,Electronics,WH03,Lucasview,Central Zone,5,516.58,972.54,108.94,4862.7,Delivered,2,DTDC,Not Returned,
+513,2024-10-18,CUST0513,PROD0513,Do,Electronics,WH04,Youngbury,Central Zone,7,4901.14,11915.93,197.39,83411.51,Processing,13,XpressBees,Replacement Requested,Exchange Request
+514,2024-09-26,CUST0514,PROD0514,Why,Home & Kitchen,WH05,Port Davidport,East Zone,19,435.16,572.7,91.56,10881.3,Processing,4,Blue Dart,Not Returned,
+515,2024-02-08,CUST0515,PROD0515,Close,Clothing,WH06,South Thomas,North Zone,5,1423.19,1805.62,43.65,9028.1,Delivered,5,XpressBees,Replacement Requested,Exchange Request
+516,2025-03-11,CUST0516,PROD0516,But,Groceries,WH07,Richardsbury,North Zone,12,762.09,1592.39,100.28,19108.68,Delivered,14,Delhivery,Returned,Wrong Size
+517,2024-09-15,CUST0517,PROD0517,Half,Home & Kitchen,WH08,Tracymouth,East Zone,11,1793.86,2596.26,108.9,28558.86,Shipped,3,DTDC,Not Returned,
+518,2025-06-08,CUST0518,PROD0518,Total,Electronics,WH09,Michaelberg,Central Zone,8,4969.19,8519.11,142.53,68152.88,Delivered,8,DTDC,Replacement Requested,Exchange Request
+519,2024-04-14,CUST0519,PROD0519,Need,Beauty,WH10,North Dana,West Zone,3,627.92,988.8,153.25,2966.4,Delivered,13,Ecom Express,Returned,Defective
+520,2024-12-13,CUST0520,PROD0520,Magazine,Electronics,WH01,North Jeremiahburgh,South Zone,17,1681.17,3380.57,126.92,57469.69,Delivered,2,Blue Dart,Not Returned,
+521,2024-01-24,CUST0521,PROD0521,Partner,Sports,WH02,Ericville,West Zone,13,1001.86,2310.14,91.75,30031.82,Delivered,5,Delhivery,Returned,Defective
+522,2024-06-22,CUST0522,PROD0522,Marriage,Books,WH03,Powellville,West Zone,18,1592.29,2114.3,169.81,38057.4,Delivered,12,Delhivery,Returned,Defective
+523,2024-10-21,CUST0523,PROD0523,Themselves,Toys,WH04,West Amymouth,West Zone,8,3783.65,8142.06,158.4,65136.48,Delivered,3,Delhivery,Returned,Quality Issue
+524,2025-01-17,CUST0524,PROD0524,Happy,Groceries,WH05,Odomview,North Zone,17,1616.11,2408.3,187.91,40941.1,Delivered,3,Delhivery,Returned,Wrong Size
+525,2025-04-20,CUST0525,PROD0525,Explain,Books,WH06,Lake Joshuaview,South Zone,4,1278.36,2416.67,32.09,9666.68,Delivered,10,Blue Dart,Replacement Requested,Exchange Request
+526,2024-05-12,CUST0526,PROD0526,Entire,Beauty,WH07,Lake Donald,Central Zone,1,1949.92,4097.45,134.59,4097.45,Delivered,10,DTDC,Not Returned,
+527,2024-11-27,CUST0527,PROD0527,Prove,Groceries,WH08,West Jesse,South Zone,11,2295.71,3381.08,193.13,37191.88,Delivered,7,Delhivery,Not Returned,
+528,2024-03-11,CUST0528,PROD0528,Still,Beauty,WH09,Veronicashire,Central Zone,2,3637.67,7405.17,191.53,14810.34,Delivered,7,XpressBees,Not Returned,
+529,2024-12-08,CUST0529,PROD0529,Behind,Electronics,WH10,West Bryan,South Zone,10,1165.43,2234.09,102.94,22340.9,Delivered,1,Blue Dart,Returned,Quality Issue
+530,2025-02-27,CUST0530,PROD0530,Get,Home & Kitchen,WH01,West Joseph,Central Zone,18,4938.05,6123.46,39.28,110222.28,Shipped,12,Ecom Express,Replacement Requested,Exchange Request
+531,2025-03-11,CUST0531,PROD0531,Data,Electronics,WH02,Hawkinstown,South Zone,9,4728.01,5684.83,51.17,51163.47,Processing,7,DTDC,Replacement Requested,Exchange Request
+532,2024-06-29,CUST0532,PROD0532,Can,Groceries,WH03,Bartletttown,East Zone,1,2737.01,4733.84,64.02,4733.84,Delivered,2,Ecom Express,Not Returned,
+533,2024-09-05,CUST0533,PROD0533,Machine,Toys,WH04,Davidchester,South Zone,15,3922.0,9153.6,90.75,137304.0,Cancelled,11,XpressBees,Not Returned,
+534,2025-04-01,CUST0534,PROD0534,Education,Sports,WH05,Port Jenna,South Zone,2,2467.52,4708.15,112.56,9416.3,Shipped,7,Ecom Express,Not Returned,
+535,2024-09-10,CUST0535,PROD0535,City,Clothing,WH06,Grayland,South Zone,20,884.24,1245.67,128.47,24913.4,Delivered,10,Delhivery,Replacement Requested,Exchange Request
+536,2024-03-22,CUST0536,PROD0536,Player,Sports,WH07,Wintersfort,West Zone,13,2149.7,3772.81,191.9,49046.53,Cancelled,6,XpressBees,Replacement Requested,Exchange Request
+537,2024-04-11,CUST0537,PROD0537,More,Sports,WH08,Meganmouth,North Zone,12,2474.47,4647.46,170.63,55769.52,Delivered,12,DTDC,Replacement Requested,Exchange Request
+538,2024-06-06,CUST0538,PROD0538,Piece,Toys,WH09,Hessville,North Zone,13,4714.05,5797.32,18.92,75365.16,Delivered,7,FedEx,Not Returned,
+539,2024-08-31,CUST0539,PROD0539,Choose,Clothing,WH10,Port Anthonyborough,Central Zone,11,868.58,1413.23,40.96,15545.53,Processing,5,Delhivery,Not Returned,
+540,2024-06-02,CUST0540,PROD0540,Charge,Groceries,WH01,South Jessicaview,West Zone,4,2951.57,5391.27,27.11,21565.08,Delivered,5,FedEx,Not Returned,
+541,2024-04-14,CUST0541,PROD0541,Talk,Clothing,WH02,Alexandraburgh,Central Zone,12,4319.59,10208.16,97.73,122497.92,Processing,10,XpressBees,Replacement Requested,Exchange Request
+542,2024-07-25,CUST0542,PROD0542,Strong,Groceries,WH03,Lake Benjaminville,Central Zone,11,3774.13,8128.17,39.15,89409.87,Processing,1,Ecom Express,Not Returned,
+543,2024-03-02,CUST0543,PROD0543,Pull,Clothing,WH04,West Ericbury,West Zone,1,1075.33,1972.74,101.29,1972.74,Delivered,10,Delhivery,Not Returned,
+544,2025-03-28,CUST0544,PROD0544,How,Books,WH05,New David,East Zone,20,4436.08,10793.84,22.01,215876.8,Cancelled,7,Ecom Express,Replacement Requested,Exchange Request
+545,2024-11-10,CUST0545,PROD0545,Cell,Beauty,WH06,Austinmouth,Central Zone,10,4795.39,10135.16,25.44,101351.6,Delivered,9,XpressBees,Replacement Requested,Exchange Request
+546,2024-07-29,CUST0546,PROD0546,Son,Groceries,WH07,East Edwardhaven,East Zone,9,619.33,1371.13,84.61,12340.17,Delivered,2,Delhivery,Returned,Quality Issue
+547,2025-03-09,CUST0547,PROD0547,Day,Groceries,WH08,Alvarezfort,Central Zone,16,1734.44,2202.37,186.66,35237.92,Cancelled,3,XpressBees,Replacement Requested,Exchange Request
+548,2024-04-11,CUST0548,PROD0548,Determine,Home & Kitchen,WH09,Patriciachester,East Zone,17,1349.31,2962.62,173.95,50364.54,Delivered,9,Delhivery,Returned,Quality Issue
+549,2025-04-11,CUST0549,PROD0549,She,Home & Kitchen,WH10,New Tracyfort,East Zone,7,2466.19,4303.91,133.15,30127.37,Delivered,10,Ecom Express,Returned,Wrong Size
+550,2025-06-12,CUST0550,PROD0550,Have,Beauty,WH01,Port Jesse,North Zone,10,762.68,1898.24,56.42,18982.4,Cancelled,6,Delhivery,Not Returned,
+551,2024-10-09,CUST0551,PROD0551,Quickly,Groceries,WH02,Port Jamestown,South Zone,8,4926.95,12025.34,131.75,96202.72,Delivered,9,DTDC,Not Returned,
+552,2024-08-07,CUST0552,PROD0552,Him,Sports,WH03,Port Brittanyberg,North Zone,3,4440.68,9903.71,33.65,29711.13,Delivered,7,FedEx,Replacement Requested,Exchange Request
+553,2025-05-27,CUST0553,PROD0553,Spend,Toys,WH04,Port Jonathanchester,Central Zone,1,1575.43,2708.03,66.04,2708.03,Cancelled,13,Blue Dart,Not Returned,
+554,2024-02-01,CUST0554,PROD0554,Room,Groceries,WH05,Butlerburgh,West Zone,11,1283.24,3008.85,161.62,33097.35,Delivered,4,DTDC,Not Returned,
+555,2025-03-25,CUST0555,PROD0555,Without,Home & Kitchen,WH06,South Raymond,West Zone,16,2038.78,4135.0,156.49,66160.0,Shipped,5,Delhivery,Not Returned,
+556,2024-08-15,CUST0556,PROD0556,Old,Home & Kitchen,WH07,East Joshuastad,East Zone,17,1442.9,1929.93,29.57,32808.81,Delivered,12,DTDC,Not Returned,
+557,2024-01-14,CUST0557,PROD0557,Hit,Home & Kitchen,WH08,Kimberlybury,North Zone,17,4169.61,6496.11,123.64,110433.87,Delivered,6,Delhivery,Not Returned,
+558,2024-12-19,CUST0558,PROD0558,Sport,Clothing,WH09,North Josephborough,East Zone,7,2231.21,3527.87,29.69,24695.09,Shipped,10,FedEx,Not Returned,
+559,2025-01-02,CUST0559,PROD0559,Might,Clothing,WH10,Boonemouth,West Zone,16,2286.71,5170.99,23.08,82735.84,Delivered,14,Blue Dart,Not Returned,
+560,2025-06-05,CUST0560,PROD0560,Help,Books,WH01,Lake Markmouth,West Zone,7,3637.95,5539.05,125.64,38773.35,Shipped,14,Ecom Express,Returned,Wrong Size
+561,2024-03-16,CUST0561,PROD0561,Story,Electronics,WH02,Jamesland,West Zone,20,512.64,1250.87,132.14,25017.4,Delivered,6,FedEx,Returned,Quality Issue
+562,2024-07-12,CUST0562,PROD0562,Difference,Sports,WH03,Anthonyton,West Zone,2,4320.5,6809.52,113.77,13619.04,Processing,9,Ecom Express,Replacement Requested,Exchange Request
+563,2025-06-17,CUST0563,PROD0563,However,Groceries,WH04,Port Justintown,North Zone,19,2449.3,5162.9,89.12,98095.1,Delivered,10,Blue Dart,Not Returned,
+564,2024-07-12,CUST0564,PROD0564,Many,Books,WH05,Brooksland,North Zone,16,621.3,1364.33,84.54,21829.28,Pending,14,DTDC,Not Returned,
+565,2024-10-05,CUST0565,PROD0565,Wonder,Home & Kitchen,WH06,Port Michael,South Zone,3,217.54,453.71,34.93,1361.13,Delivered,13,Ecom Express,Not Returned,
+566,2024-05-31,CUST0566,PROD0566,Anything,Toys,WH07,Jefferyburgh,East Zone,15,4838.01,11700.32,142.47,175504.8,Delivered,4,Delhivery,Replacement Requested,Exchange Request
+567,2025-04-15,CUST0567,PROD0567,Those,Groceries,WH08,Carriefurt,Central Zone,9,481.53,662.04,22.14,5958.36,Delivered,1,FedEx,Not Returned,
+568,2025-04-07,CUST0568,PROD0568,Face,Home & Kitchen,WH09,West Amandaview,Central Zone,9,995.54,1603.7,36.25,14433.3,Delivered,10,DTDC,Not Returned,
+569,2025-02-08,CUST0569,PROD0569,Happy,Sports,WH10,North Linda,East Zone,12,390.66,939.93,32.22,11279.16,Pending,9,DTDC,Replacement Requested,Exchange Request
+570,2024-12-18,CUST0570,PROD0570,Stock,Clothing,WH01,Jonesfort,North Zone,13,530.83,813.61,63.68,10576.93,Delivered,3,FedEx,Replacement Requested,Exchange Request
+571,2024-03-25,CUST0571,PROD0571,American,Books,WH02,South Annafort,South Zone,7,3590.13,5094.56,184.81,35661.92,Delivered,13,Blue Dart,Replacement Requested,Exchange Request
+572,2025-01-03,CUST0572,PROD0572,Degree,Books,WH03,West Sarah,North Zone,11,3898.41,4964.72,140.69,54611.92,Shipped,8,FedEx,Returned,Not Needed
+573,2024-08-16,CUST0573,PROD0573,Two,Toys,WH04,West Brenda,West Zone,20,3608.82,6468.89,175.54,129377.8,Delivered,6,Blue Dart,Not Returned,
+574,2024-01-08,CUST0574,PROD0574,West,Home & Kitchen,WH05,East Edwin,North Zone,20,3245.18,5382.53,152.75,107650.6,Shipped,8,FedEx,Replacement Requested,Exchange Request
+575,2025-01-25,CUST0575,PROD0575,Here,Electronics,WH06,Samanthafurt,West Zone,10,272.71,366.36,123.16,3663.6,Processing,8,DTDC,Not Returned,
+576,2025-05-27,CUST0576,PROD0576,Control,Sports,WH07,New Karen,West Zone,3,3498.31,7195.42,51.17,21586.26,Processing,4,Delhivery,Not Returned,
+577,2024-08-22,CUST0577,PROD0577,Second,Clothing,WH08,Frazierfort,West Zone,5,57.98,119.47,128.01,597.35,Delivered,3,DTDC,Not Returned,
+578,2024-02-05,CUST0578,PROD0578,World,Toys,WH09,New James,South Zone,5,3950.88,8737.48,120.7,43687.4,Shipped,2,Delhivery,Not Returned,
+579,2024-06-09,CUST0579,PROD0579,Decade,Groceries,WH10,Butlermouth,West Zone,4,3907.75,6567.89,171.2,26271.56,Delivered,7,XpressBees,Not Returned,
+580,2024-05-03,CUST0580,PROD0580,Of,Groceries,WH01,Peterland,North Zone,10,2599.73,5517.24,185.64,55172.4,Delivered,10,Blue Dart,Returned,Not Needed
+581,2024-01-10,CUST0581,PROD0581,Page,Groceries,WH02,Millerchester,South Zone,16,4311.12,9038.94,145.45,144623.04,Shipped,4,Delhivery,Not Returned,
+582,2024-06-16,CUST0582,PROD0582,Member,Books,WH03,Nolanstad,South Zone,7,94.23,131.16,188.78,918.12,Delivered,13,Blue Dart,Replacement Requested,Exchange Request
+583,2025-03-17,CUST0583,PROD0583,Parent,Beauty,WH04,Johnmouth,Central Zone,3,4360.05,7616.21,115.3,22848.63,Delivered,9,Delhivery,Not Returned,
+584,2025-05-19,CUST0584,PROD0584,True,Electronics,WH05,Barnesstad,North Zone,16,723.33,1571.65,98.26,25146.4,Delivered,9,Delhivery,Replacement Requested,Exchange Request
+585,2024-01-28,CUST0585,PROD0585,Mission,Sports,WH06,East Jaredmouth,South Zone,17,4305.9,7673.11,145.22,130442.87,Delivered,11,DTDC,Not Returned,
+586,2024-02-06,CUST0586,PROD0586,Use,Sports,WH07,East Jodyberg,West Zone,12,569.57,912.83,164.92,10953.96,Shipped,8,Ecom Express,Not Returned,
+587,2024-12-01,CUST0587,PROD0587,Central,Clothing,WH08,Amyton,South Zone,5,3120.58,5925.58,30.92,29627.9,Delivered,5,DTDC,Replacement Requested,Exchange Request
+588,2024-09-09,CUST0588,PROD0588,Similar,Clothing,WH09,West Richardburgh,East Zone,15,1880.32,3416.45,120.84,51246.75,Delivered,2,Delhivery,Not Returned,
+589,2025-01-11,CUST0589,PROD0589,Certainly,Home & Kitchen,WH10,Fieldston,West Zone,10,4077.16,8709.95,140.18,87099.5,Delivered,10,XpressBees,Not Returned,
+590,2025-04-15,CUST0590,PROD0590,Modern,Home & Kitchen,WH01,Walkerchester,West Zone,9,3633.57,5331.97,101.66,47987.73,Delivered,5,DTDC,Not Returned,
+591,2024-08-13,CUST0591,PROD0591,Edge,Toys,WH02,Weeksfurt,West Zone,12,1259.13,2737.14,133.79,32845.68,Delivered,1,DTDC,Replacement Requested,Exchange Request
+592,2024-07-28,CUST0592,PROD0592,Thought,Groceries,WH03,North Williamton,North Zone,3,1652.85,3849.37,61.47,11548.11,Shipped,13,Delhivery,Not Returned,
+593,2024-07-15,CUST0593,PROD0593,Improve,Beauty,WH04,Carolynfurt,South Zone,14,4275.32,9622.18,125.02,134710.52,Delivered,10,Blue Dart,Not Returned,
+594,2025-03-23,CUST0594,PROD0594,Seem,Sports,WH05,West Heather,East Zone,5,1018.31,1283.48,182.52,6417.4,Pending,10,Delhivery,Not Returned,
+595,2025-02-20,CUST0595,PROD0595,Machine,Sports,WH06,Pearsonport,Central Zone,3,843.83,1475.25,77.81,4425.75,Shipped,7,DTDC,Not Returned,
+596,2024-03-07,CUST0596,PROD0596,Least,Electronics,WH07,Ruizville,North Zone,15,1041.4,1890.73,36.58,28360.95,Processing,11,DTDC,Not Returned,
+597,2024-10-23,CUST0597,PROD0597,Still,Beauty,WH08,Burtonville,South Zone,14,4740.17,6587.09,56.72,92219.26,Delivered,5,DTDC,Returned,Wrong Size
+598,2024-01-14,CUST0598,PROD0598,Fear,Home & Kitchen,WH09,Port Joshuaport,East Zone,11,2606.58,4752.99,75.91,52282.89,Delivered,10,XpressBees,Replacement Requested,Exchange Request
+599,2025-04-21,CUST0599,PROD0599,I,Books,WH10,Rachelland,North Zone,17,930.8,2118.79,195.41,36019.43,Shipped,2,Blue Dart,Replacement Requested,Exchange Request
+600,2025-05-23,CUST0600,PROD0600,Including,Clothing,WH01,Victoriaport,North Zone,8,3991.85,5878.99,61.94,47031.92,Pending,6,Ecom Express,Replacement Requested,Exchange Request
+601,2024-11-16,CUST0601,PROD0601,Experience,Beauty,WH02,New Kevintown,East Zone,8,832.23,1948.21,80.71,15585.68,Cancelled,9,FedEx,Returned,Defective
+602,2025-01-19,CUST0602,PROD0602,Story,Clothing,WH03,Timothyfort,West Zone,7,1250.92,2386.63,178.95,16706.41,Delivered,14,Delhivery,Not Returned,
+603,2024-07-13,CUST0603,PROD0603,Wonder,Electronics,WH04,Hillview,South Zone,7,3217.64,7074.57,189.06,49521.99,Delivered,4,Ecom Express,Not Returned,
+604,2024-07-30,CUST0604,PROD0604,Offer,Books,WH05,Gravesborough,North Zone,13,1623.94,2646.64,45.35,34406.32,Processing,14,Blue Dart,Not Returned,
+605,2024-11-15,CUST0605,PROD0605,Month,Groceries,WH06,South Jacob,East Zone,7,1561.28,3368.52,112.47,23579.64,Delivered,1,Delhivery,Not Returned,
+606,2025-03-17,CUST0606,PROD0606,Base,Clothing,WH07,East Angelica,West Zone,20,344.32,526.45,113.0,10529.0,Delivered,6,DTDC,Replacement Requested,Exchange Request
+607,2024-07-27,CUST0607,PROD0607,Region,Beauty,WH08,Austinmouth,South Zone,9,3582.92,5301.11,10.54,47709.99,Delivered,4,FedEx,Returned,Delivery Damaged
+608,2024-06-24,CUST0608,PROD0608,Article,Clothing,WH09,North Patriciafurt,North Zone,15,1587.46,1935.93,149.29,29038.95,Processing,13,Delhivery,Returned,Defective
+609,2024-05-26,CUST0609,PROD0609,Experience,Sports,WH10,West Brittanyhaven,North Zone,17,1613.12,2031.22,63.36,34530.74,Delivered,14,Delhivery,Not Returned,
+610,2024-02-15,CUST0610,PROD0610,Want,Clothing,WH01,East Eric,Central Zone,18,2924.73,6698.0,67.63,120564.0,Delivered,5,DTDC,Not Returned,
+611,2025-03-24,CUST0611,PROD0611,Box,Electronics,WH02,Meyersburgh,North Zone,10,4666.96,6021.94,149.69,60219.4,Delivered,5,XpressBees,Returned,Delivery Damaged
+612,2024-04-25,CUST0612,PROD0612,High,Home & Kitchen,WH03,Goodwinmouth,West Zone,12,1074.05,1752.4,157.48,21028.8,Shipped,9,Delhivery,Not Returned,
+613,2024-06-13,CUST0613,PROD0613,Physical,Home & Kitchen,WH04,Schroederborough,North Zone,8,3095.44,5239.29,50.22,41914.32,Delivered,6,XpressBees,Returned,Delivery Damaged
+614,2025-06-14,CUST0614,PROD0614,Clear,Home & Kitchen,WH05,Fordport,West Zone,16,1596.98,3448.05,151.71,55168.8,Delivered,4,XpressBees,Not Returned,
+615,2024-05-22,CUST0615,PROD0615,Consumer,Electronics,WH06,Danielleport,South Zone,15,581.61,1078.28,62.25,16174.2,Shipped,10,Ecom Express,Not Returned,
+616,2024-06-23,CUST0616,PROD0616,Floor,Books,WH07,Meyerfort,East Zone,1,1409.33,3245.87,42.14,3245.87,Delivered,11,Ecom Express,Not Returned,
+617,2024-11-29,CUST0617,PROD0617,Recently,Clothing,WH08,East Kenneth,South Zone,12,2257.72,5133.23,118.81,61598.76,Cancelled,4,FedEx,Not Returned,
+618,2024-07-17,CUST0618,PROD0618,Capital,Groceries,WH09,Kristinfurt,South Zone,14,4169.48,6634.67,118.71,92885.38,Delivered,9,XpressBees,Returned,Not Needed
+619,2025-03-26,CUST0619,PROD0619,Kind,Beauty,WH10,Ryanburgh,Central Zone,7,3838.37,4753.54,55.67,33274.78,Processing,12,XpressBees,Not Returned,
+620,2025-05-25,CUST0620,PROD0620,Six,Beauty,WH01,Lake Theresa,West Zone,1,3422.63,6712.16,156.87,6712.16,Delivered,4,DTDC,Returned,Defective
+621,2024-03-08,CUST0621,PROD0621,Even,Clothing,WH02,West Andreborough,West Zone,5,3786.88,5375.25,194.52,26876.25,Delivered,14,Ecom Express,Not Returned,
+622,2024-09-28,CUST0622,PROD0622,Travel,Electronics,WH03,Wigginston,North Zone,7,2454.94,5666.21,13.35,39663.47,Cancelled,4,Blue Dart,Not Returned,
+623,2025-05-29,CUST0623,PROD0623,Provide,Home & Kitchen,WH04,Samanthaton,West Zone,17,2625.52,6102.28,170.28,103738.76,Delivered,2,Delhivery,Not Returned,
+624,2025-03-25,CUST0624,PROD0624,Scientist,Books,WH05,South Nicholastown,North Zone,15,3050.47,4306.7,94.68,64600.5,Delivered,8,FedEx,Returned,Not Needed
+625,2024-11-01,CUST0625,PROD0625,Often,Home & Kitchen,WH06,North Justin,North Zone,1,4821.49,10125.4,28.27,10125.4,Shipped,13,XpressBees,Not Returned,
+626,2024-11-19,CUST0626,PROD0626,Security,Home & Kitchen,WH07,Port Austin,North Zone,2,2283.7,4194.11,45.75,8388.22,Delivered,5,DTDC,Replacement Requested,Exchange Request
+627,2024-12-20,CUST0627,PROD0627,Open,Home & Kitchen,WH08,Lauraberg,North Zone,19,4301.36,6005.75,84.67,114109.25,Shipped,2,XpressBees,Not Returned,
+628,2024-04-10,CUST0628,PROD0628,Century,Groceries,WH09,South Maryhaven,West Zone,5,2138.19,3010.34,158.51,15051.7,Processing,7,Delhivery,Replacement Requested,Exchange Request
+629,2024-04-10,CUST0629,PROD0629,Resource,Beauty,WH10,Larsonburgh,East Zone,13,3198.0,3959.64,48.09,51475.32,Delivered,8,XpressBees,Not Returned,
+630,2024-02-17,CUST0630,PROD0630,Sister,Groceries,WH01,Lake Nicole,East Zone,12,3871.24,8512.56,148.19,102150.72,Delivered,2,Blue Dart,Not Returned,
+631,2025-02-16,CUST0631,PROD0631,Rich,Sports,WH02,Lake Sydney,East Zone,8,2109.94,4062.68,85.57,32501.44,Delivered,4,DTDC,Not Returned,
+632,2025-06-14,CUST0632,PROD0632,Perhaps,Books,WH03,Port Meganton,East Zone,9,3548.32,6312.83,115.13,56815.47,Shipped,9,FedEx,Not Returned,
+633,2025-04-21,CUST0633,PROD0633,Even,Beauty,WH04,Edwardborough,North Zone,3,2500.74,4771.93,117.54,14315.79,Shipped,8,Delhivery,Not Returned,
+634,2025-03-26,CUST0634,PROD0634,Fight,Books,WH05,Normanville,Central Zone,17,87.88,202.9,132.83,3449.3,Delivered,5,DTDC,Returned,Delivery Damaged
+635,2024-10-03,CUST0635,PROD0635,Address,Beauty,WH06,North Steven,Central Zone,17,4233.83,8132.77,37.66,138257.09,Delivered,5,Blue Dart,Not Returned,
+636,2024-04-18,CUST0636,PROD0636,Start,Home & Kitchen,WH07,Dudleytown,Central Zone,12,4287.0,10575.49,167.0,126905.88,Delivered,6,Blue Dart,Not Returned,
+637,2025-06-07,CUST0637,PROD0637,Responsibility,Groceries,WH08,Port Alexandertown,Central Zone,11,181.46,234.35,84.24,2577.85,Delivered,2,Delhivery,Not Returned,
+638,2024-04-07,CUST0638,PROD0638,Pull,Beauty,WH09,Michaelville,West Zone,8,2322.31,3703.63,73.68,29629.04,Delivered,1,XpressBees,Not Returned,
+639,2024-10-06,CUST0639,PROD0639,Heavy,Clothing,WH10,New Patrick,West Zone,11,334.88,740.94,42.77,8150.34,Delivered,11,Delhivery,Not Returned,
+640,2024-08-27,CUST0640,PROD0640,A,Toys,WH01,New Adrianborough,Central Zone,14,3027.69,4932.28,180.91,69051.92,Pending,13,XpressBees,Returned,Not Needed
+641,2024-06-14,CUST0641,PROD0641,Medical,Toys,WH02,New Jessica,North Zone,7,2841.74,6628.94,199.4,46402.58,Delivered,14,XpressBees,Not Returned,
+642,2024-03-20,CUST0642,PROD0642,Control,Electronics,WH03,Lake Taylor,Central Zone,14,3289.9,4466.34,112.25,62528.76,Processing,7,DTDC,Not Returned,
+643,2024-06-10,CUST0643,PROD0643,Evening,Electronics,WH04,Welchbury,South Zone,8,508.58,683.3,69.34,5466.4,Delivered,11,Blue Dart,Not Returned,
+644,2024-04-27,CUST0644,PROD0644,Issue,Clothing,WH05,Alanside,Central Zone,19,1696.68,3229.77,149.31,61365.63,Shipped,14,Blue Dart,Not Returned,
+645,2024-03-21,CUST0645,PROD0645,Industry,Books,WH06,Olsonstad,Central Zone,9,1732.01,2714.3,191.47,24428.7,Shipped,6,Ecom Express,Not Returned,
+646,2024-06-29,CUST0646,PROD0646,His,Toys,WH07,Lake Shelley,East Zone,8,3582.66,7837.1,80.2,62696.8,Shipped,5,FedEx,Returned,Not Needed
+647,2025-06-14,CUST0647,PROD0647,Method,Books,WH08,Port Dawn,East Zone,1,730.36,1016.23,111.83,1016.23,Delivered,1,Delhivery,Not Returned,
+648,2025-04-18,CUST0648,PROD0648,If,Electronics,WH09,Terrimouth,North Zone,2,450.87,591.97,14.59,1183.94,Shipped,4,FedEx,Returned,Wrong Size
+649,2024-10-20,CUST0649,PROD0649,Just,Beauty,WH10,Vincentside,Central Zone,9,996.57,1926.54,51.79,17338.86,Delivered,8,DTDC,Not Returned,
+650,2024-03-07,CUST0650,PROD0650,Side,Clothing,WH01,Melvinberg,North Zone,1,1785.67,3989.07,152.11,3989.07,Shipped,9,DTDC,Not Returned,
+651,2024-10-03,CUST0651,PROD0651,Us,Toys,WH02,Stevemouth,North Zone,20,3089.64,4501.78,63.59,90035.6,Pending,5,Ecom Express,Not Returned,
+652,2024-05-01,CUST0652,PROD0652,Our,Clothing,WH03,Whitefurt,North Zone,11,2756.08,5940.48,20.07,65345.28,Delivered,5,DTDC,Not Returned,
+653,2025-03-15,CUST0653,PROD0653,Nature,Beauty,WH04,North Anthony,West Zone,16,3981.63,7106.17,123.83,113698.72,Shipped,4,Delhivery,Not Returned,
+654,2025-06-14,CUST0654,PROD0654,Lose,Home & Kitchen,WH05,Longmouth,West Zone,1,1499.04,2675.44,11.76,2675.44,Delivered,9,Delhivery,Not Returned,
+655,2025-06-07,CUST0655,PROD0655,Amount,Beauty,WH06,Baileychester,Central Zone,2,1570.54,2776.29,58.25,5552.58,Pending,1,DTDC,Not Returned,
+656,2024-06-25,CUST0656,PROD0656,And,Electronics,WH07,Wilkinsonstad,East Zone,10,3579.73,8186.46,80.84,81864.6,Delivered,9,FedEx,Not Returned,
+657,2024-06-07,CUST0657,PROD0657,None,Beauty,WH08,East Victoriastad,Central Zone,10,2687.0,4562.37,138.94,45623.7,Pending,11,Delhivery,Not Returned,
+658,2024-08-04,CUST0658,PROD0658,Beautiful,Clothing,WH09,Ronaldfort,East Zone,13,3275.01,5141.28,156.8,66836.64,Shipped,3,Ecom Express,Not Returned,
+659,2025-01-22,CUST0659,PROD0659,Air,Home & Kitchen,WH10,Port Roberthaven,West Zone,15,1336.08,2407.3,47.18,36109.5,Shipped,14,Delhivery,Replacement Requested,Exchange Request
+660,2025-04-29,CUST0660,PROD0660,Debate,Groceries,WH01,New Brian,South Zone,3,3704.79,5146.75,193.76,15440.25,Shipped,8,XpressBees,Replacement Requested,Exchange Request
+661,2024-01-07,CUST0661,PROD0661,Improve,Home & Kitchen,WH02,West Steven,North Zone,9,4820.75,7912.25,66.84,71210.25,Delivered,2,DTDC,Returned,Not Needed
+662,2025-01-21,CUST0662,PROD0662,Itself,Clothing,WH03,Port Matthew,West Zone,8,4081.48,5698.4,139.83,45587.2,Delivered,3,Blue Dart,Not Returned,
+663,2024-07-23,CUST0663,PROD0663,Year,Sports,WH04,Michellefurt,North Zone,17,3642.51,4793.22,45.18,81484.74,Shipped,12,Blue Dart,Returned,Defective
+664,2024-01-24,CUST0664,PROD0664,Believe,Beauty,WH05,East Patricia,East Zone,2,877.86,1134.05,176.34,2268.1,Pending,13,Blue Dart,Not Returned,
+665,2024-03-01,CUST0665,PROD0665,Compare,Books,WH06,New Nataliebury,East Zone,4,3673.37,5290.16,162.21,21160.64,Delivered,14,Ecom Express,Replacement Requested,Exchange Request
+666,2025-03-23,CUST0666,PROD0666,Minute,Electronics,WH07,Amandachester,North Zone,20,2795.22,5057.27,30.88,101145.4,Delivered,1,DTDC,Not Returned,
+667,2025-03-07,CUST0667,PROD0667,Lose,Home & Kitchen,WH08,South Brandonhaven,North Zone,17,3459.36,6177.59,70.49,105019.03,Delivered,5,Ecom Express,Not Returned,
+668,2024-10-17,CUST0668,PROD0668,Civil,Home & Kitchen,WH09,Shepherdtown,North Zone,15,1217.53,2086.07,53.77,31291.05,Delivered,9,Delhivery,Returned,Quality Issue
+669,2025-01-28,CUST0669,PROD0669,Fish,Clothing,WH10,New Jessicafort,South Zone,11,2386.53,3892.25,118.47,42814.75,Delivered,4,Ecom Express,Not Returned,
+670,2025-03-19,CUST0670,PROD0670,Service,Home & Kitchen,WH01,Brandonberg,East Zone,3,607.52,1087.1,147.63,3261.3,Pending,2,Delhivery,Replacement Requested,Exchange Request
+671,2024-06-29,CUST0671,PROD0671,Talk,Electronics,WH02,New Scottshire,Central Zone,4,3348.09,4613.02,26.18,18452.08,Shipped,11,Ecom Express,Replacement Requested,Exchange Request
+672,2025-02-01,CUST0672,PROD0672,Interest,Sports,WH03,Jameshaven,South Zone,11,2466.41,5932.66,179.28,65259.26,Delivered,8,XpressBees,Not Returned,
+673,2025-05-23,CUST0673,PROD0673,Newspaper,Electronics,WH04,South Dylanshire,West Zone,14,4957.9,11731.98,163.43,164247.72,Delivered,6,DTDC,Not Returned,
+674,2024-07-12,CUST0674,PROD0674,Force,Beauty,WH05,East Scott,West Zone,3,2097.4,3331.19,160.14,9993.57,Shipped,12,Blue Dart,Not Returned,
+675,2024-12-07,CUST0675,PROD0675,Short,Clothing,WH06,Susanview,West Zone,11,4016.73,6758.02,56.01,74338.22,Delivered,14,XpressBees,Not Returned,
+676,2024-05-08,CUST0676,PROD0676,Seem,Beauty,WH07,Walltown,East Zone,2,1337.51,1668.78,129.01,3337.56,Delivered,6,FedEx,Returned,Not Needed
+677,2024-07-08,CUST0677,PROD0677,Involve,Groceries,WH08,Jeffview,West Zone,20,1044.75,2126.02,90.82,42520.4,Shipped,13,Ecom Express,Returned,Defective
+678,2025-06-10,CUST0678,PROD0678,Number,Books,WH09,South Carol,East Zone,13,3081.1,6430.52,81.72,83596.76,Delivered,8,DTDC,Replacement Requested,Exchange Request
+679,2025-01-05,CUST0679,PROD0679,Sing,Sports,WH10,East Robert,North Zone,8,1798.69,3562.04,86.99,28496.32,Pending,5,Ecom Express,Replacement Requested,Exchange Request
+680,2024-09-25,CUST0680,PROD0680,Pay,Beauty,WH01,Port Elizabethberg,South Zone,8,2370.76,4799.19,129.35,38393.52,Shipped,4,FedEx,Not Returned,
+681,2024-09-20,CUST0681,PROD0681,Certainly,Electronics,WH02,Susanville,West Zone,13,3423.11,7385.61,145.08,96012.93,Delivered,9,XpressBees,Not Returned,
+682,2024-12-19,CUST0682,PROD0682,Add,Toys,WH03,North Wendyside,Central Zone,10,3992.53,7906.89,166.19,79068.9,Delivered,4,XpressBees,Not Returned,
+683,2024-05-28,CUST0683,PROD0683,National,Toys,WH04,Julieshire,South Zone,2,1638.94,2978.12,154.28,5956.24,Delivered,8,Ecom Express,Not Returned,
+684,2025-06-23,CUST0684,PROD0684,Strong,Books,WH05,Kirbyport,South Zone,14,3703.04,5678.91,162.24,79504.74,Delivered,3,Ecom Express,Not Returned,
+685,2025-01-09,CUST0685,PROD0685,While,Books,WH06,Scottburgh,Central Zone,10,238.65,373.37,111.88,3733.7,Processing,1,FedEx,Returned,Defective
+686,2024-09-01,CUST0686,PROD0686,Area,Books,WH07,East Steven,East Zone,10,2992.14,6958.2,53.04,69582.0,Delivered,7,FedEx,Not Returned,
+687,2024-07-31,CUST0687,PROD0687,Lay,Home & Kitchen,WH08,Taylorview,East Zone,15,1413.27,2019.44,77.59,30291.6,Delivered,2,XpressBees,Not Returned,
+688,2025-04-12,CUST0688,PROD0688,Fish,Electronics,WH09,Foxside,East Zone,5,2866.22,3669.03,137.35,18345.15,Pending,1,DTDC,Not Returned,
+689,2024-03-09,CUST0689,PROD0689,Goal,Clothing,WH10,Burnsbury,Central Zone,2,1868.78,2291.95,124.47,4583.9,Delivered,9,Ecom Express,Not Returned,
+690,2025-06-09,CUST0690,PROD0690,Officer,Sports,WH01,New Michaela,West Zone,16,89.66,148.48,55.57,2375.68,Delivered,14,Ecom Express,Not Returned,
+691,2024-02-07,CUST0691,PROD0691,Worry,Home & Kitchen,WH02,Lake Kathryn,South Zone,11,3931.47,5733.82,118.48,63072.02,Delivered,8,FedEx,Not Returned,
+692,2024-04-04,CUST0692,PROD0692,Turn,Home & Kitchen,WH03,Petersonburgh,West Zone,20,1593.64,3436.61,43.69,68732.2,Delivered,1,Ecom Express,Returned,Quality Issue
+693,2024-04-27,CUST0693,PROD0693,Wear,Books,WH04,Port Joshua,North Zone,2,553.09,674.5,157.34,1349.0,Delivered,9,Blue Dart,Replacement Requested,Exchange Request
+694,2025-04-30,CUST0694,PROD0694,Affect,Clothing,WH05,New Sheilafurt,South Zone,4,4230.52,6051.36,149.04,24205.44,Delivered,9,FedEx,Not Returned,
+695,2024-08-19,CUST0695,PROD0695,Station,Groceries,WH06,North Elizabeth,West Zone,17,1390.59,2427.88,176.34,41273.96,Delivered,11,Delhivery,Not Returned,
+696,2024-01-14,CUST0696,PROD0696,Religious,Home & Kitchen,WH07,New Cynthia,South Zone,1,826.19,1556.74,75.83,1556.74,Shipped,6,Blue Dart,Not Returned,
+697,2024-07-10,CUST0697,PROD0697,Put,Clothing,WH08,Matthewshire,North Zone,18,2532.94,3377.77,84.38,60799.86,Pending,7,DTDC,Returned,Not Needed
+698,2025-05-12,CUST0698,PROD0698,Tv,Electronics,WH09,Lake Jenniferchester,North Zone,12,2383.15,3834.91,74.08,46018.92,Delivered,8,DTDC,Not Returned,
+699,2024-02-11,CUST0699,PROD0699,Memory,Books,WH10,Thomashaven,East Zone,16,4241.36,9757.04,150.07,156112.64,Processing,9,DTDC,Not Returned,
+700,2025-04-03,CUST0700,PROD0700,Energy,Beauty,WH01,North Taylorbury,South Zone,12,1506.08,3427.24,129.46,41126.88,Delivered,9,Blue Dart,Not Returned,
+701,2025-01-26,CUST0701,PROD0701,Side,Home & Kitchen,WH02,Alecfurt,East Zone,2,3410.48,8123.01,107.22,16246.02,Processing,13,Delhivery,Not Returned,
+702,2024-07-06,CUST0702,PROD0702,Direction,Sports,WH03,Lake Lindsey,Central Zone,2,3287.76,7788.71,197.42,15577.42,Shipped,3,Delhivery,Not Returned,
+703,2024-04-07,CUST0703,PROD0703,Political,Groceries,WH04,Lake Chad,East Zone,6,3626.39,8934.62,13.4,53607.72,Delivered,9,DTDC,Not Returned,
+704,2024-10-25,CUST0704,PROD0704,His,Books,WH05,Lisaland,South Zone,11,4413.75,6105.44,19.04,67159.84,Shipped,2,FedEx,Returned,Delivery Damaged
+705,2025-06-24,CUST0705,PROD0705,Away,Books,WH06,Catherinemouth,East Zone,9,4326.88,8632.97,32.83,77696.73,Delivered,8,Delhivery,Not Returned,
+706,2024-02-20,CUST0706,PROD0706,There,Home & Kitchen,WH07,Lopeztown,North Zone,19,232.8,331.12,125.7,6291.28,Cancelled,11,DTDC,Replacement Requested,Exchange Request
+707,2024-02-29,CUST0707,PROD0707,Hundred,Toys,WH08,New Donald,West Zone,11,402.65,542.64,177.19,5969.04,Delivered,12,DTDC,Not Returned,
+708,2024-04-18,CUST0708,PROD0708,These,Toys,WH09,Port Jameston,Central Zone,5,576.46,1039.91,65.18,5199.55,Delivered,6,Delhivery,Not Returned,
+709,2024-12-27,CUST0709,PROD0709,Theory,Electronics,WH10,Maxwelltown,North Zone,18,3715.95,8739.47,145.78,157310.46,Pending,10,Delhivery,Not Returned,
+710,2025-02-23,CUST0710,PROD0710,Set,Toys,WH01,Saraland,South Zone,16,3982.14,6185.15,96.36,98962.4,Delivered,8,Delhivery,Replacement Requested,Exchange Request
+711,2024-07-29,CUST0711,PROD0711,Leg,Clothing,WH02,South Benjamin,West Zone,11,4580.23,6170.11,150.49,67871.21,Delivered,14,XpressBees,Not Returned,
+712,2024-02-10,CUST0712,PROD0712,Ground,Sports,WH03,Scotthaven,East Zone,4,3193.79,3858.23,191.48,15432.92,Shipped,5,XpressBees,Replacement Requested,Exchange Request
+713,2025-02-17,CUST0713,PROD0713,Watch,Clothing,WH04,Lake Karen,West Zone,7,92.89,182.69,149.16,1278.83,Shipped,5,DTDC,Returned,Delivery Damaged
+714,2025-04-21,CUST0714,PROD0714,Garden,Toys,WH05,East Zoeside,East Zone,11,1547.64,2189.31,10.56,24082.41,Delivered,6,DTDC,Replacement Requested,Exchange Request
+715,2024-01-17,CUST0715,PROD0715,Compare,Beauty,WH06,Sandymouth,Central Zone,16,4714.22,11351.01,26.39,181616.16,Processing,11,Blue Dart,Not Returned,
+716,2025-03-25,CUST0716,PROD0716,Size,Books,WH07,West Matthew,Central Zone,5,1423.53,2997.83,87.68,14989.15,Processing,5,FedEx,Not Returned,
+717,2024-01-01,CUST0717,PROD0717,Above,Clothing,WH08,Port Justin,Central Zone,10,2723.65,3648.89,83.16,36488.9,Delivered,11,Ecom Express,Replacement Requested,Exchange Request
+718,2025-06-13,CUST0718,PROD0718,Thought,Home & Kitchen,WH09,Lovebury,East Zone,17,3895.57,5145.01,90.56,87465.17,Delivered,4,DTDC,Replacement Requested,Exchange Request
+719,2024-01-16,CUST0719,PROD0719,Lose,Toys,WH10,Davidsonville,West Zone,15,3330.77,7477.34,36.46,112160.1,Delivered,13,Ecom Express,Not Returned,
+720,2024-10-23,CUST0720,PROD0720,Woman,Sports,WH01,Thorntonmouth,West Zone,10,1366.26,1694.39,177.43,16943.9,Cancelled,4,Ecom Express,Replacement Requested,Exchange Request
+721,2024-07-03,CUST0721,PROD0721,Then,Clothing,WH02,Port Leeland,North Zone,6,651.46,1613.58,70.29,9681.48,Delivered,7,Blue Dart,Returned,Defective
+722,2025-04-05,CUST0722,PROD0722,Experience,Beauty,WH03,North Paulside,South Zone,12,2637.75,4399.26,171.76,52791.12,Pending,14,Blue Dart,Returned,Quality Issue
+723,2024-04-09,CUST0723,PROD0723,Natural,Groceries,WH04,Scottshire,West Zone,1,1363.45,2431.54,23.13,2431.54,Processing,2,XpressBees,Replacement Requested,Exchange Request
+724,2025-05-05,CUST0724,PROD0724,Again,Beauty,WH05,Annborough,North Zone,12,4529.48,6666.79,159.2,80001.48,Delivered,7,DTDC,Returned,Delivery Damaged
+725,2024-02-05,CUST0725,PROD0725,Night,Clothing,WH06,South Emily,South Zone,4,3305.75,5806.52,68.66,23226.08,Delivered,7,DTDC,Not Returned,
+726,2025-01-26,CUST0726,PROD0726,Pay,Books,WH07,Antonioville,West Zone,9,958.56,1455.24,18.98,13097.16,Shipped,8,XpressBees,Not Returned,
+727,2024-08-19,CUST0727,PROD0727,Color,Electronics,WH08,West Jacquelinebury,Central Zone,18,280.21,499.04,32.2,8982.72,Delivered,10,Delhivery,Not Returned,
+728,2024-05-06,CUST0728,PROD0728,Different,Clothing,WH09,East Jonathan,South Zone,1,3023.6,3936.27,10.25,3936.27,Delivered,2,FedEx,Not Returned,
+729,2024-07-23,CUST0729,PROD0729,Happen,Groceries,WH10,North Jose,East Zone,15,4326.14,5593.23,153.44,83898.45,Delivered,3,XpressBees,Not Returned,
+730,2024-07-20,CUST0730,PROD0730,Bad,Books,WH01,Port Rebecca,South Zone,18,3287.17,5789.17,128.41,104205.06,Shipped,9,Ecom Express,Not Returned,
+731,2024-09-22,CUST0731,PROD0731,Character,Electronics,WH02,Davidmouth,South Zone,18,4788.0,8680.61,168.03,156250.98,Processing,12,Ecom Express,Not Returned,
+732,2024-12-26,CUST0732,PROD0732,Practice,Books,WH03,East Duane,East Zone,11,759.88,1043.79,147.74,11481.69,Processing,11,Ecom Express,Not Returned,
+733,2025-02-03,CUST0733,PROD0733,Improve,Sports,WH04,Mccartychester,South Zone,3,1532.81,2745.12,100.19,8235.36,Delivered,11,XpressBees,Returned,Wrong Size
+734,2024-02-17,CUST0734,PROD0734,Case,Electronics,WH05,North Veronica,South Zone,16,3342.22,6591.84,78.19,105469.44,Delivered,10,Ecom Express,Not Returned,
+735,2025-05-10,CUST0735,PROD0735,Pressure,Clothing,WH06,New Laura,Central Zone,15,4392.02,5513.08,126.23,82696.2,Delivered,7,XpressBees,Replacement Requested,Exchange Request
+736,2024-10-22,CUST0736,PROD0736,Service,Sports,WH07,Port Yvette,North Zone,6,4744.22,9242.08,175.55,55452.48,Cancelled,3,Delhivery,Replacement Requested,Exchange Request
+737,2024-12-10,CUST0737,PROD0737,Box,Books,WH08,Booneside,South Zone,16,1901.09,2303.52,165.03,36856.32,Delivered,8,XpressBees,Not Returned,
+738,2024-03-28,CUST0738,PROD0738,Affect,Beauty,WH09,North Paulland,Central Zone,5,269.84,522.42,152.08,2612.1,Shipped,4,Ecom Express,Replacement Requested,Exchange Request
+739,2024-02-04,CUST0739,PROD0739,Cold,Home & Kitchen,WH10,Wilsonshire,West Zone,7,2703.85,4562.89,111.08,31940.23,Cancelled,10,DTDC,Not Returned,
+740,2025-06-24,CUST0740,PROD0740,Everybody,Electronics,WH01,Salaschester,Central Zone,13,2452.86,6117.89,98.24,79532.57,Processing,8,DTDC,Not Returned,
+741,2025-04-25,CUST0741,PROD0741,They,Sports,WH02,Port William,East Zone,4,2669.27,5724.59,136.92,22898.36,Delivered,3,FedEx,Replacement Requested,Exchange Request
+742,2024-12-04,CUST0742,PROD0742,Mother,Clothing,WH03,Brianport,North Zone,19,577.5,702.14,73.5,13340.66,Delivered,4,XpressBees,Replacement Requested,Exchange Request
+743,2025-02-20,CUST0743,PROD0743,Something,Clothing,WH04,Lukeburgh,Central Zone,19,1189.84,1787.85,78.58,33969.15,Delivered,1,XpressBees,Replacement Requested,Exchange Request
+744,2024-07-16,CUST0744,PROD0744,Road,Toys,WH05,Leefort,West Zone,9,2580.99,3882.33,147.63,34940.97,Shipped,5,DTDC,Not Returned,
+745,2024-05-17,CUST0745,PROD0745,His,Home & Kitchen,WH06,Port Paul,South Zone,7,4805.83,10147.63,193.68,71033.41,Delivered,11,Ecom Express,Not Returned,
+746,2024-05-03,CUST0746,PROD0746,Husband,Clothing,WH07,West Patriciamouth,South Zone,2,4344.35,8390.01,24.45,16780.02,Delivered,3,DTDC,Not Returned,
+747,2024-07-04,CUST0747,PROD0747,Wall,Electronics,WH08,Wyattchester,North Zone,18,1055.4,1552.15,92.25,27938.7,Delivered,14,FedEx,Not Returned,
+748,2025-05-03,CUST0748,PROD0748,School,Home & Kitchen,WH09,Port Jason,East Zone,9,4461.57,5970.55,121.56,53734.95,Delivered,9,XpressBees,Not Returned,
+749,2024-09-02,CUST0749,PROD0749,Capital,Toys,WH10,Lake Erica,West Zone,11,585.48,1159.16,26.24,12750.76,Delivered,13,Delhivery,Not Returned,
+750,2025-04-23,CUST0750,PROD0750,Ago,Sports,WH01,Scotthaven,North Zone,12,77.71,104.97,109.19,1259.64,Delivered,2,Blue Dart,Not Returned,
+751,2025-01-10,CUST0751,PROD0751,Really,Sports,WH02,Port Diana,North Zone,14,3041.39,5755.9,161.01,80582.6,Delivered,3,FedEx,Replacement Requested,Exchange Request
+752,2024-01-08,CUST0752,PROD0752,Property,Electronics,WH03,East Jamesburgh,East Zone,10,4035.55,7303.83,172.93,73038.3,Delivered,6,Delhivery,Not Returned,
+753,2024-03-20,CUST0753,PROD0753,People,Books,WH04,Dawnborough,West Zone,6,3549.12,5667.81,180.12,34006.86,Delivered,7,XpressBees,Not Returned,
+754,2025-05-24,CUST0754,PROD0754,Wife,Electronics,WH05,Carriestad,North Zone,18,827.68,1404.89,36.92,25288.02,Shipped,6,XpressBees,Not Returned,
+755,2025-03-18,CUST0755,PROD0755,Culture,Toys,WH06,Lake Mitchellfurt,East Zone,4,459.12,1144.6,121.89,4578.4,Shipped,1,FedEx,Not Returned,
+756,2024-08-18,CUST0756,PROD0756,Boy,Toys,WH07,Youngmouth,South Zone,20,4698.67,6561.83,19.64,131236.6,Delivered,7,DTDC,Replacement Requested,Exchange Request
+757,2025-06-13,CUST0757,PROD0757,Before,Toys,WH08,Michaelland,Central Zone,11,1164.87,2558.44,180.29,28142.84,Delivered,13,FedEx,Replacement Requested,Exchange Request
+758,2025-04-07,CUST0758,PROD0758,Book,Home & Kitchen,WH09,Stevensonside,West Zone,11,833.41,1289.77,198.35,14187.47,Delivered,1,DTDC,Returned,Quality Issue
+759,2024-08-25,CUST0759,PROD0759,Night,Sports,WH10,Port Jessica,East Zone,19,2003.74,3465.61,182.05,65846.59,Delivered,6,FedEx,Returned,Delivery Damaged
+760,2025-05-07,CUST0760,PROD0760,Write,Groceries,WH01,Adamsshire,North Zone,10,2598.71,6101.46,143.62,61014.6,Delivered,4,Blue Dart,Not Returned,
+761,2024-10-09,CUST0761,PROD0761,Lawyer,Toys,WH02,Christopherville,West Zone,1,3293.22,4869.81,196.01,4869.81,Delivered,12,FedEx,Not Returned,
+762,2024-08-04,CUST0762,PROD0762,Former,Books,WH03,Adamhaven,Central Zone,14,804.65,1108.31,24.36,15516.34,Pending,11,XpressBees,Not Returned,
+763,2024-11-30,CUST0763,PROD0763,Must,Books,WH04,Hunterville,North Zone,5,4496.12,5533.68,121.72,27668.4,Shipped,2,FedEx,Not Returned,
+764,2025-04-14,CUST0764,PROD0764,Defense,Sports,WH05,Port Jessicabury,South Zone,18,342.82,583.74,89.36,10507.32,Delivered,13,DTDC,Replacement Requested,Exchange Request
+765,2024-03-08,CUST0765,PROD0765,Nice,Books,WH06,New Jonathanburgh,North Zone,15,3233.09,4239.55,50.43,63593.25,Delivered,10,DTDC,Not Returned,
+766,2025-01-07,CUST0766,PROD0766,Stay,Groceries,WH07,Lake Amberchester,North Zone,2,3067.35,5378.49,175.81,10756.98,Cancelled,13,XpressBees,Not Returned,
+767,2024-08-03,CUST0767,PROD0767,Lawyer,Books,WH08,Jennifermouth,South Zone,3,4350.29,9490.83,164.18,28472.49,Shipped,7,Blue Dart,Not Returned,
+768,2025-03-06,CUST0768,PROD0768,Reveal,Electronics,WH09,East Toddport,West Zone,16,3830.16,6008.5,155.74,96136.0,Delivered,13,Blue Dart,Not Returned,
+769,2024-11-29,CUST0769,PROD0769,Right,Books,WH10,Natashaview,East Zone,8,1518.36,1826.14,103.6,14609.12,Processing,13,Blue Dart,Returned,Defective
+770,2024-02-21,CUST0770,PROD0770,Across,Toys,WH01,Lake Laurastad,East Zone,16,4359.19,10576.86,81.72,169229.76,Delivered,12,Ecom Express,Not Returned,
+771,2025-05-14,CUST0771,PROD0771,Key,Beauty,WH02,Heatherland,East Zone,16,3941.48,5443.83,153.88,87101.28,Delivered,1,XpressBees,Not Returned,
+772,2025-01-08,CUST0772,PROD0772,Tonight,Home & Kitchen,WH03,Gregoryfurt,North Zone,15,2437.94,3776.52,90.08,56647.8,Delivered,11,FedEx,Not Returned,
+773,2024-02-28,CUST0773,PROD0773,Quite,Electronics,WH04,Evanstad,East Zone,3,1599.58,2023.77,11.85,6071.31,Cancelled,8,DTDC,Not Returned,
+774,2024-02-02,CUST0774,PROD0774,True,Clothing,WH05,North Nicolemouth,South Zone,13,1111.53,1539.58,71.34,20014.54,Delivered,2,Blue Dart,Not Returned,
+775,2024-03-01,CUST0775,PROD0775,Husband,Clothing,WH06,Wyatthaven,South Zone,7,984.33,2223.52,135.48,15564.64,Delivered,1,FedEx,Returned,Wrong Size
+776,2024-03-29,CUST0776,PROD0776,Himself,Clothing,WH07,East Matthewbury,North Zone,2,205.45,374.59,41.83,749.18,Shipped,8,FedEx,Not Returned,
+777,2024-06-28,CUST0777,PROD0777,Member,Home & Kitchen,WH08,Lake Joshuachester,North Zone,17,1187.63,1488.0,45.63,25296.0,Pending,13,FedEx,Not Returned,
+778,2025-04-28,CUST0778,PROD0778,Leg,Home & Kitchen,WH09,Lake Susanfort,North Zone,18,3477.31,4223.7,153.95,76026.6,Delivered,1,FedEx,Returned,Not Needed
+779,2024-07-29,CUST0779,PROD0779,Voice,Home & Kitchen,WH10,West Carlahaven,West Zone,13,2122.4,4573.59,50.4,59456.67,Shipped,1,Blue Dart,Not Returned,
+780,2024-11-04,CUST0780,PROD0780,Until,Books,WH01,New Sarah,North Zone,14,3538.77,7667.03,28.73,107338.42,Shipped,4,Blue Dart,Returned,Not Needed
+781,2024-07-05,CUST0781,PROD0781,Stand,Sports,WH02,Port Julia,North Zone,2,804.07,1325.33,198.33,2650.66,Delivered,8,XpressBees,Not Returned,
+782,2024-07-31,CUST0782,PROD0782,Beat,Toys,WH03,Ronaldburgh,West Zone,11,1305.2,2270.78,86.97,24978.58,Delivered,9,DTDC,Not Returned,
+783,2024-11-15,CUST0783,PROD0783,Suggest,Sports,WH04,New Katiechester,South Zone,12,1482.37,3198.54,182.98,38382.48,Shipped,5,Delhivery,Not Returned,
+784,2024-02-02,CUST0784,PROD0784,Quality,Books,WH05,Prestonland,Central Zone,14,3242.42,7873.07,186.28,110222.98,Processing,14,FedEx,Not Returned,
+785,2024-07-03,CUST0785,PROD0785,Far,Home & Kitchen,WH06,East Timothy,North Zone,11,4205.81,9381.23,165.43,103193.53,Delivered,3,Delhivery,Not Returned,
+786,2025-06-09,CUST0786,PROD0786,Worry,Sports,WH07,Matthewside,North Zone,17,4774.41,10670.76,29.31,181402.92,Processing,6,XpressBees,Not Returned,
+787,2024-01-18,CUST0787,PROD0787,Significant,Books,WH08,Jonesside,West Zone,4,2164.46,3100.29,31.63,12401.16,Delivered,3,Ecom Express,Not Returned,
+788,2024-03-12,CUST0788,PROD0788,Let,Groceries,WH09,Christopherberg,West Zone,10,3498.39,5071.72,126.52,50717.2,Cancelled,12,Delhivery,Returned,Not Needed
+789,2025-01-01,CUST0789,PROD0789,Accept,Sports,WH10,Anthonyshire,North Zone,17,4590.57,5584.35,146.92,94933.95,Shipped,9,FedEx,Not Returned,
+790,2024-08-16,CUST0790,PROD0790,Company,Sports,WH01,Chandlerville,East Zone,12,1126.65,1797.98,115.65,21575.76,Pending,11,FedEx,Not Returned,
+791,2024-11-25,CUST0791,PROD0791,Structure,Beauty,WH02,Valenciahaven,Central Zone,8,2199.15,5109.45,56.9,40875.6,Cancelled,1,Ecom Express,Replacement Requested,Exchange Request
+792,2024-05-17,CUST0792,PROD0792,Blue,Groceries,WH03,Christopherhaven,Central Zone,9,141.2,322.08,181.27,2898.72,Delivered,11,XpressBees,Not Returned,
+793,2024-06-16,CUST0793,PROD0793,Action,Clothing,WH04,Michaelfort,Central Zone,12,2206.31,2680.92,144.77,32171.04,Delivered,7,Ecom Express,Not Returned,
+794,2025-03-28,CUST0794,PROD0794,Enjoy,Electronics,WH05,West Michelleberg,South Zone,3,551.77,668.58,117.29,2005.74,Delivered,14,Ecom Express,Returned,Wrong Size
+795,2025-05-03,CUST0795,PROD0795,Think,Beauty,WH06,New Heidi,South Zone,14,3015.57,7328.6,98.55,102600.4,Shipped,14,DTDC,Replacement Requested,Exchange Request
+796,2024-08-28,CUST0796,PROD0796,Manage,Books,WH07,Friedmanstad,North Zone,1,4999.53,8478.91,165.19,8478.91,Shipped,14,Blue Dart,Not Returned,
+797,2025-02-15,CUST0797,PROD0797,Throughout,Electronics,WH08,New Michael,South Zone,10,3704.62,7701.82,114.7,77018.2,Delivered,13,Delhivery,Not Returned,
+798,2024-10-22,CUST0798,PROD0798,Us,Sports,WH09,South Suzanneland,Central Zone,19,4676.6,7718.72,85.9,146655.68,Cancelled,2,Delhivery,Not Returned,
+799,2025-03-09,CUST0799,PROD0799,Reason,Home & Kitchen,WH10,West Brittanytown,West Zone,13,3086.57,5498.97,103.62,71486.61,Delivered,11,FedEx,Not Returned,
+800,2024-10-16,CUST0800,PROD0800,Teacher,Home & Kitchen,WH01,North David,West Zone,15,1710.18,3563.14,86.56,53447.1,Shipped,7,Blue Dart,Not Returned,
+801,2024-04-22,CUST0801,PROD0801,Magazine,Beauty,WH02,Soniaton,East Zone,13,4483.49,6512.82,93.87,84666.66,Delivered,8,Blue Dart,Not Returned,
+802,2025-01-06,CUST0802,PROD0802,Beautiful,Toys,WH03,Barbaraborough,Central Zone,18,4320.58,9479.67,173.37,170634.06,Delivered,9,DTDC,Not Returned,
+803,2025-01-06,CUST0803,PROD0803,Technology,Clothing,WH04,Davidborough,West Zone,13,4249.5,6378.7,37.69,82923.1,Delivered,11,Delhivery,Not Returned,
+804,2024-11-13,CUST0804,PROD0804,What,Electronics,WH05,Samueltown,South Zone,18,4802.89,8054.95,141.64,144989.1,Processing,14,Delhivery,Not Returned,
+805,2024-06-22,CUST0805,PROD0805,Section,Beauty,WH06,Lake Thomaston,East Zone,15,3742.75,6325.15,65.27,94877.25,Delivered,6,FedEx,Not Returned,
+806,2024-04-13,CUST0806,PROD0806,Scientist,Toys,WH07,Padillaberg,South Zone,7,4874.38,11319.7,107.49,79237.9,Shipped,13,Delhivery,Replacement Requested,Exchange Request
+807,2025-05-14,CUST0807,PROD0807,Whole,Home & Kitchen,WH08,North Glen,South Zone,13,3930.99,6642.39,108.22,86351.07,Processing,7,FedEx,Not Returned,
+808,2024-10-22,CUST0808,PROD0808,Wait,Toys,WH09,Port Patricia,North Zone,4,4564.58,8527.78,151.33,34111.12,Delivered,14,DTDC,Returned,Quality Issue
+809,2024-07-15,CUST0809,PROD0809,Wife,Toys,WH10,North Susan,West Zone,18,793.96,1445.3,118.14,26015.4,Processing,7,Blue Dart,Replacement Requested,Exchange Request
+810,2025-06-14,CUST0810,PROD0810,Foot,Beauty,WH01,Henryport,North Zone,13,2450.76,4077.75,73.27,53010.75,Delivered,5,XpressBees,Returned,Wrong Size
+811,2025-03-25,CUST0811,PROD0811,Guess,Electronics,WH02,Port Donnahaven,South Zone,16,1880.5,4083.2,68.21,65331.2,Processing,12,Blue Dart,Not Returned,
+812,2024-03-11,CUST0812,PROD0812,Different,Beauty,WH03,Chaveztown,East Zone,8,981.23,1611.98,25.74,12895.84,Delivered,9,FedEx,Returned,Defective
+813,2024-05-10,CUST0813,PROD0813,Far,Groceries,WH04,Suttonhaven,East Zone,5,2855.16,5198.27,68.31,25991.35,Processing,8,Ecom Express,Returned,Wrong Size
+814,2025-04-30,CUST0814,PROD0814,Thing,Groceries,WH05,West Brian,South Zone,3,3852.3,5682.29,142.37,17046.87,Delivered,10,Blue Dart,Not Returned,
+815,2024-03-21,CUST0815,PROD0815,Girl,Clothing,WH06,Paulabury,North Zone,12,3568.86,7362.93,31.34,88355.16,Processing,5,XpressBees,Returned,Wrong Size
+816,2025-05-17,CUST0816,PROD0816,Next,Toys,WH07,Jesseland,West Zone,13,2079.75,5111.98,39.79,66455.74,Shipped,3,DTDC,Returned,Delivery Damaged
+817,2024-10-30,CUST0817,PROD0817,Recognize,Sports,WH08,Bretthaven,West Zone,2,3261.02,4158.49,124.91,8316.98,Delivered,4,FedEx,Not Returned,
+818,2024-05-28,CUST0818,PROD0818,Young,Groceries,WH09,Amandafurt,Central Zone,10,1253.09,2068.73,160.81,20687.3,Cancelled,12,Ecom Express,Not Returned,
+819,2025-04-18,CUST0819,PROD0819,Seat,Toys,WH10,Port Jacksonmouth,North Zone,4,1895.82,4487.82,182.1,17951.28,Delivered,4,Delhivery,Not Returned,
+820,2025-04-06,CUST0820,PROD0820,Number,Toys,WH01,New Jessica,North Zone,15,3030.52,6672.59,27.87,100088.85,Delivered,11,Ecom Express,Replacement Requested,Exchange Request
+821,2025-04-21,CUST0821,PROD0821,Discussion,Home & Kitchen,WH02,East Maria,South Zone,3,2964.07,6504.89,45.21,19514.67,Delivered,14,FedEx,Returned,Not Needed
+822,2024-12-04,CUST0822,PROD0822,Others,Home & Kitchen,WH03,Leonardchester,North Zone,6,1082.79,1377.44,169.32,8264.64,Delivered,1,XpressBees,Not Returned,
+823,2025-03-09,CUST0823,PROD0823,Affect,Sports,WH04,Markmouth,East Zone,5,4515.17,10807.79,34.22,54038.95,Delivered,13,Ecom Express,Returned,Quality Issue
+824,2024-07-15,CUST0824,PROD0824,Have,Groceries,WH05,Jenniferville,South Zone,19,722.01,1095.92,75.51,20822.48,Delivered,11,Blue Dart,Replacement Requested,Exchange Request
+825,2025-03-02,CUST0825,PROD0825,Game,Home & Kitchen,WH06,Vasquezberg,East Zone,5,2803.7,5834.13,171.27,29170.65,Processing,10,XpressBees,Not Returned,
+826,2024-05-26,CUST0826,PROD0826,Former,Groceries,WH07,Port Christyburgh,Central Zone,18,2392.32,5966.62,66.13,107399.16,Delivered,10,Ecom Express,Replacement Requested,Exchange Request
+827,2025-02-23,CUST0827,PROD0827,Agreement,Electronics,WH08,Royton,East Zone,11,4217.2,9483.17,156.22,104314.87,Delivered,9,Ecom Express,Not Returned,
+828,2024-11-23,CUST0828,PROD0828,Stand,Electronics,WH09,New Emily,West Zone,9,4878.54,10711.16,156.64,96400.44,Cancelled,13,XpressBees,Not Returned,
+829,2024-05-26,CUST0829,PROD0829,Management,Sports,WH10,Port Jake,North Zone,5,1965.68,4708.75,91.46,23543.75,Delivered,5,DTDC,Not Returned,
+830,2024-01-06,CUST0830,PROD0830,About,Electronics,WH01,Scottchester,West Zone,20,2718.27,3456.18,196.54,69123.6,Processing,3,DTDC,Returned,Wrong Size
+831,2025-03-15,CUST0831,PROD0831,Leader,Books,WH02,East Jeannetown,West Zone,2,2086.48,4436.91,68.44,8873.82,Processing,11,FedEx,Not Returned,
+832,2024-08-07,CUST0832,PROD0832,Get,Electronics,WH03,Gonzalezshire,North Zone,4,1911.56,3354.26,24.21,13417.04,Delivered,2,DTDC,Replacement Requested,Exchange Request
+833,2025-02-21,CUST0833,PROD0833,Year,Books,WH04,Hamiltonborough,South Zone,2,2778.11,3864.62,131.09,7729.24,Delivered,4,DTDC,Returned,Wrong Size
+834,2024-01-22,CUST0834,PROD0834,Through,Home & Kitchen,WH05,West Dennisfurt,North Zone,10,4122.35,5502.93,147.13,55029.3,Cancelled,8,DTDC,Not Returned,
+835,2025-05-24,CUST0835,PROD0835,Agreement,Electronics,WH06,Watkinsside,South Zone,19,4171.47,8003.17,140.16,152060.23,Shipped,1,Ecom Express,Replacement Requested,Exchange Request
+836,2024-01-25,CUST0836,PROD0836,Nation,Beauty,WH07,Markfurt,East Zone,7,1232.98,1756.53,143.48,12295.71,Delivered,4,Blue Dart,Not Returned,
+837,2025-02-16,CUST0837,PROD0837,Reduce,Electronics,WH08,Amyborough,North Zone,15,1645.08,3930.11,90.36,58951.65,Delivered,9,Delhivery,Replacement Requested,Exchange Request
+838,2024-06-21,CUST0838,PROD0838,Indeed,Electronics,WH09,North Angelica,Central Zone,17,2351.15,5381.17,81.75,91479.89,Delivered,5,Blue Dart,Not Returned,
+839,2024-10-12,CUST0839,PROD0839,Over,Electronics,WH10,New Joshuaville,East Zone,2,4668.47,7608.41,61.02,15216.82,Delivered,2,Ecom Express,Not Returned,
+840,2024-08-17,CUST0840,PROD0840,Reflect,Books,WH01,Williamton,North Zone,20,4903.92,9391.03,192.19,187820.6,Delivered,6,XpressBees,Not Returned,
+841,2024-07-05,CUST0841,PROD0841,Throughout,Groceries,WH02,East Jeremiah,West Zone,2,1522.4,2138.24,141.67,4276.48,Delivered,13,XpressBees,Not Returned,
+842,2025-01-17,CUST0842,PROD0842,Call,Groceries,WH03,New Raymond,South Zone,18,830.85,1181.08,198.25,21259.44,Processing,9,Blue Dart,Not Returned,
+843,2024-09-03,CUST0843,PROD0843,Never,Books,WH04,Markfort,Central Zone,14,234.7,486.3,186.78,6808.2,Pending,10,Ecom Express,Not Returned,
+844,2024-05-19,CUST0844,PROD0844,Few,Home & Kitchen,WH05,Port Timothy,South Zone,3,809.66,1492.34,194.25,4477.02,Delivered,5,XpressBees,Not Returned,
+845,2024-01-20,CUST0845,PROD0845,Stay,Electronics,WH06,Foxchester,North Zone,4,4208.35,10234.88,33.63,40939.52,Delivered,7,FedEx,Not Returned,
+846,2024-05-28,CUST0846,PROD0846,Side,Toys,WH07,Williamhaven,East Zone,15,3791.76,9270.36,82.4,139055.4,Delivered,4,Delhivery,Not Returned,
+847,2025-01-14,CUST0847,PROD0847,Also,Home & Kitchen,WH08,Dennisberg,South Zone,6,4102.41,5655.42,64.13,33932.52,Processing,5,Delhivery,Not Returned,
+848,2024-03-24,CUST0848,PROD0848,When,Beauty,WH09,Pachecoburgh,Central Zone,12,1259.15,1735.18,179.55,20822.16,Pending,4,Delhivery,Not Returned,
+849,2025-05-06,CUST0849,PROD0849,Within,Clothing,WH10,Whitefort,North Zone,9,516.8,1257.59,17.26,11318.31,Shipped,7,Ecom Express,Not Returned,
+850,2024-08-27,CUST0850,PROD0850,Agreement,Books,WH01,Tannerborough,East Zone,1,2380.13,3815.79,189.26,3815.79,Shipped,14,FedEx,Not Returned,
+851,2025-04-10,CUST0851,PROD0851,Begin,Home & Kitchen,WH02,Lisaland,North Zone,17,2020.59,3506.45,100.93,59609.65,Shipped,10,Ecom Express,Not Returned,
+852,2025-04-14,CUST0852,PROD0852,Hand,Sports,WH03,South Tiffany,East Zone,3,1940.2,4507.86,135.9,13523.58,Shipped,11,FedEx,Replacement Requested,Exchange Request
+853,2024-07-05,CUST0853,PROD0853,Thus,Sports,WH04,Moorestad,East Zone,6,1217.21,1975.26,192.67,11851.56,Shipped,2,FedEx,Returned,Delivery Damaged
+854,2024-02-24,CUST0854,PROD0854,Hard,Beauty,WH05,West Frank,East Zone,16,2449.69,5727.69,49.55,91643.04,Delivered,7,Delhivery,Returned,Quality Issue
+855,2025-03-18,CUST0855,PROD0855,Population,Toys,WH06,East Mary,South Zone,11,1999.41,4289.45,101.74,47183.95,Shipped,4,Delhivery,Not Returned,
+856,2024-06-29,CUST0856,PROD0856,Third,Clothing,WH07,South Courtneyville,Central Zone,20,2883.47,5788.26,55.94,115765.2,Delivered,7,FedEx,Replacement Requested,Exchange Request
+857,2024-12-06,CUST0857,PROD0857,Town,Home & Kitchen,WH08,Ariasbury,South Zone,18,409.64,791.26,97.33,14242.68,Delivered,7,XpressBees,Replacement Requested,Exchange Request
+858,2024-02-16,CUST0858,PROD0858,Use,Electronics,WH09,Jeremyshire,Central Zone,20,1248.51,2146.81,66.15,42936.2,Delivered,13,FedEx,Not Returned,
+859,2024-07-11,CUST0859,PROD0859,Available,Home & Kitchen,WH10,Wallaceport,West Zone,15,2822.42,6719.86,69.8,100797.9,Delivered,10,FedEx,Not Returned,
+860,2025-05-12,CUST0860,PROD0860,Force,Books,WH01,New Matthew,East Zone,3,200.31,489.71,49.63,1469.13,Delivered,5,Ecom Express,Not Returned,
+861,2024-02-28,CUST0861,PROD0861,Purpose,Books,WH02,Lauraland,South Zone,16,63.68,125.31,128.41,2004.96,Processing,14,Blue Dart,Not Returned,
+862,2024-05-19,CUST0862,PROD0862,World,Books,WH03,Rebeccaside,East Zone,7,1109.39,1883.46,54.93,13184.22,Shipped,14,XpressBees,Replacement Requested,Exchange Request
+863,2024-07-27,CUST0863,PROD0863,If,Books,WH04,Port Lawrence,North Zone,11,291.28,462.74,125.32,5090.14,Delivered,10,Ecom Express,Returned,Wrong Size
+864,2024-08-11,CUST0864,PROD0864,Hot,Beauty,WH05,Christophershire,East Zone,9,1985.67,3217.0,196.51,28953.0,Delivered,3,Blue Dart,Not Returned,
+865,2025-05-01,CUST0865,PROD0865,Traditional,Groceries,WH06,New Morgan,East Zone,6,4056.89,10072.41,55.39,60434.46,Delivered,8,Delhivery,Not Returned,
+866,2025-01-11,CUST0866,PROD0866,Around,Toys,WH07,Port Charlesburgh,North Zone,19,4235.32,5727.35,46.59,108819.65,Delivered,3,Blue Dart,Not Returned,
+867,2025-03-18,CUST0867,PROD0867,Inside,Home & Kitchen,WH08,New Brandon,East Zone,16,2455.23,3437.39,182.61,54998.24,Cancelled,7,XpressBees,Not Returned,
+868,2024-07-31,CUST0868,PROD0868,Us,Groceries,WH09,South Dylanview,Central Zone,2,2350.67,3813.79,136.79,7627.58,Shipped,12,XpressBees,Not Returned,
+869,2024-01-07,CUST0869,PROD0869,Matter,Books,WH10,Port Josephshire,East Zone,18,2910.83,5449.41,43.9,98089.38,Delivered,11,DTDC,Replacement Requested,Exchange Request
+870,2025-04-18,CUST0870,PROD0870,Study,Sports,WH01,South Andreaside,North Zone,9,3556.51,4525.6,164.23,40730.4,Delivered,6,XpressBees,Not Returned,
+871,2024-01-31,CUST0871,PROD0871,Big,Groceries,WH02,Johnsonbury,North Zone,13,1730.08,3473.27,57.32,45152.51,Cancelled,11,XpressBees,Not Returned,
+872,2025-01-18,CUST0872,PROD0872,Day,Beauty,WH03,North Josephbury,Central Zone,11,4927.37,8086.61,11.86,88952.71,Delivered,7,Blue Dart,Not Returned,
+873,2024-01-21,CUST0873,PROD0873,Pm,Home & Kitchen,WH04,Shepherdhaven,Central Zone,7,2688.52,3893.77,111.26,27256.39,Delivered,5,Blue Dart,Replacement Requested,Exchange Request
+874,2025-01-15,CUST0874,PROD0874,Majority,Beauty,WH05,Lake Randyfort,Central Zone,12,3811.34,9513.13,153.79,114157.56,Shipped,13,Ecom Express,Not Returned,
+875,2024-06-24,CUST0875,PROD0875,Security,Sports,WH06,New Ericamouth,South Zone,16,1126.06,2422.33,47.12,38757.28,Shipped,7,XpressBees,Not Returned,
+876,2024-11-10,CUST0876,PROD0876,Artist,Beauty,WH07,Markfort,South Zone,18,4415.18,8586.26,195.6,154552.68,Delivered,3,Delhivery,Not Returned,
+877,2024-07-03,CUST0877,PROD0877,Good,Groceries,WH08,Andersonstad,Central Zone,6,4515.03,10248.85,42.27,61493.1,Delivered,8,DTDC,Not Returned,
+878,2024-10-27,CUST0878,PROD0878,Garden,Sports,WH09,Port Steven,West Zone,15,807.22,1454.27,174.31,21814.05,Delivered,7,DTDC,Not Returned,
+879,2024-11-28,CUST0879,PROD0879,Simply,Books,WH10,North Robertfurt,North Zone,18,3915.95,5797.98,184.19,104363.64,Delivered,13,Delhivery,Not Returned,
+880,2025-05-22,CUST0880,PROD0880,Fact,Electronics,WH01,Port Nicole,West Zone,16,1467.43,2700.08,84.24,43201.28,Delivered,2,FedEx,Not Returned,
+881,2024-04-30,CUST0881,PROD0881,Miss,Sports,WH02,Jonesstad,Central Zone,2,4492.58,8375.12,128.02,16750.24,Delivered,9,Delhivery,Returned,Defective
+882,2025-05-27,CUST0882,PROD0882,Rock,Sports,WH03,Christopherton,Central Zone,6,759.46,1689.88,15.12,10139.28,Delivered,5,Blue Dart,Not Returned,
+883,2024-05-22,CUST0883,PROD0883,Less,Beauty,WH04,North Ashleystad,East Zone,9,234.96,364.08,186.16,3276.72,Delivered,1,XpressBees,Replacement Requested,Exchange Request
+884,2025-06-04,CUST0884,PROD0884,Edge,Beauty,WH05,Markmouth,East Zone,1,3356.01,4626.4,10.72,4626.4,Delivered,8,Delhivery,Not Returned,
+885,2024-10-20,CUST0885,PROD0885,Stage,Toys,WH06,Hollyberg,South Zone,1,1297.97,1617.37,23.13,1617.37,Delivered,1,Delhivery,Returned,Delivery Damaged
+886,2025-06-02,CUST0886,PROD0886,Store,Groceries,WH07,Lake Jesus,Central Zone,7,4926.33,9605.84,197.98,67240.88,Processing,11,Blue Dart,Not Returned,
+887,2025-01-22,CUST0887,PROD0887,Decade,Electronics,WH08,Ramosport,North Zone,6,1136.47,2261.28,167.57,13567.68,Shipped,13,FedEx,Not Returned,
+888,2024-11-23,CUST0888,PROD0888,Point,Groceries,WH09,Port Christopher,North Zone,14,499.38,679.78,16.57,9516.92,Shipped,3,FedEx,Not Returned,
+889,2024-04-19,CUST0889,PROD0889,Decade,Clothing,WH10,East Steventown,West Zone,4,1960.17,2992.72,177.79,11970.88,Delivered,5,Delhivery,Not Returned,
+890,2025-01-25,CUST0890,PROD0890,Here,Electronics,WH01,Lake Devinville,South Zone,6,4412.02,10915.56,39.35,65493.36,Shipped,3,DTDC,Not Returned,
+891,2025-02-22,CUST0891,PROD0891,Region,Sports,WH02,Andersonshire,Central Zone,15,1947.07,2728.73,94.44,40930.95,Delivered,7,FedEx,Not Returned,
+892,2024-04-02,CUST0892,PROD0892,Training,Beauty,WH03,Shawmouth,West Zone,4,1151.9,2023.42,93.28,8093.68,Processing,1,XpressBees,Replacement Requested,Exchange Request
+893,2024-07-19,CUST0893,PROD0893,Past,Sports,WH04,East Brooke,East Zone,7,434.59,900.39,114.57,6302.73,Shipped,9,FedEx,Returned,Delivery Damaged
+894,2025-03-31,CUST0894,PROD0894,Price,Clothing,WH05,Dustinside,South Zone,15,4111.64,5366.62,112.46,80499.3,Delivered,14,Blue Dart,Not Returned,
+895,2025-06-14,CUST0895,PROD0895,Better,Home & Kitchen,WH06,Charlesmouth,South Zone,4,3009.01,6474.93,157.56,25899.72,Shipped,14,FedEx,Not Returned,
+896,2024-07-09,CUST0896,PROD0896,Who,Toys,WH07,Valentinetown,Central Zone,13,2550.04,3964.79,42.18,51542.27,Delivered,2,FedEx,Replacement Requested,Exchange Request
+897,2024-03-11,CUST0897,PROD0897,Natural,Books,WH08,Benjaminville,South Zone,6,760.77,1689.76,33.5,10138.56,Shipped,6,DTDC,Not Returned,
+898,2024-03-01,CUST0898,PROD0898,Single,Clothing,WH09,West Samantha,East Zone,1,3976.5,5055.62,118.86,5055.62,Delivered,4,Blue Dart,Not Returned,
+899,2024-01-20,CUST0899,PROD0899,Its,Beauty,WH10,New Michelleside,East Zone,11,4923.38,8985.73,75.27,98843.03,Delivered,2,FedEx,Returned,Delivery Damaged
+900,2024-04-03,CUST0900,PROD0900,Happy,Sports,WH01,Davisbury,East Zone,16,642.65,1338.86,120.04,21421.76,Delivered,12,Ecom Express,Replacement Requested,Exchange Request
+901,2025-06-03,CUST0901,PROD0901,Father,Beauty,WH02,Bergerport,Central Zone,11,900.73,2042.28,181.65,22465.08,Shipped,12,Delhivery,Returned,Wrong Size
+902,2024-07-15,CUST0902,PROD0902,Modern,Books,WH03,New Jennifermouth,North Zone,8,1822.22,3240.91,39.18,25927.28,Processing,8,Delhivery,Replacement Requested,Exchange Request
+903,2024-07-16,CUST0903,PROD0903,Suggest,Groceries,WH04,East Cynthiamouth,South Zone,19,4269.8,5492.63,175.41,104359.97,Cancelled,2,XpressBees,Returned,Not Needed
+904,2025-04-13,CUST0904,PROD0904,Concern,Home & Kitchen,WH05,Port Luis,West Zone,9,2904.85,5154.0,131.56,46386.0,Delivered,11,XpressBees,Replacement Requested,Exchange Request
+905,2024-03-26,CUST0905,PROD0905,American,Groceries,WH06,Lucasmouth,West Zone,13,840.0,2087.03,84.23,27131.39,Delivered,4,Blue Dart,Not Returned,
+906,2025-05-08,CUST0906,PROD0906,White,Books,WH07,Rosemouth,North Zone,16,3660.02,6922.65,167.49,110762.4,Delivered,5,Blue Dart,Replacement Requested,Exchange Request
+907,2025-03-20,CUST0907,PROD0907,Material,Sports,WH08,South Erinside,North Zone,17,3553.22,8029.4,15.14,136499.8,Shipped,7,XpressBees,Returned,Delivery Damaged
+908,2025-01-10,CUST0908,PROD0908,Approach,Books,WH09,North Jeffreyville,East Zone,4,2357.12,5810.82,157.96,23243.28,Delivered,3,Ecom Express,Returned,Not Needed
+909,2025-01-14,CUST0909,PROD0909,Statement,Books,WH10,Santiagoburgh,West Zone,15,2761.5,5943.63,190.77,89154.45,Shipped,11,Ecom Express,Not Returned,
+910,2025-03-09,CUST0910,PROD0910,Economy,Home & Kitchen,WH01,Matthewville,North Zone,19,3463.64,7610.62,104.98,144601.78,Delivered,8,Ecom Express,Replacement Requested,Exchange Request
+911,2025-01-26,CUST0911,PROD0911,Moment,Toys,WH02,Thorntonshire,East Zone,19,2718.49,4183.23,27.77,79481.37,Delivered,3,XpressBees,Not Returned,
+912,2024-11-24,CUST0912,PROD0912,At,Books,WH03,North Glennchester,South Zone,12,1050.36,1682.12,35.35,20185.44,Cancelled,6,Ecom Express,Not Returned,
+913,2024-04-19,CUST0913,PROD0913,Question,Books,WH04,East Brianton,West Zone,14,1558.01,2104.89,35.14,29468.46,Cancelled,14,Blue Dart,Replacement Requested,Exchange Request
+914,2024-10-08,CUST0914,PROD0914,Back,Books,WH05,Barbarahaven,East Zone,11,4295.92,9239.54,100.94,101634.94,Shipped,4,DTDC,Not Returned,
+915,2024-06-30,CUST0915,PROD0915,Common,Electronics,WH06,Ramirezmouth,South Zone,11,3022.47,3790.64,196.1,41697.04,Delivered,1,Delhivery,Not Returned,
+916,2024-04-04,CUST0916,PROD0916,Draw,Toys,WH07,South Karen,North Zone,7,4813.82,8458.81,42.3,59211.67,Pending,7,DTDC,Not Returned,
+917,2024-08-29,CUST0917,PROD0917,Himself,Sports,WH08,Bernardborough,East Zone,14,4318.03,9047.28,160.47,126661.92,Cancelled,5,Delhivery,Not Returned,
+918,2024-09-18,CUST0918,PROD0918,Research,Home & Kitchen,WH09,New Anthony,East Zone,17,4730.27,10221.45,78.07,173764.65,Delivered,8,XpressBees,Not Returned,
+919,2024-02-11,CUST0919,PROD0919,Away,Toys,WH10,Richardberg,East Zone,10,1578.83,2843.69,63.04,28436.9,Delivered,11,DTDC,Replacement Requested,Exchange Request
+920,2024-03-06,CUST0920,PROD0920,Left,Beauty,WH01,Johnsonland,Central Zone,5,501.46,712.09,127.02,3560.45,Cancelled,8,Ecom Express,Returned,Defective
+921,2025-01-08,CUST0921,PROD0921,Share,Home & Kitchen,WH02,South Nicholetown,East Zone,18,204.57,362.85,166.32,6531.3,Delivered,6,Delhivery,Not Returned,
+922,2024-05-31,CUST0922,PROD0922,Become,Books,WH03,Port Jerryshire,West Zone,18,797.4,1762.0,10.48,31716.0,Delivered,2,XpressBees,Returned,Delivery Damaged
+923,2024-06-15,CUST0923,PROD0923,Reason,Electronics,WH04,Kathleenview,South Zone,4,260.81,464.36,27.79,1857.44,Cancelled,4,Blue Dart,Not Returned,
+924,2025-02-28,CUST0924,PROD0924,Green,Electronics,WH05,Aliciastad,North Zone,10,2025.6,4753.41,26.41,47534.1,Shipped,12,FedEx,Not Returned,
+925,2024-05-10,CUST0925,PROD0925,Toward,Home & Kitchen,WH06,Williamborough,Central Zone,4,4967.06,8332.93,45.22,33331.72,Delivered,4,FedEx,Returned,Quality Issue
+926,2024-02-26,CUST0926,PROD0926,President,Groceries,WH07,Courtneyshire,North Zone,15,3561.59,6841.54,115.27,102623.1,Delivered,14,DTDC,Not Returned,
+927,2025-05-26,CUST0927,PROD0927,Culture,Groceries,WH08,Port Emilytown,East Zone,7,4377.93,8680.08,147.07,60760.56,Delivered,12,Ecom Express,Returned,Not Needed
+928,2024-12-11,CUST0928,PROD0928,Also,Clothing,WH09,East Jeffery,North Zone,18,1966.9,3849.26,170.99,69286.68,Shipped,7,XpressBees,Not Returned,
+929,2024-06-28,CUST0929,PROD0929,Their,Groceries,WH10,West Michaelview,South Zone,2,262.92,365.9,25.33,731.8,Cancelled,6,Delhivery,Returned,Delivery Damaged
+930,2024-08-08,CUST0930,PROD0930,Gas,Groceries,WH01,Jimenezmouth,West Zone,2,1036.62,2548.05,134.63,5096.1,Delivered,10,Delhivery,Replacement Requested,Exchange Request
+931,2024-05-17,CUST0931,PROD0931,Offer,Toys,WH02,Lake Tinabury,East Zone,17,3390.63,7591.42,123.58,129054.14,Cancelled,2,Blue Dart,Not Returned,
+932,2024-10-28,CUST0932,PROD0932,That,Groceries,WH03,Cameronshire,West Zone,8,3652.14,5954.4,33.12,47635.2,Delivered,3,Delhivery,Not Returned,
+933,2025-06-03,CUST0933,PROD0933,Music,Home & Kitchen,WH04,New Christina,North Zone,3,1647.2,3221.25,189.85,9663.75,Shipped,12,Ecom Express,Not Returned,
+934,2025-02-26,CUST0934,PROD0934,Those,Books,WH05,West Thomas,South Zone,14,646.36,1534.86,158.38,21488.04,Shipped,11,Blue Dart,Returned,Defective
+935,2025-06-20,CUST0935,PROD0935,Everything,Electronics,WH06,Morganberg,Central Zone,3,918.98,1249.55,22.44,3748.65,Shipped,2,Blue Dart,Not Returned,
+936,2025-04-02,CUST0936,PROD0936,Message,Groceries,WH07,West Angelatown,West Zone,2,1754.15,2456.19,166.46,4912.38,Delivered,1,FedEx,Returned,Not Needed
+937,2025-02-19,CUST0937,PROD0937,Find,Beauty,WH08,Carolynfort,East Zone,7,60.4,140.36,166.54,982.52,Delivered,13,Ecom Express,Not Returned,
+938,2025-02-23,CUST0938,PROD0938,Hospital,Home & Kitchen,WH09,Pamelaview,Central Zone,4,3588.76,5301.7,81.33,21206.8,Shipped,11,XpressBees,Not Returned,
+939,2025-01-06,CUST0939,PROD0939,Ability,Books,WH10,Port Samanthafort,East Zone,6,2957.51,6737.37,36.34,40424.22,Cancelled,5,XpressBees,Not Returned,
+940,2024-03-22,CUST0940,PROD0940,Simple,Sports,WH01,Lake Juanside,East Zone,6,2382.57,5718.46,78.88,34310.76,Delivered,2,Blue Dart,Not Returned,
+941,2024-03-05,CUST0941,PROD0941,Mrs,Toys,WH02,Ariasville,Central Zone,14,1384.61,3273.7,31.86,45831.8,Delivered,9,Blue Dart,Not Returned,
+942,2025-05-04,CUST0942,PROD0942,Shoulder,Groceries,WH03,Lake Curtisport,South Zone,17,1020.35,2263.19,175.2,38474.23,Delivered,4,FedEx,Not Returned,
+943,2024-09-28,CUST0943,PROD0943,Although,Clothing,WH04,South Cody,South Zone,12,4545.74,10665.4,179.48,127984.8,Delivered,1,Delhivery,Returned,Quality Issue
+944,2024-03-15,CUST0944,PROD0944,Statement,Toys,WH05,Virginiaville,East Zone,9,1516.58,2091.98,149.33,18827.82,Processing,12,XpressBees,Not Returned,
+945,2024-06-07,CUST0945,PROD0945,Education,Beauty,WH06,Lake Holly,West Zone,13,3475.24,8203.73,96.57,106648.49,Delivered,10,DTDC,Not Returned,
+946,2025-03-13,CUST0946,PROD0946,Down,Books,WH07,New Brianburgh,Central Zone,18,3537.98,8668.29,25.76,156029.22,Delivered,14,DTDC,Not Returned,
+947,2025-02-09,CUST0947,PROD0947,Read,Clothing,WH08,Paulchester,West Zone,5,1958.14,2773.51,37.23,13867.55,Shipped,6,Blue Dart,Not Returned,
+948,2025-04-04,CUST0948,PROD0948,Enjoy,Home & Kitchen,WH09,Romeromouth,North Zone,8,4759.09,9987.32,176.26,79898.56,Shipped,1,XpressBees,Not Returned,
+949,2024-07-13,CUST0949,PROD0949,Service,Sports,WH10,North Dianestad,Central Zone,19,4816.14,7253.27,90.64,137812.13,Delivered,7,DTDC,Returned,Not Needed
+950,2024-08-27,CUST0950,PROD0950,Guy,Beauty,WH01,East Stephanieburgh,West Zone,13,3991.83,5447.64,160.75,70819.32,Delivered,1,XpressBees,Not Returned,
+951,2025-05-05,CUST0951,PROD0951,Look,Electronics,WH02,Christianburgh,West Zone,15,493.1,735.42,139.25,11031.3,Shipped,10,DTDC,Not Returned,
+952,2024-12-16,CUST0952,PROD0952,Evening,Books,WH03,Lake Danielport,East Zone,17,4672.15,8433.27,58.4,143365.59,Processing,11,Blue Dart,Returned,Not Needed
+953,2025-04-23,CUST0953,PROD0953,Sign,Clothing,WH04,New Joseph,South Zone,14,4606.78,6798.74,56.47,95182.36,Delivered,8,DTDC,Not Returned,
+954,2024-06-17,CUST0954,PROD0954,Back,Clothing,WH05,Campbellbury,South Zone,1,2817.73,4470.79,141.03,4470.79,Shipped,5,XpressBees,Returned,Wrong Size
+955,2025-06-19,CUST0955,PROD0955,Money,Sports,WH06,New Michael,West Zone,15,1438.9,2693.71,160.28,40405.65,Shipped,7,Blue Dart,Returned,Delivery Damaged
+956,2024-05-17,CUST0956,PROD0956,Structure,Groceries,WH07,Markberg,North Zone,14,1191.95,2714.89,47.14,38008.46,Delivered,6,Blue Dart,Returned,Wrong Size
+957,2024-12-17,CUST0957,PROD0957,Term,Books,WH08,North David,West Zone,12,3706.38,9228.42,178.89,110741.04,Delivered,6,Delhivery,Not Returned,
+958,2024-07-11,CUST0958,PROD0958,Those,Beauty,WH09,Martinezville,Central Zone,7,746.5,1842.16,156.94,12895.12,Delivered,7,Ecom Express,Not Returned,
+959,2024-05-23,CUST0959,PROD0959,Job,Toys,WH10,Andrewfort,North Zone,18,759.32,1487.51,116.54,26775.18,Delivered,10,Delhivery,Replacement Requested,Exchange Request
+960,2024-02-01,CUST0960,PROD0960,Meeting,Books,WH01,West Luis,East Zone,10,4391.16,6069.15,87.91,60691.5,Delivered,12,Ecom Express,Not Returned,
+961,2025-02-27,CUST0961,PROD0961,And,Toys,WH02,New Dwayne,South Zone,7,635.57,1294.94,132.12,9064.58,Shipped,7,Delhivery,Replacement Requested,Exchange Request
+962,2025-02-28,CUST0962,PROD0962,Toward,Sports,WH03,East Matthew,North Zone,19,2850.55,5892.85,172.19,111964.15,Pending,9,DTDC,Returned,Defective
+963,2024-03-26,CUST0963,PROD0963,Exist,Toys,WH04,Lake Robertohaven,South Zone,4,689.45,1635.03,161.16,6540.12,Delivered,5,Delhivery,Returned,Wrong Size
+964,2025-02-25,CUST0964,PROD0964,Though,Toys,WH05,Alexandramouth,North Zone,14,2982.43,3676.54,56.08,51471.56,Shipped,2,Ecom Express,Replacement Requested,Exchange Request
+965,2024-09-08,CUST0965,PROD0965,History,Toys,WH06,Rodgersshire,Central Zone,4,2091.43,3485.89,36.26,13943.56,Cancelled,14,XpressBees,Returned,Wrong Size
+966,2025-03-08,CUST0966,PROD0966,Activity,Groceries,WH07,North Erinshire,South Zone,8,2583.14,4693.19,30.44,37545.52,Delivered,2,DTDC,Replacement Requested,Exchange Request
+967,2025-04-06,CUST0967,PROD0967,Her,Clothing,WH08,Allenborough,South Zone,6,2925.33,4622.74,131.22,27736.44,Delivered,7,Delhivery,Not Returned,
+968,2024-12-16,CUST0968,PROD0968,Lose,Home & Kitchen,WH09,West Nathan,North Zone,17,4121.89,9340.21,18.3,158783.57,Delivered,11,Ecom Express,Not Returned,
+969,2024-01-16,CUST0969,PROD0969,Evening,Toys,WH10,Jenniferside,North Zone,5,1480.07,2493.8,68.94,12469.0,Delivered,4,XpressBees,Not Returned,
+970,2024-05-20,CUST0970,PROD0970,Us,Toys,WH01,Williamshire,East Zone,7,4537.32,8738.39,40.55,61168.73,Shipped,2,Blue Dart,Replacement Requested,Exchange Request
+971,2024-05-17,CUST0971,PROD0971,Entire,Books,WH02,East Robertfurt,West Zone,13,2453.3,4781.67,172.07,62161.71,Delivered,13,Ecom Express,Replacement Requested,Exchange Request
+972,2025-04-27,CUST0972,PROD0972,Walk,Beauty,WH03,Bradleymouth,South Zone,14,3173.67,5126.9,93.79,71776.6,Shipped,14,Blue Dart,Replacement Requested,Exchange Request
+973,2024-10-06,CUST0973,PROD0973,Want,Sports,WH04,Wilsonbury,East Zone,12,4699.78,10207.54,183.05,122490.48,Delivered,5,Ecom Express,Not Returned,
+974,2025-05-11,CUST0974,PROD0974,Fact,Groceries,WH05,Port Stevenshire,North Zone,12,1512.05,3754.03,57.36,45048.36,Delivered,4,Delhivery,Not Returned,
+975,2024-08-21,CUST0975,PROD0975,Member,Toys,WH06,Port Nicole,Central Zone,5,461.81,607.34,110.9,3036.7,Delivered,11,Ecom Express,Returned,Wrong Size
+976,2024-12-17,CUST0976,PROD0976,Long,Toys,WH07,New Emily,South Zone,13,4022.3,4992.2,105.81,64898.6,Pending,3,FedEx,Not Returned,
+977,2024-07-17,CUST0977,PROD0977,Respond,Toys,WH08,Torreston,South Zone,11,3666.56,6561.1,20.31,72172.1,Delivered,7,Delhivery,Replacement Requested,Exchange Request
+978,2024-10-01,CUST0978,PROD0978,Ability,Home & Kitchen,WH09,Desireechester,South Zone,20,4758.34,7403.22,117.66,148064.4,Delivered,3,XpressBees,Returned,Defective
+979,2025-03-17,CUST0979,PROD0979,Station,Toys,WH10,East Adam,South Zone,9,2519.51,4997.48,152.5,44977.32,Shipped,14,DTDC,Not Returned,
+980,2024-12-04,CUST0980,PROD0980,Resource,Home & Kitchen,WH01,Lake Michelle,South Zone,20,2168.97,4780.29,130.06,95605.8,Delivered,11,Blue Dart,Not Returned,
+981,2024-12-01,CUST0981,PROD0981,Animal,Home & Kitchen,WH02,Crosbychester,West Zone,6,3166.26,4119.33,84.28,24715.98,Delivered,5,Blue Dart,Returned,Wrong Size
+982,2025-01-14,CUST0982,PROD0982,Sign,Beauty,WH03,Richardmouth,South Zone,3,3706.63,6229.3,13.92,18687.9,Delivered,14,DTDC,Returned,Wrong Size
+983,2024-07-28,CUST0983,PROD0983,Action,Groceries,WH04,Port Nicholas,East Zone,2,3698.81,7879.49,175.59,15758.98,Delivered,9,XpressBees,Not Returned,
+984,2024-05-12,CUST0984,PROD0984,Wall,Beauty,WH05,Elizabethtown,South Zone,18,1674.68,2970.98,98.66,53477.64,Delivered,5,XpressBees,Not Returned,
+985,2024-05-17,CUST0985,PROD0985,Everyone,Toys,WH06,Booneville,Central Zone,14,1407.71,2832.72,136.22,39658.08,Pending,3,Blue Dart,Not Returned,
+986,2025-03-20,CUST0986,PROD0986,Magazine,Electronics,WH07,South Joseph,Central Zone,3,4108.38,6087.66,69.3,18262.98,Cancelled,11,DTDC,Returned,Quality Issue
+987,2024-08-25,CUST0987,PROD0987,Affect,Electronics,WH08,Morrowtown,Central Zone,17,4726.85,11143.93,34.53,189446.81,Cancelled,2,FedEx,Not Returned,
+988,2024-09-27,CUST0988,PROD0988,Gas,Sports,WH09,West Jasonview,South Zone,8,2818.73,5636.21,76.88,45089.68,Shipped,4,DTDC,Not Returned,
+989,2024-10-13,CUST0989,PROD0989,Bed,Sports,WH10,Byrdland,North Zone,6,2535.29,6039.43,108.18,36236.58,Processing,5,Blue Dart,Not Returned,
+990,2024-04-09,CUST0990,PROD0990,Point,Groceries,WH01,Charlesmouth,North Zone,1,78.46,112.67,67.1,112.67,Delivered,9,XpressBees,Not Returned,
+991,2024-12-06,CUST0991,PROD0991,Force,Toys,WH02,North Andrew,South Zone,8,491.69,851.15,16.97,6809.2,Processing,9,XpressBees,Not Returned,
+992,2024-02-27,CUST0992,PROD0992,Near,Electronics,WH03,Myersland,Central Zone,7,2112.01,3832.03,162.97,26824.21,Delivered,7,FedEx,Returned,Defective
+993,2024-09-25,CUST0993,PROD0993,Church,Electronics,WH04,South Jamesland,West Zone,17,1692.78,2661.68,153.99,45248.56,Processing,5,Delhivery,Replacement Requested,Exchange Request
+994,2024-08-31,CUST0994,PROD0994,Attorney,Clothing,WH05,Julieport,East Zone,15,727.32,1499.94,110.75,22499.1,Pending,5,Ecom Express,Not Returned,
+995,2024-01-13,CUST0995,PROD0995,Area,Electronics,WH06,Brownshire,South Zone,19,2551.08,4808.08,71.44,91353.52,Delivered,7,DTDC,Not Returned,
+996,2025-01-04,CUST0996,PROD0996,Mrs,Beauty,WH07,West Hector,North Zone,15,1261.07,1802.73,139.49,27040.95,Delivered,10,Ecom Express,Not Returned,
+997,2025-02-18,CUST0997,PROD0997,Send,Clothing,WH08,North Anthonychester,South Zone,6,699.32,1733.21,189.48,10399.26,Shipped,11,DTDC,Not Returned,
+998,2025-05-08,CUST0998,PROD0998,Even,Home & Kitchen,WH09,West Yvonne,South Zone,2,2861.58,4624.08,92.51,9248.16,Shipped,14,FedEx,Returned,Defective
+999,2024-12-09,CUST0999,PROD0999,Run,Toys,WH10,New Aprilbury,Central Zone,14,794.21,1546.47,121.79,21650.58,Processing,11,Delhivery,Replacement Requested,Exchange Request
+1000,2024-02-08,CUST1000,PROD1000,But,Electronics,WH01,New Jonathanfurt,North Zone,4,3216.45,6214.22,46.36,24856.88,Delivered,4,DTDC,Not Returned,
+1001,2025-04-07,CUST1001,PROD1001,Boy,Beauty,WH02,Lake Troy,East Zone,13,4698.15,10426.66,66.23,135546.58,Shipped,9,Blue Dart,Not Returned,
+1002,2024-05-30,CUST1002,PROD1002,Second,Clothing,WH03,Hallberg,East Zone,19,2210.5,3742.13,103.63,71100.47,Shipped,9,XpressBees,Not Returned,
+1003,2024-03-26,CUST1003,PROD1003,Question,Sports,WH04,Hawkinsburgh,East Zone,1,2188.96,4722.74,38.69,4722.74,Delivered,12,DTDC,Not Returned,
+1004,2025-05-15,CUST1004,PROD1004,Federal,Groceries,WH05,Port Suzanne,South Zone,12,4834.88,7778.23,140.85,93338.76,Delivered,2,XpressBees,Returned,Wrong Size
+1005,2024-05-31,CUST1005,PROD1005,Recently,Home & Kitchen,WH06,Reidfurt,South Zone,11,607.02,1019.4,49.36,11213.4,Shipped,4,Delhivery,Not Returned,
+1006,2024-05-22,CUST1006,PROD1006,Score,Sports,WH07,North Jason,South Zone,7,2041.43,4894.53,46.49,34261.71,Delivered,4,FedEx,Not Returned,
+1007,2024-02-26,CUST1007,PROD1007,Morning,Clothing,WH08,West Edwardland,North Zone,8,2996.08,3732.86,178.78,29862.88,Cancelled,9,DTDC,Not Returned,
+1008,2025-04-14,CUST1008,PROD1008,Than,Sports,WH09,New Dianefort,North Zone,11,688.54,947.11,72.09,10418.21,Delivered,13,DTDC,Not Returned,
+1009,2024-12-01,CUST1009,PROD1009,Ok,Electronics,WH10,Parrishburgh,South Zone,14,364.12,483.22,189.01,6765.08,Delivered,8,XpressBees,Replacement Requested,Exchange Request
+1010,2024-05-08,CUST1010,PROD1010,Management,Groceries,WH01,New Tammyborough,East Zone,5,4006.1,6625.15,54.35,33125.75,Shipped,5,DTDC,Not Returned,
+1011,2025-04-06,CUST1011,PROD1011,Standard,Beauty,WH02,Douglaston,Central Zone,6,2670.61,6290.56,145.55,37743.36,Shipped,12,FedEx,Not Returned,
+1012,2025-02-27,CUST1012,PROD1012,Place,Home & Kitchen,WH03,Marymouth,West Zone,10,222.76,524.36,22.57,5243.6,Delivered,2,Blue Dart,Replacement Requested,Exchange Request
+1013,2024-11-03,CUST1013,PROD1013,Weight,Home & Kitchen,WH04,West Sarah,East Zone,3,2647.89,4990.54,154.9,14971.62,Delivered,2,DTDC,Not Returned,
+1014,2024-06-09,CUST1014,PROD1014,Modern,Sports,WH05,Kyleton,North Zone,3,3597.03,7583.35,50.72,22750.05,Delivered,14,Delhivery,Not Returned,
+1015,2024-01-12,CUST1015,PROD1015,Example,Toys,WH06,New Ericmouth,Central Zone,10,3519.18,8452.12,71.75,84521.2,Processing,8,FedEx,Replacement Requested,Exchange Request
+1016,2024-08-04,CUST1016,PROD1016,Major,Sports,WH07,Brianland,North Zone,14,4125.47,9718.52,176.02,136059.28,Delivered,7,XpressBees,Replacement Requested,Exchange Request
+1017,2025-06-04,CUST1017,PROD1017,Paper,Electronics,WH08,Kimberlystad,West Zone,10,4699.63,7576.36,39.82,75763.6,Delivered,1,FedEx,Returned,Not Needed
+1018,2024-01-14,CUST1018,PROD1018,Actually,Clothing,WH09,Douglaston,East Zone,16,4256.13,5271.26,60.16,84340.16,Delivered,2,Ecom Express,Not Returned,
+1019,2024-01-30,CUST1019,PROD1019,Bad,Toys,WH10,Adamsfort,Central Zone,17,2415.65,3471.2,193.03,59010.4,Delivered,12,DTDC,Replacement Requested,Exchange Request
+1020,2024-03-24,CUST1020,PROD1020,Glass,Toys,WH01,Clarkberg,West Zone,13,1756.79,2635.78,24.84,34265.14,Delivered,7,FedEx,Returned,Not Needed
+1021,2024-04-28,CUST1021,PROD1021,Want,Home & Kitchen,WH02,North Deborahmouth,East Zone,6,2937.15,5825.34,67.79,34952.04,Shipped,12,Delhivery,Not Returned,
+1022,2024-03-19,CUST1022,PROD1022,Close,Home & Kitchen,WH03,Ramirezberg,South Zone,9,4756.45,10456.33,33.08,94106.97,Shipped,9,Blue Dart,Not Returned,
+1023,2024-07-05,CUST1023,PROD1023,Through,Home & Kitchen,WH04,Port Jonathan,South Zone,17,3409.17,7824.6,25.82,133018.2,Processing,11,Ecom Express,Not Returned,
+1024,2024-08-12,CUST1024,PROD1024,View,Books,WH05,North Andrea,East Zone,19,3150.39,5779.95,120.31,109819.05,Processing,2,Ecom Express,Not Returned,
+1025,2024-04-15,CUST1025,PROD1025,East,Toys,WH06,East Ronald,East Zone,15,4728.88,8155.9,175.3,122338.5,Delivered,14,Delhivery,Replacement Requested,Exchange Request
+1026,2025-01-30,CUST1026,PROD1026,Share,Home & Kitchen,WH07,South Tristanland,North Zone,11,928.53,2268.33,17.05,24951.63,Delivered,13,Blue Dart,Replacement Requested,Exchange Request
+1027,2025-01-28,CUST1027,PROD1027,Law,Electronics,WH08,New Johnnyberg,Central Zone,8,1542.09,3814.17,60.1,30513.36,Delivered,1,XpressBees,Returned,Not Needed
+1028,2024-07-28,CUST1028,PROD1028,Center,Beauty,WH09,Lake Robert,South Zone,12,2408.77,5818.29,194.68,69819.48,Shipped,14,XpressBees,Replacement Requested,Exchange Request
+1029,2024-03-19,CUST1029,PROD1029,Out,Groceries,WH10,West Kyle,East Zone,5,2188.6,2956.87,110.64,14784.35,Delivered,7,DTDC,Not Returned,
+1030,2024-01-11,CUST1030,PROD1030,Same,Groceries,WH01,Lake Jennymouth,Central Zone,6,4074.81,9735.13,88.0,58410.78,Shipped,13,Ecom Express,Not Returned,
+1031,2025-02-14,CUST1031,PROD1031,Fire,Clothing,WH02,Lake Timothy,South Zone,15,4767.22,10178.71,37.77,152680.65,Delivered,11,DTDC,Not Returned,
+1032,2024-04-13,CUST1032,PROD1032,Offer,Beauty,WH03,Lake Philipbury,South Zone,4,526.19,650.84,67.37,2603.36,Shipped,8,Blue Dart,Returned,Defective
+1033,2024-11-23,CUST1033,PROD1033,Explain,Books,WH04,East Anthonyburgh,Central Zone,16,2338.12,5097.13,76.03,81554.08,Delivered,9,XpressBees,Replacement Requested,Exchange Request
+1034,2024-02-03,CUST1034,PROD1034,Discover,Toys,WH05,Whiteshire,Central Zone,8,2208.01,4886.84,74.25,39094.72,Delivered,6,Ecom Express,Not Returned,
+1035,2024-01-26,CUST1035,PROD1035,Service,Clothing,WH06,New Vincent,Central Zone,10,596.59,961.77,168.23,9617.7,Processing,2,Delhivery,Replacement Requested,Exchange Request
+1036,2025-02-05,CUST1036,PROD1036,Situation,Sports,WH07,Marthaton,Central Zone,18,4206.75,10246.39,51.75,184435.02,Shipped,6,FedEx,Returned,Delivery Damaged
+1037,2024-12-19,CUST1037,PROD1037,Up,Home & Kitchen,WH08,Poolestad,West Zone,1,4797.71,9419.94,124.57,9419.94,Delivered,14,DTDC,Returned,Wrong Size
+1038,2024-12-05,CUST1038,PROD1038,Ready,Electronics,WH09,New Melissa,West Zone,1,1954.25,3637.9,113.28,3637.9,Shipped,14,Blue Dart,Not Returned,
+1039,2024-02-08,CUST1039,PROD1039,Point,Clothing,WH10,Cochranshire,West Zone,8,1508.74,2736.43,160.48,21891.44,Delivered,4,DTDC,Not Returned,
+1040,2024-07-22,CUST1040,PROD1040,Deal,Groceries,WH01,Jonestown,Central Zone,16,4228.48,5666.24,114.62,90659.84,Delivered,4,Blue Dart,Not Returned,
+1041,2025-02-10,CUST1041,PROD1041,Fund,Books,WH02,Duffyfort,South Zone,5,2239.7,3212.01,55.02,16060.05,Delivered,10,DTDC,Not Returned,
+1042,2025-01-31,CUST1042,PROD1042,Information,Beauty,WH03,Jamesland,West Zone,18,3347.96,4969.49,109.68,89450.82,Delivered,7,Ecom Express,Replacement Requested,Exchange Request
+1043,2024-09-04,CUST1043,PROD1043,Suffer,Toys,WH04,Dudleystad,West Zone,8,2344.83,4911.22,132.1,39289.76,Delivered,2,XpressBees,Not Returned,
+1044,2025-06-25,CUST1044,PROD1044,Watch,Toys,WH05,Jonesburgh,Central Zone,1,448.6,877.51,101.33,877.51,Delivered,1,XpressBees,Returned,Delivery Damaged
+1045,2024-01-09,CUST1045,PROD1045,Member,Groceries,WH06,North Taylor,East Zone,17,3225.75,4846.16,57.01,82384.72,Delivered,5,Ecom Express,Not Returned,
+1046,2024-06-29,CUST1046,PROD1046,Toward,Books,WH07,Smithfort,East Zone,17,4257.97,9972.79,156.24,169537.43,Delivered,6,Blue Dart,Returned,Quality Issue
+1047,2025-06-27,CUST1047,PROD1047,Put,Toys,WH08,West Jason,North Zone,3,907.86,1975.65,175.56,5926.95,Delivered,12,XpressBees,Not Returned,
+1048,2025-05-06,CUST1048,PROD1048,Human,Toys,WH09,Lake Jennifer,West Zone,1,2747.22,5808.14,180.16,5808.14,Shipped,13,DTDC,Returned,Not Needed
+1049,2025-04-13,CUST1049,PROD1049,Within,Groceries,WH10,East Austinhaven,West Zone,5,1443.83,2694.12,98.63,13470.6,Cancelled,14,XpressBees,Not Returned,
+1050,2024-03-22,CUST1050,PROD1050,Bar,Books,WH01,South Cory,Central Zone,20,4919.88,6256.29,80.64,125125.8,Delivered,4,Blue Dart,Not Returned,
+1051,2025-01-12,CUST1051,PROD1051,Stuff,Clothing,WH02,Stephensmouth,South Zone,14,1611.65,3508.6,72.57,49120.4,Delivered,2,Delhivery,Not Returned,
+1052,2025-01-12,CUST1052,PROD1052,Allow,Groceries,WH03,South Thomas,South Zone,18,119.48,206.08,78.7,3709.44,Cancelled,4,XpressBees,Not Returned,
+1053,2024-12-07,CUST1053,PROD1053,Authority,Toys,WH04,Katherinefort,North Zone,18,4518.7,6870.4,19.21,123667.2,Delivered,8,Blue Dart,Not Returned,
+1054,2024-07-15,CUST1054,PROD1054,Raise,Toys,WH05,Port Rebecca,West Zone,14,2744.08,4067.58,119.23,56946.12,Pending,2,Ecom Express,Replacement Requested,Exchange Request
+1055,2024-02-05,CUST1055,PROD1055,Treatment,Beauty,WH06,North Raventown,East Zone,17,2816.22,4967.99,87.11,84455.83,Delivered,9,FedEx,Not Returned,
+1056,2025-03-03,CUST1056,PROD1056,Board,Books,WH07,Nolanview,Central Zone,11,1045.84,1715.51,84.25,18870.61,Delivered,8,XpressBees,Not Returned,
+1057,2025-05-10,CUST1057,PROD1057,Through,Books,WH08,Jamesland,South Zone,20,4399.12,5972.52,73.84,119450.4,Delivered,11,Ecom Express,Not Returned,
+1058,2025-04-23,CUST1058,PROD1058,Involve,Sports,WH09,North Michael,South Zone,8,2002.69,4169.47,100.51,33355.76,Delivered,7,FedEx,Not Returned,
+1059,2024-07-07,CUST1059,PROD1059,Final,Clothing,WH10,Ericmouth,Central Zone,9,3195.99,4071.27,15.98,36641.43,Delivered,13,Delhivery,Replacement Requested,Exchange Request
+1060,2025-03-08,CUST1060,PROD1060,I,Beauty,WH01,South Ryanhaven,West Zone,19,3669.37,6008.89,42.28,114168.91,Delivered,9,XpressBees,Not Returned,
+1061,2024-06-02,CUST1061,PROD1061,Create,Beauty,WH02,Smithview,Central Zone,7,2637.06,3458.91,72.29,24212.37,Processing,3,Delhivery,Replacement Requested,Exchange Request
+1062,2024-03-21,CUST1062,PROD1062,Few,Electronics,WH03,Brianfurt,North Zone,15,4759.75,9397.4,50.04,140961.0,Processing,6,Blue Dart,Not Returned,
+1063,2025-03-31,CUST1063,PROD1063,Positive,Sports,WH04,East Virginiaville,South Zone,9,4952.92,9756.1,188.98,87804.9,Processing,14,DTDC,Not Returned,
+1064,2024-03-21,CUST1064,PROD1064,Modern,Clothing,WH05,North Jacobton,Central Zone,16,2927.75,6251.95,180.76,100031.2,Cancelled,12,Delhivery,Replacement Requested,Exchange Request
+1065,2024-04-26,CUST1065,PROD1065,Build,Beauty,WH06,Sabrinashire,Central Zone,6,2620.56,4594.62,22.61,27567.72,Cancelled,2,DTDC,Not Returned,
+1066,2025-03-25,CUST1066,PROD1066,War,Groceries,WH07,New Margaretborough,South Zone,1,1818.15,3149.12,67.87,3149.12,Processing,6,Blue Dart,Not Returned,
+1067,2025-05-02,CUST1067,PROD1067,Measure,Groceries,WH08,Wendyside,East Zone,12,3785.2,6676.01,157.52,80112.12,Delivered,1,XpressBees,Not Returned,
+1068,2024-07-30,CUST1068,PROD1068,Else,Home & Kitchen,WH09,Taylorside,East Zone,2,4963.78,8768.93,61.16,17537.86,Delivered,10,Blue Dart,Returned,Wrong Size
+1069,2025-04-08,CUST1069,PROD1069,Blood,Home & Kitchen,WH10,New Kelly,North Zone,7,3171.93,5217.42,139.95,36521.94,Delivered,9,FedEx,Not Returned,
+1070,2024-04-22,CUST1070,PROD1070,Poor,Toys,WH01,Parkerport,East Zone,16,1197.77,2943.24,157.71,47091.84,Processing,1,Delhivery,Not Returned,
+1071,2024-06-09,CUST1071,PROD1071,Board,Clothing,WH02,Floydside,South Zone,13,4509.92,9277.79,52.22,120611.27,Pending,2,DTDC,Not Returned,
+1072,2024-12-15,CUST1072,PROD1072,Direction,Clothing,WH03,East Elizabeth,South Zone,14,2135.02,3458.76,32.01,48422.64,Shipped,11,Blue Dart,Returned,Delivery Damaged
+1073,2025-03-28,CUST1073,PROD1073,Doctor,Home & Kitchen,WH04,Moorebury,South Zone,4,2788.26,5981.21,129.55,23924.84,Delivered,11,Blue Dart,Not Returned,
+1074,2024-12-04,CUST1074,PROD1074,Result,Sports,WH05,Tamaratown,North Zone,15,1947.12,3696.33,53.2,55444.95,Delivered,1,Ecom Express,Replacement Requested,Exchange Request
+1075,2024-04-09,CUST1075,PROD1075,Despite,Toys,WH06,North Kristin,East Zone,3,1371.54,2938.23,142.53,8814.69,Delivered,2,XpressBees,Not Returned,
+1076,2024-08-14,CUST1076,PROD1076,Market,Sports,WH07,Andersenburgh,Central Zone,8,4462.57,5887.68,175.64,47101.44,Delivered,13,XpressBees,Replacement Requested,Exchange Request
+1077,2024-02-26,CUST1077,PROD1077,Whether,Sports,WH08,Washingtonbury,South Zone,17,1172.1,2391.25,151.9,40651.25,Shipped,10,XpressBees,Not Returned,
+1078,2025-04-26,CUST1078,PROD1078,Enjoy,Electronics,WH09,Parkermouth,Central Zone,4,3374.06,4861.54,123.19,19446.16,Shipped,6,XpressBees,Replacement Requested,Exchange Request
+1079,2024-06-13,CUST1079,PROD1079,Purpose,Groceries,WH10,New Nathanfort,Central Zone,15,554.2,907.21,49.91,13608.15,Shipped,3,Ecom Express,Not Returned,
+1080,2024-01-08,CUST1080,PROD1080,Figure,Clothing,WH01,New Andrewton,West Zone,20,1955.42,3820.94,151.35,76418.8,Processing,8,FedEx,Not Returned,
+1081,2025-06-21,CUST1081,PROD1081,Everyone,Electronics,WH02,New Lindafort,Central Zone,2,2623.81,4717.42,35.69,9434.84,Processing,6,Blue Dart,Returned,Defective
+1082,2024-07-04,CUST1082,PROD1082,Change,Sports,WH03,East Courtney,West Zone,16,4455.0,9333.75,142.1,149340.0,Delivered,1,Delhivery,Replacement Requested,Exchange Request
+1083,2024-03-01,CUST1083,PROD1083,Executive,Books,WH04,Andersonville,Central Zone,18,3274.49,7034.5,117.52,126621.0,Delivered,10,Delhivery,Replacement Requested,Exchange Request
+1084,2025-02-13,CUST1084,PROD1084,Little,Beauty,WH05,South Lisashire,South Zone,2,595.25,1450.61,171.35,2901.22,Shipped,4,DTDC,Not Returned,
+1085,2024-12-15,CUST1085,PROD1085,Treat,Clothing,WH06,Port John,West Zone,13,471.64,775.83,176.01,10085.79,Shipped,4,XpressBees,Returned,Delivery Damaged
+1086,2025-03-08,CUST1086,PROD1086,Us,Toys,WH07,Reyeshaven,North Zone,9,3582.22,8943.79,98.1,80494.11,Shipped,12,DTDC,Not Returned,
+1087,2024-05-27,CUST1087,PROD1087,Success,Groceries,WH08,Lake Emilyborough,North Zone,20,1360.55,2876.74,91.69,57534.8,Shipped,11,XpressBees,Not Returned,
+1088,2024-10-17,CUST1088,PROD1088,Prevent,Beauty,WH09,New Stephaniehaven,East Zone,13,4014.24,7258.21,37.65,94356.73,Delivered,11,XpressBees,Not Returned,
+1089,2025-06-26,CUST1089,PROD1089,Loss,Clothing,WH10,South Ryanmouth,Central Zone,19,2782.15,5231.84,62.28,99404.96,Delivered,10,FedEx,Returned,Delivery Damaged
+1090,2025-06-26,CUST1090,PROD1090,Act,Electronics,WH01,Lake Stephen,North Zone,16,413.49,912.85,71.35,14605.6,Shipped,5,Delhivery,Not Returned,
+1091,2024-01-14,CUST1091,PROD1091,Appear,Toys,WH02,Michellemouth,North Zone,15,1889.72,4630.76,181.89,69461.4,Delivered,6,DTDC,Not Returned,
+1092,2025-04-28,CUST1092,PROD1092,Same,Books,WH03,Port Teresa,Central Zone,2,1106.56,2574.78,192.09,5149.56,Delivered,12,Blue Dart,Not Returned,
+1093,2024-06-15,CUST1093,PROD1093,Level,Books,WH04,Port Jennifer,Central Zone,2,3351.79,8128.48,159.84,16256.96,Delivered,7,Delhivery,Not Returned,
+1094,2024-01-05,CUST1094,PROD1094,Already,Clothing,WH05,Lake Maryfurt,South Zone,18,1404.67,3452.42,22.08,62143.56,Delivered,7,Delhivery,Returned,Not Needed
+1095,2024-04-29,CUST1095,PROD1095,Campaign,Toys,WH06,Jennifermouth,West Zone,7,4326.77,9710.55,156.03,67973.85,Delivered,9,Blue Dart,Not Returned,
+1096,2024-02-13,CUST1096,PROD1096,Successful,Beauty,WH07,Bryanland,Central Zone,12,4906.29,11202.99,149.04,134435.88,Shipped,9,XpressBees,Not Returned,
+1097,2024-04-21,CUST1097,PROD1097,Place,Books,WH08,Port Rebeccamouth,North Zone,18,2552.18,3412.01,141.46,61416.18,Shipped,6,Blue Dart,Not Returned,
+1098,2024-06-01,CUST1098,PROD1098,Shoulder,Home & Kitchen,WH09,East Ruben,West Zone,7,4574.02,8680.18,35.31,60761.26,Delivered,14,Blue Dart,Returned,Wrong Size
+1099,2025-05-20,CUST1099,PROD1099,House,Beauty,WH10,Stephenhaven,North Zone,5,3532.58,7510.37,109.72,37551.85,Delivered,1,Blue Dart,Not Returned,
+1100,2024-01-23,CUST1100,PROD1100,Behind,Groceries,WH01,Thompsonside,Central Zone,13,4320.6,6598.9,186.62,85785.7,Delivered,9,DTDC,Not Returned,
+1101,2024-01-12,CUST1101,PROD1101,Account,Books,WH02,Danielborough,Central Zone,2,302.79,378.04,198.14,756.08,Delivered,6,FedEx,Not Returned,
+1102,2024-07-05,CUST1102,PROD1102,Campaign,Sports,WH03,Port Danielburgh,South Zone,16,4917.89,9021.18,118.68,144338.88,Delivered,7,FedEx,Returned,Not Needed
+1103,2024-01-22,CUST1103,PROD1103,Discuss,Clothing,WH04,Lake Timothyside,West Zone,12,912.32,1994.52,152.64,23934.24,Shipped,6,Delhivery,Not Returned,
+1104,2024-03-17,CUST1104,PROD1104,She,Beauty,WH05,Lake Joshua,South Zone,18,216.59,488.04,121.89,8784.72,Delivered,7,Delhivery,Not Returned,
+1105,2024-02-28,CUST1105,PROD1105,Of,Toys,WH06,New Crystalborough,West Zone,7,4934.85,6649.57,130.32,46546.99,Delivered,12,FedEx,Not Returned,
+1106,2024-05-14,CUST1106,PROD1106,Prepare,Electronics,WH07,New Jason,South Zone,20,3010.21,5529.38,48.92,110587.6,Delivered,2,Ecom Express,Not Returned,
+1107,2025-02-10,CUST1107,PROD1107,Gas,Books,WH08,Lake Rodneyview,West Zone,2,1195.35,2926.67,194.25,5853.34,Shipped,2,DTDC,Not Returned,
+1108,2025-03-16,CUST1108,PROD1108,Address,Toys,WH09,East David,Central Zone,14,2574.12,5723.21,155.18,80124.94,Processing,6,Ecom Express,Not Returned,
+1109,2024-05-27,CUST1109,PROD1109,During,Toys,WH10,East Jeremychester,South Zone,18,2631.19,5867.1,155.14,105607.8,Shipped,13,XpressBees,Returned,Defective
+1110,2024-05-25,CUST1110,PROD1110,Recognize,Electronics,WH01,Rodriguezhaven,East Zone,6,4393.43,8004.91,152.58,48029.46,Delivered,3,Blue Dart,Replacement Requested,Exchange Request
+1111,2024-08-20,CUST1111,PROD1111,About,Groceries,WH02,West Howardville,West Zone,8,1584.09,2945.36,139.47,23562.88,Delivered,4,Ecom Express,Not Returned,
+1112,2024-05-17,CUST1112,PROD1112,Performance,Electronics,WH03,Woodview,Central Zone,9,2178.42,2972.87,196.72,26755.83,Delivered,9,Ecom Express,Not Returned,
+1113,2025-06-16,CUST1113,PROD1113,Better,Clothing,WH04,New Ericside,East Zone,8,3696.69,5743.98,17.71,45951.84,Shipped,5,FedEx,Not Returned,
+1114,2025-06-12,CUST1114,PROD1114,Dinner,Clothing,WH05,Port Katherinemouth,East Zone,8,2151.08,5192.02,193.02,41536.16,Shipped,3,FedEx,Not Returned,
+1115,2024-05-06,CUST1115,PROD1115,Whether,Clothing,WH06,Beverlyfort,North Zone,1,2383.12,4715.89,172.98,4715.89,Cancelled,5,DTDC,Replacement Requested,Exchange Request
+1116,2024-03-06,CUST1116,PROD1116,Song,Books,WH07,Chelseamouth,East Zone,13,1016.72,1668.61,193.55,21691.93,Delivered,4,DTDC,Not Returned,
+1117,2025-03-17,CUST1117,PROD1117,Share,Toys,WH08,Ashleechester,East Zone,8,2275.42,4818.19,78.86,38545.52,Delivered,3,FedEx,Not Returned,
+1118,2024-05-29,CUST1118,PROD1118,Leader,Beauty,WH09,Warrenberg,North Zone,11,2033.03,3145.22,34.91,34597.42,Delivered,10,FedEx,Replacement Requested,Exchange Request
+1119,2024-08-08,CUST1119,PROD1119,Mother,Clothing,WH10,Chandlerburgh,Central Zone,14,2102.8,3039.23,161.04,42549.22,Delivered,9,FedEx,Not Returned,
+1120,2025-03-16,CUST1120,PROD1120,Management,Groceries,WH01,Danielmouth,East Zone,10,2062.32,4411.69,71.93,44116.9,Delivered,7,FedEx,Not Returned,
+1121,2024-05-02,CUST1121,PROD1121,Loss,Beauty,WH02,Pamelabury,North Zone,6,3523.95,8802.68,22.37,52816.08,Delivered,7,FedEx,Not Returned,
+1122,2024-03-04,CUST1122,PROD1122,Large,Toys,WH03,West Brandon,South Zone,3,553.95,957.67,57.42,2873.01,Shipped,14,Blue Dart,Not Returned,
+1123,2024-02-06,CUST1123,PROD1123,Activity,Home & Kitchen,WH04,Georgeshire,Central Zone,5,3047.22,4059.85,135.88,20299.25,Shipped,6,Ecom Express,Returned,Defective
+1124,2024-10-19,CUST1124,PROD1124,Mouth,Sports,WH05,Rebeccaport,Central Zone,8,4819.69,10338.04,147.13,82704.32,Pending,4,Delhivery,Returned,Wrong Size
+1125,2024-09-24,CUST1125,PROD1125,Everything,Beauty,WH06,Lindaton,Central Zone,6,3529.65,7820.67,166.38,46924.02,Shipped,8,Delhivery,Replacement Requested,Exchange Request
+1126,2025-03-26,CUST1126,PROD1126,Once,Sports,WH07,Joshuafurt,West Zone,16,1620.15,3420.75,11.08,54732.0,Delivered,3,XpressBees,Not Returned,
+1127,2024-01-22,CUST1127,PROD1127,Fly,Books,WH08,Williamport,Central Zone,20,2212.93,4989.74,114.77,99794.8,Delivered,4,Blue Dart,Not Returned,
+1128,2024-01-09,CUST1128,PROD1128,So,Home & Kitchen,WH09,Joneston,West Zone,3,492.55,1008.01,18.81,3024.03,Shipped,5,DTDC,Replacement Requested,Exchange Request
+1129,2024-12-08,CUST1129,PROD1129,Idea,Books,WH10,Rodriguezshire,West Zone,16,3603.65,4400.46,167.59,70407.36,Delivered,2,DTDC,Replacement Requested,Exchange Request
+1130,2025-05-26,CUST1130,PROD1130,Shoulder,Home & Kitchen,WH01,Christopherstad,East Zone,8,3816.67,5482.14,56.21,43857.12,Delivered,7,Delhivery,Replacement Requested,Exchange Request
+1131,2024-06-04,CUST1131,PROD1131,Control,Electronics,WH02,South Alexanderton,South Zone,4,3737.33,8431.0,145.1,33724.0,Delivered,7,XpressBees,Returned,Quality Issue
+1132,2024-07-23,CUST1132,PROD1132,Strategy,Clothing,WH03,Port Deborah,East Zone,8,3424.17,8008.44,103.73,64067.52,Delivered,3,FedEx,Not Returned,
+1133,2025-05-23,CUST1133,PROD1133,Yard,Books,WH04,Lukestad,East Zone,19,1537.97,2319.97,17.94,44079.43,Delivered,8,FedEx,Not Returned,
+1134,2024-10-07,CUST1134,PROD1134,Project,Groceries,WH05,Lake John,East Zone,11,4984.5,11369.12,126.75,125060.32,Shipped,7,Ecom Express,Not Returned,
+1135,2024-11-09,CUST1135,PROD1135,Discuss,Groceries,WH06,Port Scottview,East Zone,2,1107.82,1858.83,142.19,3717.66,Delivered,14,XpressBees,Not Returned,
+1136,2024-03-07,CUST1136,PROD1136,Specific,Clothing,WH07,West Lauren,Central Zone,15,2030.02,3864.97,124.96,57974.55,Shipped,10,XpressBees,Not Returned,
+1137,2025-05-29,CUST1137,PROD1137,Score,Groceries,WH08,West Rebecca,Central Zone,15,2401.55,5556.39,121.06,83345.85,Processing,11,XpressBees,Returned,Wrong Size
+1138,2024-04-15,CUST1138,PROD1138,Account,Clothing,WH09,Lake Emilyfurt,West Zone,20,4110.8,8679.2,81.16,173584.0,Delivered,12,Blue Dart,Not Returned,
+1139,2025-05-01,CUST1139,PROD1139,Paper,Toys,WH10,Alexandrashire,West Zone,8,614.56,1186.92,38.53,9495.36,Shipped,5,Delhivery,Returned,Defective
+1140,2024-05-24,CUST1140,PROD1140,Situation,Books,WH01,Loweberg,South Zone,12,2442.16,4776.81,73.71,57321.72,Processing,5,Blue Dart,Returned,Quality Issue
+1141,2025-04-11,CUST1141,PROD1141,Baby,Clothing,WH02,West Elizabeth,Central Zone,14,1465.23,3321.51,185.78,46501.14,Shipped,6,FedEx,Not Returned,
+1142,2025-06-04,CUST1142,PROD1142,Job,Groceries,WH03,Port Sethbury,West Zone,19,2664.01,3460.87,110.64,65756.53,Delivered,1,Delhivery,Returned,Defective
+1143,2025-05-31,CUST1143,PROD1143,Which,Toys,WH04,New Andrewport,East Zone,8,1739.91,3491.25,146.82,27930.0,Delivered,1,Ecom Express,Not Returned,
+1144,2024-11-21,CUST1144,PROD1144,Ever,Sports,WH05,New Tracy,West Zone,11,4568.98,6750.77,197.56,74258.47,Processing,1,XpressBees,Returned,Defective
+1145,2024-11-25,CUST1145,PROD1145,Stage,Sports,WH06,North Gregory,West Zone,15,3813.04,4825.69,182.22,72385.35,Delivered,8,Blue Dart,Not Returned,
+1146,2024-03-14,CUST1146,PROD1146,On,Home & Kitchen,WH07,East Ray,South Zone,1,4420.52,7361.03,179.7,7361.03,Shipped,1,Delhivery,Returned,Quality Issue
+1147,2024-07-30,CUST1147,PROD1147,Expect,Clothing,WH08,Barnesfort,Central Zone,4,3345.63,8193.63,88.06,32774.52,Delivered,1,Delhivery,Replacement Requested,Exchange Request
+1148,2024-09-14,CUST1148,PROD1148,What,Beauty,WH09,Christopherland,East Zone,14,2175.91,4370.17,45.23,61182.38,Processing,8,FedEx,Not Returned,
+1149,2025-04-02,CUST1149,PROD1149,Home,Clothing,WH10,West Edwardfort,North Zone,18,2699.11,4167.18,46.64,75009.24,Delivered,3,Blue Dart,Returned,Delivery Damaged
+1150,2025-04-26,CUST1150,PROD1150,Age,Electronics,WH01,Michelemouth,West Zone,15,3661.34,4494.2,36.72,67413.0,Shipped,13,FedEx,Not Returned,
+1151,2025-01-15,CUST1151,PROD1151,Thus,Sports,WH02,North Brittanyton,South Zone,13,2213.81,4488.02,110.23,58344.26,Delivered,11,Delhivery,Not Returned,
+1152,2024-09-16,CUST1152,PROD1152,Plant,Sports,WH03,Collinston,East Zone,8,1458.94,2802.66,31.39,22421.28,Delivered,9,Blue Dart,Not Returned,
+1153,2024-09-06,CUST1153,PROD1153,Phone,Books,WH04,Juliemouth,Central Zone,12,288.13,478.02,12.64,5736.24,Shipped,9,Delhivery,Replacement Requested,Exchange Request
+1154,2024-07-26,CUST1154,PROD1154,Knowledge,Books,WH05,North Brandy,West Zone,9,4962.61,7868.84,166.34,70819.56,Processing,7,XpressBees,Not Returned,
+1155,2025-02-26,CUST1155,PROD1155,Meet,Electronics,WH06,Lake Michael,East Zone,6,341.35,680.05,125.79,4080.3,Delivered,14,Blue Dart,Not Returned,
+1156,2025-02-15,CUST1156,PROD1156,Bill,Electronics,WH07,Hartbury,East Zone,2,4878.1,8102.65,95.35,16205.3,Delivered,14,Blue Dart,Not Returned,
+1157,2024-11-20,CUST1157,PROD1157,Professor,Clothing,WH08,North Veronicashire,North Zone,16,3019.02,5600.07,72.32,89601.12,Shipped,11,DTDC,Not Returned,
+1158,2025-05-22,CUST1158,PROD1158,Commercial,Books,WH09,Johnsonborough,Central Zone,14,176.22,217.85,171.51,3049.9,Delivered,1,FedEx,Returned,Wrong Size
+1159,2025-05-17,CUST1159,PROD1159,Listen,Sports,WH10,Spearsville,West Zone,16,152.35,251.28,45.75,4020.48,Delivered,4,Delhivery,Returned,Quality Issue
+1160,2025-06-06,CUST1160,PROD1160,Life,Beauty,WH01,Lake Brendan,North Zone,7,2195.08,3491.26,85.54,24438.82,Delivered,2,Delhivery,Not Returned,
+1161,2024-02-08,CUST1161,PROD1161,Soldier,Sports,WH02,Davidview,South Zone,5,3391.8,7399.45,157.15,36997.25,Delivered,12,XpressBees,Not Returned,
+1162,2024-07-29,CUST1162,PROD1162,Strategy,Toys,WH03,South Ronald,South Zone,18,1422.73,2747.99,137.84,49463.82,Delivered,7,Ecom Express,Returned,Not Needed
+1163,2024-06-14,CUST1163,PROD1163,Know,Beauty,WH04,East Christopher,Central Zone,7,4746.11,10056.68,60.21,70396.76,Delivered,4,Delhivery,Not Returned,
+1164,2025-01-03,CUST1164,PROD1164,Store,Groceries,WH05,Aliberg,West Zone,5,1938.3,4007.84,103.69,20039.2,Delivered,11,XpressBees,Returned,Quality Issue
+1165,2025-05-24,CUST1165,PROD1165,Smile,Sports,WH06,Katieberg,West Zone,2,4192.56,5926.88,134.8,11853.76,Delivered,7,Ecom Express,Not Returned,
+1166,2024-11-27,CUST1166,PROD1166,First,Books,WH07,South Brent,South Zone,2,2545.97,3428.25,187.7,6856.5,Delivered,7,DTDC,Replacement Requested,Exchange Request
+1167,2025-01-28,CUST1167,PROD1167,Seem,Sports,WH08,Janetburgh,South Zone,12,1238.72,2331.14,36.56,27973.68,Shipped,6,Ecom Express,Returned,Quality Issue
+1168,2024-11-20,CUST1168,PROD1168,Reality,Beauty,WH09,Brewerbury,East Zone,14,1348.11,2008.6,39.73,28120.4,Delivered,10,Delhivery,Not Returned,
+1169,2025-03-17,CUST1169,PROD1169,Trouble,Beauty,WH10,Burgessfort,North Zone,18,1456.08,2643.35,73.58,47580.3,Delivered,13,FedEx,Not Returned,
+1170,2025-02-03,CUST1170,PROD1170,Exactly,Home & Kitchen,WH01,Lake Kimberly,West Zone,3,2755.0,5642.26,185.68,16926.78,Delivered,7,XpressBees,Not Returned,
+1171,2025-02-20,CUST1171,PROD1171,Clearly,Home & Kitchen,WH02,Brittneyborough,North Zone,15,1397.83,1919.99,85.25,28799.85,Shipped,1,Blue Dart,Replacement Requested,Exchange Request
+1172,2025-02-25,CUST1172,PROD1172,Population,Electronics,WH03,Lake Heidiborough,Central Zone,1,927.62,1130.93,99.74,1130.93,Delivered,12,Blue Dart,Not Returned,
+1173,2024-01-22,CUST1173,PROD1173,Administration,Groceries,WH04,Charlesmouth,South Zone,14,2098.87,4906.77,128.64,68694.78,Shipped,7,XpressBees,Not Returned,
+1174,2024-07-03,CUST1174,PROD1174,Cut,Books,WH05,New Barbaraland,West Zone,12,397.4,770.39,171.06,9244.68,Delivered,13,Blue Dart,Not Returned,
+1175,2025-05-15,CUST1175,PROD1175,Test,Toys,WH06,Kristenmouth,East Zone,12,3296.82,6613.93,157.31,79367.16,Delivered,12,FedEx,Replacement Requested,Exchange Request
+1176,2024-06-21,CUST1176,PROD1176,Skill,Sports,WH07,South Shane,North Zone,20,4603.33,5761.27,56.58,115225.4,Delivered,14,Ecom Express,Returned,Wrong Size
+1177,2025-06-27,CUST1177,PROD1177,Bill,Electronics,WH08,Kimtown,East Zone,9,1064.34,2660.26,109.56,23942.34,Delivered,1,Ecom Express,Returned,Defective
+1178,2024-08-13,CUST1178,PROD1178,Show,Books,WH09,Manuelchester,South Zone,2,3017.59,3833.88,110.35,7667.76,Processing,2,FedEx,Not Returned,
+1179,2024-03-05,CUST1179,PROD1179,Main,Groceries,WH10,South Katherineland,South Zone,12,455.81,788.87,58.28,9466.44,Delivered,13,Delhivery,Not Returned,
+1180,2025-05-11,CUST1180,PROD1180,Senior,Books,WH01,Thompsonport,South Zone,1,1736.76,2234.5,63.93,2234.5,Delivered,7,Ecom Express,Not Returned,
+1181,2025-05-25,CUST1181,PROD1181,Nature,Groceries,WH02,Port Karl,South Zone,16,912.63,2165.91,146.78,34654.56,Delivered,6,Ecom Express,Replacement Requested,Exchange Request
+1182,2024-07-20,CUST1182,PROD1182,With,Groceries,WH03,North David,West Zone,1,303.78,617.74,31.17,617.74,Delivered,13,Blue Dart,Not Returned,
+1183,2024-04-28,CUST1183,PROD1183,Data,Books,WH04,Pittsberg,Central Zone,20,3838.86,5997.23,48.73,119944.6,Delivered,11,FedEx,Returned,Not Needed
+1184,2025-05-20,CUST1184,PROD1184,Such,Groceries,WH05,Lisafurt,Central Zone,19,3757.92,5884.81,160.62,111811.39,Delivered,11,XpressBees,Not Returned,
+1185,2025-02-05,CUST1185,PROD1185,Health,Beauty,WH06,Ricardohaven,West Zone,2,4051.24,6776.31,99.79,13552.62,Delivered,1,FedEx,Returned,Defective
+1186,2025-06-09,CUST1186,PROD1186,Thus,Clothing,WH07,New Eddietown,Central Zone,12,2438.28,3002.0,156.16,36024.0,Delivered,10,Blue Dart,Replacement Requested,Exchange Request
+1187,2024-01-21,CUST1187,PROD1187,Accept,Groceries,WH08,Lake Jennifermouth,Central Zone,9,3924.77,9523.24,183.74,85709.16,Delivered,10,DTDC,Replacement Requested,Exchange Request
+1188,2024-11-21,CUST1188,PROD1188,Fact,Toys,WH09,Richmondtown,West Zone,9,4884.94,6111.43,196.54,55002.87,Delivered,7,DTDC,Not Returned,
+1189,2024-11-05,CUST1189,PROD1189,Development,Electronics,WH10,Leahfort,South Zone,3,4847.86,9284.7,61.41,27854.1,Shipped,13,Ecom Express,Replacement Requested,Exchange Request
+1190,2024-08-28,CUST1190,PROD1190,None,Groceries,WH01,North Matthewmouth,South Zone,9,4771.35,5883.76,176.5,52953.84,Delivered,1,FedEx,Not Returned,
+1191,2024-01-11,CUST1191,PROD1191,Light,Home & Kitchen,WH02,West Michaelside,North Zone,19,2357.71,4815.33,102.51,91491.27,Delivered,2,XpressBees,Returned,Delivery Damaged
+1192,2025-06-08,CUST1192,PROD1192,Music,Toys,WH03,Michaelfort,Central Zone,8,2641.51,3626.96,177.04,29015.68,Delivered,9,Ecom Express,Returned,Not Needed
+1193,2024-02-24,CUST1193,PROD1193,Strong,Home & Kitchen,WH04,Brandonhaven,East Zone,9,3026.07,4703.0,114.02,42327.0,Delivered,10,Ecom Express,Not Returned,
+1194,2025-03-18,CUST1194,PROD1194,Chance,Clothing,WH05,Ryanland,South Zone,14,1265.02,2581.42,74.95,36139.88,Delivered,9,Blue Dart,Not Returned,
+1195,2024-12-16,CUST1195,PROD1195,Western,Sports,WH06,West Chad,North Zone,3,3908.33,5538.98,149.51,16616.94,Shipped,7,Ecom Express,Not Returned,
+1196,2024-03-02,CUST1196,PROD1196,Become,Toys,WH07,Port Marcus,South Zone,8,4984.66,11905.25,29.49,95242.0,Delivered,9,XpressBees,Not Returned,
+1197,2024-01-22,CUST1197,PROD1197,Debate,Groceries,WH08,Princebury,North Zone,1,2549.23,4878.29,164.61,4878.29,Shipped,11,Delhivery,Not Returned,
+1198,2024-03-06,CUST1198,PROD1198,Population,Groceries,WH09,West Robin,South Zone,5,595.9,891.32,135.3,4456.6,Delivered,13,Blue Dart,Replacement Requested,Exchange Request
+1199,2024-10-26,CUST1199,PROD1199,Benefit,Groceries,WH10,Lake Nathaniel,West Zone,16,3976.85,7182.78,82.45,114924.48,Shipped,9,XpressBees,Replacement Requested,Exchange Request
+1200,2024-10-05,CUST1200,PROD1200,Direction,Electronics,WH01,West Antonio,West Zone,20,3632.8,7711.48,113.82,154229.6,Delivered,14,XpressBees,Not Returned,

@@ -1,0 +1,801 @@
+sale_id,date,sales_rep_id,sales_rep_name,region,territory,product_category,customer_id,deal_size,deal_value,commission_rate,commission_amount,target_amount,target_achievement_pct,fiscal_quarter,fiscal_year,deal_stage,days_to_close,forecast_category
+1,2025-09-17,REP02,Eve Davis,EMEA,Joshuaberg Territory,Consulting,CUST0001,Medium,218652.05,0.062,13556.43,243121.74,0.0,Q1,2025,Qualification,,Omitted
+2,2024-10-08,REP03,Frank Miller,Latin America,New Kristineview Territory,Hardware,CUST0002,Medium,128573.84,0.046,5914.4,136099.19,122.9,Q1,2024,Closed Won,72,Upside
+3,2024-12-18,REP04,Diana Prince,APAC,East Heatherland Territory,Services,CUST0003,Enterprise,30276.32,0.1,3027.63,24226.21,0.0,Q1,2024,Qualification,,Best Case
+4,2024-05-05,REP05,Henry Wilson,Latin America,North Stevemouth Territory,Services,CUST0004,Large,287035.64,0.084,24110.99,330743.87,84.6,Q4,2024,Closed Won,130,Pipeline
+5,2024-09-23,REP06,Bob Smith,South Asia,New James Territory,Software,CUST0005,Medium,397436.86,0.076,30205.2,300388.64,0.0,Q4,2024,Prospecting,,Omitted
+6,2024-04-22,REP07,Jack Taylor,North America,New Bethstad Territory,Services,CUST0006,Large,231005.72,0.021,4851.12,220129.73,0.0,Q1,2024,Qualification,,Upside
+7,2024-08-07,REP08,Jack Taylor,South Asia,Port Shannon Territory,Software,CUST0007,Large,217833.98,0.042,9149.03,323172.19,0.0,Q3,2024,Qualification,,Upside
+8,2025-06-04,REP09,Charlie Brown,North America,East Francisco Territory,Cloud Platform,CUST0008,Large,212150.63,0.078,16547.75,155079.49,0.0,Q1,2025,Qualification,,Upside
+9,2024-02-12,REP10,Alice Johnson,North America,Lake Christopher Territory,Consulting,CUST0009,Large,362240.63,0.062,22458.92,462531.74,57.1,Q3,2024,Negotiation,,Omitted
+10,2025-08-19,REP01,Iris Chen,Latin America,Rossville Territory,Software,CUST0010,Small,82961.4,0.038,3152.53,83068.39,56.3,Q1,2025,Negotiation,,Upside
+11,2024-10-01,REP02,Frank Miller,North America,Melissastad Territory,Software,CUST0011,Medium,450734.71,0.054,24339.67,577962.25,22.8,Q4,2024,Proposal,,Commit
+12,2025-05-07,REP03,Jack Taylor,North America,Reynoldsburgh Territory,Consulting,CUST0012,Small,23194.62,0.087,2017.93,25017.62,0.0,Q4,2025,Closed Lost,,Best Case
+13,2024-02-07,REP04,Grace Lee,EMEA,Kathrynville Territory,Services,CUST0013,Enterprise,418073.99,0.081,33863.99,602473.62,0.0,Q1,2024,Qualification,,Upside
+14,2024-11-08,REP05,Bob Smith,South Asia,Huntchester Territory,Services,CUST0014,Medium,113303.89,0.098,11103.78,123929.32,74.1,Q3,2024,Negotiation,,Commit
+15,2024-09-22,REP06,Iris Chen,South Asia,Kellerstad Territory,Services,CUST0015,Medium,28724.38,0.074,2125.6,36994.63,127.1,Q3,2024,Closed Won,180,Upside
+16,2025-09-29,REP07,Jack Taylor,South Asia,Brianmouth Territory,Consulting,CUST0016,Small,246321.87,0.098,24139.54,294996.27,126.6,Q3,2025,Closed Won,124,Commit
+17,2024-09-06,REP08,Grace Lee,South Asia,Penningtonfurt Territory,Cloud Platform,CUST0017,Medium,384864.88,0.083,31943.79,417628.49,35.2,Q2,2024,Proposal,,Omitted
+18,2025-04-06,REP09,Jack Taylor,South Asia,Harveyborough Territory,Services,CUST0018,Medium,59557.25,0.032,1905.83,54666.12,10.6,Q1,2025,Proposal,,Commit
+19,2025-01-31,REP10,Henry Wilson,Latin America,Scottville Territory,Software,CUST0019,Medium,418616.8,0.028,11721.27,481244.94,0.0,Q4,2025,Qualification,,Upside
+20,2024-09-25,REP01,Jack Taylor,EMEA,Guzmanborough Territory,Consulting,CUST0020,Medium,424906.43,0.043,18270.98,455849.77,107.1,Q4,2024,Closed Won,121,Pipeline
+21,2025-03-29,REP02,Alice Johnson,APAC,New Bob Territory,Software,CUST0021,Enterprise,412983.15,0.069,28495.84,582916.51,0.0,Q4,2025,Prospecting,,Commit
+22,2025-08-15,REP03,Grace Lee,Latin America,Port Markfort Territory,Consulting,CUST0022,Medium,446944.55,0.082,36649.45,396878.02,106.0,Q1,2025,Closed Won,135,Pipeline
+23,2024-04-26,REP04,Frank Miller,South Asia,Port Jerry Territory,Services,CUST0023,Medium,298590.54,0.035,10450.67,330875.33,0.0,Q3,2024,Prospecting,,Commit
+24,2025-07-09,REP05,Diana Prince,Latin America,Hugheston Territory,Software,CUST0024,Medium,416023.58,0.04,16640.94,324263.31,0.0,Q2,2025,Prospecting,,Upside
+25,2024-01-18,REP06,Diana Prince,EMEA,Jeromefort Territory,Cloud Platform,CUST0025,Medium,117865.24,0.093,10961.47,104984.06,0.0,Q4,2024,Closed Lost,,Best Case
+26,2025-07-01,REP07,Bob Smith,APAC,East Michelle Territory,Software,CUST0026,Medium,381613.83,0.061,23278.44,487466.22,0.0,Q4,2025,Prospecting,,Commit
+27,2024-08-24,REP08,Henry Wilson,APAC,North Marissa Territory,Hardware,CUST0027,Enterprise,123379.82,0.022,2714.36,157181.43,88.7,Q2,2024,Closed Won,91,Pipeline
+28,2024-02-11,REP09,Jack Taylor,North America,Lake Alexandra Territory,Services,CUST0028,Enterprise,406902.29,0.097,39469.52,364532.01,74.2,Q3,2024,Negotiation,,Commit
+29,2024-02-11,REP10,Alice Johnson,EMEA,South Timothyfurt Territory,Cloud Platform,CUST0029,Small,261438.97,0.051,13333.39,224080.28,50.7,Q1,2024,Negotiation,,Commit
+30,2024-10-19,REP01,Iris Chen,North America,Port Danielle Territory,Cloud Platform,CUST0030,Enterprise,344666.48,0.058,19990.66,246897.32,0.0,Q1,2024,Qualification,,Omitted
+31,2024-03-05,REP02,Bob Smith,EMEA,Evansville Territory,Services,CUST0031,Large,22315.7,0.062,1383.57,26502.63,45.0,Q2,2024,Negotiation,,Omitted
+32,2025-04-12,REP03,Eve Davis,APAC,New Michael Territory,Services,CUST0032,Enterprise,275086.4,0.06,16505.18,299363.84,134.1,Q4,2025,Closed Won,78,Commit
+33,2024-01-08,REP04,Alice Johnson,Latin America,Jamesborough Territory,Software,CUST0033,Enterprise,340803.24,0.091,31013.09,283354.26,79.1,Q2,2024,Negotiation,,Pipeline
+34,2025-02-28,REP05,Charlie Brown,North America,Seanville Territory,Software,CUST0034,Small,363350.29,0.02,7267.01,451797.18,79.1,Q2,2025,Negotiation,,Commit
+35,2024-02-14,REP06,Jack Taylor,South Asia,Lake Jonfort Territory,Hardware,CUST0035,Enterprise,35038.52,0.058,2032.23,33563.79,0.0,Q3,2024,Qualification,,Best Case
+36,2025-02-06,REP07,Alice Johnson,South Asia,Benjaminburgh Territory,Software,CUST0036,Medium,338093.41,0.069,23328.45,333437.53,58.3,Q2,2025,Negotiation,,Commit
+37,2025-04-27,REP08,Grace Lee,APAC,Delacruzberg Territory,Hardware,CUST0037,Medium,253829.52,0.075,19037.21,325792.28,53.9,Q1,2025,Negotiation,,Pipeline
+38,2025-05-23,REP09,Bob Smith,EMEA,Lake Sarahaven Territory,Services,CUST0038,Large,204808.4,0.093,19047.18,145436.99,51.5,Q2,2025,Negotiation,,Best Case
+39,2024-01-18,REP10,Bob Smith,APAC,Daniellefort Territory,Services,CUST0039,Small,370056.97,0.028,10361.6,530309.41,100.3,Q2,2024,Closed Won,151,Omitted
+40,2024-02-19,REP01,Charlie Brown,APAC,Breannamouth Territory,Hardware,CUST0040,Medium,131133.16,0.096,12588.78,126062.55,59.1,Q2,2024,Negotiation,,Pipeline
+41,2025-05-16,REP02,Eve Davis,EMEA,Jerryberg Territory,Consulting,CUST0041,Medium,265189.74,0.075,19889.23,372527.29,0.0,Q2,2025,Closed Lost,,Upside
+42,2025-08-18,REP03,Iris Chen,EMEA,Jesseview Territory,Hardware,CUST0042,Small,70195.51,0.041,2878.02,103144.95,129.2,Q3,2025,Closed Won,48,Pipeline
+43,2024-10-24,REP04,Frank Miller,EMEA,Nancyport Territory,Hardware,CUST0043,Enterprise,133375.73,0.038,5068.28,185340.81,110.1,Q2,2024,Closed Won,16,Pipeline
+44,2024-09-26,REP05,Grace Lee,EMEA,Port Shawntown Territory,Hardware,CUST0044,Medium,268976.44,0.037,9952.13,383677.13,13.4,Q3,2024,Proposal,,Upside
+45,2024-10-28,REP06,Eve Davis,Latin America,Butlerburgh Territory,Services,CUST0045,Enterprise,102247.77,0.044,4498.9,144543.84,112.5,Q1,2024,Closed Won,55,Upside
+46,2025-04-03,REP07,Grace Lee,APAC,South Cristinaton Territory,Services,CUST0046,Medium,96867.08,0.057,5521.42,125151.83,0.0,Q4,2025,Qualification,,Best Case
+47,2024-01-31,REP08,Eve Davis,APAC,Collinsfurt Territory,Cloud Platform,CUST0047,Medium,53169.83,0.087,4625.78,56422.95,19.8,Q4,2024,Proposal,,Omitted
+48,2024-03-11,REP09,Diana Prince,North America,Marystad Territory,Cloud Platform,CUST0048,Medium,311020.11,0.029,9019.58,364376.03,38.6,Q2,2024,Proposal,,Omitted
+49,2024-04-15,REP10,Charlie Brown,North America,Ewingport Territory,Software,CUST0049,Medium,68644.37,0.064,4393.24,89931.4,112.5,Q1,2024,Closed Won,121,Omitted
+50,2024-12-04,REP01,Grace Lee,APAC,Stantonstad Territory,Services,CUST0050,Small,450701.99,0.047,21182.99,531011.4,87.8,Q4,2024,Closed Won,171,Pipeline
+51,2024-03-27,REP02,Alice Johnson,APAC,New Ryanstad Territory,Consulting,CUST0051,Small,356963.43,0.048,17134.24,343071.33,51.2,Q2,2024,Negotiation,,Pipeline
+52,2024-11-21,REP03,Diana Prince,South Asia,Dennismouth Territory,Services,CUST0052,Small,303290.43,0.077,23353.36,382611.99,0.0,Q3,2024,Qualification,,Best Case
+53,2024-08-22,REP04,Jack Taylor,North America,Christopherfurt Territory,Services,CUST0053,Medium,125912.36,0.057,7177.0,153192.91,0.0,Q1,2024,Closed Lost,,Upside
+54,2024-10-05,REP05,Henry Wilson,Latin America,North Paul Territory,Cloud Platform,CUST0054,Enterprise,184409.63,0.051,9404.89,232799.71,0.0,Q2,2024,Prospecting,,Commit
+55,2025-08-26,REP06,Charlie Brown,North America,Port Brucemouth Territory,Hardware,CUST0055,Medium,175005.61,0.047,8225.26,187603.7,131.4,Q1,2025,Closed Won,18,Omitted
+56,2024-06-09,REP07,Grace Lee,EMEA,Brookeborough Territory,Hardware,CUST0056,Large,76384.64,0.098,7485.69,101884.52,17.6,Q3,2024,Proposal,,Best Case
+57,2025-05-15,REP08,Bob Smith,South Asia,Georgeborough Territory,Hardware,CUST0057,Medium,215381.46,0.087,18738.19,293948.02,121.8,Q3,2025,Closed Won,56,Best Case
+58,2025-09-29,REP09,Frank Miller,Latin America,West Meagan Territory,Services,CUST0058,Enterprise,56244.75,0.079,4443.34,48564.33,20.5,Q2,2025,Proposal,,Omitted
+59,2024-06-13,REP10,Frank Miller,Latin America,Tylershire Territory,Consulting,CUST0059,Medium,421754.47,0.024,10122.11,327606.06,60.7,Q1,2024,Negotiation,,Upside
+60,2025-02-03,REP01,Charlie Brown,Latin America,Whitechester Territory,Cloud Platform,CUST0060,Medium,333911.08,0.075,25043.33,428843.81,18.5,Q3,2025,Proposal,,Omitted
+61,2024-08-10,REP02,Eve Davis,South Asia,Kelleybury Territory,Cloud Platform,CUST0061,Large,414991.74,0.087,36104.28,538889.4,120.8,Q4,2024,Closed Won,83,Commit
+62,2025-07-03,REP03,Bob Smith,North America,North Dylan Territory,Cloud Platform,CUST0062,Medium,112076.63,0.049,5491.75,153942.22,121.5,Q1,2025,Closed Won,28,Commit
+63,2024-09-01,REP04,Henry Wilson,EMEA,Nguyenburgh Territory,Hardware,CUST0063,Medium,117311.42,0.06,7038.69,149852.19,94.8,Q1,2024,Closed Won,79,Commit
+64,2025-09-18,REP05,Eve Davis,APAC,South Adamfurt Territory,Cloud Platform,CUST0064,Large,474585.61,0.07,33220.99,585987.74,119.3,Q1,2025,Closed Won,169,Pipeline
+65,2025-01-14,REP06,Alice Johnson,EMEA,East Sheila Territory,Consulting,CUST0065,Medium,485635.87,0.039,18939.8,444362.78,0.0,Q3,2025,Prospecting,,Commit
+66,2025-08-04,REP07,Diana Prince,North America,Wongport Territory,Services,CUST0066,Small,173150.54,0.078,13505.74,254796.03,84.7,Q3,2025,Closed Won,170,Best Case
+67,2025-04-13,REP08,Iris Chen,APAC,Henrymouth Territory,Services,CUST0067,Medium,249485.67,0.065,16216.57,268403.84,39.6,Q3,2025,Proposal,,Pipeline
+68,2024-08-17,REP09,Iris Chen,North America,Cunninghamfort Territory,Software,CUST0068,Medium,42596.83,0.06,2555.81,37465.12,118.9,Q3,2024,Closed Won,61,Pipeline
+69,2024-08-04,REP10,Charlie Brown,EMEA,West Nicholas Territory,Services,CUST0069,Enterprise,312465.02,0.099,30934.04,463029.6,38.6,Q1,2024,Proposal,,Commit
+70,2024-04-13,REP01,Alice Johnson,Latin America,Langland Territory,Cloud Platform,CUST0070,Small,47448.94,0.073,3463.77,41792.2,105.8,Q4,2024,Closed Won,63,Omitted
+71,2024-06-16,REP02,Diana Prince,EMEA,Robertstad Territory,Consulting,CUST0071,Medium,49219.6,0.046,2264.1,49872.14,53.7,Q3,2024,Negotiation,,Pipeline
+72,2024-04-25,REP03,Charlie Brown,North America,Blakeport Territory,Hardware,CUST0072,Medium,353193.33,0.037,13068.15,249647.99,0.0,Q4,2024,Qualification,,Upside
+73,2024-11-06,REP04,Frank Miller,EMEA,Samanthaburgh Territory,Services,CUST0073,Medium,273718.89,0.08,21897.51,347802.95,0.0,Q2,2024,Qualification,,Best Case
+74,2025-02-27,REP05,Jack Taylor,EMEA,Nguyenborough Territory,Cloud Platform,CUST0074,Small,234796.31,0.096,22540.45,251521.1,14.3,Q4,2025,Proposal,,Commit
+75,2024-05-01,REP06,Grace Lee,APAC,Walkerbury Territory,Consulting,CUST0075,Medium,377854.52,0.049,18514.87,532520.8,64.5,Q3,2024,Negotiation,,Pipeline
+76,2025-12-12,REP07,Jack Taylor,APAC,Williamsmouth Territory,Hardware,CUST0076,Large,331578.79,0.037,12268.42,358452.3,124.9,Q4,2025,Closed Won,19,Commit
+77,2025-05-01,REP08,Eve Davis,APAC,Ballborough Territory,Services,CUST0077,Large,105832.67,0.061,6455.79,139511.01,128.9,Q2,2025,Closed Won,46,Omitted
+78,2024-06-23,REP09,Charlie Brown,Latin America,Georgeburgh Territory,Services,CUST0078,Medium,222956.99,0.059,13154.46,206932.52,34.0,Q2,2024,Proposal,,Best Case
+79,2025-01-04,REP10,Eve Davis,APAC,Stonefurt Territory,Software,CUST0079,Medium,414700.08,0.076,31517.21,435613.06,0.0,Q2,2025,Qualification,,Commit
+80,2025-06-04,REP01,Diana Prince,Latin America,Williamstad Territory,Software,CUST0080,Enterprise,196153.2,0.081,15888.41,149379.05,0.0,Q4,2025,Qualification,,Best Case
+81,2024-01-06,REP02,Bob Smith,South Asia,Froststad Territory,Software,CUST0081,Large,282923.92,0.023,6507.25,327223.09,62.3,Q4,2024,Negotiation,,Upside
+82,2024-04-20,REP03,Jack Taylor,Latin America,Kellyport Territory,Software,CUST0082,Medium,334425.47,0.067,22406.51,395912.29,29.4,Q1,2024,Proposal,,Upside
+83,2024-05-11,REP04,Diana Prince,Latin America,Whiteborough Territory,Software,CUST0083,Small,161582.85,0.079,12765.05,116329.48,44.9,Q4,2024,Negotiation,,Upside
+84,2024-06-23,REP05,Jack Taylor,North America,New Victorberg Territory,Cloud Platform,CUST0084,Large,298448.88,0.057,17011.59,238794.52,135.1,Q2,2024,Closed Won,44,Upside
+85,2024-02-18,REP06,Charlie Brown,North America,East Leviborough Territory,Cloud Platform,CUST0085,Enterprise,44424.91,0.023,1021.77,65433.2,0.0,Q4,2024,Qualification,,Best Case
+86,2024-12-10,REP07,Henry Wilson,EMEA,West Bradleyside Territory,Hardware,CUST0086,Large,360527.86,0.038,13700.06,278372.43,11.5,Q2,2024,Proposal,,Best Case
+87,2024-11-26,REP08,Charlie Brown,North America,South Nicole Territory,Services,CUST0087,Small,465258.84,0.052,24193.46,499429.19,41.1,Q4,2024,Negotiation,,Omitted
+88,2024-05-30,REP09,Iris Chen,Latin America,North Christopher Territory,Consulting,CUST0088,Enterprise,175960.31,0.048,8446.09,143647.93,0.0,Q2,2024,Qualification,,Best Case
+89,2025-09-21,REP10,Alice Johnson,Latin America,Lake Lauren Territory,Consulting,CUST0089,Large,441346.97,0.087,38397.19,361498.64,44.2,Q4,2025,Negotiation,,Upside
+90,2025-11-15,REP01,Iris Chen,APAC,Washingtonside Territory,Hardware,CUST0090,Enterprise,122459.34,0.033,4041.16,108830.92,0.0,Q4,2025,Qualification,,Upside
+91,2025-12-19,REP02,Henry Wilson,North America,South Leah Territory,Cloud Platform,CUST0091,Enterprise,42774.55,0.088,3764.16,63280.99,125.4,Q4,2025,Closed Won,68,Upside
+92,2025-12-16,REP03,Grace Lee,North America,West Aaronberg Territory,Cloud Platform,CUST0092,Medium,437585.57,0.055,24067.21,563731.89,0.0,Q4,2025,Qualification,,Pipeline
+93,2024-05-25,REP04,Jack Taylor,EMEA,North Marissaborough Territory,Services,CUST0093,Large,474461.25,0.031,14708.3,409780.03,132.6,Q2,2024,Closed Won,35,Upside
+94,2025-09-24,REP05,Jack Taylor,APAC,Jessicaton Territory,Software,CUST0094,Large,370635.05,0.026,9636.51,320649.64,118.8,Q3,2025,Closed Won,129,Commit
+95,2024-07-28,REP06,Charlie Brown,EMEA,South Johnmouth Territory,Services,CUST0095,Large,289176.12,0.072,20820.68,237450.17,127.7,Q2,2024,Closed Won,22,Omitted
+96,2025-05-14,REP07,Henry Wilson,North America,Guzmanton Territory,Hardware,CUST0096,Medium,312919.67,0.074,23156.06,360869.82,0.0,Q2,2025,Prospecting,,Upside
+97,2024-09-15,REP08,Alice Johnson,EMEA,South Nancy Territory,Hardware,CUST0097,Large,356085.62,0.052,18516.45,284641.54,0.0,Q4,2024,Closed Lost,,Best Case
+98,2024-05-21,REP09,Charlie Brown,APAC,South Briannashire Territory,Services,CUST0098,Large,303469.56,0.036,10924.9,318813.7,101.5,Q4,2024,Closed Won,168,Upside
+99,2024-05-19,REP10,Charlie Brown,APAC,Leachberg Territory,Software,CUST0099,Enterprise,283137.31,0.06,16988.24,282052.44,0.0,Q2,2024,Qualification,,Pipeline
+100,2024-06-22,REP01,Eve Davis,South Asia,Wattsland Territory,Hardware,CUST0100,Enterprise,400902.84,0.032,12828.89,507829.93,112.0,Q2,2024,Closed Won,126,Upside
+101,2024-09-29,REP02,Henry Wilson,APAC,Port Becky Territory,Cloud Platform,CUST0101,Medium,250382.1,0.094,23535.92,332990.02,22.8,Q4,2024,Proposal,,Pipeline
+102,2025-06-11,REP03,Henry Wilson,North America,Shannonton Territory,Services,CUST0102,Enterprise,147752.06,0.034,5023.57,186465.45,87.6,Q4,2025,Closed Won,117,Omitted
+103,2024-08-15,REP04,Jack Taylor,APAC,East Susanshire Territory,Hardware,CUST0103,Large,493222.62,0.082,40444.25,690144.73,42.7,Q3,2024,Negotiation,,Omitted
+104,2024-08-22,REP05,Henry Wilson,North America,Gillton Territory,Consulting,CUST0104,Small,35488.38,0.029,1029.16,48352.12,0.0,Q2,2024,Qualification,,Pipeline
+105,2024-11-27,REP06,Diana Prince,Latin America,North David Territory,Cloud Platform,CUST0105,Small,344798.69,0.075,25859.9,374226.49,0.0,Q2,2024,Qualification,,Omitted
+106,2024-10-19,REP07,Frank Miller,Latin America,South Robert Territory,Services,CUST0106,Large,171972.05,0.056,9630.43,151685.46,54.5,Q3,2024,Negotiation,,Omitted
+107,2025-02-13,REP08,Bob Smith,North America,Alexanderborough Territory,Services,CUST0107,Small,131641.3,0.061,8030.12,175948.04,117.0,Q4,2025,Closed Won,79,Upside
+108,2025-11-20,REP09,Frank Miller,Latin America,Lake Heather Territory,Consulting,CUST0108,Medium,239229.37,0.025,5980.73,172427.27,0.0,Q3,2025,Qualification,,Best Case
+109,2024-01-31,REP10,Eve Davis,South Asia,East Ericmouth Territory,Software,CUST0109,Large,404798.73,0.085,34407.89,419734.28,79.0,Q1,2024,Negotiation,,Omitted
+110,2025-07-24,REP01,Grace Lee,Latin America,West Erinberg Territory,Software,CUST0110,Small,97836.69,0.086,8413.96,136787.39,0.0,Q3,2025,Prospecting,,Upside
+111,2024-03-16,REP02,Alice Johnson,APAC,Schwartzberg Territory,Consulting,CUST0111,Enterprise,369156.29,0.031,11443.84,327823.63,93.3,Q2,2024,Closed Won,40,Upside
+112,2024-01-08,REP03,Jack Taylor,Latin America,South Mathewview Territory,Software,CUST0112,Large,300769.93,0.024,7218.48,280567.96,0.0,Q2,2024,Qualification,,Omitted
+113,2024-10-26,REP04,Jack Taylor,Latin America,Sandraport Territory,Software,CUST0113,Medium,424140.79,0.066,27993.29,298943.95,114.2,Q3,2024,Closed Won,35,Commit
+114,2024-08-22,REP05,Bob Smith,Latin America,North Elizabethmouth Territory,Software,CUST0114,Medium,262589.89,0.027,7089.93,358733.94,46.2,Q4,2024,Negotiation,,Pipeline
+115,2024-06-06,REP06,Henry Wilson,North America,Martinezfort Territory,Services,CUST0115,Small,153147.6,0.075,11486.07,157580.81,57.1,Q3,2024,Negotiation,,Upside
+116,2024-09-24,REP07,Bob Smith,Latin America,Brianfort Territory,Hardware,CUST0116,Small,193455.62,0.092,17797.92,229048.01,0.0,Q1,2024,Closed Lost,,Omitted
+117,2025-02-12,REP08,Bob Smith,EMEA,South Caroline Territory,Software,CUST0117,Large,289108.26,0.065,18792.04,278859.09,89.9,Q3,2025,Closed Won,153,Upside
+118,2024-07-07,REP09,Bob Smith,South Asia,South Courtneyhaven Territory,Software,CUST0118,Large,474772.09,0.042,19940.43,585518.93,18.2,Q3,2024,Proposal,,Commit
+119,2024-01-15,REP10,Jack Taylor,South Asia,Robinberg Territory,Software,CUST0119,Enterprise,284776.32,0.024,6834.63,391367.64,116.4,Q4,2024,Closed Won,130,Commit
+120,2025-07-10,REP01,Bob Smith,South Asia,Sanchezstad Territory,Services,CUST0120,Medium,328537.99,0.082,26940.12,330668.94,0.0,Q4,2025,Qualification,,Upside
+121,2024-08-17,REP02,Charlie Brown,South Asia,Jonathanburgh Territory,Hardware,CUST0121,Medium,88624.22,0.031,2747.35,99352.91,72.7,Q4,2024,Negotiation,,Omitted
+122,2025-09-15,REP03,Eve Davis,North America,Kyleborough Territory,Software,CUST0122,Small,188479.06,0.038,7162.2,230765.53,0.0,Q2,2025,Prospecting,,Omitted
+123,2024-07-22,REP04,Diana Prince,South Asia,Port Kristen Territory,Software,CUST0123,Large,478299.69,0.064,30611.18,531255.39,0.0,Q2,2024,Prospecting,,Commit
+124,2025-11-08,REP05,Jack Taylor,Latin America,South Philip Territory,Cloud Platform,CUST0124,Large,133465.29,0.052,6940.2,173603.73,121.3,Q1,2025,Closed Won,12,Commit
+125,2025-11-23,REP06,Jack Taylor,Latin America,Sotoport Territory,Hardware,CUST0125,Large,245026.43,0.043,10536.14,199593.48,0.0,Q1,2025,Prospecting,,Upside
+126,2024-06-24,REP07,Iris Chen,EMEA,South David Territory,Cloud Platform,CUST0126,Small,41707.57,0.09,3753.68,43559.31,50.0,Q2,2024,Negotiation,,Commit
+127,2024-05-15,REP08,Iris Chen,Latin America,North Amy Territory,Hardware,CUST0127,Medium,251544.88,0.089,22387.49,258701.39,0.0,Q1,2024,Qualification,,Upside
+128,2024-05-20,REP09,Charlie Brown,South Asia,Port Heather Territory,Cloud Platform,CUST0128,Small,121710.44,0.063,7667.76,148655.92,0.0,Q3,2024,Prospecting,,Upside
+129,2025-10-08,REP10,Iris Chen,South Asia,Andrewtown Territory,Software,CUST0129,Small,416930.62,0.061,25432.77,493566.82,113.9,Q2,2025,Closed Won,157,Pipeline
+130,2025-06-10,REP01,Henry Wilson,Latin America,South Markburgh Territory,Cloud Platform,CUST0130,Large,330553.58,0.033,10908.27,323736.36,61.6,Q3,2025,Negotiation,,Omitted
+131,2024-10-10,REP02,Henry Wilson,Latin America,North Shirley Territory,Hardware,CUST0131,Enterprise,324642.69,0.058,18829.28,331451.35,54.7,Q4,2024,Negotiation,,Best Case
+132,2025-04-13,REP03,Grace Lee,APAC,Lake Christopher Territory,Consulting,CUST0132,Enterprise,94958.16,0.047,4463.03,88819.63,122.5,Q4,2025,Closed Won,10,Pipeline
+133,2024-12-07,REP04,Iris Chen,North America,Lake Deborah Territory,Software,CUST0133,Medium,70712.2,0.084,5939.82,94638.41,0.0,Q1,2024,Prospecting,,Pipeline
+134,2024-03-31,REP05,Frank Miller,Latin America,Olsenfurt Territory,Consulting,CUST0134,Large,352582.02,0.095,33495.29,329954.95,0.0,Q2,2024,Prospecting,,Omitted
+135,2024-12-22,REP06,Bob Smith,EMEA,Kellyberg Territory,Consulting,CUST0135,Enterprise,328200.18,0.02,6564.0,381003.52,96.1,Q1,2024,Closed Won,41,Pipeline
+136,2025-08-13,REP07,Jack Taylor,APAC,South Jameston Territory,Software,CUST0136,Large,131779.01,0.024,3162.7,172697.49,96.7,Q3,2025,Closed Won,57,Omitted
+137,2024-05-08,REP08,Jack Taylor,South Asia,Lewischester Territory,Consulting,CUST0137,Medium,106573.16,0.056,5968.1,81441.27,0.0,Q4,2024,Qualification,,Commit
+138,2025-09-14,REP09,Alice Johnson,South Asia,Katietown Territory,Software,CUST0138,Medium,26520.81,0.071,1882.98,30112.41,118.1,Q4,2025,Closed Won,173,Upside
+139,2024-10-19,REP10,Alice Johnson,APAC,Lake Michaelborough Territory,Consulting,CUST0139,Large,145330.87,0.031,4505.26,140829.49,34.4,Q4,2024,Proposal,,Omitted
+140,2024-02-13,REP01,Bob Smith,South Asia,South Brittanystad Territory,Hardware,CUST0140,Small,89839.36,0.085,7636.35,107403.63,55.4,Q3,2024,Negotiation,,Omitted
+141,2025-03-25,REP02,Charlie Brown,EMEA,New Michelle Territory,Cloud Platform,CUST0141,Large,89238.6,0.055,4908.12,120225.12,73.2,Q2,2025,Negotiation,,Commit
+142,2024-01-15,REP03,Alice Johnson,Latin America,Mcphersonstad Territory,Cloud Platform,CUST0142,Medium,296784.79,0.09,26710.63,254013.89,0.0,Q4,2024,Qualification,,Omitted
+143,2025-03-19,REP04,Henry Wilson,Latin America,Rodriguezstad Territory,Services,CUST0143,Small,411685.9,0.086,35404.99,321746.01,23.4,Q1,2025,Proposal,,Omitted
+144,2024-07-19,REP05,Grace Lee,EMEA,East Michael Territory,Software,CUST0144,Small,461094.26,0.036,16599.39,324356.69,100.4,Q1,2024,Closed Won,86,Best Case
+145,2024-06-27,REP06,Iris Chen,North America,Whiteburgh Territory,Consulting,CUST0145,Large,86433.02,0.032,2765.86,64288.55,30.2,Q4,2024,Proposal,,Upside
+146,2024-05-28,REP07,Jack Taylor,EMEA,Traceyside Territory,Consulting,CUST0146,Small,42834.91,0.087,3726.64,32657.28,0.0,Q4,2024,Closed Lost,,Omitted
+147,2024-03-03,REP08,Alice Johnson,South Asia,Colemanburgh Territory,Consulting,CUST0147,Medium,305019.74,0.033,10065.65,420096.73,134.7,Q4,2024,Closed Won,179,Best Case
+148,2025-03-30,REP09,Bob Smith,APAC,South James Territory,Services,CUST0148,Medium,307301.53,0.044,13521.27,374516.15,23.7,Q1,2025,Proposal,,Omitted
+149,2024-02-05,REP10,Frank Miller,North America,Henryshire Territory,Cloud Platform,CUST0149,Small,496743.64,0.088,43713.44,499194.81,57.7,Q4,2024,Negotiation,,Best Case
+150,2024-12-20,REP01,Charlie Brown,APAC,Veronicaport Territory,Consulting,CUST0150,Enterprise,56580.8,0.08,4526.46,52310.43,117.9,Q1,2024,Closed Won,37,Commit
+151,2024-03-24,REP02,Frank Miller,Latin America,East Williamside Territory,Consulting,CUST0151,Medium,369574.97,0.059,21804.92,539427.33,50.3,Q3,2024,Negotiation,,Best Case
+152,2025-02-02,REP03,Iris Chen,APAC,Lake David Territory,Cloud Platform,CUST0152,Enterprise,38077.84,0.073,2779.68,38329.82,0.0,Q1,2025,Prospecting,,Upside
+153,2024-06-14,REP04,Eve Davis,Latin America,Melanietown Territory,Software,CUST0153,Small,144275.59,0.045,6492.4,109783.7,45.9,Q4,2024,Negotiation,,Commit
+154,2025-03-31,REP05,Charlie Brown,North America,Laurashire Territory,Services,CUST0154,Medium,140345.7,0.035,4912.1,112945.74,14.5,Q1,2025,Proposal,,Best Case
+155,2025-12-28,REP06,Grace Lee,Latin America,South Shannon Territory,Cloud Platform,CUST0155,Small,465011.84,0.072,33480.85,386979.99,62.1,Q1,2025,Negotiation,,Best Case
+156,2025-05-23,REP07,Alice Johnson,North America,East Kyle Territory,Cloud Platform,CUST0156,Small,217371.52,0.095,20650.29,212687.98,67.9,Q4,2025,Negotiation,,Commit
+157,2024-10-11,REP08,Alice Johnson,South Asia,New Jenny Territory,Hardware,CUST0157,Small,201671.79,0.067,13512.01,157411.67,109.8,Q3,2024,Closed Won,57,Pipeline
+158,2025-11-16,REP09,Jack Taylor,North America,Blakemouth Territory,Hardware,CUST0158,Large,394140.36,0.086,33896.07,575725.75,0.0,Q4,2025,Qualification,,Best Case
+159,2025-11-22,REP10,Bob Smith,South Asia,Sonyastad Territory,Services,CUST0159,Small,453571.65,0.075,34017.87,617298.82,50.3,Q4,2025,Negotiation,,Best Case
+160,2024-08-21,REP01,Charlie Brown,North America,Lyonsfort Territory,Hardware,CUST0160,Large,342070.8,0.046,15735.26,467115.92,0.0,Q4,2024,Prospecting,,Commit
+161,2025-12-22,REP02,Henry Wilson,Latin America,Port Richard Territory,Hardware,CUST0161,Large,484452.02,0.087,42147.33,546059.74,0.0,Q1,2025,Closed Lost,,Best Case
+162,2024-11-03,REP03,Diana Prince,EMEA,Charlestown Territory,Consulting,CUST0162,Medium,135620.08,0.086,11663.33,144513.29,0.0,Q4,2024,Qualification,,Commit
+163,2024-10-18,REP04,Henry Wilson,EMEA,South Frankshire Territory,Services,CUST0163,Large,359484.73,0.051,18333.72,268652.38,28.4,Q2,2024,Proposal,,Commit
+164,2025-12-27,REP05,Eve Davis,Latin America,Aaronbury Territory,Hardware,CUST0164,Enterprise,73559.62,0.055,4045.78,56886.98,75.7,Q1,2025,Negotiation,,Pipeline
+165,2025-01-09,REP06,Eve Davis,Latin America,Stewartfurt Territory,Cloud Platform,CUST0165,Small,43826.07,0.046,2016.0,32348.38,30.1,Q1,2025,Proposal,,Upside
+166,2025-12-11,REP07,Bob Smith,Latin America,South Kimberlystad Territory,Hardware,CUST0166,Medium,13690.66,0.059,807.75,13086.12,86.2,Q2,2025,Closed Won,12,Omitted
+167,2024-09-21,REP08,Charlie Brown,South Asia,Gordonchester Territory,Software,CUST0167,Large,169512.4,0.072,12204.89,199553.27,45.4,Q3,2024,Negotiation,,Upside
+168,2025-08-29,REP09,Charlie Brown,South Asia,Lake Donaldmouth Territory,Hardware,CUST0168,Medium,489651.41,0.057,27910.13,501885.05,31.0,Q4,2025,Proposal,,Upside
+169,2024-06-28,REP10,Jack Taylor,South Asia,East Teresamouth Territory,Cloud Platform,CUST0169,Large,76356.78,0.097,7406.61,60563.28,85.7,Q1,2024,Closed Won,113,Upside
+170,2024-09-18,REP01,Jack Taylor,APAC,Byrdmouth Territory,Services,CUST0170,Medium,322109.12,0.092,29634.04,462101.78,47.8,Q1,2024,Negotiation,,Best Case
+171,2025-09-29,REP02,Iris Chen,Latin America,New Aaronport Territory,Consulting,CUST0171,Enterprise,233908.47,0.027,6315.53,165935.88,0.0,Q2,2025,Qualification,,Commit
+172,2024-01-02,REP03,Alice Johnson,South Asia,Kennethbury Territory,Cloud Platform,CUST0172,Enterprise,236825.17,0.037,8762.53,312001.35,133.1,Q1,2024,Closed Won,126,Upside
+173,2024-11-15,REP04,Charlie Brown,North America,Glenport Territory,Hardware,CUST0173,Medium,396180.56,0.079,31298.26,584743.64,35.2,Q3,2024,Proposal,,Commit
+174,2025-06-11,REP05,Bob Smith,EMEA,Lopezburgh Territory,Consulting,CUST0174,Small,61886.89,0.069,4270.2,78042.26,20.9,Q4,2025,Proposal,,Pipeline
+175,2024-04-26,REP06,Bob Smith,North America,New Vincent Territory,Hardware,CUST0175,Large,246509.75,0.04,9860.39,286184.81,105.2,Q4,2024,Closed Won,28,Commit
+176,2024-03-22,REP07,Frank Miller,North America,East Tinafort Territory,Consulting,CUST0176,Large,489256.42,0.063,30823.15,553965.85,41.0,Q3,2024,Negotiation,,Upside
+177,2024-01-14,REP08,Diana Prince,EMEA,Lake Rachel Territory,Hardware,CUST0177,Medium,71214.49,0.045,3204.65,97166.87,41.4,Q3,2024,Negotiation,,Best Case
+178,2025-01-03,REP09,Alice Johnson,Latin America,New Matthewfort Territory,Cloud Platform,CUST0178,Large,355171.82,0.034,12075.84,465435.8,49.5,Q3,2025,Negotiation,,Best Case
+179,2024-07-04,REP10,Eve Davis,North America,Chanmouth Territory,Hardware,CUST0179,Large,471454.15,0.054,25458.52,399563.38,16.6,Q2,2024,Proposal,,Omitted
+180,2024-12-12,REP01,Eve Davis,APAC,North Mitchell Territory,Services,CUST0180,Small,359044.62,0.055,19747.45,511113.66,53.6,Q1,2024,Negotiation,,Commit
+181,2024-10-04,REP02,Bob Smith,North America,North David Territory,Services,CUST0181,Enterprise,73132.32,0.083,6069.98,99874.4,96.2,Q1,2024,Closed Won,109,Pipeline
+182,2024-12-19,REP03,Eve Davis,Latin America,Chasestad Territory,Software,CUST0182,Enterprise,129807.39,0.051,6620.18,141220.38,0.0,Q1,2024,Qualification,,Commit
+183,2024-09-12,REP04,Henry Wilson,EMEA,North Jesseshire Territory,Consulting,CUST0183,Medium,340717.72,0.043,14650.86,379459.63,0.0,Q3,2024,Qualification,,Commit
+184,2025-08-21,REP05,Jack Taylor,North America,East Briannashire Territory,Hardware,CUST0184,Medium,391190.73,0.063,24645.02,586065.13,47.3,Q4,2025,Negotiation,,Best Case
+185,2024-12-22,REP06,Grace Lee,EMEA,Johnstad Territory,Hardware,CUST0185,Enterprise,101962.64,0.049,4996.17,136300.18,0.0,Q3,2024,Qualification,,Commit
+186,2025-05-20,REP07,Henry Wilson,South Asia,Brownington Territory,Hardware,CUST0186,Medium,169228.85,0.086,14553.68,203186.41,29.8,Q4,2025,Proposal,,Upside
+187,2024-11-03,REP08,Jack Taylor,EMEA,Port Tanya Territory,Software,CUST0187,Enterprise,351240.9,0.058,20371.97,382504.04,50.9,Q1,2024,Negotiation,,Best Case
+188,2024-01-27,REP09,Iris Chen,EMEA,Williamsmouth Territory,Services,CUST0188,Enterprise,397694.47,0.027,10737.75,463417.82,30.4,Q3,2024,Proposal,,Pipeline
+189,2024-04-20,REP10,Jack Taylor,EMEA,South Amyside Territory,Consulting,CUST0189,Enterprise,391484.55,0.093,36408.06,582286.32,68.0,Q4,2024,Negotiation,,Pipeline
+190,2024-12-23,REP01,Charlie Brown,APAC,Richardshire Territory,Hardware,CUST0190,Medium,213366.72,0.062,13228.74,150879.94,63.0,Q4,2024,Negotiation,,Commit
+191,2024-11-03,REP02,Bob Smith,APAC,New Emily Territory,Software,CUST0191,Large,161309.64,0.09,14517.87,237407.66,27.6,Q4,2024,Proposal,,Commit
+192,2024-03-13,REP03,Diana Prince,APAC,North Rachel Territory,Services,CUST0192,Small,98032.87,0.038,3725.25,76653.83,138.7,Q2,2024,Closed Won,178,Commit
+193,2024-11-24,REP04,Jack Taylor,APAC,New Kathleen Territory,Hardware,CUST0193,Small,377180.99,0.047,17727.51,283778.94,112.3,Q2,2024,Closed Won,98,Omitted
+194,2025-02-22,REP05,Frank Miller,EMEA,Myersside Territory,Consulting,CUST0194,Small,14899.18,0.098,1460.12,11541.66,25.2,Q3,2025,Proposal,,Best Case
+195,2025-12-24,REP06,Jack Taylor,APAC,Lake Zachary Territory,Consulting,CUST0195,Medium,423600.41,0.023,9742.81,409630.22,0.0,Q2,2025,Prospecting,,Omitted
+196,2025-05-18,REP07,Diana Prince,Latin America,New Kevinside Territory,Consulting,CUST0196,Small,244598.7,0.02,4891.97,196442.79,42.8,Q1,2025,Negotiation,,Omitted
+197,2024-05-27,REP08,Charlie Brown,North America,Lake Andrewfort Territory,Services,CUST0197,Medium,134545.11,0.026,3498.17,160336.9,76.2,Q4,2024,Negotiation,,Commit
+198,2025-02-27,REP09,Jack Taylor,Latin America,Billton Territory,Consulting,CUST0198,Medium,17743.34,0.05,887.17,23837.95,63.7,Q1,2025,Negotiation,,Upside
+199,2025-04-17,REP10,Henry Wilson,APAC,Lake Bobby Territory,Software,CUST0199,Medium,194724.72,0.023,4478.67,258502.7,67.2,Q3,2025,Negotiation,,Commit
+200,2024-01-11,REP01,Bob Smith,APAC,New Jasonview Territory,Cloud Platform,CUST0200,Enterprise,165279.16,0.052,8594.52,230627.94,18.5,Q3,2024,Proposal,,Commit
+201,2025-08-14,REP02,Henry Wilson,Latin America,Lake Ryanview Territory,Hardware,CUST0201,Medium,207899.21,0.026,5405.38,185765.69,80.4,Q3,2025,Closed Won,103,Upside
+202,2025-04-14,REP03,Eve Davis,Latin America,South Codyville Territory,Hardware,CUST0202,Large,370623.55,0.042,15566.19,365756.51,113.4,Q2,2025,Closed Won,28,Pipeline
+203,2025-05-07,REP04,Iris Chen,Latin America,New Edward Territory,Consulting,CUST0203,Enterprise,487532.68,0.045,21938.97,599254.21,46.2,Q2,2025,Negotiation,,Omitted
+204,2025-09-26,REP05,Jack Taylor,APAC,Brookstown Territory,Software,CUST0204,Medium,122794.86,0.093,11419.92,107413.72,97.5,Q1,2025,Closed Won,144,Upside
+205,2025-07-05,REP06,Diana Prince,Latin America,New Katherine Territory,Cloud Platform,CUST0205,Enterprise,332511.52,0.098,32586.13,279810.37,47.3,Q4,2025,Negotiation,,Omitted
+206,2024-10-01,REP07,Iris Chen,EMEA,New Dylanmouth Territory,Consulting,CUST0206,Medium,56559.55,0.032,1809.91,62986.35,92.9,Q2,2024,Closed Won,9,Commit
+207,2024-05-19,REP08,Diana Prince,South Asia,Nguyenchester Territory,Cloud Platform,CUST0207,Medium,158390.87,0.069,10928.97,133142.92,90.3,Q4,2024,Closed Won,79,Commit
+208,2025-07-10,REP09,Iris Chen,North America,Lucasview Territory,Cloud Platform,CUST0208,Medium,498829.42,0.098,48885.28,428421.99,132.7,Q4,2025,Closed Won,114,Omitted
+209,2025-02-08,REP10,Grace Lee,Latin America,Michaelburgh Territory,Hardware,CUST0209,Small,133687.63,0.034,4545.38,112698.79,23.9,Q1,2025,Proposal,,Pipeline
+210,2024-03-23,REP01,Jack Taylor,South Asia,Leefort Territory,Hardware,CUST0210,Medium,458951.52,0.092,42223.54,639416.31,128.1,Q2,2024,Closed Won,124,Pipeline
+211,2024-02-06,REP02,Jack Taylor,EMEA,Kristychester Territory,Hardware,CUST0211,Large,57913.0,0.059,3416.87,77632.07,34.0,Q3,2024,Proposal,,Best Case
+212,2025-02-03,REP03,Diana Prince,Latin America,Cathyburgh Territory,Software,CUST0212,Medium,17902.9,0.067,1199.49,22588.22,51.6,Q4,2025,Negotiation,,Commit
+213,2025-02-22,REP04,Alice Johnson,South Asia,Williamville Territory,Cloud Platform,CUST0213,Medium,236705.82,0.052,12308.7,225133.95,10.4,Q2,2025,Proposal,,Pipeline
+214,2025-02-03,REP05,Jack Taylor,EMEA,Annashire Territory,Services,CUST0214,Large,350698.74,0.092,32264.28,268993.99,130.8,Q1,2025,Closed Won,107,Upside
+215,2025-09-16,REP06,Jack Taylor,Latin America,New Matthewchester Territory,Hardware,CUST0215,Medium,311102.56,0.092,28621.44,441939.13,118.4,Q3,2025,Closed Won,35,Pipeline
+216,2024-10-23,REP07,Bob Smith,South Asia,South Melinda Territory,Services,CUST0216,Medium,101298.7,0.099,10028.57,132844.08,0.0,Q4,2024,Prospecting,,Pipeline
+217,2025-01-14,REP08,Henry Wilson,Latin America,Lake Seanside Territory,Software,CUST0217,Small,150177.36,0.073,10962.95,181718.46,89.3,Q2,2025,Closed Won,137,Omitted
+218,2025-08-31,REP09,Diana Prince,South Asia,Sampsonfort Territory,Services,CUST0218,Large,154084.84,0.068,10477.77,196795.4,136.8,Q4,2025,Closed Won,54,Omitted
+219,2024-06-09,REP10,Bob Smith,APAC,North Cynthiashire Territory,Software,CUST0219,Large,218710.73,0.058,12685.22,263029.66,102.5,Q4,2024,Closed Won,178,Omitted
+220,2025-12-04,REP01,Iris Chen,EMEA,Tiffanymouth Territory,Software,CUST0220,Medium,22111.4,0.088,1945.8,26465.7,0.0,Q2,2025,Prospecting,,Upside
+221,2024-08-19,REP02,Eve Davis,EMEA,Lake Kimberly Territory,Software,CUST0221,Small,438855.06,0.024,10532.52,329586.96,0.0,Q4,2024,Qualification,,Upside
+222,2025-02-19,REP03,Jack Taylor,EMEA,Johnsonmouth Territory,Software,CUST0222,Small,212397.08,0.063,13381.02,160187.43,45.2,Q1,2025,Negotiation,,Best Case
+223,2025-10-16,REP04,Bob Smith,APAC,North Kevinshire Territory,Services,CUST0223,Small,66817.93,0.061,4075.89,78088.87,75.6,Q3,2025,Negotiation,,Upside
+224,2025-12-26,REP05,Iris Chen,EMEA,Wrightstad Territory,Services,CUST0224,Medium,100000.58,0.021,2100.01,92261.08,109.2,Q1,2025,Closed Won,43,Best Case
+225,2024-08-31,REP06,Henry Wilson,EMEA,Edwardberg Territory,Services,CUST0225,Medium,452995.13,0.025,11324.88,395846.02,31.2,Q1,2024,Proposal,,Omitted
+226,2025-09-14,REP07,Grace Lee,North America,Lake Terri Territory,Software,CUST0226,Small,391189.74,0.067,26209.71,568284.77,0.0,Q1,2025,Qualification,,Commit
+227,2025-07-17,REP08,Bob Smith,EMEA,Leahport Territory,Cloud Platform,CUST0227,Medium,254257.46,0.08,20340.6,300006.21,75.6,Q3,2025,Negotiation,,Upside
+228,2024-07-03,REP09,Frank Miller,APAC,South Juliestad Territory,Hardware,CUST0228,Medium,161004.92,0.063,10143.31,195969.66,72.0,Q3,2024,Negotiation,,Best Case
+229,2025-09-21,REP10,Diana Prince,Latin America,Lindseyview Territory,Hardware,CUST0229,Large,29858.79,0.069,2060.26,43419.58,21.7,Q2,2025,Proposal,,Upside
+230,2024-04-23,REP01,Grace Lee,EMEA,Stokesbury Territory,Services,CUST0230,Small,130446.31,0.059,7696.33,112596.9,64.3,Q3,2024,Negotiation,,Upside
+231,2024-05-01,REP02,Diana Prince,South Asia,Kimberlyfort Territory,Hardware,CUST0231,Small,435915.81,0.092,40104.25,443671.13,121.9,Q3,2024,Closed Won,114,Upside
+232,2025-07-04,REP03,Henry Wilson,APAC,Lake Donaldberg Territory,Hardware,CUST0232,Large,456816.58,0.095,43397.58,524531.62,102.9,Q4,2025,Closed Won,127,Best Case
+233,2024-02-17,REP04,Henry Wilson,APAC,East Derrick Territory,Hardware,CUST0233,Enterprise,322450.52,0.096,30955.25,316500.87,0.0,Q3,2024,Qualification,,Upside
+234,2025-11-29,REP05,Diana Prince,Latin America,Howardchester Territory,Services,CUST0234,Large,482301.66,0.03,14469.05,609952.64,105.7,Q1,2025,Closed Won,36,Best Case
+235,2024-02-29,REP06,Frank Miller,EMEA,Valerieville Territory,Cloud Platform,CUST0235,Medium,215888.23,0.086,18566.39,176366.26,134.7,Q3,2024,Closed Won,160,Omitted
+236,2024-03-24,REP07,Iris Chen,Latin America,Joshuatown Territory,Services,CUST0236,Small,434483.98,0.069,29979.39,507002.59,69.2,Q4,2024,Negotiation,,Commit
+237,2024-08-10,REP08,Charlie Brown,North America,Port Ryan Territory,Hardware,CUST0237,Medium,212063.26,0.097,20570.14,271201.26,121.2,Q2,2024,Closed Won,32,Pipeline
+238,2024-11-18,REP09,Jack Taylor,South Asia,Josephside Territory,Cloud Platform,CUST0238,Medium,84616.54,0.052,4400.06,97775.48,104.6,Q2,2024,Closed Won,50,Omitted
+239,2024-02-03,REP10,Charlie Brown,North America,Katieville Territory,Software,CUST0239,Enterprise,465533.31,0.1,46553.33,662513.14,92.5,Q4,2024,Closed Won,140,Best Case
+240,2024-03-28,REP01,Jack Taylor,Latin America,Johnsonborough Territory,Cloud Platform,CUST0240,Medium,455816.66,0.088,40111.87,392161.75,81.7,Q4,2024,Closed Won,83,Commit
+241,2024-04-11,REP02,Grace Lee,APAC,West Michael Territory,Services,CUST0241,Medium,472600.94,0.088,41588.88,651941.66,36.2,Q2,2024,Proposal,,Omitted
+242,2025-02-02,REP03,Jack Taylor,South Asia,South Darleneborough Territory,Software,CUST0242,Enterprise,189826.26,0.086,16325.06,133853.23,55.4,Q4,2025,Negotiation,,Upside
+243,2025-02-24,REP04,Grace Lee,Latin America,Ericland Territory,Services,CUST0243,Enterprise,181513.5,0.084,15247.13,267346.97,0.0,Q4,2025,Qualification,,Pipeline
+244,2024-07-10,REP05,Henry Wilson,EMEA,Woodstown Territory,Services,CUST0244,Medium,92104.67,0.038,3499.98,108929.36,108.2,Q4,2024,Closed Won,73,Commit
+245,2025-11-25,REP06,Grace Lee,Latin America,Heathershire Territory,Software,CUST0245,Medium,320516.35,0.036,11538.59,226137.61,0.0,Q4,2025,Prospecting,,Best Case
+246,2024-12-24,REP07,Frank Miller,South Asia,Port Kevin Territory,Consulting,CUST0246,Small,47580.85,0.074,3520.98,39137.09,23.0,Q1,2024,Proposal,,Best Case
+247,2025-04-11,REP08,Grace Lee,North America,Leslieport Territory,Consulting,CUST0247,Enterprise,268728.35,0.042,11286.59,377737.68,15.6,Q4,2025,Proposal,,Omitted
+248,2024-01-05,REP09,Eve Davis,South Asia,North Regina Territory,Hardware,CUST0248,Large,25385.03,0.025,634.63,18122.08,0.0,Q4,2024,Prospecting,,Best Case
+249,2025-03-29,REP10,Grace Lee,Latin America,South Brian Territory,Hardware,CUST0249,Enterprise,62360.06,0.086,5362.97,44421.57,0.0,Q1,2025,Qualification,,Pipeline
+250,2024-05-19,REP01,Grace Lee,South Asia,Jessicaborough Territory,Consulting,CUST0250,Medium,173127.48,0.072,12465.18,246261.27,0.0,Q4,2024,Qualification,,Best Case
+251,2024-10-06,REP02,Grace Lee,Latin America,East Jerome Territory,Hardware,CUST0251,Medium,278124.3,0.038,10568.72,281227.74,0.0,Q3,2024,Prospecting,,Omitted
+252,2025-02-13,REP03,Frank Miller,EMEA,Cherylport Territory,Services,CUST0252,Small,15827.65,0.025,395.69,20596.86,50.4,Q2,2025,Negotiation,,Omitted
+253,2025-11-21,REP04,Grace Lee,Latin America,Johnsonland Territory,Software,CUST0253,Medium,208033.43,0.076,15810.54,216641.08,31.5,Q4,2025,Proposal,,Omitted
+254,2025-06-15,REP05,Iris Chen,APAC,Denisebury Territory,Services,CUST0254,Medium,121556.45,0.1,12155.65,160833.33,63.9,Q2,2025,Negotiation,,Pipeline
+255,2025-09-29,REP06,Iris Chen,South Asia,West Holly Territory,Hardware,CUST0255,Small,448787.44,0.072,32312.7,441178.4,91.9,Q4,2025,Closed Won,81,Commit
+256,2024-06-19,REP07,Eve Davis,North America,West Timothy Territory,Consulting,CUST0256,Medium,418773.23,0.089,37270.82,621373.41,114.0,Q4,2024,Closed Won,35,Upside
+257,2024-09-30,REP08,Jack Taylor,North America,Lake Andreaburgh Territory,Hardware,CUST0257,Medium,475929.31,0.041,19513.1,673604.04,0.0,Q3,2024,Qualification,,Commit
+258,2024-12-13,REP09,Charlie Brown,North America,Devonchester Territory,Software,CUST0258,Medium,267537.84,0.071,18995.19,222756.58,71.9,Q3,2024,Negotiation,,Pipeline
+259,2025-12-04,REP10,Alice Johnson,North America,South Bryanberg Territory,Cloud Platform,CUST0259,Enterprise,54705.83,0.029,1586.47,70190.32,42.3,Q2,2025,Negotiation,,Upside
+260,2024-09-01,REP01,Diana Prince,Latin America,Port Eric Territory,Hardware,CUST0260,Enterprise,369367.86,0.075,27702.59,454525.68,64.2,Q2,2024,Negotiation,,Pipeline
+261,2025-03-04,REP02,Bob Smith,EMEA,Alexanderville Territory,Software,CUST0261,Enterprise,371492.27,0.078,28976.4,511907.17,97.7,Q1,2025,Closed Won,149,Upside
+262,2025-03-25,REP03,Charlie Brown,North America,Andrewbury Territory,Cloud Platform,CUST0262,Small,440892.8,0.068,29980.71,563773.45,38.1,Q1,2025,Proposal,,Pipeline
+263,2025-10-04,REP04,Alice Johnson,Latin America,Sanchezport Territory,Cloud Platform,CUST0263,Medium,215649.78,0.076,16389.38,198452.16,30.1,Q1,2025,Proposal,,Upside
+264,2024-12-30,REP05,Grace Lee,APAC,Allenside Territory,Hardware,CUST0264,Medium,464261.34,0.029,13463.58,332899.39,59.9,Q3,2024,Negotiation,,Best Case
+265,2025-05-24,REP06,Frank Miller,Latin America,Olsonfort Territory,Software,CUST0265,Medium,235011.5,0.076,17860.87,277148.92,43.0,Q3,2025,Negotiation,,Omitted
+266,2025-07-28,REP07,Grace Lee,North America,South Melinda Territory,Software,CUST0266,Enterprise,78610.57,0.025,1965.26,109833.73,0.0,Q2,2025,Qualification,,Pipeline
+267,2024-11-14,REP08,Jack Taylor,North America,Port Betty Territory,Services,CUST0267,Medium,70251.1,0.067,4706.82,68348.78,47.1,Q2,2024,Negotiation,,Upside
+268,2025-12-20,REP09,Frank Miller,Latin America,East Kyle Territory,Cloud Platform,CUST0268,Medium,269240.49,0.031,8346.46,209090.29,80.7,Q2,2025,Closed Won,115,Commit
+269,2025-05-16,REP10,Charlie Brown,North America,South Margaret Territory,Consulting,CUST0269,Large,412872.81,0.058,23946.62,603592.19,60.3,Q2,2025,Negotiation,,Best Case
+270,2024-05-11,REP01,Iris Chen,APAC,Port Victoria Territory,Consulting,CUST0270,Enterprise,418020.34,0.087,36367.77,366457.95,55.2,Q4,2024,Negotiation,,Upside
+271,2024-05-02,REP02,Eve Davis,North America,Ruizland Territory,Consulting,CUST0271,Medium,410077.59,0.085,34856.6,375978.35,0.0,Q3,2024,Qualification,,Commit
+272,2024-03-03,REP03,Diana Prince,APAC,Hallfort Territory,Consulting,CUST0272,Medium,76222.04,0.057,4344.66,65557.39,138.6,Q4,2024,Closed Won,96,Best Case
+273,2024-12-01,REP04,Bob Smith,APAC,Michellestad Territory,Software,CUST0273,Small,301861.99,0.06,18111.72,371542.64,37.3,Q3,2024,Proposal,,Pipeline
+274,2024-12-16,REP05,Jack Taylor,North America,Gonzalezview Territory,Hardware,CUST0274,Large,224018.95,0.086,19265.63,277000.76,50.8,Q3,2024,Negotiation,,Upside
+275,2024-07-25,REP06,Frank Miller,North America,Ianside Territory,Services,CUST0275,Large,222716.3,0.022,4899.76,189514.0,33.4,Q3,2024,Proposal,,Pipeline
+276,2024-08-04,REP07,Henry Wilson,North America,East Chrisstad Territory,Consulting,CUST0276,Small,100180.5,0.034,3406.14,132636.2,103.2,Q3,2024,Closed Won,163,Commit
+277,2025-10-18,REP08,Charlie Brown,Latin America,North Michael Territory,Software,CUST0277,Large,140640.53,0.064,9000.99,122696.7,28.5,Q4,2025,Proposal,,Pipeline
+278,2024-10-23,REP09,Diana Prince,Latin America,Port William Territory,Services,CUST0278,Medium,263895.01,0.044,11611.38,251365.67,119.0,Q1,2024,Closed Won,107,Omitted
+279,2025-10-18,REP10,Grace Lee,Latin America,East Haileyfurt Territory,Services,CUST0279,Enterprise,324904.7,0.065,21118.81,357741.52,57.2,Q4,2025,Negotiation,,Upside
+280,2025-08-23,REP01,Grace Lee,South Asia,West John Territory,Services,CUST0280,Small,121085.69,0.032,3874.74,170845.07,0.0,Q3,2025,Qualification,,Best Case
+281,2024-12-09,REP02,Eve Davis,South Asia,New John Territory,Hardware,CUST0281,Small,171501.09,0.074,12691.08,175916.31,51.9,Q4,2024,Negotiation,,Upside
+282,2025-05-15,REP03,Grace Lee,Latin America,Carlbury Territory,Software,CUST0282,Large,99914.81,0.054,5395.4,82326.77,0.0,Q1,2025,Closed Lost,,Pipeline
+283,2025-09-19,REP04,Frank Miller,Latin America,Michelleville Territory,Services,CUST0283,Enterprise,336044.69,0.086,28899.84,462625.76,115.1,Q3,2025,Closed Won,127,Best Case
+284,2025-04-25,REP05,Charlie Brown,APAC,West Chadhaven Territory,Consulting,CUST0284,Small,70120.37,0.065,4557.82,78531.15,57.8,Q3,2025,Negotiation,,Pipeline
+285,2025-06-18,REP06,Grace Lee,Latin America,Butlerbury Territory,Cloud Platform,CUST0285,Medium,344666.74,0.078,26884.01,374676.49,121.4,Q4,2025,Closed Won,85,Commit
+286,2025-07-20,REP07,Grace Lee,Latin America,New Johntown Territory,Software,CUST0286,Medium,387364.6,0.031,12008.3,499289.03,128.2,Q4,2025,Closed Won,13,Pipeline
+287,2025-05-29,REP08,Diana Prince,North America,Port James Territory,Cloud Platform,CUST0287,Small,399834.91,0.074,29587.78,310035.86,40.6,Q1,2025,Negotiation,,Best Case
+288,2024-01-04,REP09,Alice Johnson,South Asia,East Roberto Territory,Cloud Platform,CUST0288,Medium,396022.2,0.098,38810.18,433853.12,125.9,Q1,2024,Closed Won,10,Omitted
+289,2024-05-20,REP10,Frank Miller,EMEA,New Brenda Territory,Software,CUST0289,Medium,383376.62,0.069,26452.99,320257.27,130.4,Q4,2024,Closed Won,97,Pipeline
+290,2025-02-28,REP01,Charlie Brown,South Asia,Gamblestad Territory,Services,CUST0290,Small,475021.88,0.034,16150.74,630110.27,0.0,Q2,2025,Qualification,,Commit
+291,2024-12-28,REP02,Eve Davis,APAC,West David Territory,Consulting,CUST0291,Small,376529.04,0.023,8660.17,307276.98,0.0,Q3,2024,Qualification,,Best Case
+292,2024-05-12,REP03,Grace Lee,North America,Carrollstad Territory,Software,CUST0292,Large,259548.79,0.048,12458.34,333898.0,0.0,Q4,2024,Qualification,,Commit
+293,2024-09-20,REP04,Bob Smith,EMEA,Sototon Territory,Cloud Platform,CUST0293,Medium,148284.02,0.085,12604.14,204367.23,54.6,Q3,2024,Negotiation,,Omitted
+294,2025-06-07,REP05,Iris Chen,Latin America,Brendanfort Territory,Software,CUST0294,Enterprise,304120.41,0.041,12468.94,318296.54,45.5,Q4,2025,Negotiation,,Upside
+295,2024-02-25,REP06,Eve Davis,North America,Castroton Territory,Services,CUST0295,Enterprise,103732.19,0.053,5497.81,111457.03,138.4,Q1,2024,Closed Won,71,Upside
+296,2024-05-12,REP07,Bob Smith,South Asia,Washingtonmouth Territory,Software,CUST0296,Enterprise,312294.2,0.083,25920.42,322391.89,77.5,Q4,2024,Negotiation,,Pipeline
+297,2025-11-04,REP08,Frank Miller,North America,South James Territory,Software,CUST0297,Small,41582.8,0.055,2287.05,56059.31,77.6,Q2,2025,Negotiation,,Omitted
+298,2024-12-04,REP09,Jack Taylor,Latin America,Natashaville Territory,Services,CUST0298,Enterprise,271797.59,0.075,20384.82,271239.12,121.5,Q3,2024,Closed Won,176,Best Case
+299,2025-01-29,REP10,Iris Chen,North America,Fergusonberg Territory,Hardware,CUST0299,Medium,389886.9,0.05,19494.35,560820.56,106.5,Q2,2025,Closed Won,153,Upside
+300,2024-12-22,REP01,Frank Miller,Latin America,Grantmouth Territory,Hardware,CUST0300,Medium,282165.99,0.099,27934.43,304433.85,21.5,Q3,2024,Proposal,,Commit
+301,2024-09-18,REP02,Frank Miller,EMEA,Collinschester Territory,Hardware,CUST0301,Small,168471.21,0.044,7412.73,220228.03,66.6,Q3,2024,Negotiation,,Best Case
+302,2025-10-06,REP03,Eve Davis,South Asia,Ashleyville Territory,Hardware,CUST0302,Small,176866.85,0.082,14503.08,133860.52,83.7,Q2,2025,Closed Won,128,Pipeline
+303,2025-01-01,REP04,Bob Smith,South Asia,North Tina Territory,Services,CUST0303,Medium,248947.39,0.026,6472.63,335109.97,96.8,Q1,2025,Closed Won,151,Omitted
+304,2025-06-16,REP05,Diana Prince,EMEA,Guerrashire Territory,Cloud Platform,CUST0304,Medium,428986.99,0.069,29600.1,344366.92,47.3,Q2,2025,Negotiation,,Pipeline
+305,2025-01-03,REP06,Iris Chen,South Asia,Lake Kathryn Territory,Hardware,CUST0305,Medium,488130.28,0.069,33680.99,640620.0,124.3,Q2,2025,Closed Won,37,Best Case
+306,2025-03-31,REP07,Eve Davis,EMEA,Greenehaven Territory,Consulting,CUST0306,Enterprise,16486.45,0.061,1005.67,20990.69,0.0,Q1,2025,Qualification,,Best Case
+307,2024-10-02,REP08,Henry Wilson,South Asia,Morrisonfort Territory,Cloud Platform,CUST0307,Large,31030.17,0.026,806.78,31935.86,42.6,Q2,2024,Negotiation,,Omitted
+308,2025-11-15,REP09,Jack Taylor,APAC,Stanleyshire Territory,Software,CUST0308,Small,150317.51,0.075,11273.81,222463.35,10.2,Q3,2025,Proposal,,Commit
+309,2025-08-17,REP10,Bob Smith,APAC,Brooksmouth Territory,Cloud Platform,CUST0309,Medium,443666.5,0.093,41260.98,328495.84,62.0,Q4,2025,Negotiation,,Omitted
+310,2025-07-03,REP01,Diana Prince,South Asia,Robertfort Territory,Hardware,CUST0310,Large,47913.75,0.058,2779.0,48177.08,46.5,Q2,2025,Negotiation,,Pipeline
+311,2025-02-28,REP02,Charlie Brown,North America,Pearsonton Territory,Consulting,CUST0311,Enterprise,198014.23,0.042,8316.6,188686.25,0.0,Q3,2025,Closed Lost,,Best Case
+312,2024-11-10,REP03,Henry Wilson,EMEA,South Dillonview Territory,Services,CUST0312,Enterprise,261900.74,0.049,12833.14,328597.76,37.2,Q3,2024,Proposal,,Pipeline
+313,2024-10-11,REP04,Bob Smith,North America,New Adrianborough Territory,Hardware,CUST0313,Medium,310933.93,0.032,9949.89,310902.77,52.4,Q2,2024,Negotiation,,Omitted
+314,2024-08-11,REP05,Charlie Brown,North America,Michelleborough Territory,Cloud Platform,CUST0314,Large,423559.77,0.03,12706.79,397922.9,19.4,Q4,2024,Proposal,,Pipeline
+315,2024-12-30,REP06,Charlie Brown,South Asia,Fletcherburgh Territory,Cloud Platform,CUST0315,Medium,428267.5,0.094,40257.14,303413.92,101.6,Q1,2024,Closed Won,33,Omitted
+316,2024-04-29,REP07,Bob Smith,APAC,Zamoratown Territory,Services,CUST0316,Medium,377843.81,0.082,30983.19,432867.23,100.9,Q2,2024,Closed Won,114,Pipeline
+317,2025-03-26,REP08,Eve Davis,North America,Simsview Territory,Services,CUST0317,Large,146575.51,0.046,6742.47,209276.29,0.0,Q1,2025,Prospecting,,Pipeline
+318,2025-01-05,REP09,Iris Chen,North America,South Saraview Territory,Hardware,CUST0318,Medium,145368.76,0.029,4215.69,104206.82,0.0,Q2,2025,Qualification,,Omitted
+319,2025-12-17,REP10,Bob Smith,APAC,Riversville Territory,Software,CUST0319,Medium,91480.66,0.083,7592.89,92502.89,128.8,Q2,2025,Closed Won,23,Upside
+320,2024-01-15,REP01,Diana Prince,EMEA,Morahaven Territory,Consulting,CUST0320,Large,39144.05,0.056,2192.07,41255.34,34.4,Q2,2024,Proposal,,Commit
+321,2024-12-12,REP02,Eve Davis,Latin America,Coryhaven Territory,Cloud Platform,CUST0321,Large,336972.51,0.035,11794.04,329712.05,47.7,Q3,2024,Negotiation,,Omitted
+322,2024-07-08,REP03,Iris Chen,North America,North Kelsey Territory,Hardware,CUST0322,Medium,44977.07,0.028,1259.36,41887.63,15.6,Q3,2024,Proposal,,Pipeline
+323,2024-03-20,REP04,Grace Lee,APAC,North Laurachester Territory,Services,CUST0323,Medium,287381.68,0.026,7471.92,344316.3,41.2,Q2,2024,Negotiation,,Commit
+324,2024-01-01,REP05,Iris Chen,South Asia,Fergusonborough Territory,Hardware,CUST0324,Large,209102.83,0.078,16310.02,183933.15,17.3,Q4,2024,Proposal,,Omitted
+325,2025-05-04,REP06,Alice Johnson,Latin America,Brianberg Territory,Consulting,CUST0325,Enterprise,336384.06,0.071,23883.27,349679.54,0.0,Q3,2025,Qualification,,Omitted
+326,2024-02-22,REP07,Henry Wilson,APAC,West Elizabeth Territory,Services,CUST0326,Medium,36191.38,0.058,2099.1,53594.02,80.0,Q2,2024,Negotiation,,Best Case
+327,2024-07-14,REP08,Iris Chen,EMEA,Fowlerton Territory,Hardware,CUST0327,Enterprise,122284.76,0.05,6114.24,145995.75,104.0,Q2,2024,Closed Won,59,Best Case
+328,2024-01-06,REP09,Charlie Brown,South Asia,Sullivanbury Territory,Cloud Platform,CUST0328,Large,431517.65,0.051,22007.4,342379.15,33.8,Q3,2024,Proposal,,Commit
+329,2025-05-22,REP10,Iris Chen,North America,Johnsonburgh Territory,Software,CUST0329,Small,205439.0,0.044,9039.32,218764.24,36.7,Q3,2025,Proposal,,Pipeline
+330,2025-07-15,REP01,Jack Taylor,Latin America,Nancytown Territory,Cloud Platform,CUST0330,Small,136854.45,0.025,3421.36,191437.62,62.3,Q4,2025,Negotiation,,Commit
+331,2024-03-26,REP02,Grace Lee,APAC,South Michele Territory,Hardware,CUST0331,Small,285190.63,0.036,10266.86,250332.08,131.2,Q2,2024,Closed Won,53,Omitted
+332,2024-05-05,REP03,Jack Taylor,South Asia,Erikaview Territory,Hardware,CUST0332,Large,90473.78,0.027,2442.79,94619.98,120.7,Q1,2024,Closed Won,20,Best Case
+333,2025-08-16,REP04,Charlie Brown,North America,South Rodneyfort Territory,Hardware,CUST0333,Medium,37338.13,0.073,2725.68,28401.71,99.5,Q2,2025,Closed Won,146,Best Case
+334,2024-03-12,REP05,Frank Miller,Latin America,Matthewtown Territory,Consulting,CUST0334,Medium,26626.92,0.03,798.81,28098.1,99.8,Q1,2024,Closed Won,122,Best Case
+335,2024-08-07,REP06,Iris Chen,Latin America,Michelleside Territory,Services,CUST0335,Small,236838.64,0.065,15394.51,344325.8,23.7,Q1,2024,Proposal,,Pipeline
+336,2024-08-26,REP07,Charlie Brown,South Asia,Robertmouth Territory,Hardware,CUST0336,Medium,466870.92,0.074,34548.45,499491.42,71.6,Q4,2024,Negotiation,,Commit
+337,2024-05-05,REP08,Henry Wilson,Latin America,Spencerberg Territory,Software,CUST0337,Medium,382852.62,0.025,9571.32,439846.26,0.0,Q1,2024,Closed Lost,,Pipeline
+338,2025-10-25,REP09,Jack Taylor,EMEA,Alexbury Territory,Hardware,CUST0338,Small,299354.08,0.071,21254.14,354606.5,0.0,Q2,2025,Prospecting,,Best Case
+339,2024-11-19,REP10,Bob Smith,North America,East Eric Territory,Consulting,CUST0339,Medium,297628.19,0.096,28572.31,217582.84,35.8,Q4,2024,Proposal,,Commit
+340,2024-04-27,REP01,Diana Prince,Latin America,Lake Sarah Territory,Hardware,CUST0340,Small,189464.2,0.021,3978.75,161482.88,20.7,Q3,2024,Proposal,,Pipeline
+341,2024-01-08,REP02,Charlie Brown,EMEA,Lake Brian Territory,Services,CUST0341,Small,331924.64,0.05,16596.23,466746.54,97.0,Q3,2024,Closed Won,19,Pipeline
+342,2024-04-28,REP03,Frank Miller,North America,Scottbury Territory,Cloud Platform,CUST0342,Enterprise,440343.9,0.033,14531.35,516855.34,0.0,Q2,2024,Qualification,,Upside
+343,2024-10-15,REP04,Henry Wilson,APAC,Lyonsland Territory,Services,CUST0343,Medium,312098.29,0.08,24967.86,412934.68,0.0,Q4,2024,Qualification,,Upside
+344,2024-08-25,REP05,Charlie Brown,South Asia,West Tiffany Territory,Hardware,CUST0344,Small,183559.72,0.088,16153.26,257512.12,0.0,Q2,2024,Prospecting,,Pipeline
+345,2024-05-14,REP06,Charlie Brown,South Asia,West Debrafurt Territory,Software,CUST0345,Small,391775.78,0.091,35651.6,468593.0,13.7,Q2,2024,Proposal,,Best Case
+346,2025-10-24,REP07,Jack Taylor,EMEA,West Mariah Territory,Cloud Platform,CUST0346,Medium,468193.66,0.037,17323.17,524605.8,0.0,Q2,2025,Qualification,,Upside
+347,2024-10-23,REP08,Jack Taylor,South Asia,West Dennisfort Territory,Software,CUST0347,Medium,219946.48,0.076,16715.93,189041.68,0.0,Q3,2024,Qualification,,Omitted
+348,2025-01-15,REP09,Jack Taylor,APAC,West Philipberg Territory,Consulting,CUST0348,Medium,492464.59,0.06,29547.88,633359.15,91.2,Q1,2025,Closed Won,15,Pipeline
+349,2025-09-21,REP10,Henry Wilson,Latin America,Port Joann Territory,Consulting,CUST0349,Large,331860.69,0.052,17256.76,478886.04,95.6,Q4,2025,Closed Won,21,Best Case
+350,2024-02-23,REP01,Iris Chen,Latin America,Lake Kevinmouth Territory,Cloud Platform,CUST0350,Small,266895.57,0.078,20817.85,354013.53,0.0,Q4,2024,Qualification,,Omitted
+351,2024-07-11,REP02,Diana Prince,EMEA,Garrisonport Territory,Hardware,CUST0351,Medium,159936.98,0.055,8796.53,117333.15,49.4,Q3,2024,Negotiation,,Omitted
+352,2025-03-22,REP03,Grace Lee,South Asia,Lake Tinastad Territory,Consulting,CUST0352,Large,185422.37,0.063,11681.61,178121.98,12.6,Q2,2025,Proposal,,Commit
+353,2025-05-02,REP04,Iris Chen,EMEA,Smithport Territory,Cloud Platform,CUST0353,Small,75278.88,0.068,5118.96,111215.35,53.7,Q2,2025,Negotiation,,Best Case
+354,2025-11-22,REP05,Diana Prince,Latin America,Ambertown Territory,Services,CUST0354,Small,229764.34,0.081,18610.91,167391.46,22.1,Q1,2025,Proposal,,Best Case
+355,2024-08-23,REP06,Frank Miller,North America,Hutchinsonfurt Territory,Consulting,CUST0355,Large,300176.74,0.051,15309.01,232712.39,91.6,Q1,2024,Closed Won,8,Best Case
+356,2025-04-19,REP07,Alice Johnson,APAC,Pamelaton Territory,Services,CUST0356,Medium,465364.09,0.036,16753.11,464528.76,13.9,Q4,2025,Proposal,,Best Case
+357,2024-09-26,REP08,Henry Wilson,Latin America,New Heather Territory,Services,CUST0357,Large,474587.59,0.025,11864.69,438496.06,42.8,Q3,2024,Negotiation,,Omitted
+358,2025-05-23,REP09,Grace Lee,APAC,Leonardview Territory,Consulting,CUST0358,Enterprise,88545.44,0.061,5401.27,100994.6,79.4,Q3,2025,Negotiation,,Pipeline
+359,2024-12-23,REP10,Henry Wilson,Latin America,Michelleberg Territory,Services,CUST0359,Small,324622.21,0.056,18178.84,385086.28,34.7,Q3,2024,Proposal,,Best Case
+360,2025-07-17,REP01,Grace Lee,North America,Port Gabriela Territory,Services,CUST0360,Medium,349122.98,0.034,11870.18,282635.94,110.9,Q2,2025,Closed Won,43,Pipeline
+361,2024-02-08,REP02,Diana Prince,Latin America,Christinefurt Territory,Services,CUST0361,Medium,102492.34,0.098,10044.25,73832.17,30.3,Q3,2024,Proposal,,Best Case
+362,2025-11-08,REP03,Jack Taylor,APAC,North William Territory,Cloud Platform,CUST0362,Medium,287163.34,0.027,7753.41,292797.14,124.7,Q2,2025,Closed Won,99,Pipeline
+363,2025-11-26,REP04,Grace Lee,South Asia,Jamesfort Territory,Cloud Platform,CUST0363,Enterprise,313002.17,0.089,27857.19,321951.17,90.1,Q3,2025,Closed Won,134,Best Case
+364,2025-01-30,REP05,Jack Taylor,North America,New Marcusshire Territory,Cloud Platform,CUST0364,Large,229774.21,0.077,17692.61,238267.07,0.0,Q2,2025,Qualification,,Upside
+365,2024-02-19,REP06,Charlie Brown,North America,Garyview Territory,Hardware,CUST0365,Large,100825.09,0.075,7561.88,72405.84,0.0,Q2,2024,Qualification,,Pipeline
+366,2024-04-11,REP07,Iris Chen,South Asia,Abigailhaven Territory,Hardware,CUST0366,Medium,208111.04,0.033,6867.66,215949.4,69.4,Q4,2024,Negotiation,,Upside
+367,2025-07-18,REP08,Alice Johnson,EMEA,New Amy Territory,Services,CUST0367,Medium,127875.02,0.035,4475.63,105463.96,10.2,Q3,2025,Proposal,,Omitted
+368,2024-06-22,REP09,Grace Lee,APAC,New Amanda Territory,Software,CUST0368,Small,157094.2,0.069,10839.5,180182.21,21.2,Q1,2024,Proposal,,Upside
+369,2024-02-06,REP10,Frank Miller,South Asia,East Brandon Territory,Services,CUST0369,Enterprise,437964.29,0.042,18394.5,537007.91,49.4,Q2,2024,Negotiation,,Commit
+370,2025-12-30,REP01,Eve Davis,APAC,East Timothyview Territory,Cloud Platform,CUST0370,Medium,279008.77,0.044,12276.39,304365.32,77.2,Q1,2025,Negotiation,,Best Case
+371,2025-08-11,REP02,Henry Wilson,Latin America,North Mary Territory,Software,CUST0371,Small,54713.19,0.098,5361.89,39143.84,103.4,Q4,2025,Closed Won,76,Pipeline
+372,2024-02-09,REP03,Charlie Brown,Latin America,Morganstad Territory,Software,CUST0372,Small,485681.93,0.052,25255.46,429336.92,0.0,Q1,2024,Qualification,,Best Case
+373,2025-07-08,REP04,Charlie Brown,Latin America,East Maureenshire Territory,Consulting,CUST0373,Enterprise,328345.38,0.076,24954.25,474585.11,55.3,Q2,2025,Negotiation,,Best Case
+374,2024-06-26,REP05,Bob Smith,EMEA,Diazshire Territory,Software,CUST0374,Small,451013.43,0.063,28413.85,538686.76,10.3,Q4,2024,Proposal,,Upside
+375,2024-05-28,REP06,Alice Johnson,Latin America,Allisonfort Territory,Hardware,CUST0375,Enterprise,354157.92,0.041,14520.47,361525.74,0.0,Q4,2024,Closed Lost,,Upside
+376,2024-09-06,REP07,Iris Chen,APAC,Jacquelinehaven Territory,Hardware,CUST0376,Large,375687.74,0.09,33811.9,339562.17,33.5,Q3,2024,Proposal,,Omitted
+377,2024-02-07,REP08,Diana Prince,APAC,Daniellemouth Territory,Services,CUST0377,Large,331101.5,0.027,8939.74,459385.99,33.0,Q3,2024,Proposal,,Upside
+378,2024-06-03,REP09,Diana Prince,EMEA,Churchfurt Territory,Consulting,CUST0378,Enterprise,387056.1,0.079,30577.43,551283.54,68.4,Q2,2024,Negotiation,,Commit
+379,2025-11-12,REP10,Diana Prince,EMEA,East Michaelborough Territory,Software,CUST0379,Medium,420643.95,0.08,33651.52,519505.38,103.9,Q4,2025,Closed Won,27,Upside
+380,2025-04-06,REP01,Henry Wilson,North America,East Heather Territory,Consulting,CUST0380,Medium,43436.33,0.086,3735.52,41409.06,0.0,Q2,2025,Qualification,,Commit
+381,2024-06-04,REP02,Alice Johnson,North America,Dennisberg Territory,Software,CUST0381,Enterprise,273330.61,0.095,25966.41,389300.68,0.0,Q3,2024,Closed Lost,,Upside
+382,2024-11-10,REP03,Henry Wilson,South Asia,New Andre Territory,Services,CUST0382,Large,472417.94,0.068,32124.42,627177.38,40.0,Q4,2024,Proposal,,Omitted
+383,2025-06-03,REP04,Diana Prince,EMEA,Scottland Territory,Cloud Platform,CUST0383,Medium,432509.11,0.085,36763.27,553045.81,62.3,Q3,2025,Negotiation,,Upside
+384,2024-06-19,REP05,Bob Smith,South Asia,Barbaraview Territory,Cloud Platform,CUST0384,Medium,143165.24,0.097,13887.03,195024.81,0.0,Q1,2024,Qualification,,Omitted
+385,2024-11-01,REP06,Eve Davis,North America,East Destinybury Territory,Services,CUST0385,Large,387616.59,0.051,19768.45,300486.62,0.0,Q4,2024,Qualification,,Pipeline
+386,2025-09-27,REP07,Diana Prince,Latin America,New Matthewmouth Territory,Services,CUST0386,Small,317081.15,0.06,19024.87,405246.09,95.6,Q2,2025,Closed Won,135,Commit
+387,2024-06-26,REP08,Grace Lee,EMEA,Kennedyfort Territory,Consulting,CUST0387,Small,293221.18,0.097,28442.45,267240.2,95.0,Q1,2024,Closed Won,93,Commit
+388,2025-06-25,REP09,Bob Smith,North America,Sharpfurt Territory,Services,CUST0388,Enterprise,418314.0,0.099,41413.09,329376.57,123.8,Q4,2025,Closed Won,33,Pipeline
+389,2025-01-14,REP10,Bob Smith,EMEA,Boyleview Territory,Services,CUST0389,Enterprise,306340.37,0.084,25732.59,455312.68,34.3,Q1,2025,Proposal,,Upside
+390,2024-11-20,REP01,Jack Taylor,North America,New Thomasmouth Territory,Software,CUST0390,Medium,51265.37,0.043,2204.41,43006.78,18.7,Q2,2024,Proposal,,Best Case
+391,2024-10-11,REP02,Alice Johnson,EMEA,Russobury Territory,Hardware,CUST0391,Enterprise,179484.59,0.045,8076.81,263689.34,26.1,Q1,2024,Proposal,,Best Case
+392,2025-06-15,REP03,Grace Lee,APAC,Smithburgh Territory,Software,CUST0392,Medium,227664.37,0.075,17074.83,167325.69,112.8,Q1,2025,Closed Won,154,Upside
+393,2024-03-12,REP04,Bob Smith,North America,Perryburgh Territory,Consulting,CUST0393,Enterprise,233252.41,0.078,18193.69,209401.74,0.0,Q2,2024,Qualification,,Pipeline
+394,2024-09-02,REP05,Henry Wilson,EMEA,Johnsonmouth Territory,Consulting,CUST0394,Medium,407747.88,0.064,26095.86,516081.94,54.2,Q3,2024,Negotiation,,Best Case
+395,2025-06-23,REP06,Jack Taylor,Latin America,Mitchellport Territory,Cloud Platform,CUST0395,Medium,238796.2,0.025,5969.91,339411.54,0.0,Q2,2025,Qualification,,Commit
+396,2025-07-13,REP07,Alice Johnson,EMEA,Melissashire Territory,Services,CUST0396,Large,339062.27,0.09,30515.6,261340.85,131.5,Q3,2025,Closed Won,97,Upside
+397,2025-06-14,REP08,Charlie Brown,North America,New George Territory,Software,CUST0397,Large,432281.15,0.08,34582.49,360823.09,134.9,Q1,2025,Closed Won,43,Pipeline
+398,2024-07-26,REP09,Alice Johnson,South Asia,Matthewburgh Territory,Cloud Platform,CUST0398,Large,234715.6,0.086,20185.54,258405.53,14.2,Q2,2024,Proposal,,Best Case
+399,2024-06-04,REP10,Charlie Brown,South Asia,South Denisemouth Territory,Hardware,CUST0399,Medium,365893.69,0.044,16099.32,321337.48,34.9,Q4,2024,Proposal,,Commit
+400,2025-04-21,REP01,Jack Taylor,South Asia,South Patriciaburgh Territory,Services,CUST0400,Small,273503.35,0.047,12854.66,379516.9,0.0,Q1,2025,Qualification,,Best Case
+401,2024-03-27,REP02,Eve Davis,South Asia,Emilyberg Territory,Consulting,CUST0401,Medium,123515.45,0.026,3211.4,93542.64,18.5,Q4,2024,Proposal,,Omitted
+402,2025-09-06,REP03,Alice Johnson,North America,Lake Timothy Territory,Cloud Platform,CUST0402,Small,55894.35,0.076,4247.97,54446.82,39.6,Q4,2025,Proposal,,Upside
+403,2025-11-20,REP04,Henry Wilson,North America,Thompsonmouth Territory,Cloud Platform,CUST0403,Enterprise,40131.28,0.039,1565.12,55456.24,16.2,Q1,2025,Proposal,,Pipeline
+404,2025-04-19,REP05,Frank Miller,APAC,East Sabrina Territory,Consulting,CUST0404,Enterprise,311006.14,0.04,12440.25,279577.55,121.8,Q4,2025,Closed Won,19,Commit
+405,2025-02-25,REP06,Diana Prince,North America,Lake Jacob Territory,Cloud Platform,CUST0405,Large,431648.84,0.027,11654.52,359277.49,0.0,Q1,2025,Prospecting,,Commit
+406,2024-11-11,REP07,Iris Chen,APAC,New Jeffrey Territory,Software,CUST0406,Large,204663.55,0.035,7163.22,291353.88,91.7,Q2,2024,Closed Won,148,Omitted
+407,2025-09-09,REP08,Diana Prince,Latin America,Alexanderstad Territory,Cloud Platform,CUST0407,Large,154715.8,0.024,3713.18,202274.95,0.0,Q1,2025,Qualification,,Best Case
+408,2025-03-12,REP09,Charlie Brown,EMEA,West Brittany Territory,Hardware,CUST0408,Medium,473817.04,0.046,21795.58,370614.79,24.3,Q4,2025,Proposal,,Commit
+409,2025-05-09,REP10,Henry Wilson,South Asia,Dylanmouth Territory,Services,CUST0409,Small,451609.35,0.095,42902.89,548029.77,30.8,Q1,2025,Proposal,,Upside
+410,2024-09-29,REP01,Jack Taylor,Latin America,North Crystalport Territory,Hardware,CUST0410,Enterprise,472637.76,0.039,18432.87,704694.72,0.0,Q2,2024,Qualification,,Omitted
+411,2025-09-05,REP02,Diana Prince,APAC,East Walter Territory,Software,CUST0411,Medium,352548.62,0.053,18685.08,328374.54,0.0,Q3,2025,Closed Lost,,Omitted
+412,2025-01-23,REP03,Iris Chen,South Asia,Amberport Territory,Services,CUST0412,Medium,189902.48,0.096,18230.64,261127.06,65.9,Q4,2025,Negotiation,,Omitted
+413,2024-09-18,REP04,Henry Wilson,South Asia,Edwardville Territory,Services,CUST0413,Enterprise,427932.95,0.035,14977.65,427130.49,38.3,Q2,2024,Proposal,,Commit
+414,2024-09-08,REP05,Charlie Brown,EMEA,West Keithborough Territory,Services,CUST0414,Small,108902.76,0.052,5662.94,94957.89,136.7,Q3,2024,Closed Won,122,Best Case
+415,2025-11-26,REP06,Diana Prince,EMEA,North Ashleyberg Territory,Consulting,CUST0415,Medium,468316.39,0.071,33250.46,693087.43,13.8,Q2,2025,Proposal,,Upside
+416,2024-09-06,REP07,Alice Johnson,North America,New Ashleymouth Territory,Software,CUST0416,Medium,49083.64,0.027,1325.26,37480.35,96.5,Q2,2024,Closed Won,39,Best Case
+417,2025-01-05,REP08,Iris Chen,EMEA,New Davidview Territory,Software,CUST0417,Large,411383.43,0.027,11107.35,429785.29,67.4,Q4,2025,Negotiation,,Best Case
+418,2025-02-13,REP09,Alice Johnson,EMEA,Ibarraport Territory,Consulting,CUST0418,Enterprise,424345.84,0.098,41585.89,495198.64,0.0,Q1,2025,Prospecting,,Best Case
+419,2024-11-24,REP10,Jack Taylor,EMEA,Harrellberg Territory,Services,CUST0419,Medium,297034.17,0.081,24059.77,375287.28,0.0,Q3,2024,Qualification,,Pipeline
+420,2025-04-17,REP01,Henry Wilson,North America,East Kelsey Territory,Hardware,CUST0420,Small,237045.6,0.031,7348.41,202392.01,0.0,Q1,2025,Prospecting,,Upside
+421,2025-07-10,REP02,Jack Taylor,Latin America,West Adam Territory,Consulting,CUST0421,Enterprise,388897.4,0.073,28389.51,434055.6,0.0,Q4,2025,Qualification,,Omitted
+422,2025-02-10,REP03,Frank Miller,Latin America,Cynthiaton Territory,Consulting,CUST0422,Medium,457468.95,0.047,21501.04,623721.83,0.0,Q2,2025,Qualification,,Commit
+423,2025-01-01,REP04,Alice Johnson,EMEA,New Terry Territory,Consulting,CUST0423,Medium,124887.86,0.068,8492.37,121401.45,45.8,Q1,2025,Negotiation,,Upside
+424,2024-09-28,REP05,Diana Prince,Latin America,Thorntonmouth Territory,Software,CUST0424,Medium,152151.13,0.051,7759.71,219616.86,65.6,Q4,2024,Negotiation,,Upside
+425,2024-02-21,REP06,Iris Chen,Latin America,Murraystad Territory,Services,CUST0425,Large,434258.72,0.073,31700.89,342476.05,75.9,Q2,2024,Negotiation,,Pipeline
+426,2025-03-27,REP07,Charlie Brown,Latin America,Port Anthonyton Territory,Consulting,CUST0426,Large,396894.19,0.081,32148.43,590892.72,0.0,Q1,2025,Prospecting,,Best Case
+427,2025-12-30,REP08,Grace Lee,EMEA,Harrismouth Territory,Consulting,CUST0427,Large,326680.8,0.024,7840.34,403845.27,0.0,Q2,2025,Qualification,,Upside
+428,2025-11-06,REP09,Henry Wilson,Latin America,North Juliafort Territory,Consulting,CUST0428,Small,442631.97,0.074,32754.77,594759.41,61.2,Q3,2025,Negotiation,,Omitted
+429,2024-08-13,REP10,Charlie Brown,North America,West Anthonyburgh Territory,Software,CUST0429,Enterprise,418508.75,0.056,23436.49,625824.99,72.0,Q1,2024,Negotiation,,Omitted
+430,2025-02-17,REP01,Bob Smith,North America,Jonesfort Territory,Software,CUST0430,Medium,429568.58,0.092,39520.31,339530.12,111.9,Q3,2025,Closed Won,51,Upside
+431,2025-08-08,REP02,Alice Johnson,South Asia,Anneborough Territory,Software,CUST0431,Enterprise,92316.84,0.027,2492.55,75159.81,0.0,Q4,2025,Prospecting,,Best Case
+432,2024-10-06,REP03,Henry Wilson,Latin America,Browningbury Territory,Cloud Platform,CUST0432,Small,84515.8,0.045,3803.21,104241.94,0.0,Q2,2024,Prospecting,,Pipeline
+433,2025-10-15,REP04,Frank Miller,North America,East Lucasfurt Territory,Hardware,CUST0433,Enterprise,276840.33,0.06,16610.42,386951.23,82.2,Q3,2025,Closed Won,64,Omitted
+434,2025-09-28,REP05,Alice Johnson,South Asia,East Kelly Territory,Software,CUST0434,Large,61058.63,0.05,3052.93,56963.47,0.0,Q2,2025,Qualification,,Best Case
+435,2024-06-09,REP06,Grace Lee,North America,Rodgersmouth Territory,Software,CUST0435,Medium,58804.01,0.08,4704.32,76746.16,0.0,Q4,2024,Qualification,,Best Case
+436,2025-09-23,REP07,Alice Johnson,APAC,Mooreview Territory,Cloud Platform,CUST0436,Medium,345945.72,0.026,8994.59,275147.66,0.0,Q3,2025,Prospecting,,Commit
+437,2024-06-21,REP08,Eve Davis,North America,Port Michaelfurt Territory,Services,CUST0437,Medium,127492.77,0.062,7904.55,114308.14,99.1,Q2,2024,Closed Won,180,Pipeline
+438,2025-10-17,REP09,Eve Davis,EMEA,Richardsonville Territory,Consulting,CUST0438,Medium,89154.28,0.037,3298.71,102987.04,0.0,Q3,2025,Closed Lost,,Pipeline
+439,2025-09-15,REP10,Bob Smith,APAC,Parkermouth Territory,Hardware,CUST0439,Small,442578.33,0.071,31423.06,599125.77,62.7,Q2,2025,Negotiation,,Commit
+440,2024-04-28,REP01,Diana Prince,South Asia,Lopezstad Territory,Consulting,CUST0440,Medium,375733.97,0.09,33816.06,414204.17,10.4,Q4,2024,Proposal,,Omitted
+441,2025-01-22,REP02,Grace Lee,APAC,East Melissa Territory,Consulting,CUST0441,Medium,30943.42,0.02,618.87,26852.79,0.0,Q3,2025,Qualification,,Best Case
+442,2024-10-19,REP03,Diana Prince,South Asia,Cherryborough Territory,Software,CUST0442,Large,220784.75,0.036,7948.25,219170.9,65.1,Q1,2024,Negotiation,,Best Case
+443,2024-05-04,REP04,Henry Wilson,South Asia,Beasleyborough Territory,Services,CUST0443,Medium,442298.04,0.096,42460.61,572349.27,125.8,Q3,2024,Closed Won,180,Pipeline
+444,2025-08-08,REP05,Diana Prince,North America,North Danaburgh Territory,Consulting,CUST0444,Enterprise,214797.87,0.067,14391.46,199176.74,0.0,Q1,2025,Prospecting,,Commit
+445,2025-01-20,REP06,Iris Chen,Latin America,Lake Lindachester Territory,Hardware,CUST0445,Small,51529.33,0.054,2782.58,40606.75,73.2,Q2,2025,Negotiation,,Best Case
+446,2024-12-05,REP07,Bob Smith,EMEA,Muellermouth Territory,Software,CUST0446,Enterprise,178064.84,0.021,3739.36,191361.76,118.9,Q4,2024,Closed Won,45,Pipeline
+447,2025-09-15,REP08,Bob Smith,South Asia,Kinghaven Territory,Hardware,CUST0447,Large,216940.83,0.061,13233.39,311300.92,109.2,Q4,2025,Closed Won,38,Upside
+448,2025-11-22,REP09,Jack Taylor,EMEA,South Samantha Territory,Consulting,CUST0448,Medium,273363.8,0.046,12574.73,197134.46,101.1,Q4,2025,Closed Won,47,Best Case
+449,2024-12-12,REP10,Jack Taylor,Latin America,Justinside Territory,Cloud Platform,CUST0449,Enterprise,95626.14,0.054,5163.81,102349.23,99.4,Q4,2024,Closed Won,132,Omitted
+450,2024-05-31,REP01,Eve Davis,South Asia,New Nataliefort Territory,Services,CUST0450,Medium,203371.47,0.056,11388.8,166644.92,25.1,Q2,2024,Proposal,,Commit
+451,2024-03-01,REP02,Jack Taylor,APAC,Port Melanie Territory,Services,CUST0451,Small,40603.3,0.089,3613.69,51234.09,44.8,Q4,2024,Negotiation,,Upside
+452,2024-07-16,REP03,Henry Wilson,Latin America,Parksfurt Territory,Hardware,CUST0452,Medium,445396.83,0.029,12916.51,471972.45,0.0,Q4,2024,Closed Lost,,Upside
+453,2025-06-02,REP04,Bob Smith,South Asia,Donaldview Territory,Cloud Platform,CUST0453,Enterprise,281054.48,0.078,21922.25,373302.95,20.4,Q4,2025,Proposal,,Upside
+454,2024-01-11,REP05,Diana Prince,APAC,Blackwellstad Territory,Cloud Platform,CUST0454,Small,64387.94,0.064,4120.83,67355.91,0.0,Q1,2024,Qualification,,Pipeline
+455,2024-01-25,REP06,Henry Wilson,EMEA,New Maryview Territory,Hardware,CUST0455,Medium,197917.45,0.069,13656.3,147887.08,89.0,Q3,2024,Closed Won,76,Best Case
+456,2025-06-01,REP07,Grace Lee,South Asia,Amandamouth Territory,Hardware,CUST0456,Medium,69080.13,0.059,4075.73,87951.05,0.0,Q3,2025,Prospecting,,Commit
+457,2024-05-29,REP08,Eve Davis,EMEA,East Heatherchester Territory,Software,CUST0457,Small,255676.12,0.082,20965.44,349321.42,18.9,Q1,2024,Proposal,,Best Case
+458,2024-11-22,REP09,Charlie Brown,Latin America,Lambside Territory,Cloud Platform,CUST0458,Enterprise,331464.64,0.07,23202.52,236487.2,43.8,Q2,2024,Negotiation,,Omitted
+459,2024-08-23,REP10,Henry Wilson,EMEA,Josephport Territory,Consulting,CUST0459,Small,237508.58,0.03,7125.26,199773.17,46.0,Q4,2024,Negotiation,,Pipeline
+460,2025-10-06,REP01,Iris Chen,North America,Stonechester Territory,Software,CUST0460,Enterprise,153926.8,0.023,3540.32,147456.46,0.0,Q1,2025,Closed Lost,,Commit
+461,2024-12-07,REP02,Frank Miller,APAC,Robertland Territory,Hardware,CUST0461,Small,69331.51,0.092,6378.5,49242.89,76.6,Q2,2024,Negotiation,,Pipeline
+462,2024-08-06,REP03,Henry Wilson,North America,New Michelleborough Territory,Software,CUST0462,Enterprise,364702.16,0.054,19693.92,393420.5,90.3,Q1,2024,Closed Won,64,Upside
+463,2025-09-11,REP04,Iris Chen,South Asia,New Kevin Territory,Hardware,CUST0463,Large,119365.6,0.044,5252.09,102257.54,121.1,Q3,2025,Closed Won,133,Omitted
+464,2024-03-14,REP05,Bob Smith,South Asia,West Colleen Territory,Hardware,CUST0464,Medium,283644.1,0.09,25527.97,268962.01,0.0,Q2,2024,Closed Lost,,Upside
+465,2024-09-22,REP06,Jack Taylor,APAC,Jessechester Territory,Software,CUST0465,Medium,107377.22,0.093,9986.08,149191.94,117.5,Q4,2024,Closed Won,120,Upside
+466,2024-05-30,REP07,Jack Taylor,Latin America,Jeffreystad Territory,Services,CUST0466,Enterprise,334224.87,0.093,31082.91,451318.98,0.0,Q3,2024,Qualification,,Omitted
+467,2025-01-17,REP08,Grace Lee,North America,Jameston Territory,Consulting,CUST0467,Small,71025.31,0.025,1775.63,93539.78,12.0,Q4,2025,Proposal,,Omitted
+468,2024-08-20,REP09,Iris Chen,South Asia,Lake David Territory,Consulting,CUST0468,Medium,342420.58,0.061,20887.66,294665.2,0.0,Q2,2024,Closed Lost,,Best Case
+469,2025-11-24,REP10,Charlie Brown,Latin America,Lake Elizabeth Territory,Software,CUST0469,Medium,431518.0,0.065,28048.67,603838.25,0.0,Q3,2025,Qualification,,Best Case
+470,2024-07-11,REP01,Charlie Brown,EMEA,West Tasha Territory,Hardware,CUST0470,Enterprise,111067.03,0.059,6552.95,116066.7,115.3,Q1,2024,Closed Won,20,Upside
+471,2024-02-11,REP02,Eve Davis,North America,Port Adam Territory,Hardware,CUST0471,Small,73768.57,0.089,6565.4,83098.04,73.8,Q4,2024,Negotiation,,Best Case
+472,2024-03-27,REP03,Henry Wilson,Latin America,Williamberg Territory,Cloud Platform,CUST0472,Small,311987.46,0.023,7175.71,436983.81,13.2,Q4,2024,Proposal,,Omitted
+473,2024-06-30,REP04,Grace Lee,APAC,North Jefferyburgh Territory,Software,CUST0473,Large,485950.62,0.055,26727.28,521177.75,25.1,Q4,2024,Proposal,,Omitted
+474,2025-12-12,REP05,Grace Lee,EMEA,Thomasport Territory,Consulting,CUST0474,Enterprise,41913.32,0.084,3520.72,46143.19,0.0,Q1,2025,Qualification,,Commit
+475,2025-04-14,REP06,Grace Lee,North America,East Tony Territory,Services,CUST0475,Medium,242471.27,0.028,6789.2,286029.79,122.8,Q4,2025,Closed Won,38,Commit
+476,2024-06-03,REP07,Bob Smith,APAC,Marshallville Territory,Consulting,CUST0476,Small,216578.75,0.096,20791.56,209258.8,0.0,Q3,2024,Qualification,,Pipeline
+477,2024-08-12,REP08,Eve Davis,North America,Port Vanessamouth Territory,Services,CUST0477,Large,288659.94,0.087,25113.41,246486.2,120.5,Q2,2024,Closed Won,62,Best Case
+478,2025-05-07,REP09,Charlie Brown,North America,East Loristad Territory,Services,CUST0478,Medium,176851.13,0.075,13263.83,160735.32,122.5,Q4,2025,Closed Won,29,Best Case
+479,2024-03-01,REP10,Charlie Brown,North America,West William Territory,Consulting,CUST0479,Small,363146.27,0.036,13073.27,525951.94,115.3,Q4,2024,Closed Won,149,Commit
+480,2025-09-29,REP01,Grace Lee,APAC,Lowefort Territory,Services,CUST0480,Enterprise,68829.56,0.033,2271.38,52412.25,129.0,Q4,2025,Closed Won,11,Commit
+481,2025-04-22,REP02,Frank Miller,South Asia,Joyceburgh Territory,Software,CUST0481,Enterprise,224119.38,0.044,9861.25,329073.1,25.3,Q4,2025,Proposal,,Pipeline
+482,2024-04-23,REP03,Jack Taylor,South Asia,Washingtonport Territory,Services,CUST0482,Small,219459.38,0.096,21068.1,158969.47,0.0,Q1,2024,Qualification,,Pipeline
+483,2024-11-01,REP04,Diana Prince,Latin America,Port Kathyberg Territory,Cloud Platform,CUST0483,Large,468191.02,0.043,20132.21,450101.93,91.4,Q1,2024,Closed Won,16,Commit
+484,2025-01-22,REP05,Iris Chen,APAC,East Dakotaville Territory,Services,CUST0484,Medium,108529.56,0.042,4558.24,138728.38,124.1,Q1,2025,Closed Won,78,Best Case
+485,2025-01-22,REP06,Frank Miller,North America,Johnside Territory,Hardware,CUST0485,Enterprise,238350.71,0.034,8103.92,327812.04,40.5,Q3,2025,Negotiation,,Omitted
+486,2024-10-06,REP07,Iris Chen,APAC,Patriciatown Territory,Hardware,CUST0486,Enterprise,303974.88,0.031,9423.22,248765.37,81.6,Q3,2024,Closed Won,98,Upside
+487,2025-09-15,REP08,Frank Miller,EMEA,Lynchshire Territory,Consulting,CUST0487,Small,204707.68,0.085,17400.15,283126.17,0.0,Q1,2025,Closed Lost,,Omitted
+488,2025-09-12,REP09,Henry Wilson,North America,Thompsonfort Territory,Cloud Platform,CUST0488,Large,220263.2,0.021,4625.53,270872.06,90.0,Q1,2025,Closed Won,159,Pipeline
+489,2024-06-29,REP10,Bob Smith,EMEA,Jamesburgh Territory,Consulting,CUST0489,Medium,126844.52,0.099,12557.61,137598.34,54.3,Q4,2024,Negotiation,,Commit
+490,2024-07-14,REP01,Grace Lee,South Asia,Cameronfurt Territory,Software,CUST0490,Large,125874.98,0.088,11077.0,114457.97,95.8,Q2,2024,Closed Won,114,Pipeline
+491,2024-06-16,REP02,Diana Prince,EMEA,East Garyport Territory,Consulting,CUST0491,Enterprise,31111.87,0.058,1804.49,38798.43,22.4,Q3,2024,Proposal,,Omitted
+492,2025-02-02,REP03,Eve Davis,EMEA,Michaelburgh Territory,Consulting,CUST0492,Enterprise,401729.12,0.041,16470.89,583483.43,65.6,Q1,2025,Negotiation,,Best Case
+493,2025-09-03,REP04,Jack Taylor,South Asia,Bishopberg Territory,Cloud Platform,CUST0493,Small,92106.88,0.026,2394.78,112473.53,31.1,Q4,2025,Proposal,,Commit
+494,2024-07-31,REP05,Frank Miller,Latin America,North Vincentland Territory,Software,CUST0494,Medium,54442.59,0.061,3321.0,62717.76,27.6,Q3,2024,Proposal,,Pipeline
+495,2025-08-08,REP06,Diana Prince,South Asia,Murphytown Territory,Hardware,CUST0495,Medium,468214.22,0.09,42139.28,330084.05,22.8,Q2,2025,Proposal,,Omitted
+496,2024-09-03,REP07,Bob Smith,EMEA,Hardinstad Territory,Services,CUST0496,Small,175592.06,0.056,9833.16,126621.58,66.2,Q3,2024,Negotiation,,Pipeline
+497,2025-06-24,REP08,Grace Lee,EMEA,Wendymouth Territory,Hardware,CUST0497,Medium,351645.51,0.06,21098.73,317511.66,0.0,Q2,2025,Qualification,,Best Case
+498,2025-09-12,REP09,Henry Wilson,North America,Deannashire Territory,Services,CUST0498,Medium,251584.66,0.099,24906.88,208052.42,79.8,Q3,2025,Negotiation,,Best Case
+499,2025-04-30,REP10,Eve Davis,Latin America,Port Brian Territory,Software,CUST0499,Small,257484.85,0.038,9784.42,194649.33,97.8,Q2,2025,Closed Won,118,Upside
+500,2024-12-17,REP01,Eve Davis,EMEA,North Justinmouth Territory,Cloud Platform,CUST0500,Large,92372.23,0.026,2401.68,95200.17,121.2,Q2,2024,Closed Won,7,Pipeline
+501,2024-05-04,REP02,Charlie Brown,North America,Woodport Territory,Services,CUST0501,Small,406911.15,0.053,21566.29,348327.44,72.5,Q3,2024,Negotiation,,Upside
+502,2025-07-05,REP03,Henry Wilson,North America,Castroborough Territory,Software,CUST0502,Large,40184.75,0.029,1165.36,44776.31,52.3,Q1,2025,Negotiation,,Best Case
+503,2024-07-26,REP04,Henry Wilson,Latin America,Tammystad Territory,Consulting,CUST0503,Enterprise,486963.16,0.073,35548.31,677223.34,60.8,Q1,2024,Negotiation,,Best Case
+504,2024-07-19,REP05,Alice Johnson,APAC,South Larry Territory,Consulting,CUST0504,Small,477842.86,0.024,11468.23,557087.02,19.5,Q1,2024,Proposal,,Pipeline
+505,2024-12-18,REP06,Henry Wilson,South Asia,New Brittany Territory,Consulting,CUST0505,Medium,325468.91,0.075,24410.17,463575.5,110.2,Q3,2024,Closed Won,112,Pipeline
+506,2024-07-29,REP07,Henry Wilson,North America,East Wendy Territory,Software,CUST0506,Medium,10135.22,0.072,729.74,10152.9,0.0,Q4,2024,Closed Lost,,Upside
+507,2025-07-12,REP08,Henry Wilson,Latin America,Hicksside Territory,Software,CUST0507,Enterprise,406826.08,0.038,15459.39,399933.99,0.0,Q4,2025,Closed Lost,,Best Case
+508,2024-10-08,REP09,Diana Prince,APAC,Thomasfort Territory,Cloud Platform,CUST0508,Enterprise,367357.53,0.09,33062.18,370901.73,0.0,Q4,2024,Qualification,,Omitted
+509,2024-08-10,REP10,Charlie Brown,South Asia,West Dawnborough Territory,Hardware,CUST0509,Medium,329226.83,0.031,10206.03,365905.27,40.0,Q3,2024,Proposal,,Pipeline
+510,2024-11-16,REP01,Iris Chen,EMEA,Olsenton Territory,Hardware,CUST0510,Small,130638.58,0.086,11234.92,93962.81,27.7,Q1,2024,Proposal,,Omitted
+511,2024-06-04,REP02,Grace Lee,North America,Coryhaven Territory,Cloud Platform,CUST0511,Enterprise,128809.24,0.072,9274.27,145772.68,0.0,Q4,2024,Qualification,,Upside
+512,2025-01-28,REP03,Grace Lee,APAC,Gonzalezhaven Territory,Software,CUST0512,Enterprise,184042.57,0.064,11778.72,150542.72,91.5,Q2,2025,Closed Won,115,Best Case
+513,2024-03-28,REP04,Eve Davis,North America,East Brenda Territory,Consulting,CUST0513,Small,260474.14,0.042,10939.91,295649.31,0.0,Q3,2024,Closed Lost,,Omitted
+514,2024-01-04,REP05,Eve Davis,South Asia,Port Reginald Territory,Cloud Platform,CUST0514,Large,450142.65,0.09,40512.84,603964.82,103.1,Q4,2024,Closed Won,127,Omitted
+515,2025-08-11,REP06,Diana Prince,EMEA,Markborough Territory,Services,CUST0515,Large,202671.73,0.082,16619.08,297294.45,0.0,Q1,2025,Qualification,,Omitted
+516,2025-05-02,REP07,Frank Miller,EMEA,Kathrynberg Territory,Cloud Platform,CUST0516,Small,316517.28,0.092,29119.59,370610.04,54.2,Q4,2025,Negotiation,,Best Case
+517,2025-10-29,REP08,Jack Taylor,EMEA,Mercershire Territory,Cloud Platform,CUST0517,Medium,294048.94,0.094,27640.6,273333.38,0.0,Q1,2025,Qualification,,Commit
+518,2024-12-14,REP09,Iris Chen,APAC,Curtisport Territory,Services,CUST0518,Medium,32422.27,0.09,2918.0,35123.64,0.0,Q2,2024,Qualification,,Commit
+519,2024-05-23,REP10,Frank Miller,South Asia,East Cameronstad Territory,Consulting,CUST0519,Medium,342489.06,0.087,29796.55,243698.78,0.0,Q2,2024,Qualification,,Best Case
+520,2024-04-20,REP01,Frank Miller,APAC,South Robertburgh Territory,Cloud Platform,CUST0520,Large,21217.93,0.039,827.5,31622.51,12.2,Q4,2024,Proposal,,Commit
+521,2025-07-24,REP02,Frank Miller,Latin America,South Calvinton Territory,Cloud Platform,CUST0521,Small,375479.66,0.039,14643.71,553988.67,0.0,Q2,2025,Closed Lost,,Best Case
+522,2025-09-22,REP03,Frank Miller,North America,Port Larry Territory,Consulting,CUST0522,Large,49074.38,0.05,2453.72,48993.25,0.0,Q4,2025,Qualification,,Upside
+523,2024-08-04,REP04,Frank Miller,North America,New Martinberg Territory,Software,CUST0523,Large,299766.37,0.03,8992.99,343867.19,136.8,Q1,2024,Closed Won,21,Commit
+524,2025-09-01,REP05,Alice Johnson,Latin America,Port Scott Territory,Consulting,CUST0524,Medium,361356.5,0.038,13731.55,293519.51,0.0,Q2,2025,Qualification,,Pipeline
+525,2024-05-28,REP06,Jack Taylor,APAC,Jacobfurt Territory,Software,CUST0525,Enterprise,124790.8,0.095,11855.13,163333.59,48.3,Q4,2024,Negotiation,,Omitted
+526,2025-05-12,REP07,Bob Smith,EMEA,Nicholaston Territory,Services,CUST0526,Medium,419211.75,0.082,34375.36,545306.76,91.3,Q1,2025,Closed Won,17,Upside
+527,2025-02-01,REP08,Grace Lee,Latin America,New Jonathan Territory,Services,CUST0527,Enterprise,373556.1,0.096,35861.39,439685.81,35.2,Q3,2025,Proposal,,Omitted
+528,2024-11-18,REP09,Bob Smith,EMEA,Andersonland Territory,Services,CUST0528,Medium,232957.02,0.079,18403.6,198206.05,128.9,Q3,2024,Closed Won,151,Pipeline
+529,2024-10-18,REP10,Alice Johnson,Latin America,Port Davidborough Territory,Consulting,CUST0529,Medium,88242.63,0.096,8471.29,101165.35,0.0,Q1,2024,Qualification,,Upside
+530,2025-02-24,REP01,Charlie Brown,Latin America,Stevenmouth Territory,Consulting,CUST0530,Enterprise,117816.01,0.063,7422.41,89410.91,92.5,Q3,2025,Closed Won,46,Upside
+531,2025-03-09,REP02,Diana Prince,EMEA,North Mary Territory,Cloud Platform,CUST0531,Small,167688.2,0.049,8216.72,158646.39,30.2,Q1,2025,Proposal,,Commit
+532,2025-07-02,REP03,Eve Davis,EMEA,New Karimouth Territory,Consulting,CUST0532,Medium,432175.3,0.07,30252.27,338689.45,0.0,Q4,2025,Closed Lost,,Upside
+533,2025-04-19,REP04,Grace Lee,EMEA,Melissaland Territory,Cloud Platform,CUST0533,Medium,255377.37,0.047,12002.74,340223.5,62.0,Q4,2025,Negotiation,,Pipeline
+534,2025-02-18,REP05,Alice Johnson,APAC,New Michael Territory,Cloud Platform,CUST0534,Small,187183.63,0.046,8610.45,142250.29,71.5,Q1,2025,Negotiation,,Best Case
+535,2024-09-20,REP06,Bob Smith,South Asia,Jacobborough Territory,Hardware,CUST0535,Enterprise,203634.67,0.024,4887.23,285340.33,120.6,Q1,2024,Closed Won,64,Upside
+536,2024-08-15,REP07,Alice Johnson,Latin America,Jeffreytown Territory,Services,CUST0536,Medium,103898.89,0.061,6337.83,109878.29,38.2,Q4,2024,Proposal,,Commit
+537,2025-05-03,REP08,Jack Taylor,Latin America,Marytown Territory,Software,CUST0537,Medium,331452.74,0.068,22538.79,360352.48,14.8,Q1,2025,Proposal,,Commit
+538,2024-05-25,REP09,Henry Wilson,North America,Lynchborough Territory,Software,CUST0538,Medium,478164.24,0.066,31558.84,488339.13,110.0,Q1,2024,Closed Won,172,Best Case
+539,2024-10-24,REP10,Henry Wilson,Latin America,Munozton Territory,Cloud Platform,CUST0539,Small,109987.67,0.044,4839.46,150697.07,0.0,Q4,2024,Qualification,,Pipeline
+540,2024-05-22,REP01,Charlie Brown,APAC,Haleberg Territory,Software,CUST0540,Enterprise,254273.35,0.026,6611.11,198120.14,0.0,Q1,2024,Qualification,,Best Case
+541,2024-03-26,REP02,Alice Johnson,South Asia,Pamelamouth Territory,Cloud Platform,CUST0541,Enterprise,232187.35,0.062,14395.62,187239.19,57.7,Q2,2024,Negotiation,,Omitted
+542,2025-08-02,REP03,Grace Lee,APAC,New Larryville Territory,Hardware,CUST0542,Enterprise,207185.03,0.081,16781.99,279775.66,138.7,Q4,2025,Closed Won,54,Best Case
+543,2025-07-15,REP04,Alice Johnson,South Asia,Port William Territory,Cloud Platform,CUST0543,Medium,382412.39,0.091,34799.53,414775.44,78.0,Q1,2025,Negotiation,,Pipeline
+544,2025-10-15,REP05,Henry Wilson,EMEA,New Cynthia Territory,Hardware,CUST0544,Enterprise,465302.35,0.056,26056.93,517556.17,49.6,Q3,2025,Negotiation,,Best Case
+545,2024-09-25,REP06,Frank Miller,South Asia,West Lisa Territory,Cloud Platform,CUST0545,Enterprise,13721.67,0.034,466.54,17016.57,139.0,Q3,2024,Closed Won,56,Pipeline
+546,2024-08-16,REP07,Henry Wilson,North America,Serranoshire Territory,Services,CUST0546,Small,107523.17,0.025,2688.08,88045.26,0.0,Q3,2024,Prospecting,,Best Case
+547,2025-03-18,REP08,Bob Smith,APAC,New Nicoleton Territory,Cloud Platform,CUST0547,Enterprise,140394.79,0.035,4913.82,110151.14,96.6,Q4,2025,Closed Won,107,Omitted
+548,2025-11-05,REP09,Alice Johnson,Latin America,Hallmouth Territory,Consulting,CUST0548,Large,71722.47,0.099,7100.52,59316.88,99.5,Q4,2025,Closed Won,35,Best Case
+549,2025-08-26,REP10,Charlie Brown,South Asia,Mercerborough Territory,Software,CUST0549,Enterprise,130914.46,0.076,9949.5,156900.71,0.0,Q4,2025,Qualification,,Omitted
+550,2025-09-21,REP01,Alice Johnson,South Asia,Duffyshire Territory,Hardware,CUST0550,Medium,484795.53,0.04,19391.82,394652.28,40.7,Q4,2025,Negotiation,,Upside
+551,2025-01-03,REP02,Grace Lee,APAC,North Leslie Territory,Consulting,CUST0551,Medium,216090.8,0.046,9940.18,243418.51,92.8,Q2,2025,Closed Won,70,Pipeline
+552,2024-03-13,REP03,Henry Wilson,South Asia,Lake Laurie Territory,Consulting,CUST0552,Medium,64237.05,0.037,2376.77,53306.73,20.3,Q3,2024,Proposal,,Pipeline
+553,2025-10-02,REP04,Grace Lee,South Asia,Ryanstad Territory,Services,CUST0553,Medium,267906.94,0.064,17146.04,275902.93,0.0,Q2,2025,Qualification,,Commit
+554,2024-10-09,REP05,Eve Davis,EMEA,Travisport Territory,Consulting,CUST0554,Medium,78376.54,0.067,5251.23,85732.78,42.1,Q3,2024,Negotiation,,Best Case
+555,2025-10-16,REP06,Grace Lee,APAC,Moorehaven Territory,Cloud Platform,CUST0555,Large,256109.49,0.095,24330.4,357564.69,89.3,Q4,2025,Closed Won,83,Best Case
+556,2025-04-10,REP07,Bob Smith,EMEA,West William Territory,Services,CUST0556,Enterprise,380069.17,0.042,15962.91,549140.14,129.0,Q1,2025,Closed Won,121,Upside
+557,2025-06-21,REP08,Bob Smith,APAC,South Andrea Territory,Software,CUST0557,Medium,320394.73,0.05,16019.74,431074.32,125.4,Q1,2025,Closed Won,167,Upside
+558,2025-11-28,REP09,Bob Smith,Latin America,Frenchbury Territory,Cloud Platform,CUST0558,Medium,332092.81,0.039,12951.62,275937.09,62.2,Q2,2025,Negotiation,,Best Case
+559,2024-07-11,REP10,Eve Davis,South Asia,Port Timothyberg Territory,Cloud Platform,CUST0559,Small,159787.43,0.028,4474.05,122064.62,0.0,Q4,2024,Prospecting,,Best Case
+560,2024-05-27,REP01,Eve Davis,North America,Hillborough Territory,Cloud Platform,CUST0560,Medium,331613.39,0.036,11938.08,294061.38,0.0,Q3,2024,Qualification,,Pipeline
+561,2024-04-29,REP02,Charlie Brown,EMEA,Feliciafort Territory,Software,CUST0561,Enterprise,276353.47,0.076,21002.86,413077.97,0.0,Q1,2024,Qualification,,Upside
+562,2025-01-19,REP03,Eve Davis,APAC,West Pamela Territory,Cloud Platform,CUST0562,Small,474334.02,0.075,35575.05,514342.79,36.0,Q2,2025,Proposal,,Upside
+563,2024-11-22,REP04,Diana Prince,Latin America,Faithstad Territory,Hardware,CUST0563,Large,251364.14,0.054,13573.66,277410.65,76.7,Q3,2024,Negotiation,,Omitted
+564,2024-05-22,REP05,Charlie Brown,North America,East Lisa Territory,Consulting,CUST0564,Small,477976.0,0.053,25332.73,640921.0,72.1,Q1,2024,Negotiation,,Pipeline
+565,2025-10-12,REP06,Henry Wilson,EMEA,Port Michael Territory,Consulting,CUST0565,Medium,30348.26,0.053,1608.46,36227.13,77.0,Q1,2025,Negotiation,,Commit
+566,2024-02-14,REP07,Henry Wilson,North America,Taylorbury Territory,Consulting,CUST0566,Medium,475708.3,0.029,13795.54,485712.68,0.0,Q1,2024,Qualification,,Commit
+567,2025-10-23,REP08,Diana Prince,North America,East Emily Territory,Cloud Platform,CUST0567,Small,302988.89,0.08,24239.11,411517.54,20.2,Q3,2025,Proposal,,Pipeline
+568,2025-11-04,REP09,Diana Prince,North America,Bartlettberg Territory,Hardware,CUST0568,Large,193111.83,0.065,12552.27,205680.57,133.0,Q4,2025,Closed Won,57,Upside
+569,2024-12-25,REP10,Grace Lee,North America,Lisafort Territory,Consulting,CUST0569,Small,227105.43,0.092,20893.7,197125.78,14.1,Q3,2024,Proposal,,Pipeline
+570,2024-05-16,REP01,Diana Prince,North America,Kristashire Territory,Hardware,CUST0570,Medium,373862.07,0.059,22057.86,316155.76,0.0,Q4,2024,Qualification,,Omitted
+571,2025-01-29,REP02,Iris Chen,APAC,Gutierrezville Territory,Hardware,CUST0571,Large,190317.07,0.04,7612.68,263215.1,41.6,Q4,2025,Negotiation,,Omitted
+572,2024-05-29,REP03,Frank Miller,South Asia,Garnermouth Territory,Services,CUST0572,Small,361093.64,0.064,23109.99,316730.83,136.5,Q2,2024,Closed Won,71,Commit
+573,2024-01-02,REP04,Diana Prince,South Asia,Coreyland Territory,Hardware,CUST0573,Small,148465.08,0.097,14401.11,115086.03,38.3,Q2,2024,Proposal,,Best Case
+574,2025-07-29,REP05,Grace Lee,APAC,Andrewburgh Territory,Consulting,CUST0574,Large,196763.76,0.089,17511.97,157874.43,72.2,Q4,2025,Negotiation,,Commit
+575,2025-10-10,REP06,Iris Chen,EMEA,Brandiside Territory,Hardware,CUST0575,Small,302373.42,0.063,19049.53,398149.11,0.0,Q4,2025,Qualification,,Pipeline
+576,2024-05-18,REP07,Eve Davis,APAC,North Michelleborough Territory,Cloud Platform,CUST0576,Medium,431193.09,0.056,24146.81,407424.05,74.2,Q2,2024,Negotiation,,Commit
+577,2024-07-21,REP08,Grace Lee,APAC,South Paulbury Territory,Cloud Platform,CUST0577,Medium,390103.57,0.057,22235.9,423904.17,67.6,Q2,2024,Negotiation,,Pipeline
+578,2024-06-11,REP09,Eve Davis,EMEA,North Jennifershire Territory,Services,CUST0578,Enterprise,10133.67,0.043,435.75,14136.78,64.7,Q1,2024,Negotiation,,Upside
+579,2024-03-24,REP10,Grace Lee,APAC,Lake Richardview Territory,Cloud Platform,CUST0579,Enterprise,445351.17,0.065,28947.83,464525.91,26.4,Q2,2024,Proposal,,Best Case
+580,2024-12-22,REP01,Iris Chen,South Asia,West Marcborough Territory,Cloud Platform,CUST0580,Enterprise,485819.42,0.035,17003.68,569886.34,104.8,Q4,2024,Closed Won,8,Commit
+581,2025-05-16,REP02,Henry Wilson,APAC,Garytown Territory,Services,CUST0581,Medium,124717.86,0.071,8854.97,124243.84,57.3,Q3,2025,Negotiation,,Commit
+582,2024-08-12,REP03,Alice Johnson,North America,Lake Curtis Territory,Consulting,CUST0582,Medium,109799.83,0.043,4721.39,113490.1,120.7,Q2,2024,Closed Won,156,Upside
+583,2024-05-24,REP04,Grace Lee,South Asia,East Mark Territory,Software,CUST0583,Medium,236090.38,0.042,9915.8,264004.93,77.0,Q2,2024,Negotiation,,Best Case
+584,2024-08-26,REP05,Henry Wilson,North America,Meghanborough Territory,Services,CUST0584,Small,419217.78,0.024,10061.23,562096.76,68.5,Q1,2024,Negotiation,,Best Case
+585,2025-12-04,REP06,Grace Lee,North America,East Chad Territory,Cloud Platform,CUST0585,Large,328294.81,0.044,14444.97,389073.68,26.2,Q2,2025,Proposal,,Omitted
+586,2025-01-06,REP07,Charlie Brown,North America,Simmonsfort Territory,Cloud Platform,CUST0586,Medium,377848.27,0.038,14358.23,509597.38,104.7,Q4,2025,Closed Won,88,Best Case
+587,2025-06-30,REP08,Grace Lee,Latin America,Davistown Territory,Services,CUST0587,Large,420979.5,0.065,27363.67,442892.32,138.2,Q3,2025,Closed Won,121,Best Case
+588,2024-10-28,REP09,Frank Miller,South Asia,West Christybury Territory,Hardware,CUST0588,Enterprise,147550.44,0.056,8262.82,213238.47,35.3,Q4,2024,Proposal,,Best Case
+589,2025-09-02,REP10,Diana Prince,South Asia,Port Christopher Territory,Hardware,CUST0589,Enterprise,26801.03,0.07,1876.07,36945.15,112.3,Q3,2025,Closed Won,99,Upside
+590,2025-09-30,REP01,Diana Prince,South Asia,East Richardside Territory,Services,CUST0590,Large,375476.28,0.041,15394.53,441679.02,132.3,Q3,2025,Closed Won,74,Pipeline
+591,2024-02-25,REP02,Diana Prince,Latin America,South Laura Territory,Consulting,CUST0591,Medium,111363.5,0.021,2338.63,163146.87,17.6,Q1,2024,Proposal,,Best Case
+592,2025-07-31,REP03,Alice Johnson,APAC,Port Kari Territory,Consulting,CUST0592,Medium,223187.91,0.051,11382.58,311895.7,68.5,Q2,2025,Negotiation,,Omitted
+593,2024-09-30,REP04,Henry Wilson,South Asia,North Kellihaven Territory,Hardware,CUST0593,Small,227244.23,0.051,11589.46,257991.35,73.1,Q1,2024,Negotiation,,Upside
+594,2024-02-22,REP05,Eve Davis,North America,Port Tracy Territory,Hardware,CUST0594,Medium,143102.35,0.068,9730.96,206721.18,97.3,Q4,2024,Closed Won,51,Best Case
+595,2024-10-22,REP06,Charlie Brown,Latin America,Port Heidi Territory,Software,CUST0595,Small,245632.47,0.038,9334.03,189790.29,21.8,Q2,2024,Proposal,,Pipeline
+596,2025-03-18,REP07,Charlie Brown,EMEA,Washingtonbury Territory,Cloud Platform,CUST0596,Medium,261280.98,0.028,7315.87,264103.44,0.0,Q1,2025,Qualification,,Best Case
+597,2025-04-13,REP08,Diana Prince,APAC,Lake Elizabeth Territory,Cloud Platform,CUST0597,Small,346979.41,0.095,32963.04,446260.39,39.2,Q1,2025,Proposal,,Commit
+598,2024-09-22,REP09,Diana Prince,EMEA,New Ericberg Territory,Services,CUST0598,Small,341808.56,0.048,16406.81,469602.86,24.9,Q3,2024,Proposal,,Commit
+599,2025-06-11,REP10,Jack Taylor,Latin America,South David Territory,Software,CUST0599,Small,418305.97,0.04,16732.24,606336.78,0.0,Q1,2025,Prospecting,,Upside
+600,2025-11-06,REP01,Bob Smith,EMEA,Millshaven Territory,Software,CUST0600,Small,138417.37,0.076,10519.72,187628.62,0.0,Q1,2025,Qualification,,Best Case
+601,2024-07-16,REP02,Jack Taylor,South Asia,South Julie Territory,Hardware,CUST0601,Medium,148779.3,0.095,14134.03,218386.15,49.9,Q3,2024,Negotiation,,Pipeline
+602,2024-07-10,REP03,Bob Smith,Latin America,Danielland Territory,Cloud Platform,CUST0602,Small,280059.55,0.092,25765.48,292610.19,0.0,Q4,2024,Prospecting,,Upside
+603,2024-02-29,REP04,Bob Smith,APAC,Andersonside Territory,Cloud Platform,CUST0603,Medium,490945.59,0.057,27983.9,362730.91,79.1,Q3,2024,Negotiation,,Commit
+604,2025-09-23,REP05,Iris Chen,South Asia,New Marcus Territory,Cloud Platform,CUST0604,Medium,174749.11,0.097,16950.66,188389.29,132.0,Q4,2025,Closed Won,118,Upside
+605,2024-10-01,REP06,Frank Miller,Latin America,East Jessica Territory,Services,CUST0605,Medium,434373.72,0.03,13031.21,589273.23,0.0,Q2,2024,Qualification,,Commit
+606,2025-03-09,REP07,Jack Taylor,APAC,Port Donna Territory,Cloud Platform,CUST0606,Enterprise,493548.15,0.089,43925.79,411532.48,28.6,Q3,2025,Proposal,,Upside
+607,2024-10-01,REP08,Alice Johnson,EMEA,East Connieshire Territory,Services,CUST0607,Medium,121044.48,0.051,6173.27,179965.61,0.0,Q2,2024,Qualification,,Omitted
+608,2024-08-01,REP09,Eve Davis,Latin America,Lake Austinview Territory,Services,CUST0608,Medium,122014.05,0.099,12079.39,98994.92,59.1,Q1,2024,Negotiation,,Omitted
+609,2025-10-04,REP10,Henry Wilson,APAC,Garciafort Territory,Services,CUST0609,Medium,228091.11,0.055,12545.01,209689.91,0.0,Q4,2025,Closed Lost,,Pipeline
+610,2025-09-06,REP01,Bob Smith,Latin America,Mauriceland Territory,Consulting,CUST0610,Small,54897.18,0.022,1207.74,42734.77,122.9,Q2,2025,Closed Won,51,Best Case
+611,2025-10-13,REP02,Jack Taylor,South Asia,Robinland Territory,Consulting,CUST0611,Enterprise,333589.35,0.049,16345.88,251682.56,122.8,Q2,2025,Closed Won,173,Best Case
+612,2025-07-12,REP03,Iris Chen,APAC,Hollandmouth Territory,Hardware,CUST0612,Small,107641.6,0.064,6889.06,159865.2,47.7,Q1,2025,Negotiation,,Best Case
+613,2025-11-17,REP04,Bob Smith,South Asia,Brycefurt Territory,Software,CUST0613,Medium,69970.1,0.075,5247.76,84625.2,0.0,Q1,2025,Qualification,,Commit
+614,2024-04-01,REP05,Jack Taylor,Latin America,East Joshua Territory,Software,CUST0614,Small,32827.99,0.077,2527.76,31614.86,83.2,Q2,2024,Closed Won,93,Upside
+615,2025-08-13,REP06,Grace Lee,EMEA,Lorifurt Territory,Hardware,CUST0615,Medium,445453.52,0.095,42318.08,643736.59,0.0,Q4,2025,Qualification,,Commit
+616,2025-10-07,REP07,Eve Davis,North America,West Jill Territory,Services,CUST0616,Medium,22313.86,0.063,1405.77,27100.73,115.2,Q3,2025,Closed Won,143,Upside
+617,2024-07-15,REP08,Iris Chen,North America,East Christopherchester Territory,Hardware,CUST0617,Small,431108.11,0.036,15519.89,338094.89,132.0,Q4,2024,Closed Won,175,Best Case
+618,2025-10-27,REP09,Bob Smith,North America,Charlesland Territory,Cloud Platform,CUST0618,Small,344749.99,0.058,19995.5,444841.84,54.7,Q1,2025,Negotiation,,Pipeline
+619,2024-01-21,REP10,Charlie Brown,EMEA,Kevinport Territory,Cloud Platform,CUST0619,Medium,237351.13,0.038,9019.34,289625.58,108.4,Q2,2024,Closed Won,179,Omitted
+620,2025-02-25,REP01,Jack Taylor,South Asia,Shannonmouth Territory,Hardware,CUST0620,Medium,152018.34,0.093,14137.71,141853.44,41.5,Q1,2025,Negotiation,,Best Case
+621,2024-05-13,REP02,Iris Chen,Latin America,Ianville Territory,Cloud Platform,CUST0621,Small,52488.42,0.039,2047.05,77771.73,124.4,Q3,2024,Closed Won,167,Upside
+622,2025-12-25,REP03,Bob Smith,South Asia,North Timothyside Territory,Hardware,CUST0622,Small,23359.93,0.083,1938.87,23119.66,0.0,Q4,2025,Qualification,,Upside
+623,2024-09-25,REP04,Grace Lee,North America,Hammondshire Territory,Hardware,CUST0623,Medium,50584.29,0.07,3540.9,50167.57,110.0,Q4,2024,Closed Won,23,Pipeline
+624,2025-01-16,REP05,Charlie Brown,North America,Lake Linda Territory,Software,CUST0624,Enterprise,389716.86,0.033,12860.66,485243.04,65.5,Q1,2025,Negotiation,,Pipeline
+625,2024-08-02,REP06,Frank Miller,North America,Muellerchester Territory,Hardware,CUST0625,Medium,197691.49,0.059,11663.8,165392.88,22.7,Q4,2024,Proposal,,Best Case
+626,2024-07-22,REP07,Iris Chen,Latin America,West Gregoryfort Territory,Consulting,CUST0626,Large,192964.48,0.086,16594.95,215881.38,78.0,Q1,2024,Negotiation,,Best Case
+627,2025-03-23,REP08,Iris Chen,APAC,Mackmouth Territory,Consulting,CUST0627,Medium,359601.59,0.083,29846.93,254107.21,75.1,Q1,2025,Negotiation,,Best Case
+628,2024-01-24,REP09,Jack Taylor,APAC,Port Alexandrachester Territory,Consulting,CUST0628,Medium,206212.47,0.052,10723.05,254814.28,55.0,Q3,2024,Negotiation,,Upside
+629,2025-02-14,REP10,Jack Taylor,EMEA,East Kellyport Territory,Software,CUST0629,Enterprise,489984.35,0.042,20579.34,421089.96,16.5,Q3,2025,Proposal,,Commit
+630,2025-04-13,REP01,Diana Prince,North America,Riveraberg Territory,Services,CUST0630,Medium,166906.27,0.073,12184.16,210778.83,113.6,Q1,2025,Closed Won,167,Pipeline
+631,2024-01-08,REP02,Eve Davis,Latin America,North Ericshire Territory,Cloud Platform,CUST0631,Small,417375.2,0.046,19199.26,521698.73,113.6,Q3,2024,Closed Won,163,Upside
+632,2024-08-02,REP03,Jack Taylor,Latin America,Marvinstad Territory,Hardware,CUST0632,Small,460015.69,0.049,22540.77,541288.96,96.6,Q4,2024,Closed Won,134,Upside
+633,2024-08-21,REP04,Bob Smith,South Asia,Lesliemouth Territory,Cloud Platform,CUST0633,Medium,84647.14,0.021,1777.59,100217.82,88.4,Q1,2024,Closed Won,110,Omitted
+634,2025-01-27,REP05,Charlie Brown,South Asia,Lake James Territory,Services,CUST0634,Medium,159566.1,0.077,12286.59,117226.21,90.0,Q1,2025,Closed Won,147,Omitted
+635,2025-09-09,REP06,Charlie Brown,EMEA,Atkinsontown Territory,Cloud Platform,CUST0635,Large,364292.56,0.048,17486.04,507243.58,80.9,Q4,2025,Closed Won,26,Commit
+636,2025-10-03,REP07,Jack Taylor,EMEA,New Kaitlyn Territory,Services,CUST0636,Small,393370.14,0.095,37370.16,472748.77,62.2,Q4,2025,Negotiation,,Upside
+637,2024-10-02,REP08,Grace Lee,Latin America,Lake Biancamouth Territory,Services,CUST0637,Enterprise,394095.03,0.055,21675.23,550030.4,80.0,Q2,2024,Closed Won,113,Best Case
+638,2024-06-02,REP09,Diana Prince,EMEA,Danielmouth Territory,Services,CUST0638,Medium,225135.49,0.047,10581.37,202358.01,104.7,Q1,2024,Closed Won,68,Upside
+639,2025-11-20,REP10,Diana Prince,APAC,New Joshua Territory,Software,CUST0639,Medium,426646.91,0.053,22612.29,572940.92,21.5,Q2,2025,Proposal,,Pipeline
+640,2024-12-24,REP01,Charlie Brown,North America,Ingramville Territory,Services,CUST0640,Large,384583.84,0.063,24228.78,405884.08,61.0,Q1,2024,Negotiation,,Omitted
+641,2025-07-02,REP02,Diana Prince,North America,West Paige Territory,Software,CUST0641,Large,490251.21,0.048,23532.06,646493.38,83.2,Q4,2025,Closed Won,143,Best Case
+642,2025-05-10,REP03,Henry Wilson,APAC,Christinastad Territory,Cloud Platform,CUST0642,Small,372973.19,0.081,30210.83,534834.19,43.5,Q1,2025,Negotiation,,Commit
+643,2025-01-12,REP04,Charlie Brown,EMEA,Port Virginiaborough Territory,Cloud Platform,CUST0643,Medium,232584.73,0.023,5349.45,196256.14,0.0,Q3,2025,Qualification,,Best Case
+644,2025-12-21,REP05,Henry Wilson,EMEA,Jeremymouth Territory,Consulting,CUST0644,Enterprise,133729.63,0.082,10965.83,143879.27,34.1,Q2,2025,Proposal,,Commit
+645,2025-03-27,REP06,Diana Prince,North America,South Ralph Territory,Cloud Platform,CUST0645,Enterprise,277678.25,0.074,20548.19,319687.74,70.6,Q2,2025,Negotiation,,Pipeline
+646,2025-11-02,REP07,Grace Lee,Latin America,West Patrick Territory,Services,CUST0646,Large,152325.11,0.06,9139.51,202834.16,113.4,Q3,2025,Closed Won,78,Commit
+647,2025-09-23,REP08,Alice Johnson,South Asia,North Rebeccamouth Territory,Hardware,CUST0647,Medium,35871.63,0.029,1040.28,41309.92,0.0,Q2,2025,Closed Lost,,Upside
+648,2025-10-21,REP09,Jack Taylor,APAC,Port Logan Territory,Software,CUST0648,Medium,306128.92,0.028,8571.61,357795.07,29.5,Q4,2025,Proposal,,Best Case
+649,2025-10-09,REP10,Henry Wilson,South Asia,New Brian Territory,Software,CUST0649,Large,203557.14,0.087,17709.47,304598.71,34.3,Q1,2025,Proposal,,Commit
+650,2024-05-25,REP01,Alice Johnson,EMEA,North Keithmouth Territory,Services,CUST0650,Small,107876.39,0.031,3344.17,125307.25,105.0,Q1,2024,Closed Won,89,Pipeline
+651,2024-10-17,REP02,Diana Prince,EMEA,Christinafurt Territory,Cloud Platform,CUST0651,Medium,371083.2,0.048,17811.99,535493.86,42.8,Q3,2024,Negotiation,,Commit
+652,2025-05-17,REP03,Grace Lee,Latin America,South Davidville Territory,Cloud Platform,CUST0652,Small,44478.35,0.096,4269.92,41350.97,82.7,Q3,2025,Closed Won,13,Upside
+653,2024-05-25,REP04,Henry Wilson,EMEA,West Michelle Territory,Cloud Platform,CUST0653,Medium,365277.48,0.047,17168.04,500415.77,127.6,Q3,2024,Closed Won,176,Commit
+654,2024-07-10,REP05,Iris Chen,South Asia,West Michelleton Territory,Cloud Platform,CUST0654,Medium,142887.16,0.042,6001.26,174513.16,135.5,Q3,2024,Closed Won,91,Upside
+655,2024-08-19,REP06,Alice Johnson,Latin America,Hernandeztown Territory,Services,CUST0655,Large,406893.92,0.062,25227.42,607841.43,0.0,Q1,2024,Prospecting,,Commit
+656,2024-02-14,REP07,Diana Prince,EMEA,Trevorburgh Territory,Software,CUST0656,Medium,473964.91,0.035,16588.77,432634.31,136.7,Q4,2024,Closed Won,111,Best Case
+657,2024-01-22,REP08,Grace Lee,APAC,North Eddie Territory,Software,CUST0657,Small,219539.34,0.033,7244.8,313808.18,0.0,Q4,2024,Closed Lost,,Pipeline
+658,2024-12-09,REP09,Alice Johnson,North America,East Davidfort Territory,Cloud Platform,CUST0658,Medium,444005.26,0.036,15984.19,628967.32,138.2,Q4,2024,Closed Won,173,Best Case
+659,2024-01-18,REP10,Alice Johnson,North America,Murrayborough Territory,Software,CUST0659,Medium,179222.66,0.027,4839.01,136266.12,0.0,Q4,2024,Qualification,,Omitted
+660,2025-02-04,REP01,Jack Taylor,EMEA,East Sarah Territory,Cloud Platform,CUST0660,Large,49843.14,0.048,2392.47,57363.78,0.0,Q2,2025,Prospecting,,Pipeline
+661,2024-03-14,REP02,Iris Chen,Latin America,Cruzbury Territory,Consulting,CUST0661,Medium,91478.09,0.073,6677.9,86397.78,43.3,Q3,2024,Negotiation,,Omitted
+662,2025-04-25,REP03,Diana Prince,South Asia,New Jeremy Territory,Hardware,CUST0662,Medium,405018.16,0.072,29161.31,413999.32,33.4,Q3,2025,Proposal,,Commit
+663,2025-05-14,REP04,Grace Lee,EMEA,Carlsonbury Territory,Services,CUST0663,Enterprise,416676.12,0.077,32084.06,342907.22,26.9,Q2,2025,Proposal,,Commit
+664,2025-10-01,REP05,Charlie Brown,North America,Deniseton Territory,Hardware,CUST0664,Large,105135.46,0.023,2418.12,106796.96,0.0,Q1,2025,Qualification,,Upside
+665,2025-07-19,REP06,Frank Miller,South Asia,Smithberg Territory,Cloud Platform,CUST0665,Large,185796.09,0.044,8175.03,157822.19,0.0,Q4,2025,Qualification,,Commit
+666,2024-11-10,REP07,Bob Smith,North America,Ambermouth Territory,Consulting,CUST0666,Enterprise,483692.63,0.025,12092.32,432743.44,49.7,Q4,2024,Negotiation,,Omitted
+667,2024-09-11,REP08,Bob Smith,APAC,Hallshire Territory,Services,CUST0667,Medium,271155.05,0.086,23319.33,312427.48,116.7,Q1,2024,Closed Won,137,Commit
+668,2024-01-09,REP09,Grace Lee,Latin America,Danielston Territory,Hardware,CUST0668,Enterprise,384330.39,0.028,10761.25,289945.94,127.9,Q2,2024,Closed Won,109,Omitted
+669,2025-12-07,REP10,Frank Miller,Latin America,New Jennifer Territory,Cloud Platform,CUST0669,Large,252334.79,0.095,23971.81,277920.18,20.4,Q1,2025,Proposal,,Best Case
+670,2025-11-24,REP01,Iris Chen,EMEA,Lake Sarahview Territory,Software,CUST0670,Large,320175.08,0.036,11526.3,289104.29,62.0,Q3,2025,Negotiation,,Commit
+671,2025-09-17,REP02,Eve Davis,North America,South Robertside Territory,Cloud Platform,CUST0671,Medium,25794.6,0.03,773.84,36677.4,99.5,Q3,2025,Closed Won,71,Omitted
+672,2024-05-10,REP03,Frank Miller,South Asia,Sanchezfurt Territory,Software,CUST0672,Medium,92473.67,0.058,5363.47,104129.62,114.1,Q2,2024,Closed Won,81,Upside
+673,2025-06-23,REP04,Alice Johnson,South Asia,Hunterfort Territory,Cloud Platform,CUST0673,Small,331433.75,0.023,7622.98,243858.42,16.9,Q1,2025,Proposal,,Upside
+674,2025-02-28,REP05,Iris Chen,APAC,North Jasonstad Territory,Software,CUST0674,Medium,279602.23,0.046,12861.7,206414.09,76.4,Q3,2025,Negotiation,,Best Case
+675,2024-09-07,REP06,Frank Miller,North America,Lisafort Territory,Cloud Platform,CUST0675,Large,438781.86,0.096,42123.06,578019.51,103.2,Q3,2024,Closed Won,9,Commit
+676,2024-02-05,REP07,Grace Lee,North America,West Christina Territory,Cloud Platform,CUST0676,Medium,396930.8,0.085,33739.12,333939.68,84.1,Q4,2024,Closed Won,127,Upside
+677,2024-09-12,REP08,Frank Miller,South Asia,Erinshire Territory,Software,CUST0677,Small,134219.71,0.054,7247.86,154162.07,0.0,Q4,2024,Qualification,,Pipeline
+678,2024-08-24,REP09,Bob Smith,APAC,Cochranstad Territory,Consulting,CUST0678,Small,365237.52,0.08,29219.0,389332.74,0.0,Q4,2024,Qualification,,Omitted
+679,2025-10-22,REP10,Charlie Brown,EMEA,New Daniel Territory,Hardware,CUST0679,Large,347651.18,0.095,33026.86,245602.25,24.5,Q1,2025,Proposal,,Upside
+680,2025-10-22,REP01,Iris Chen,Latin America,New Jeff Territory,Cloud Platform,CUST0680,Small,103358.66,0.081,8372.05,142167.61,72.0,Q4,2025,Negotiation,,Commit
+681,2025-03-14,REP02,Eve Davis,Latin America,New Jacquelineland Territory,Hardware,CUST0681,Large,217804.76,0.028,6098.53,319573.45,77.5,Q2,2025,Negotiation,,Commit
+682,2025-04-01,REP03,Henry Wilson,Latin America,Port Marctown Territory,Software,CUST0682,Enterprise,104073.42,0.054,5619.96,89332.45,33.6,Q4,2025,Proposal,,Commit
+683,2024-09-20,REP04,Diana Prince,South Asia,Nelsonstad Territory,Cloud Platform,CUST0683,Medium,362448.27,0.071,25733.83,284774.02,126.3,Q4,2024,Closed Won,44,Commit
+684,2024-09-09,REP05,Grace Lee,EMEA,Lake Jacobville Territory,Software,CUST0684,Small,54623.35,0.097,5298.46,42909.28,72.3,Q2,2024,Negotiation,,Pipeline
+685,2025-08-30,REP06,Iris Chen,APAC,Juanside Territory,Cloud Platform,CUST0685,Large,293793.13,0.03,8813.79,406825.87,24.9,Q3,2025,Proposal,,Pipeline
+686,2025-03-08,REP07,Jack Taylor,APAC,Douglasport Territory,Services,CUST0686,Large,242983.21,0.066,16036.89,203083.45,0.0,Q1,2025,Qualification,,Best Case
+687,2025-12-04,REP08,Henry Wilson,North America,South Thomas Territory,Services,CUST0687,Large,441426.55,0.07,30899.86,542927.28,104.8,Q3,2025,Closed Won,72,Commit
+688,2025-01-11,REP09,Iris Chen,Latin America,West Jonathanmouth Territory,Software,CUST0688,Medium,297577.03,0.053,15771.58,383710.62,0.0,Q4,2025,Qualification,,Pipeline
+689,2024-11-24,REP10,Diana Prince,South Asia,Millerbury Territory,Software,CUST0689,Medium,163919.82,0.048,7868.15,227190.3,0.0,Q2,2024,Qualification,,Pipeline
+690,2024-10-17,REP01,Eve Davis,Latin America,Lake Kelly Territory,Cloud Platform,CUST0690,Small,471549.5,0.074,34894.66,466305.44,53.9,Q2,2024,Negotiation,,Best Case
+691,2025-09-24,REP02,Charlie Brown,Latin America,New Stephaniestad Territory,Cloud Platform,CUST0691,Enterprise,164696.45,0.063,10375.88,136277.85,116.8,Q1,2025,Closed Won,46,Omitted
+692,2025-03-21,REP03,Bob Smith,South Asia,West Ashleyshire Territory,Software,CUST0692,Medium,370421.94,0.065,24077.43,515007.89,76.6,Q4,2025,Negotiation,,Omitted
+693,2024-03-14,REP04,Henry Wilson,APAC,East Staceytown Territory,Services,CUST0693,Large,62155.81,0.032,1988.99,45308.89,47.4,Q1,2024,Negotiation,,Pipeline
+694,2024-12-28,REP05,Eve Davis,EMEA,Lake Tiffany Territory,Hardware,CUST0694,Small,195718.6,0.09,17614.67,262922.7,0.0,Q1,2024,Qualification,,Omitted
+695,2025-08-08,REP06,Henry Wilson,South Asia,Ericbury Territory,Cloud Platform,CUST0695,Large,193632.52,0.099,19169.62,219969.21,130.5,Q1,2025,Closed Won,73,Pipeline
+696,2024-12-30,REP07,Grace Lee,North America,Justinshire Territory,Hardware,CUST0696,Small,324171.66,0.039,12642.69,430535.42,46.5,Q2,2024,Negotiation,,Best Case
+697,2024-03-12,REP08,Jack Taylor,Latin America,New Audreyville Territory,Cloud Platform,CUST0697,Small,109209.47,0.078,8518.34,118031.29,20.5,Q1,2024,Proposal,,Commit
+698,2024-07-01,REP09,Jack Taylor,Latin America,Ryanview Territory,Cloud Platform,CUST0698,Large,222994.13,0.088,19623.48,176314.89,0.0,Q2,2024,Qualification,,Best Case
+699,2024-06-05,REP10,Eve Davis,EMEA,West Garrettville Territory,Services,CUST0699,Medium,428182.79,0.041,17555.49,616512.67,0.0,Q1,2024,Qualification,,Omitted
+700,2025-12-05,REP01,Jack Taylor,South Asia,Port Eric Territory,Services,CUST0700,Small,255391.67,0.03,7661.75,262213.25,36.0,Q1,2025,Proposal,,Omitted
+701,2025-03-23,REP02,Jack Taylor,Latin America,Sherylmouth Territory,Services,CUST0701,Enterprise,91171.18,0.061,5561.44,110027.05,71.7,Q1,2025,Negotiation,,Pipeline
+702,2024-07-15,REP03,Eve Davis,South Asia,New Heatherton Territory,Software,CUST0702,Medium,147308.1,0.068,10016.95,131465.94,127.5,Q4,2024,Closed Won,145,Pipeline
+703,2025-05-25,REP04,Charlie Brown,APAC,South Karen Territory,Services,CUST0703,Medium,255174.93,0.099,25262.32,226713.54,11.5,Q3,2025,Proposal,,Upside
+704,2025-06-13,REP05,Henry Wilson,Latin America,Port Robinshire Territory,Services,CUST0704,Medium,158532.83,0.023,3646.26,175691.99,36.8,Q3,2025,Proposal,,Best Case
+705,2024-12-08,REP06,Jack Taylor,North America,Gardnerton Territory,Services,CUST0705,Medium,418306.62,0.099,41412.36,412143.27,0.0,Q2,2024,Qualification,,Commit
+706,2024-08-31,REP07,Bob Smith,North America,Selenamouth Territory,Software,CUST0706,Medium,366637.71,0.087,31897.48,343886.74,22.9,Q2,2024,Proposal,,Commit
+707,2024-10-31,REP08,Diana Prince,North America,Smithtown Territory,Consulting,CUST0707,Enterprise,207614.59,0.068,14117.79,307027.78,113.1,Q4,2024,Closed Won,10,Upside
+708,2025-04-27,REP09,Grace Lee,EMEA,Lake Andrewberg Territory,Consulting,CUST0708,Medium,273377.14,0.053,14488.99,326532.48,96.9,Q3,2025,Closed Won,16,Upside
+709,2025-11-13,REP10,Alice Johnson,North America,South Chad Territory,Consulting,CUST0709,Small,46656.32,0.083,3872.47,49007.97,0.0,Q2,2025,Closed Lost,,Best Case
+710,2024-01-16,REP01,Jack Taylor,APAC,Michaelview Territory,Cloud Platform,CUST0710,Small,321986.75,0.056,18031.26,310228.56,0.0,Q1,2024,Prospecting,,Pipeline
+711,2025-10-02,REP02,Jack Taylor,Latin America,East Rebecca Territory,Hardware,CUST0711,Small,336162.7,0.073,24539.88,340701.23,0.0,Q1,2025,Closed Lost,,Pipeline
+712,2025-01-09,REP03,Eve Davis,Latin America,Fowlerberg Territory,Hardware,CUST0712,Enterprise,465286.74,0.096,44667.53,519569.07,45.2,Q1,2025,Negotiation,,Best Case
+713,2025-10-27,REP04,Frank Miller,Latin America,West Kellyview Territory,Cloud Platform,CUST0713,Medium,362632.56,0.045,16318.47,309365.34,63.7,Q4,2025,Negotiation,,Best Case
+714,2025-09-01,REP05,Jack Taylor,EMEA,Lake Mario Territory,Services,CUST0714,Enterprise,331194.97,0.089,29476.35,263489.34,52.5,Q3,2025,Negotiation,,Best Case
+715,2024-05-11,REP06,Bob Smith,South Asia,North Jennifer Territory,Services,CUST0715,Medium,257374.53,0.045,11581.85,187945.27,0.0,Q2,2024,Prospecting,,Upside
+716,2025-03-16,REP07,Charlie Brown,Latin America,Patriciaberg Territory,Hardware,CUST0716,Small,167243.45,0.038,6355.25,165884.38,0.0,Q1,2025,Qualification,,Upside
+717,2025-10-13,REP08,Jack Taylor,North America,Timothytown Territory,Consulting,CUST0717,Large,407765.71,0.047,19164.99,420441.31,0.0,Q4,2025,Closed Lost,,Upside
+718,2024-08-09,REP09,Jack Taylor,South Asia,East Mary Territory,Consulting,CUST0718,Large,226309.28,0.041,9278.68,186683.96,0.0,Q3,2024,Qualification,,Pipeline
+719,2025-11-15,REP10,Frank Miller,Latin America,Jonesfort Territory,Hardware,CUST0719,Small,247896.45,0.081,20079.61,272176.42,0.0,Q1,2025,Closed Lost,,Commit
+720,2025-01-16,REP01,Jack Taylor,Latin America,Thompsonland Territory,Services,CUST0720,Medium,254353.87,0.096,24417.97,268065.35,109.4,Q3,2025,Closed Won,176,Best Case
+721,2025-05-01,REP02,Eve Davis,North America,North Ryanstad Territory,Consulting,CUST0721,Medium,219013.24,0.045,9855.6,224880.73,0.0,Q2,2025,Prospecting,,Best Case
+722,2025-03-08,REP03,Jack Taylor,APAC,East Hectorfort Territory,Cloud Platform,CUST0722,Enterprise,193954.82,0.091,17649.89,238805.97,0.0,Q4,2025,Qualification,,Best Case
+723,2024-12-16,REP04,Bob Smith,South Asia,Delacruzbury Territory,Hardware,CUST0723,Medium,325916.47,0.07,22814.15,234976.7,25.0,Q2,2024,Proposal,,Upside
+724,2024-04-20,REP05,Henry Wilson,North America,West Donna Territory,Cloud Platform,CUST0724,Small,209037.71,0.093,19440.51,162644.06,39.6,Q3,2024,Proposal,,Omitted
+725,2025-07-01,REP06,Jack Taylor,Latin America,Jameshaven Territory,Consulting,CUST0725,Medium,86971.57,0.026,2261.26,94862.05,71.1,Q4,2025,Negotiation,,Upside
+726,2025-10-14,REP07,Bob Smith,Latin America,Patrickton Territory,Hardware,CUST0726,Medium,45974.36,0.067,3080.28,41110.46,72.1,Q2,2025,Negotiation,,Pipeline
+727,2024-03-22,REP08,Bob Smith,North America,Lake Kennethhaven Territory,Consulting,CUST0727,Small,347989.09,0.034,11831.63,430519.55,0.0,Q4,2024,Prospecting,,Best Case
+728,2025-08-07,REP09,Iris Chen,APAC,Peterport Territory,Hardware,CUST0728,Large,494726.89,0.089,44030.69,559136.13,110.9,Q1,2025,Closed Won,108,Best Case
+729,2024-10-15,REP10,Charlie Brown,North America,Staceyhaven Territory,Consulting,CUST0729,Small,208423.78,0.027,5627.44,296878.97,18.5,Q4,2024,Proposal,,Pipeline
+730,2024-05-22,REP01,Jack Taylor,South Asia,Johnfurt Territory,Software,CUST0730,Small,455313.91,0.091,41433.57,416614.62,91.1,Q3,2024,Closed Won,134,Best Case
+731,2024-07-16,REP02,Alice Johnson,North America,Timothymouth Territory,Consulting,CUST0731,Enterprise,416385.84,0.094,39140.27,586302.08,15.4,Q1,2024,Proposal,,Commit
+732,2024-01-11,REP03,Jack Taylor,North America,Arnoldburgh Territory,Hardware,CUST0732,Small,39838.67,0.031,1235.0,36068.09,49.4,Q3,2024,Negotiation,,Omitted
+733,2025-08-29,REP04,Frank Miller,Latin America,Matthewmouth Territory,Hardware,CUST0733,Medium,14174.39,0.045,637.85,15965.49,107.1,Q2,2025,Closed Won,44,Commit
+734,2025-09-02,REP05,Eve Davis,South Asia,Matthewsfort Territory,Services,CUST0734,Medium,356993.42,0.066,23561.57,375077.79,0.0,Q1,2025,Qualification,,Omitted
+735,2024-01-23,REP06,Bob Smith,EMEA,North Amandaview Territory,Software,CUST0735,Medium,60651.7,0.082,4973.44,79031.92,0.0,Q1,2024,Closed Lost,,Best Case
+736,2024-11-14,REP07,Jack Taylor,EMEA,West Emilymouth Territory,Software,CUST0736,Large,368570.8,0.081,29854.23,442323.72,0.0,Q1,2024,Qualification,,Commit
+737,2025-02-10,REP08,Charlie Brown,APAC,East Kathleenland Territory,Software,CUST0737,Medium,384174.24,0.039,14982.8,376718.19,122.3,Q3,2025,Closed Won,65,Pipeline
+738,2024-11-01,REP09,Jack Taylor,EMEA,Jenniferside Territory,Services,CUST0738,Medium,108606.0,0.021,2280.73,155395.04,135.9,Q1,2024,Closed Won,80,Commit
+739,2025-11-29,REP10,Jack Taylor,EMEA,West Alexanderfurt Territory,Software,CUST0739,Small,250743.07,0.09,22566.88,291661.96,101.5,Q3,2025,Closed Won,36,Upside
+740,2025-02-27,REP01,Diana Prince,EMEA,West Taraborough Territory,Software,CUST0740,Enterprise,389115.66,0.077,29961.91,415729.92,67.5,Q2,2025,Negotiation,,Pipeline
+741,2024-05-08,REP02,Grace Lee,South Asia,East Roberttown Territory,Cloud Platform,CUST0741,Small,265947.14,0.022,5850.84,194134.93,28.9,Q2,2024,Proposal,,Omitted
+742,2025-01-03,REP03,Charlie Brown,South Asia,Reedtown Territory,Software,CUST0742,Medium,103183.27,0.073,7532.38,142059.29,38.9,Q2,2025,Proposal,,Best Case
+743,2024-10-11,REP04,Alice Johnson,APAC,West Aprilland Territory,Cloud Platform,CUST0743,Medium,339887.2,0.027,9176.95,270258.39,124.3,Q2,2024,Closed Won,20,Best Case
+744,2024-03-30,REP05,Jack Taylor,South Asia,Sanchezberg Territory,Services,CUST0744,Large,254231.71,0.041,10423.5,336979.07,15.3,Q4,2024,Proposal,,Commit
+745,2024-02-29,REP06,Alice Johnson,North America,Ericbury Territory,Hardware,CUST0745,Medium,114118.35,0.095,10841.24,105575.52,0.0,Q4,2024,Qualification,,Commit
+746,2025-03-16,REP07,Alice Johnson,APAC,Jessicamouth Territory,Consulting,CUST0746,Large,144515.76,0.081,11705.78,144873.27,131.3,Q3,2025,Closed Won,19,Best Case
+747,2025-06-20,REP08,Eve Davis,South Asia,Port Jose Territory,Software,CUST0747,Medium,116266.02,0.053,6162.1,97981.25,117.3,Q4,2025,Closed Won,18,Omitted
+748,2025-01-20,REP09,Henry Wilson,South Asia,Port Derekbury Territory,Services,CUST0748,Small,360146.49,0.043,15486.3,465622.83,0.0,Q1,2025,Qualification,,Omitted
+749,2024-12-30,REP10,Eve Davis,South Asia,Andrewville Territory,Cloud Platform,CUST0749,Large,261291.33,0.074,19335.56,265953.1,75.8,Q1,2024,Negotiation,,Pipeline
+750,2025-01-15,REP01,Iris Chen,EMEA,Stevenbury Territory,Consulting,CUST0750,Small,89059.0,0.024,2137.42,114464.47,40.2,Q4,2025,Negotiation,,Pipeline
+751,2024-11-17,REP02,Jack Taylor,North America,Port Stevenborough Territory,Consulting,CUST0751,Medium,173258.82,0.05,8662.94,224013.89,0.0,Q3,2024,Closed Lost,,Commit
+752,2024-07-19,REP03,Alice Johnson,South Asia,Jacobsshire Territory,Hardware,CUST0752,Medium,262543.52,0.021,5513.41,341513.12,0.0,Q3,2024,Qualification,,Best Case
+753,2024-05-06,REP04,Diana Prince,Latin America,Shannonfort Territory,Cloud Platform,CUST0753,Enterprise,88703.34,0.059,5233.5,88324.28,41.9,Q3,2024,Negotiation,,Upside
+754,2024-12-16,REP05,Diana Prince,APAC,Daniellehaven Territory,Services,CUST0754,Enterprise,181196.37,0.076,13770.92,245357.14,63.6,Q3,2024,Negotiation,,Best Case
+755,2025-06-03,REP06,Grace Lee,EMEA,East Stevenborough Territory,Consulting,CUST0755,Medium,422581.57,0.048,20283.92,542722.38,0.0,Q4,2025,Qualification,,Pipeline
+756,2025-11-18,REP07,Frank Miller,EMEA,Seanshire Territory,Software,CUST0756,Medium,352660.49,0.054,19043.67,323995.62,16.0,Q3,2025,Proposal,,Pipeline
+757,2024-09-13,REP08,Eve Davis,Latin America,Kyleshire Territory,Cloud Platform,CUST0757,Small,160488.0,0.06,9629.28,194868.14,0.0,Q1,2024,Qualification,,Omitted
+758,2025-11-30,REP09,Grace Lee,South Asia,Lake Justinside Territory,Services,CUST0758,Enterprise,70489.36,0.029,2044.19,54699.66,15.1,Q2,2025,Proposal,,Best Case
+759,2024-08-20,REP10,Charlie Brown,South Asia,New Andrew Territory,Services,CUST0759,Medium,21912.37,0.047,1029.88,17060.54,68.8,Q4,2024,Negotiation,,Commit
+760,2025-04-08,REP01,Jack Taylor,APAC,Deleonburgh Territory,Consulting,CUST0760,Small,140005.23,0.058,8120.3,111509.46,0.0,Q4,2025,Prospecting,,Omitted
+761,2025-08-13,REP02,Bob Smith,North America,North Joshua Territory,Hardware,CUST0761,Large,293880.81,0.08,23510.46,431551.78,139.6,Q2,2025,Closed Won,140,Best Case
+762,2024-08-19,REP03,Eve Davis,Latin America,Kirkview Territory,Services,CUST0762,Medium,341177.77,0.023,7847.09,322969.02,0.0,Q3,2024,Prospecting,,Upside
+763,2024-12-08,REP04,Alice Johnson,South Asia,Anthonyhaven Territory,Hardware,CUST0763,Medium,174859.94,0.071,12415.06,243387.18,105.0,Q3,2024,Closed Won,19,Commit
+764,2024-09-01,REP05,Charlie Brown,South Asia,Whitehaven Territory,Services,CUST0764,Small,105802.71,0.025,2645.07,109604.6,139.5,Q2,2024,Closed Won,30,Omitted
+765,2024-10-30,REP06,Charlie Brown,South Asia,East Derek Territory,Consulting,CUST0765,Medium,456837.37,0.066,30151.27,528581.78,102.7,Q1,2024,Closed Won,87,Omitted
+766,2025-07-11,REP07,Charlie Brown,EMEA,New Sharonbury Territory,Software,CUST0766,Enterprise,100259.28,0.031,3108.04,121459.33,0.0,Q1,2025,Qualification,,Upside
+767,2025-04-04,REP08,Henry Wilson,APAC,North Michaelton Territory,Cloud Platform,CUST0767,Small,41080.4,0.069,2834.55,38856.6,56.2,Q4,2025,Negotiation,,Upside
+768,2025-04-20,REP09,Jack Taylor,North America,Patriciaport Territory,Consulting,CUST0768,Medium,348829.03,0.066,23022.72,331550.0,0.0,Q1,2025,Qualification,,Best Case
+769,2024-04-28,REP10,Bob Smith,APAC,Leport Territory,Hardware,CUST0769,Medium,363416.18,0.035,12719.57,396057.79,55.8,Q4,2024,Negotiation,,Pipeline
+770,2024-06-07,REP01,Iris Chen,South Asia,Lake Jenniferfurt Territory,Services,CUST0770,Medium,27229.41,0.083,2260.04,19644.23,0.0,Q2,2024,Prospecting,,Commit
+771,2025-12-21,REP02,Grace Lee,EMEA,New Scott Territory,Services,CUST0771,Medium,490842.31,0.083,40739.91,547038.42,0.0,Q3,2025,Prospecting,,Commit
+772,2024-12-13,REP03,Bob Smith,APAC,South Benjamin Territory,Hardware,CUST0772,Medium,364518.91,0.024,8748.45,397515.36,33.5,Q1,2024,Proposal,,Omitted
+773,2024-02-12,REP04,Henry Wilson,Latin America,New Matthew Territory,Hardware,CUST0773,Medium,387128.15,0.061,23614.82,548480.51,95.3,Q2,2024,Closed Won,79,Commit
+774,2025-05-29,REP05,Eve Davis,APAC,West Adam Territory,Cloud Platform,CUST0774,Large,312000.63,0.03,9360.02,235583.68,48.4,Q4,2025,Negotiation,,Upside
+775,2024-06-29,REP06,Alice Johnson,APAC,Garciafort Territory,Software,CUST0775,Medium,348512.52,0.089,31017.61,314260.91,118.6,Q4,2024,Closed Won,150,Pipeline
+776,2024-09-26,REP07,Bob Smith,North America,Port Latasha Territory,Hardware,CUST0776,Medium,479434.65,0.064,30683.82,692670.01,112.5,Q4,2024,Closed Won,150,Pipeline
+777,2025-08-17,REP08,Grace Lee,North America,Joshuaberg Territory,Software,CUST0777,Medium,168819.85,0.072,12155.03,182270.89,0.0,Q1,2025,Qualification,,Upside
+778,2024-05-14,REP09,Charlie Brown,EMEA,Goldenville Territory,Cloud Platform,CUST0778,Large,448381.68,0.046,20625.56,403014.29,23.2,Q1,2024,Proposal,,Pipeline
+779,2025-08-03,REP10,Grace Lee,EMEA,West Glendafort Territory,Hardware,CUST0779,Small,44494.26,0.058,2580.67,62416.84,0.0,Q1,2025,Closed Lost,,Upside
+780,2024-12-22,REP01,Iris Chen,South Asia,Jonesport Territory,Consulting,CUST0780,Small,493462.75,0.095,46878.96,591914.68,80.9,Q2,2024,Closed Won,100,Omitted
+781,2025-10-16,REP02,Henry Wilson,Latin America,Port Timothy Territory,Consulting,CUST0781,Enterprise,404092.27,0.031,12526.86,430981.5,0.0,Q2,2025,Closed Lost,,Upside
+782,2024-04-17,REP03,Charlie Brown,EMEA,Maynardton Territory,Services,CUST0782,Medium,176777.98,0.045,7955.01,237412.71,36.6,Q3,2024,Proposal,,Best Case
+783,2025-07-01,REP04,Bob Smith,Latin America,South Stevenberg Territory,Cloud Platform,CUST0783,Medium,140317.88,0.03,4209.54,190823.62,103.6,Q2,2025,Closed Won,42,Upside
+784,2025-09-11,REP05,Bob Smith,Latin America,South Karen Territory,Software,CUST0784,Small,282797.9,0.089,25169.01,260630.21,90.0,Q3,2025,Closed Won,169,Omitted
+785,2025-01-01,REP06,Alice Johnson,APAC,Port Renee Territory,Hardware,CUST0785,Medium,110492.28,0.037,4088.21,115850.5,0.0,Q4,2025,Prospecting,,Commit
+786,2024-07-24,REP07,Grace Lee,Latin America,Cainville Territory,Consulting,CUST0786,Enterprise,135998.64,0.049,6663.93,103568.58,0.0,Q3,2024,Qualification,,Pipeline
+787,2025-12-12,REP08,Bob Smith,Latin America,Davidberg Territory,Cloud Platform,CUST0787,Small,383472.22,0.088,33745.56,276926.77,40.8,Q3,2025,Negotiation,,Commit
+788,2024-03-13,REP09,Bob Smith,South Asia,Larryland Territory,Software,CUST0788,Medium,371586.13,0.033,12262.34,305817.26,54.8,Q4,2024,Negotiation,,Upside
+789,2025-08-23,REP10,Jack Taylor,Latin America,South Justinport Territory,Software,CUST0789,Medium,96682.46,0.056,5414.22,143517.23,67.8,Q2,2025,Negotiation,,Omitted
+790,2024-05-04,REP01,Henry Wilson,North America,Jeremiahhaven Territory,Consulting,CUST0790,Medium,177181.23,0.024,4252.35,157068.41,81.3,Q2,2024,Closed Won,124,Commit
+791,2024-05-03,REP02,Henry Wilson,North America,Ryanchester Territory,Services,CUST0791,Small,198734.08,0.065,12917.72,195490.32,51.8,Q2,2024,Negotiation,,Omitted
+792,2025-11-24,REP03,Frank Miller,South Asia,Sabrinatown Territory,Services,CUST0792,Small,349847.37,0.089,31136.42,496704.63,43.5,Q1,2025,Negotiation,,Omitted
+793,2025-10-28,REP04,Bob Smith,North America,West Heatherberg Territory,Services,CUST0793,Medium,471020.0,0.051,24022.02,634354.55,59.8,Q3,2025,Negotiation,,Omitted
+794,2024-09-04,REP05,Iris Chen,South Asia,Prestonborough Territory,Cloud Platform,CUST0794,Medium,127496.22,0.091,11602.16,134842.89,109.0,Q4,2024,Closed Won,20,Best Case
+795,2025-01-06,REP06,Eve Davis,South Asia,Lisaland Territory,Cloud Platform,CUST0795,Medium,170037.35,0.037,6291.38,134123.13,0.0,Q4,2025,Qualification,,Commit
+796,2025-01-15,REP07,Iris Chen,APAC,Jamesview Territory,Consulting,CUST0796,Small,354937.82,0.057,20231.46,428916.18,13.8,Q4,2025,Proposal,,Commit
+797,2025-10-31,REP08,Frank Miller,EMEA,North Kelsey Territory,Services,CUST0797,Enterprise,426182.89,0.026,11080.76,469678.72,76.1,Q1,2025,Negotiation,,Commit
+798,2024-09-30,REP09,Eve Davis,North America,South Alexisfurt Territory,Software,CUST0798,Medium,180361.96,0.077,13887.87,267045.22,78.0,Q3,2024,Negotiation,,Commit
+799,2024-02-26,REP10,Grace Lee,EMEA,Williamside Territory,Consulting,CUST0799,Large,421215.84,0.053,22324.44,485902.41,93.0,Q2,2024,Closed Won,65,Commit
+800,2024-12-08,REP01,Iris Chen,South Asia,New Debbiechester Territory,Software,CUST0800,Enterprise,308355.18,0.085,26210.19,309561.42,92.6,Q4,2024,Closed Won,7,Upside

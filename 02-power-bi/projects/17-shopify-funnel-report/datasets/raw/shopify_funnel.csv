@@ -1,0 +1,1501 @@
+session_id,date,customer_id,utm_source,utm_medium,landing_page,product_viewed,added_to_cart,reached_checkout,purchase_completed,revenue,device_type,browser,country,city,new_vs_returning,session_duration_sec,pages_visited,abandonment_reason
+1,2024-10-13,CUST0001,Email,cpc,/,No,No,No,No,0,Mobile,Edge,US,Port Alexis,Returning,22,1,Bounced
+2,2025-06-16,CUST0002,Facebook Ads,cpc,/about,Yes,Yes,Yes,Yes,476.85,Mobile,Edge,CA,Mcdonaldchester,Returning,510,5,
+3,2025-06-09,CUST0003,Instagram,referral,/collections,Yes,Yes,No,No,0,Desktop,Firefox,AU,North John,Returning,139,4,Checkout Abandoned
+4,2025-01-10,CUST0004,Organic Search,email,/sale,Yes,Yes,No,No,0,Tablet,Safari,BR,Lake Ericaborough,New Visitor,31,7,Checkout Abandoned
+5,2024-12-19,CUST0005,Twitter,email,/sale,Yes,Yes,No,No,0,Tablet,Opera,UK,Salazarstad,Returning,76,2,Checkout Abandoned
+6,2025-04-25,CUST0006,Twitter,organic,/collections,Yes,Yes,No,No,0,Desktop,Edge,MX,East Thomas,Returning,86,7,Checkout Abandoned
+7,2024-11-27,CUST0007,Pinterest,cpc,/about,Yes,Yes,No,No,0,Tablet,Firefox,US,Martinezport,New Visitor,144,4,Checkout Abandoned
+8,2024-12-11,CUST0008,Facebook Ads,email,/,Yes,Yes,Yes,No,0,Tablet,Safari,AU,Lake Elizabethbury,New Visitor,180,4,No Reason
+9,2025-01-11,CUST0009,Facebook Ads,referral,/collections,Yes,Yes,Yes,Yes,417.71,Tablet,Edge,IN,Carpenterport,Returning,82,8,
+10,2024-09-05,CUST0010,TikTok,cpc,/collections,Yes,Yes,Yes,No,0,Tablet,Firefox,UK,Tamaraburgh,New Visitor,203,10,Price Comparison
+11,2025-06-12,CUST0011,Email,organic,/about,Yes,Yes,No,No,0,Tablet,Firefox,AU,New Joelstad,Returning,106,10,Checkout Abandoned
+12,2025-04-27,CUST0012,Referral,organic,/collections,No,No,No,No,0,Tablet,Firefox,BR,New Alexandermouth,Returning,19,2,Bounced
+13,2024-08-29,CUST0013,Google Ads,cpc,/sale,Yes,Yes,Yes,Yes,359.36,Desktop,Edge,BR,Longmouth,New Visitor,165,9,
+14,2024-12-04,CUST0014,Twitter,cpc,/products,No,No,No,No,0,Desktop,Chrome,US,North Michael,Returning,12,1,Bounced
+15,2025-01-08,CUST0015,Instagram,cpc,/,Yes,No,No,No,0,Desktop,Safari,IN,New Danfort,Returning,490,15,Cart Not Initiated
+16,2025-03-18,CUST0016,Direct,organic,/,Yes,Yes,Yes,Yes,491.14,Tablet,Edge,JP,Davidfort,New Visitor,381,8,
+17,2024-11-28,CUST0017,Facebook Ads,email,/products,No,No,No,No,0,Tablet,Opera,IN,North Jordan,New Visitor,11,2,Bounced
+18,2024-11-10,CUST0018,Pinterest,cpc,/,Yes,No,No,No,0,Tablet,Edge,BR,Robertsonmouth,Returning,41,7,Cart Not Initiated
+19,2025-04-22,CUST0019,Google Ads,cpc,/,No,No,No,No,0,Tablet,Firefox,CA,East Dylanfort,Returning,29,2,Bounced
+20,2025-04-06,CUST0020,Direct,cpc,/sale,Yes,Yes,No,No,0,Mobile,Firefox,CA,Lisaland,Returning,207,3,Checkout Abandoned
+21,2025-03-18,CUST0021,TikTok,referral,/about,Yes,Yes,No,No,0,Tablet,Safari,MX,Emilystad,Returning,376,2,Checkout Abandoned
+22,2024-06-17,CUST0022,TikTok,cpc,/about,No,No,No,No,0,Tablet,Chrome,MX,South Patricia,New Visitor,10,1,Bounced
+23,2024-11-10,CUST0023,Instagram,organic,/products,Yes,No,No,No,0,Mobile,Firefox,DE,South Elizabeth,Returning,514,8,Cart Not Initiated
+24,2024-07-08,CUST0024,Google Ads,email,/about,Yes,Yes,No,No,0,Desktop,Safari,JP,Josephburgh,New Visitor,147,3,Checkout Abandoned
+25,2024-07-22,CUST0025,Pinterest,referral,/,Yes,Yes,Yes,No,0,Desktop,Safari,DE,Port Anthonyborough,New Visitor,479,14,Payment Failed
+26,2025-06-04,CUST0026,Organic Search,organic,/about,Yes,Yes,No,No,0,Mobile,Chrome,CA,Brownberg,New Visitor,424,5,Checkout Abandoned
+27,2024-06-22,CUST0027,Referral,email,/sale,Yes,Yes,Yes,Yes,136.43,Tablet,Safari,IN,East Christopher,New Visitor,253,7,
+28,2024-12-05,CUST0028,TikTok,cpc,/products,Yes,Yes,Yes,Yes,76.38,Tablet,Opera,US,Port Dean,Returning,143,3,
+29,2025-01-02,CUST0029,Facebook Ads,organic,/about,Yes,Yes,No,No,0,Mobile,Opera,AU,East Brent,Returning,577,5,Checkout Abandoned
+30,2025-05-18,CUST0030,Instagram,social,/,Yes,No,No,No,0,Mobile,Safari,AU,Williamhaven,Returning,25,7,Cart Not Initiated
+31,2025-01-24,CUST0031,Referral,social,/collections,Yes,No,No,No,0,Desktop,Edge,AU,West Patricia,Returning,179,13,Cart Not Initiated
+32,2025-06-29,CUST0032,Instagram,email,/products,No,No,No,No,0,Tablet,Firefox,JP,Williamsport,New Visitor,19,3,Bounced
+33,2024-10-21,CUST0033,Pinterest,cpc,/products,No,No,No,No,0,Tablet,Safari,FR,Markborough,Returning,21,3,Bounced
+34,2025-05-22,CUST0034,Referral,email,/,Yes,Yes,No,No,0,Desktop,Chrome,BR,New Carrie,Returning,161,2,Checkout Abandoned
+35,2025-06-22,CUST0035,Instagram,referral,/sale,Yes,Yes,No,No,0,Desktop,Chrome,MX,North Melissa,Returning,391,11,Checkout Abandoned
+36,2025-03-11,CUST0036,TikTok,cpc,/,Yes,Yes,Yes,Yes,239.22,Mobile,Safari,JP,Lake Stephanieburgh,Returning,220,3,
+37,2024-07-16,CUST0037,Referral,cpc,/products,No,No,No,No,0,Tablet,Safari,IN,Griffinland,Returning,6,3,Bounced
+38,2025-04-10,CUST0038,Referral,social,/products,Yes,No,No,No,0,Tablet,Edge,CA,South Sarahberg,New Visitor,413,5,Cart Not Initiated
+39,2024-08-28,CUST0039,Google Ads,cpc,/products,Yes,Yes,Yes,No,0,Mobile,Safari,AU,Rachelville,Returning,581,11,Payment Failed
+40,2025-01-19,CUST0040,Organic Search,referral,/sale,Yes,Yes,No,No,0,Tablet,Chrome,IN,Warrenhaven,Returning,285,5,Checkout Abandoned
+41,2024-11-20,CUST0041,Email,email,/,Yes,Yes,No,No,0,Desktop,Opera,IN,Kaylabury,Returning,239,15,Checkout Abandoned
+42,2025-02-02,CUST0042,TikTok,social,/collections,Yes,Yes,Yes,Yes,137.29,Tablet,Chrome,CA,West Davidberg,Returning,87,10,
+43,2024-09-05,CUST0043,Referral,social,/sale,Yes,Yes,No,No,0,Mobile,Opera,IN,Butlerview,Returning,398,11,Checkout Abandoned
+44,2024-08-29,CUST0044,Referral,cpc,/,Yes,Yes,Yes,Yes,336.49,Mobile,Opera,IN,East Curtis,Returning,427,14,
+45,2024-06-28,CUST0045,Referral,social,/about,No,No,No,No,0,Mobile,Firefox,BR,East Michaelburgh,Returning,6,2,Bounced
+46,2024-11-03,CUST0046,Direct,social,/sale,No,No,No,No,0,Desktop,Chrome,BR,West Triciaburgh,Returning,27,2,Bounced
+47,2024-12-28,CUST0047,Referral,organic,/sale,Yes,Yes,No,No,0,Tablet,Safari,MX,Port Justin,Returning,187,13,Checkout Abandoned
+48,2024-09-07,CUST0048,Email,organic,/collections,Yes,No,No,No,0,Desktop,Firefox,IN,South Andrewshire,Returning,186,14,Cart Not Initiated
+49,2024-11-18,CUST0049,Twitter,email,/,Yes,No,No,No,0,Desktop,Opera,BR,Port Kimtown,Returning,416,5,Cart Not Initiated
+50,2024-12-28,CUST0050,Twitter,referral,/collections,Yes,Yes,Yes,No,0,Mobile,Safari,UK,North Jasonborough,New Visitor,279,9,Account Required
+51,2024-08-10,CUST0051,Google Ads,email,/collections,Yes,Yes,Yes,No,0,Tablet,Opera,FR,Jacksonhaven,New Visitor,360,15,Price Comparison
+52,2024-10-29,CUST0052,Facebook Ads,email,/about,Yes,Yes,Yes,Yes,369.24,Mobile,Edge,BR,East Erin,Returning,23,10,
+53,2025-01-14,CUST0053,Email,social,/about,Yes,Yes,Yes,No,0,Tablet,Opera,BR,Pamelahaven,Returning,281,14,No Reason
+54,2024-11-02,CUST0054,Instagram,referral,/products,Yes,Yes,Yes,No,0,Tablet,Chrome,JP,Medinafurt,Returning,117,12,Payment Failed
+55,2025-03-18,CUST0055,Twitter,email,/about,Yes,Yes,Yes,Yes,35.53,Mobile,Chrome,FR,West Gailchester,Returning,131,11,
+56,2024-10-16,CUST0056,Google Ads,referral,/products,Yes,Yes,Yes,Yes,312.41,Tablet,Edge,FR,East Lorihaven,New Visitor,173,11,
+57,2025-01-05,CUST0057,Google Ads,referral,/sale,Yes,Yes,No,No,0,Mobile,Chrome,FR,New Matthew,Returning,142,10,Checkout Abandoned
+58,2024-08-17,CUST0058,Pinterest,email,/about,Yes,Yes,No,No,0,Desktop,Chrome,DE,New Erica,Returning,333,2,Checkout Abandoned
+59,2024-07-24,CUST0059,Pinterest,cpc,/collections,Yes,Yes,Yes,No,0,Mobile,Edge,FR,Edwardfurt,Returning,295,9,Slow Loading
+60,2024-06-29,CUST0060,Referral,organic,/products,Yes,Yes,No,No,0,Tablet,Edge,CA,Micheleside,Returning,353,7,Checkout Abandoned
+61,2024-07-19,CUST0061,Twitter,referral,/products,Yes,Yes,No,No,0,Desktop,Firefox,BR,Yatesport,Returning,172,14,Checkout Abandoned
+62,2025-06-02,CUST0062,Direct,referral,/,Yes,Yes,Yes,Yes,17.21,Mobile,Safari,CA,South Joelfurt,Returning,299,2,
+63,2025-01-07,CUST0063,Pinterest,referral,/products,Yes,No,No,No,0,Tablet,Safari,MX,South Meganton,Returning,140,13,Cart Not Initiated
+64,2024-08-08,CUST0064,Direct,email,/collections,Yes,Yes,Yes,No,0,Mobile,Firefox,JP,Bryantview,Returning,132,15,Price Comparison
+65,2024-08-29,CUST0065,Pinterest,cpc,/products,Yes,No,No,No,0,Tablet,Opera,CA,Mitchellstad,Returning,450,5,Cart Not Initiated
+66,2024-07-08,CUST0066,Pinterest,social,/sale,Yes,Yes,Yes,No,0,Mobile,Edge,AU,Wilkinsonbury,New Visitor,417,3,High Shipping Cost
+67,2025-06-04,CUST0067,Referral,cpc,/collections,Yes,No,No,No,0,Mobile,Edge,CA,New Amy,Returning,164,15,Cart Not Initiated
+68,2024-06-26,CUST0068,Instagram,cpc,/products,Yes,No,No,No,0,Tablet,Safari,AU,Lake Ronald,Returning,233,11,Cart Not Initiated
+69,2025-04-12,CUST0069,Referral,social,/products,Yes,Yes,Yes,Yes,350.75,Mobile,Chrome,BR,Stephenland,New Visitor,280,11,
+70,2024-08-27,CUST0070,Instagram,organic,/about,No,No,No,No,0,Desktop,Safari,IN,Garciamouth,Returning,9,1,Bounced
+71,2025-04-30,CUST0071,TikTok,email,/collections,Yes,No,No,No,0,Tablet,Opera,FR,Haynesshire,Returning,148,3,Cart Not Initiated
+72,2024-11-28,CUST0072,Email,referral,/sale,Yes,No,No,No,0,Mobile,Chrome,DE,Suttonberg,Returning,112,8,Cart Not Initiated
+73,2025-05-17,CUST0073,Email,referral,/collections,Yes,Yes,Yes,Yes,26.11,Mobile,Chrome,DE,New Sabrinaville,Returning,158,10,
+74,2025-02-25,CUST0074,TikTok,referral,/about,Yes,Yes,No,No,0,Desktop,Chrome,FR,Farmermouth,Returning,53,13,Checkout Abandoned
+75,2025-01-27,CUST0075,Instagram,email,/,Yes,Yes,No,No,0,Tablet,Safari,JP,South Charles,Returning,453,2,Checkout Abandoned
+76,2024-11-21,CUST0076,Referral,organic,/,No,No,No,No,0,Desktop,Firefox,MX,Ricardoton,Returning,8,3,Bounced
+77,2025-05-19,CUST0077,Organic Search,organic,/sale,Yes,Yes,No,No,0,Desktop,Edge,UK,East Sharon,Returning,580,6,Checkout Abandoned
+78,2024-08-04,CUST0078,Referral,social,/products,Yes,No,No,No,0,Tablet,Chrome,UK,Port Kimberlyview,Returning,385,13,Cart Not Initiated
+79,2024-10-03,CUST0079,Organic Search,organic,/sale,Yes,No,No,No,0,Mobile,Opera,JP,Ericstad,New Visitor,483,5,Cart Not Initiated
+80,2025-01-26,CUST0080,TikTok,email,/products,Yes,Yes,Yes,Yes,305.91,Desktop,Chrome,UK,East Jean,New Visitor,10,15,
+81,2024-06-17,CUST0081,Twitter,social,/about,No,No,No,No,0,Tablet,Safari,CA,Port Brianside,Returning,5,1,Bounced
+82,2024-10-25,CUST0082,Twitter,social,/,Yes,Yes,Yes,No,0,Tablet,Edge,UK,West Isaac,Returning,479,4,Payment Failed
+83,2025-04-01,CUST0083,Direct,referral,/collections,Yes,Yes,No,No,0,Desktop,Chrome,IN,North Andrew,New Visitor,506,8,Checkout Abandoned
+84,2024-09-04,CUST0084,Google Ads,email,/collections,Yes,Yes,Yes,No,0,Tablet,Firefox,UK,Roachmouth,Returning,393,4,Price Comparison
+85,2024-12-15,CUST0085,Google Ads,social,/sale,Yes,No,No,No,0,Desktop,Chrome,IN,Jonesborough,Returning,100,12,Cart Not Initiated
+86,2024-06-18,CUST0086,Pinterest,cpc,/sale,Yes,Yes,Yes,Yes,189.16,Mobile,Safari,FR,Rebeccahaven,Returning,244,9,
+87,2024-11-12,CUST0087,Organic Search,referral,/products,Yes,No,No,No,0,Mobile,Safari,FR,West Jessica,Returning,286,11,Cart Not Initiated
+88,2025-05-08,CUST0088,Facebook Ads,cpc,/sale,Yes,Yes,Yes,Yes,465.47,Mobile,Firefox,US,Port Kimberlyborough,Returning,125,13,
+89,2024-08-01,CUST0089,Pinterest,cpc,/,Yes,No,No,No,0,Tablet,Edge,US,New Adrianberg,Returning,396,3,Cart Not Initiated
+90,2025-05-25,CUST0090,TikTok,social,/sale,Yes,No,No,No,0,Tablet,Safari,FR,Howardtown,Returning,199,6,Cart Not Initiated
+91,2025-06-05,CUST0091,TikTok,cpc,/products,Yes,Yes,Yes,Yes,225.16,Desktop,Opera,JP,Morgantown,New Visitor,340,7,
+92,2024-09-16,CUST0092,Organic Search,email,/about,Yes,Yes,No,No,0,Desktop,Safari,UK,Port Joanna,Returning,80,4,Checkout Abandoned
+93,2024-12-31,CUST0093,Instagram,organic,/products,No,No,No,No,0,Mobile,Safari,IN,Toddhaven,Returning,10,2,Bounced
+94,2024-06-15,CUST0094,Direct,cpc,/sale,Yes,No,No,No,0,Desktop,Chrome,IN,Williamland,Returning,412,11,Cart Not Initiated
+95,2025-02-03,CUST0095,Instagram,email,/products,Yes,Yes,No,No,0,Desktop,Chrome,MX,Adammouth,Returning,446,12,Checkout Abandoned
+96,2024-12-17,CUST0096,Twitter,referral,/products,Yes,Yes,Yes,Yes,162.28,Tablet,Firefox,JP,Fernandezside,Returning,14,7,
+97,2024-08-29,CUST0097,Instagram,organic,/collections,Yes,Yes,Yes,Yes,228.19,Desktop,Chrome,AU,Phillipsburgh,Returning,525,6,
+98,2025-06-11,CUST0098,Instagram,referral,/sale,Yes,No,No,No,0,Mobile,Firefox,MX,New Brianport,Returning,525,5,Cart Not Initiated
+99,2024-07-07,CUST0099,Email,email,/about,No,No,No,No,0,Mobile,Firefox,DE,North Luisport,Returning,6,3,Bounced
+100,2024-09-09,CUST0100,Referral,organic,/collections,No,No,No,No,0,Mobile,Edge,BR,Stacychester,Returning,17,1,Bounced
+101,2024-09-12,CUST0101,Email,email,/collections,Yes,Yes,Yes,No,0,Desktop,Edge,DE,Hooverberg,New Visitor,65,15,Complex Checkout
+102,2024-12-08,CUST0102,Referral,social,/,Yes,No,No,No,0,Mobile,Chrome,DE,Port Cody,Returning,146,6,Cart Not Initiated
+103,2024-11-20,CUST0103,Organic Search,organic,/products,Yes,Yes,No,No,0,Tablet,Opera,FR,Maryside,Returning,176,6,Checkout Abandoned
+104,2025-02-13,CUST0104,Google Ads,social,/,Yes,No,No,No,0,Desktop,Safari,FR,North Bradley,Returning,505,4,Cart Not Initiated
+105,2024-07-28,CUST0105,Referral,organic,/products,Yes,Yes,Yes,Yes,70.0,Desktop,Chrome,AU,Kimfurt,Returning,182,7,
+106,2025-01-13,CUST0106,Facebook Ads,organic,/about,Yes,No,No,No,0,Tablet,Chrome,UK,North Markland,Returning,562,9,Cart Not Initiated
+107,2025-05-19,CUST0107,TikTok,email,/about,Yes,No,No,No,0,Mobile,Chrome,CA,New Michaelstad,New Visitor,544,2,Cart Not Initiated
+108,2024-12-02,CUST0108,Referral,cpc,/sale,Yes,Yes,No,No,0,Desktop,Edge,US,Newtonberg,New Visitor,270,6,Checkout Abandoned
+109,2025-04-09,CUST0109,Facebook Ads,email,/about,Yes,Yes,No,No,0,Desktop,Edge,CA,Mendezland,Returning,270,15,Checkout Abandoned
+110,2024-11-15,CUST0110,Referral,email,/sale,Yes,Yes,Yes,Yes,458.63,Mobile,Chrome,UK,Port Hannah,Returning,348,7,
+111,2025-02-04,CUST0111,Facebook Ads,referral,/sale,Yes,No,No,No,0,Desktop,Edge,BR,Clarkhaven,New Visitor,488,4,Cart Not Initiated
+112,2025-04-01,CUST0112,Direct,social,/about,No,No,No,No,0,Tablet,Chrome,MX,Lopezberg,Returning,27,3,Bounced
+113,2024-11-03,CUST0113,Google Ads,organic,/,Yes,Yes,No,No,0,Mobile,Chrome,US,New Amandaland,Returning,534,9,Checkout Abandoned
+114,2025-05-26,CUST0114,Facebook Ads,organic,/products,No,No,No,No,0,Tablet,Opera,UK,Weeksborough,Returning,5,1,Bounced
+115,2024-09-11,CUST0115,Organic Search,cpc,/collections,No,No,No,No,0,Mobile,Firefox,AU,Mitchellport,Returning,4,3,Bounced
+116,2024-11-25,CUST0116,Instagram,social,/,Yes,Yes,Yes,Yes,134.67,Mobile,Opera,BR,Lake Daisymouth,New Visitor,318,3,
+117,2024-12-03,CUST0117,Google Ads,referral,/about,No,No,No,No,0,Mobile,Firefox,US,West Michaelmouth,New Visitor,17,2,Bounced
+118,2025-01-09,CUST0118,Twitter,referral,/collections,Yes,Yes,No,No,0,Desktop,Chrome,AU,Michaelmouth,New Visitor,315,5,Checkout Abandoned
+119,2025-06-25,CUST0119,Instagram,referral,/products,No,No,No,No,0,Mobile,Edge,IN,Simmonsbury,Returning,23,2,Bounced
+120,2024-11-17,CUST0120,Referral,organic,/products,No,No,No,No,0,Desktop,Edge,CA,Lewisfort,Returning,3,1,Bounced
+121,2024-07-04,CUST0121,Email,referral,/about,Yes,No,No,No,0,Desktop,Safari,CA,North Timothy,Returning,60,5,Cart Not Initiated
+122,2025-04-27,CUST0122,Pinterest,organic,/sale,Yes,Yes,No,No,0,Tablet,Safari,UK,Jonathanshire,Returning,11,9,Checkout Abandoned
+123,2025-01-08,CUST0123,Instagram,email,/about,Yes,No,No,No,0,Mobile,Chrome,DE,Craigmouth,Returning,444,13,Cart Not Initiated
+124,2024-10-01,CUST0124,Referral,social,/sale,Yes,Yes,Yes,Yes,134.74,Tablet,Opera,FR,Greenland,Returning,109,7,
+125,2024-06-24,CUST0125,Twitter,organic,/collections,No,No,No,No,0,Tablet,Edge,IN,Georgestad,New Visitor,13,3,Bounced
+126,2024-06-27,CUST0126,Facebook Ads,email,/about,Yes,No,No,No,0,Mobile,Chrome,AU,Craigbury,Returning,180,5,Cart Not Initiated
+127,2024-09-20,CUST0127,Email,cpc,/about,Yes,No,No,No,0,Tablet,Opera,IN,Lake Samanthaland,New Visitor,273,6,Cart Not Initiated
+128,2025-04-11,CUST0128,Pinterest,organic,/,Yes,Yes,No,No,0,Mobile,Safari,DE,Port Gloriaborough,Returning,11,6,Checkout Abandoned
+129,2024-10-02,CUST0129,Organic Search,social,/about,Yes,Yes,Yes,No,0,Desktop,Chrome,UK,West Stephaniestad,Returning,430,7,Payment Failed
+130,2024-07-30,CUST0130,Twitter,referral,/about,Yes,No,No,No,0,Mobile,Chrome,IN,Kurtport,Returning,306,11,Cart Not Initiated
+131,2024-10-04,CUST0131,Google Ads,referral,/products,Yes,No,No,No,0,Mobile,Edge,DE,Jasonfort,Returning,219,13,Cart Not Initiated
+132,2025-05-08,CUST0132,Email,referral,/about,Yes,No,No,No,0,Tablet,Firefox,IN,Susanland,Returning,499,14,Cart Not Initiated
+133,2025-01-10,CUST0133,Organic Search,cpc,/products,Yes,Yes,Yes,Yes,60.77,Mobile,Opera,UK,Theresaberg,Returning,591,12,
+134,2024-12-20,CUST0134,Email,social,/products,Yes,Yes,No,No,0,Mobile,Safari,JP,Sanchezmouth,Returning,416,10,Checkout Abandoned
+135,2025-01-30,CUST0135,Google Ads,referral,/products,Yes,Yes,Yes,No,0,Tablet,Chrome,BR,Joshuaburgh,New Visitor,595,15,Payment Failed
+136,2025-03-01,CUST0136,TikTok,cpc,/,Yes,Yes,No,No,0,Mobile,Firefox,AU,East Mathew,Returning,261,13,Checkout Abandoned
+137,2024-11-29,CUST0137,Instagram,social,/collections,Yes,Yes,Yes,No,0,Mobile,Safari,AU,Weaverside,New Visitor,115,8,Payment Failed
+138,2024-12-03,CUST0138,Google Ads,organic,/collections,Yes,No,No,No,0,Mobile,Chrome,DE,Rosetown,Returning,101,2,Cart Not Initiated
+139,2025-04-29,CUST0139,Google Ads,organic,/,Yes,Yes,Yes,Yes,71.95,Mobile,Opera,CA,Lindseymouth,New Visitor,271,9,
+140,2025-01-08,CUST0140,Direct,cpc,/products,Yes,No,No,No,0,Desktop,Safari,AU,Jonathanberg,Returning,584,11,Cart Not Initiated
+141,2025-03-03,CUST0141,TikTok,organic,/,No,No,No,No,0,Tablet,Chrome,US,North Megan,New Visitor,21,1,Bounced
+142,2024-06-12,CUST0142,Referral,email,/collections,Yes,No,No,No,0,Desktop,Chrome,JP,Lake Desireetown,Returning,194,13,Cart Not Initiated
+143,2024-06-12,CUST0143,Instagram,organic,/sale,Yes,Yes,Yes,Yes,262.25,Desktop,Chrome,FR,West Jonathan,New Visitor,291,13,
+144,2024-09-12,CUST0144,Google Ads,cpc,/sale,Yes,No,No,No,0,Mobile,Opera,US,North Briannaberg,Returning,321,12,Cart Not Initiated
+145,2024-09-29,CUST0145,TikTok,referral,/collections,Yes,Yes,No,No,0,Tablet,Firefox,CA,Sandraborough,New Visitor,158,11,Checkout Abandoned
+146,2024-07-19,CUST0146,Organic Search,social,/,No,No,No,No,0,Desktop,Chrome,AU,Morseville,New Visitor,20,1,Bounced
+147,2025-05-18,CUST0147,Pinterest,cpc,/about,Yes,No,No,No,0,Tablet,Edge,MX,Heathershire,Returning,126,8,Cart Not Initiated
+148,2024-12-09,CUST0148,Instagram,organic,/products,No,No,No,No,0,Mobile,Firefox,MX,New Dustinchester,New Visitor,7,1,Bounced
+149,2024-12-07,CUST0149,Instagram,social,/,Yes,Yes,Yes,Yes,320.68,Desktop,Safari,UK,Irwinmouth,Returning,101,15,
+150,2024-11-17,CUST0150,Pinterest,cpc,/about,Yes,Yes,No,No,0,Mobile,Opera,MX,South Alberthaven,Returning,150,6,Checkout Abandoned
+151,2025-01-23,CUST0151,Email,organic,/products,No,No,No,No,0,Desktop,Edge,IN,East Lawrencemouth,New Visitor,12,2,Bounced
+152,2024-09-23,CUST0152,Direct,email,/sale,Yes,No,No,No,0,Desktop,Edge,FR,New John,Returning,332,5,Cart Not Initiated
+153,2025-02-10,CUST0153,Referral,cpc,/,Yes,No,No,No,0,Tablet,Chrome,JP,Lake Michele,Returning,523,5,Cart Not Initiated
+154,2025-05-27,CUST0154,Google Ads,email,/products,Yes,Yes,Yes,No,0,Tablet,Chrome,MX,Glennview,New Visitor,93,7,Account Required
+155,2025-03-29,CUST0155,Referral,email,/about,No,No,No,No,0,Tablet,Safari,BR,New Sara,Returning,13,2,Bounced
+156,2024-06-30,CUST0156,Instagram,email,/,Yes,No,No,No,0,Desktop,Chrome,US,Hopkinsview,New Visitor,466,14,Cart Not Initiated
+157,2024-12-16,CUST0157,Google Ads,cpc,/about,Yes,Yes,No,No,0,Tablet,Edge,UK,West Lauratown,Returning,236,7,Checkout Abandoned
+158,2025-02-10,CUST0158,Direct,referral,/sale,No,No,No,No,0,Tablet,Safari,UK,North Julieland,Returning,26,3,Bounced
+159,2024-11-09,CUST0159,Facebook Ads,cpc,/sale,Yes,Yes,No,No,0,Tablet,Edge,AU,West Kevinshire,Returning,31,3,Checkout Abandoned
+160,2025-06-21,CUST0160,Instagram,organic,/sale,Yes,Yes,Yes,No,0,Tablet,Edge,FR,Kendrafort,Returning,43,14,High Shipping Cost
+161,2024-10-16,CUST0161,Pinterest,cpc,/products,Yes,Yes,No,No,0,Tablet,Firefox,BR,Leetown,New Visitor,479,12,Checkout Abandoned
+162,2025-03-04,CUST0162,Instagram,cpc,/collections,Yes,No,No,No,0,Mobile,Opera,IN,East Seth,Returning,517,4,Cart Not Initiated
+163,2024-10-29,CUST0163,Direct,social,/about,Yes,No,No,No,0,Desktop,Chrome,FR,Clarkbury,New Visitor,128,5,Cart Not Initiated
+164,2024-09-21,CUST0164,Organic Search,cpc,/products,Yes,No,No,No,0,Tablet,Opera,UK,South Meganburgh,Returning,44,7,Cart Not Initiated
+165,2024-12-04,CUST0165,Referral,cpc,/products,No,No,No,No,0,Tablet,Safari,DE,East Lindsay,Returning,28,3,Bounced
+166,2024-12-15,CUST0166,Direct,organic,/products,Yes,Yes,No,No,0,Mobile,Firefox,JP,Port Robert,Returning,223,9,Checkout Abandoned
+167,2025-03-28,CUST0167,Twitter,cpc,/about,Yes,No,No,No,0,Mobile,Firefox,FR,Port Kimberlyton,New Visitor,581,8,Cart Not Initiated
+168,2025-01-17,CUST0168,Organic Search,referral,/,No,No,No,No,0,Mobile,Opera,CA,Lake Elijah,New Visitor,13,1,Bounced
+169,2024-09-05,CUST0169,Organic Search,social,/products,Yes,Yes,No,No,0,Desktop,Safari,IN,Port Nicholas,New Visitor,422,5,Checkout Abandoned
+170,2025-01-13,CUST0170,Email,referral,/collections,Yes,Yes,No,No,0,Desktop,Edge,JP,Stevenland,Returning,191,8,Checkout Abandoned
+171,2024-06-07,CUST0171,Organic Search,organic,/about,Yes,Yes,Yes,Yes,156.21,Mobile,Edge,DE,New Joshuafort,New Visitor,157,5,
+172,2024-10-23,CUST0172,Twitter,social,/collections,Yes,Yes,No,No,0,Tablet,Firefox,UK,Diazberg,Returning,485,12,Checkout Abandoned
+173,2025-06-01,CUST0173,Pinterest,social,/sale,Yes,Yes,Yes,Yes,281.21,Mobile,Edge,CA,Deanside,Returning,482,14,
+174,2024-06-16,CUST0174,TikTok,social,/about,Yes,Yes,Yes,Yes,144.53,Desktop,Safari,BR,Pamelaport,New Visitor,42,11,
+175,2024-09-13,CUST0175,Google Ads,social,/products,No,No,No,No,0,Mobile,Firefox,IN,Nancyside,Returning,17,1,Bounced
+176,2024-11-14,CUST0176,Twitter,social,/about,No,No,No,No,0,Tablet,Opera,US,Lake Michaelfort,New Visitor,19,1,Bounced
+177,2024-11-03,CUST0177,Twitter,social,/products,Yes,No,No,No,0,Mobile,Firefox,AU,Calvinside,Returning,301,13,Cart Not Initiated
+178,2025-05-22,CUST0178,Referral,social,/products,Yes,No,No,No,0,Mobile,Safari,BR,Sharpview,New Visitor,391,4,Cart Not Initiated
+179,2025-04-19,CUST0179,Facebook Ads,organic,/products,Yes,Yes,No,No,0,Mobile,Safari,JP,Marksfurt,New Visitor,437,14,Checkout Abandoned
+180,2025-03-01,CUST0180,Direct,organic,/,Yes,Yes,Yes,No,0,Tablet,Opera,JP,Jonesmouth,Returning,63,15,No Reason
+181,2025-06-01,CUST0181,Pinterest,email,/about,Yes,Yes,No,No,0,Tablet,Opera,JP,South John,Returning,110,2,Checkout Abandoned
+182,2024-07-29,CUST0182,Instagram,referral,/,Yes,No,No,No,0,Tablet,Opera,DE,East Andre,Returning,231,10,Cart Not Initiated
+183,2024-09-03,CUST0183,Direct,referral,/sale,No,No,No,No,0,Mobile,Edge,US,Markton,Returning,10,3,Bounced
+184,2024-10-06,CUST0184,Referral,referral,/collections,Yes,Yes,No,No,0,Tablet,Edge,IN,Austinmouth,Returning,162,7,Checkout Abandoned
+185,2024-07-21,CUST0185,Twitter,organic,/sale,Yes,Yes,Yes,Yes,187.19,Mobile,Chrome,IN,Franktown,Returning,183,5,
+186,2024-09-25,CUST0186,Referral,social,/,Yes,Yes,Yes,Yes,395.14,Desktop,Firefox,BR,Mitchellton,Returning,64,8,
+187,2024-10-27,CUST0187,Instagram,referral,/about,Yes,No,No,No,0,Desktop,Chrome,JP,Kennethtown,Returning,549,14,Cart Not Initiated
+188,2025-04-21,CUST0188,Google Ads,organic,/about,Yes,No,No,No,0,Tablet,Chrome,CA,South Sandra,New Visitor,593,5,Cart Not Initiated
+189,2025-05-19,CUST0189,Pinterest,email,/collections,Yes,Yes,Yes,No,0,Tablet,Firefox,CA,South Seanhaven,Returning,392,15,Slow Loading
+190,2024-10-17,CUST0190,Pinterest,social,/collections,Yes,Yes,Yes,Yes,425.76,Desktop,Edge,IN,South Daniel,Returning,124,4,
+191,2024-12-30,CUST0191,Referral,social,/collections,Yes,Yes,Yes,No,0,Desktop,Opera,CA,Starkstad,New Visitor,449,14,Payment Failed
+192,2025-01-30,CUST0192,Direct,email,/collections,No,No,No,No,0,Desktop,Edge,BR,Audreyville,Returning,3,2,Bounced
+193,2024-12-14,CUST0193,TikTok,referral,/products,Yes,Yes,Yes,No,0,Desktop,Chrome,BR,Johnshire,New Visitor,90,5,Slow Loading
+194,2025-01-01,CUST0194,TikTok,cpc,/collections,Yes,Yes,Yes,No,0,Desktop,Edge,MX,Melissamouth,New Visitor,303,5,Complex Checkout
+195,2025-02-02,CUST0195,Direct,cpc,/sale,Yes,Yes,Yes,Yes,149.78,Tablet,Firefox,MX,South Jason,New Visitor,516,9,
+196,2025-03-05,CUST0196,Twitter,referral,/sale,Yes,No,No,No,0,Desktop,Edge,DE,Mendozamouth,Returning,305,13,Cart Not Initiated
+197,2025-01-31,CUST0197,Facebook Ads,cpc,/collections,Yes,No,No,No,0,Tablet,Chrome,DE,Port Tara,Returning,369,15,Cart Not Initiated
+198,2025-01-20,CUST0198,Referral,cpc,/collections,Yes,Yes,Yes,Yes,428.1,Tablet,Safari,DE,South Jenniferborough,Returning,194,4,
+199,2024-11-03,CUST0199,Pinterest,organic,/about,Yes,Yes,Yes,No,0,Desktop,Chrome,BR,Markborough,Returning,154,3,Payment Failed
+200,2025-06-09,CUST0200,TikTok,referral,/sale,Yes,No,No,No,0,Desktop,Firefox,IN,Port Sandra,Returning,362,7,Cart Not Initiated
+201,2024-10-22,CUST0201,Email,cpc,/collections,No,No,No,No,0,Tablet,Opera,IN,Lake Kimberly,Returning,22,2,Bounced
+202,2025-01-10,CUST0202,Instagram,cpc,/products,Yes,Yes,Yes,No,0,Mobile,Opera,IN,South Jill,New Visitor,241,15,Payment Failed
+203,2024-06-02,CUST0203,Referral,email,/products,Yes,No,No,No,0,Mobile,Chrome,MX,New Sherrychester,Returning,276,13,Cart Not Initiated
+204,2024-11-12,CUST0204,Instagram,email,/about,Yes,Yes,No,No,0,Desktop,Firefox,UK,North Stevenland,Returning,222,11,Checkout Abandoned
+205,2024-09-14,CUST0205,Direct,referral,/collections,Yes,Yes,No,No,0,Desktop,Safari,DE,Stephenview,New Visitor,179,14,Checkout Abandoned
+206,2024-08-31,CUST0206,Twitter,social,/,Yes,Yes,No,No,0,Tablet,Firefox,AU,Carolbury,Returning,209,2,Checkout Abandoned
+207,2025-05-09,CUST0207,Referral,cpc,/about,Yes,Yes,Yes,No,0,Mobile,Edge,MX,South Albert,New Visitor,445,3,Complex Checkout
+208,2024-11-14,CUST0208,Referral,organic,/collections,Yes,Yes,Yes,No,0,Mobile,Safari,CA,East Martin,Returning,151,9,No Reason
+209,2024-09-26,CUST0209,TikTok,cpc,/about,Yes,No,No,No,0,Mobile,Safari,UK,West Shawntown,Returning,595,12,Cart Not Initiated
+210,2024-12-09,CUST0210,Twitter,referral,/,No,No,No,No,0,Tablet,Edge,JP,Knightmouth,Returning,15,1,Bounced
+211,2024-12-07,CUST0211,Pinterest,referral,/,Yes,No,No,No,0,Mobile,Opera,US,Port Tammyhaven,Returning,357,15,Cart Not Initiated
+212,2024-07-07,CUST0212,Instagram,cpc,/sale,Yes,Yes,No,No,0,Tablet,Opera,DE,North Taylorton,Returning,342,5,Checkout Abandoned
+213,2025-04-09,CUST0213,Google Ads,organic,/collections,No,No,No,No,0,Mobile,Opera,UK,South Debra,Returning,12,1,Bounced
+214,2025-03-08,CUST0214,Direct,referral,/collections,Yes,Yes,No,No,0,Desktop,Safari,DE,New Damon,Returning,494,9,Checkout Abandoned
+215,2024-12-26,CUST0215,TikTok,social,/collections,Yes,Yes,Yes,Yes,219.09,Mobile,Chrome,IN,Jessicamouth,Returning,530,9,
+216,2024-07-01,CUST0216,Instagram,organic,/collections,No,No,No,No,0,Desktop,Edge,US,Lake Ryanbury,Returning,22,1,Bounced
+217,2024-11-21,CUST0217,Referral,social,/collections,Yes,Yes,No,No,0,Tablet,Opera,AU,Victoriaberg,New Visitor,560,2,Checkout Abandoned
+218,2024-10-31,CUST0218,Facebook Ads,organic,/collections,Yes,No,No,No,0,Desktop,Opera,CA,New Maureen,Returning,597,4,Cart Not Initiated
+219,2024-07-18,CUST0219,Email,organic,/,Yes,Yes,Yes,Yes,104.52,Tablet,Safari,US,Alvarezburgh,Returning,511,10,
+220,2024-06-05,CUST0220,Instagram,organic,/about,Yes,Yes,Yes,Yes,159.54,Tablet,Chrome,AU,Deborahland,Returning,494,8,
+221,2024-11-09,CUST0221,Pinterest,email,/sale,Yes,Yes,Yes,Yes,402.08,Desktop,Edge,CA,South Mark,Returning,443,4,
+222,2025-03-04,CUST0222,Email,social,/collections,No,No,No,No,0,Desktop,Opera,AU,North Robert,New Visitor,24,2,Bounced
+223,2025-02-26,CUST0223,Twitter,referral,/products,No,No,No,No,0,Mobile,Opera,UK,Port Shaun,Returning,5,2,Bounced
+224,2024-07-16,CUST0224,Organic Search,email,/products,Yes,Yes,Yes,Yes,287.8,Tablet,Safari,US,South Laurenton,Returning,401,15,
+225,2025-03-26,CUST0225,Pinterest,cpc,/about,Yes,No,No,No,0,Mobile,Edge,DE,Solomontown,Returning,113,8,Cart Not Initiated
+226,2024-06-27,CUST0226,TikTok,social,/collections,Yes,Yes,No,No,0,Desktop,Edge,DE,North Katherine,New Visitor,21,11,Checkout Abandoned
+227,2024-09-07,CUST0227,Direct,cpc,/sale,Yes,Yes,No,No,0,Desktop,Edge,CA,Paulmouth,Returning,175,15,Checkout Abandoned
+228,2024-11-27,CUST0228,Direct,cpc,/sale,Yes,Yes,No,No,0,Desktop,Chrome,JP,East Rachelshire,Returning,204,12,Checkout Abandoned
+229,2025-04-19,CUST0229,Google Ads,social,/about,No,No,No,No,0,Mobile,Edge,CA,Andersonside,Returning,14,1,Bounced
+230,2025-01-01,CUST0230,TikTok,cpc,/sale,No,No,No,No,0,Mobile,Chrome,DE,West Debbie,New Visitor,18,3,Bounced
+231,2025-01-21,CUST0231,TikTok,cpc,/collections,Yes,Yes,No,No,0,Desktop,Chrome,FR,Armstrongstad,Returning,248,5,Checkout Abandoned
+232,2025-06-10,CUST0232,Instagram,email,/sale,Yes,Yes,No,No,0,Tablet,Chrome,US,North Nathanmouth,Returning,346,5,Checkout Abandoned
+233,2025-06-28,CUST0233,Organic Search,referral,/about,No,No,No,No,0,Desktop,Opera,UK,Millerstad,Returning,27,1,Bounced
+234,2025-06-27,CUST0234,Google Ads,social,/collections,Yes,Yes,No,No,0,Tablet,Chrome,JP,West Alexandriahaven,Returning,261,4,Checkout Abandoned
+235,2025-01-01,CUST0235,Twitter,referral,/products,No,No,No,No,0,Desktop,Safari,US,Melissamouth,Returning,14,2,Bounced
+236,2024-12-19,CUST0236,Facebook Ads,social,/sale,No,No,No,No,0,Tablet,Opera,CA,Juanchester,Returning,21,2,Bounced
+237,2025-03-02,CUST0237,TikTok,referral,/sale,Yes,Yes,Yes,No,0,Desktop,Safari,UK,Vasquezfort,Returning,193,13,Slow Loading
+238,2025-05-10,CUST0238,Facebook Ads,referral,/,Yes,No,No,No,0,Desktop,Safari,UK,New Danielletown,Returning,100,13,Cart Not Initiated
+239,2025-01-30,CUST0239,Twitter,referral,/about,No,No,No,No,0,Tablet,Safari,CA,East Blakeburgh,New Visitor,13,2,Bounced
+240,2024-10-10,CUST0240,Direct,referral,/,Yes,No,No,No,0,Mobile,Chrome,AU,Davidton,Returning,310,4,Cart Not Initiated
+241,2024-07-11,CUST0241,Organic Search,referral,/,Yes,Yes,Yes,No,0,Tablet,Chrome,UK,Raychester,Returning,300,2,Slow Loading
+242,2024-09-09,CUST0242,Instagram,organic,/,Yes,No,No,No,0,Mobile,Opera,IN,Blakefort,New Visitor,385,7,Cart Not Initiated
+243,2025-01-10,CUST0243,Direct,organic,/about,Yes,Yes,No,No,0,Mobile,Firefox,BR,South Jason,Returning,56,10,Checkout Abandoned
+244,2024-07-02,CUST0244,Referral,email,/sale,Yes,Yes,No,No,0,Tablet,Opera,CA,Cochranstad,New Visitor,230,13,Checkout Abandoned
+245,2025-06-16,CUST0245,Organic Search,referral,/sale,Yes,Yes,Yes,Yes,156.41,Tablet,Edge,CA,Williamsside,Returning,186,13,
+246,2024-09-26,CUST0246,Pinterest,cpc,/products,Yes,Yes,No,No,0,Tablet,Safari,JP,Heidifurt,Returning,305,9,Checkout Abandoned
+247,2024-07-29,CUST0247,Direct,organic,/products,Yes,Yes,No,No,0,Mobile,Firefox,IN,North William,Returning,429,4,Checkout Abandoned
+248,2025-05-12,CUST0248,Google Ads,email,/about,No,No,No,No,0,Mobile,Opera,JP,West Elizabethmouth,Returning,26,2,Bounced
+249,2025-06-21,CUST0249,TikTok,email,/collections,Yes,Yes,Yes,No,0,Tablet,Firefox,AU,Meghanland,New Visitor,531,4,Payment Failed
+250,2024-06-22,CUST0250,TikTok,organic,/collections,Yes,Yes,No,No,0,Mobile,Chrome,DE,Port Amanda,Returning,553,3,Checkout Abandoned
+251,2025-06-24,CUST0251,Facebook Ads,cpc,/,No,No,No,No,0,Desktop,Chrome,BR,South Jessicamouth,Returning,25,2,Bounced
+252,2025-01-12,CUST0252,Instagram,organic,/sale,No,No,No,No,0,Tablet,Opera,DE,North Stephenburgh,Returning,27,1,Bounced
+253,2025-06-20,CUST0253,Facebook Ads,organic,/collections,Yes,No,No,No,0,Tablet,Chrome,IN,Jenniferview,Returning,157,3,Cart Not Initiated
+254,2025-04-13,CUST0254,Facebook Ads,cpc,/sale,Yes,No,No,No,0,Desktop,Edge,JP,Port Teresa,New Visitor,210,2,Cart Not Initiated
+255,2024-10-05,CUST0255,Twitter,referral,/sale,Yes,No,No,No,0,Tablet,Opera,AU,Rogersborough,Returning,282,10,Cart Not Initiated
+256,2025-02-11,CUST0256,TikTok,email,/,Yes,Yes,Yes,No,0,Tablet,Edge,US,South Timothy,Returning,371,12,Payment Failed
+257,2025-02-02,CUST0257,Email,organic,/about,No,No,No,No,0,Mobile,Chrome,BR,Lake Nathanhaven,Returning,19,1,Bounced
+258,2025-06-05,CUST0258,Facebook Ads,email,/,Yes,Yes,Yes,No,0,Desktop,Edge,BR,Scottville,New Visitor,143,9,No Reason
+259,2025-04-30,CUST0259,Google Ads,referral,/sale,No,No,No,No,0,Desktop,Opera,FR,Vaughnchester,Returning,30,1,Bounced
+260,2024-06-29,CUST0260,Google Ads,email,/collections,Yes,Yes,No,No,0,Mobile,Edge,MX,Fergusonstad,Returning,448,3,Checkout Abandoned
+261,2024-07-30,CUST0261,Organic Search,referral,/collections,Yes,Yes,Yes,Yes,225.83,Tablet,Chrome,JP,Emilychester,Returning,497,9,
+262,2024-09-20,CUST0262,Referral,referral,/,Yes,Yes,Yes,Yes,209.9,Tablet,Firefox,MX,East Natalie,Returning,571,3,
+263,2025-04-25,CUST0263,Referral,organic,/,No,No,No,No,0,Desktop,Opera,CA,West Marcus,Returning,8,2,Bounced
+264,2025-03-13,CUST0264,Pinterest,cpc,/products,No,No,No,No,0,Desktop,Chrome,JP,Kennethshire,Returning,13,1,Bounced
+265,2025-01-03,CUST0265,Pinterest,referral,/sale,Yes,Yes,Yes,Yes,119.49,Desktop,Firefox,MX,Port Sarahside,Returning,365,13,
+266,2024-12-12,CUST0266,Instagram,social,/products,Yes,No,No,No,0,Desktop,Firefox,CA,Tracyview,Returning,500,3,Cart Not Initiated
+267,2024-08-28,CUST0267,Facebook Ads,organic,/,Yes,Yes,No,No,0,Desktop,Firefox,BR,East Christina,Returning,130,9,Checkout Abandoned
+268,2025-02-23,CUST0268,Instagram,referral,/products,Yes,No,No,No,0,Tablet,Firefox,BR,Richardsontown,Returning,178,9,Cart Not Initiated
+269,2024-10-08,CUST0269,Organic Search,organic,/collections,Yes,Yes,Yes,Yes,212.11,Desktop,Opera,DE,Stephenmouth,Returning,90,8,
+270,2025-04-03,CUST0270,Instagram,cpc,/collections,Yes,Yes,Yes,No,0,Tablet,Edge,UK,North Craigstad,New Visitor,358,2,Price Comparison
+271,2024-10-10,CUST0271,Direct,referral,/products,No,No,No,No,0,Tablet,Opera,MX,New Jamesmouth,Returning,4,2,Bounced
+272,2024-07-29,CUST0272,Google Ads,referral,/about,No,No,No,No,0,Tablet,Firefox,MX,Jensenfurt,Returning,29,1,Bounced
+273,2024-11-09,CUST0273,Instagram,email,/sale,Yes,No,No,No,0,Mobile,Edge,IN,Heathmouth,Returning,552,6,Cart Not Initiated
+274,2025-01-11,CUST0274,Instagram,referral,/collections,Yes,Yes,Yes,Yes,147.16,Desktop,Firefox,JP,East Michaelton,New Visitor,345,12,
+275,2024-06-25,CUST0275,Pinterest,referral,/products,No,No,No,No,0,Tablet,Firefox,FR,New Henry,Returning,6,1,Bounced
+276,2024-06-10,CUST0276,Pinterest,referral,/sale,Yes,Yes,Yes,No,0,Tablet,Edge,IN,West Daniel,Returning,421,10,No Reason
+277,2025-02-19,CUST0277,Direct,referral,/products,Yes,No,No,No,0,Mobile,Opera,AU,South Gabriellachester,Returning,453,14,Cart Not Initiated
+278,2024-10-30,CUST0278,Pinterest,email,/,Yes,Yes,Yes,Yes,306.81,Desktop,Chrome,JP,Lake Sierraland,New Visitor,597,3,
+279,2024-12-05,CUST0279,Twitter,organic,/,No,No,No,No,0,Tablet,Edge,FR,Dianetown,Returning,20,3,Bounced
+280,2025-04-05,CUST0280,Email,social,/products,Yes,Yes,Yes,No,0,Mobile,Opera,BR,Mannborough,Returning,224,12,Slow Loading
+281,2024-09-18,CUST0281,Organic Search,email,/about,Yes,No,No,No,0,Tablet,Opera,UK,New Tylermouth,Returning,135,15,Cart Not Initiated
+282,2024-07-18,CUST0282,Organic Search,social,/about,Yes,Yes,Yes,No,0,Tablet,Chrome,CA,Brittanybury,Returning,17,11,Slow Loading
+283,2025-05-17,CUST0283,Pinterest,email,/about,Yes,Yes,No,No,0,Desktop,Safari,FR,South Darleneburgh,Returning,450,2,Checkout Abandoned
+284,2024-06-15,CUST0284,Facebook Ads,social,/products,Yes,No,No,No,0,Desktop,Chrome,MX,East William,Returning,334,3,Cart Not Initiated
+285,2024-12-08,CUST0285,Instagram,referral,/collections,Yes,Yes,No,No,0,Mobile,Chrome,AU,Brandybury,Returning,46,4,Checkout Abandoned
+286,2025-01-13,CUST0286,Referral,referral,/about,Yes,Yes,Yes,No,0,Mobile,Firefox,DE,North David,New Visitor,301,3,Slow Loading
+287,2024-11-04,CUST0287,Twitter,organic,/collections,Yes,Yes,Yes,No,0,Mobile,Chrome,FR,Kellyborough,New Visitor,327,6,Payment Failed
+288,2024-07-24,CUST0288,Organic Search,organic,/sale,Yes,Yes,No,No,0,Mobile,Firefox,IN,New Donaldhaven,Returning,524,9,Checkout Abandoned
+289,2024-07-20,CUST0289,TikTok,referral,/products,No,No,No,No,0,Tablet,Edge,MX,Port Stevenmouth,Returning,26,1,Bounced
+290,2024-07-20,CUST0290,TikTok,email,/about,Yes,No,No,No,0,Mobile,Safari,FR,Juanmouth,New Visitor,461,14,Cart Not Initiated
+291,2024-09-30,CUST0291,TikTok,email,/sale,Yes,Yes,Yes,No,0,Desktop,Chrome,IN,Mitchellside,New Visitor,310,14,Account Required
+292,2024-06-28,CUST0292,Direct,cpc,/about,Yes,No,No,No,0,Tablet,Firefox,MX,East Amandaland,New Visitor,301,3,Cart Not Initiated
+293,2024-08-05,CUST0293,Direct,organic,/,Yes,No,No,No,0,Mobile,Firefox,BR,Weberburgh,Returning,155,9,Cart Not Initiated
+294,2024-09-01,CUST0294,Google Ads,email,/sale,Yes,No,No,No,0,Mobile,Edge,AU,Trevorside,Returning,24,3,Cart Not Initiated
+295,2024-08-06,CUST0295,Organic Search,social,/,Yes,Yes,No,No,0,Tablet,Opera,BR,New Sheena,Returning,262,5,Checkout Abandoned
+296,2025-03-29,CUST0296,Email,email,/products,Yes,Yes,No,No,0,Mobile,Chrome,MX,Lisaborough,Returning,114,9,Checkout Abandoned
+297,2025-04-28,CUST0297,Instagram,referral,/about,Yes,Yes,No,No,0,Mobile,Edge,IN,West Gabriel,Returning,546,6,Checkout Abandoned
+298,2024-08-17,CUST0298,Referral,email,/,Yes,Yes,Yes,No,0,Tablet,Edge,IN,Edwardtown,Returning,361,7,No Reason
+299,2024-09-26,CUST0299,Facebook Ads,organic,/,Yes,Yes,Yes,Yes,129.21,Mobile,Opera,IN,North Lisa,New Visitor,116,13,
+300,2024-09-07,CUST0300,Pinterest,referral,/products,Yes,Yes,No,No,0,Desktop,Firefox,UK,Taylorville,Returning,352,10,Checkout Abandoned
+301,2025-02-06,CUST0301,Instagram,email,/collections,No,No,No,No,0,Tablet,Chrome,FR,Joycemouth,Returning,16,3,Bounced
+302,2024-07-18,CUST0302,Instagram,referral,/about,Yes,Yes,Yes,No,0,Mobile,Safari,DE,Lake Dawn,Returning,210,9,No Reason
+303,2024-09-17,CUST0303,Google Ads,cpc,/collections,Yes,Yes,Yes,No,0,Mobile,Chrome,JP,North Sarah,Returning,301,15,Price Comparison
+304,2024-08-05,CUST0304,Google Ads,social,/collections,Yes,Yes,No,No,0,Mobile,Firefox,US,Williamfort,New Visitor,77,10,Checkout Abandoned
+305,2025-03-02,CUST0305,Direct,cpc,/about,No,No,No,No,0,Tablet,Edge,UK,Laceyville,New Visitor,26,1,Bounced
+306,2024-08-19,CUST0306,Organic Search,email,/products,No,No,No,No,0,Tablet,Chrome,CA,Meganborough,Returning,8,1,Bounced
+307,2024-08-30,CUST0307,Google Ads,referral,/products,Yes,No,No,No,0,Desktop,Edge,BR,Thomaschester,Returning,505,15,Cart Not Initiated
+308,2025-01-08,CUST0308,TikTok,social,/products,Yes,No,No,No,0,Tablet,Firefox,IN,Navarroborough,New Visitor,581,14,Cart Not Initiated
+309,2024-06-24,CUST0309,Instagram,referral,/sale,Yes,No,No,No,0,Tablet,Edge,JP,New Amyton,New Visitor,108,14,Cart Not Initiated
+310,2025-05-26,CUST0310,Organic Search,organic,/products,Yes,Yes,No,No,0,Tablet,Safari,CA,North Jamie,New Visitor,142,9,Checkout Abandoned
+311,2024-06-08,CUST0311,Direct,cpc,/sale,No,No,No,No,0,Mobile,Chrome,DE,West Brenda,Returning,24,3,Bounced
+312,2024-10-09,CUST0312,Email,social,/collections,Yes,Yes,Yes,Yes,341.83,Mobile,Opera,US,North Masonfort,Returning,481,3,
+313,2024-11-09,CUST0313,Facebook Ads,email,/products,Yes,Yes,No,No,0,Mobile,Firefox,DE,Chenshire,Returning,214,13,Checkout Abandoned
+314,2024-06-12,CUST0314,Google Ads,organic,/,Yes,Yes,Yes,No,0,Tablet,Firefox,FR,Shannonfurt,Returning,318,15,No Reason
+315,2025-02-24,CUST0315,Referral,referral,/,Yes,Yes,Yes,No,0,Tablet,Safari,US,Johnsonberg,Returning,153,13,Account Required
+316,2025-03-24,CUST0316,Referral,email,/sale,Yes,Yes,No,No,0,Desktop,Opera,BR,Englishbury,New Visitor,315,9,Checkout Abandoned
+317,2025-01-24,CUST0317,Direct,social,/collections,Yes,Yes,No,No,0,Mobile,Safari,DE,Willisfort,New Visitor,173,11,Checkout Abandoned
+318,2024-10-28,CUST0318,Facebook Ads,email,/sale,Yes,Yes,Yes,Yes,309.01,Mobile,Safari,CA,Mitchellburgh,Returning,413,6,
+319,2025-01-06,CUST0319,Instagram,organic,/sale,Yes,Yes,Yes,Yes,262.53,Mobile,Firefox,BR,Danielfort,New Visitor,386,12,
+320,2025-05-05,CUST0320,Google Ads,cpc,/collections,Yes,Yes,Yes,Yes,192.23,Desktop,Safari,FR,Heatherfort,Returning,430,8,
+321,2025-05-01,CUST0321,Referral,cpc,/collections,Yes,No,No,No,0,Mobile,Opera,AU,Grayfurt,Returning,165,12,Cart Not Initiated
+322,2024-08-27,CUST0322,Instagram,referral,/sale,Yes,Yes,Yes,Yes,57.38,Mobile,Firefox,UK,North David,Returning,324,6,
+323,2025-01-19,CUST0323,Facebook Ads,email,/about,No,No,No,No,0,Desktop,Chrome,AU,New Richard,Returning,4,1,Bounced
+324,2024-09-20,CUST0324,Pinterest,referral,/,Yes,Yes,No,No,0,Desktop,Edge,CA,West Andrewfort,Returning,530,5,Checkout Abandoned
+325,2025-02-21,CUST0325,TikTok,organic,/,Yes,Yes,No,No,0,Desktop,Chrome,AU,Mariahtown,Returning,48,9,Checkout Abandoned
+326,2024-07-23,CUST0326,Instagram,referral,/,Yes,No,No,No,0,Tablet,Chrome,US,Cartertown,Returning,441,15,Cart Not Initiated
+327,2024-11-06,CUST0327,Referral,referral,/products,Yes,No,No,No,0,Desktop,Firefox,JP,Mariamouth,New Visitor,456,8,Cart Not Initiated
+328,2025-01-28,CUST0328,Twitter,email,/sale,Yes,Yes,Yes,Yes,99.38,Tablet,Opera,IN,North Tanya,Returning,85,7,
+329,2024-10-23,CUST0329,Google Ads,cpc,/products,No,No,No,No,0,Mobile,Edge,US,Thompsonport,New Visitor,26,2,Bounced
+330,2025-04-18,CUST0330,Facebook Ads,email,/products,Yes,Yes,Yes,No,0,Mobile,Edge,FR,Robertton,Returning,214,7,Price Comparison
+331,2025-01-12,CUST0331,Twitter,referral,/sale,Yes,No,No,No,0,Mobile,Edge,MX,Jenniferhaven,Returning,82,3,Cart Not Initiated
+332,2024-11-24,CUST0332,Email,cpc,/,Yes,Yes,No,No,0,Tablet,Edge,AU,Rhondaberg,New Visitor,42,6,Checkout Abandoned
+333,2024-08-21,CUST0333,Google Ads,cpc,/collections,Yes,Yes,No,No,0,Tablet,Edge,JP,Port Tina,New Visitor,444,13,Checkout Abandoned
+334,2024-09-30,CUST0334,Referral,cpc,/collections,No,No,No,No,0,Mobile,Opera,JP,North Sean,New Visitor,21,2,Bounced
+335,2024-11-17,CUST0335,TikTok,referral,/about,Yes,Yes,No,No,0,Tablet,Edge,JP,West Taylorberg,New Visitor,476,15,Checkout Abandoned
+336,2024-12-07,CUST0336,Direct,email,/sale,Yes,Yes,Yes,Yes,256.58,Tablet,Safari,FR,Coffeystad,Returning,575,12,
+337,2024-08-13,CUST0337,Direct,referral,/,No,No,No,No,0,Mobile,Firefox,DE,Williambury,Returning,27,2,Bounced
+338,2024-09-05,CUST0338,Facebook Ads,organic,/,Yes,No,No,No,0,Desktop,Chrome,CA,South Leahside,Returning,444,3,Cart Not Initiated
+339,2024-08-29,CUST0339,Direct,cpc,/collections,Yes,Yes,No,No,0,Desktop,Firefox,CA,New Keithchester,Returning,534,9,Checkout Abandoned
+340,2025-02-23,CUST0340,Instagram,email,/,Yes,Yes,Yes,Yes,343.59,Tablet,Edge,IN,South Alexander,Returning,468,14,
+341,2025-04-20,CUST0341,TikTok,email,/,Yes,Yes,No,No,0,Mobile,Edge,FR,Taylorview,Returning,407,7,Checkout Abandoned
+342,2024-11-24,CUST0342,Email,referral,/,Yes,Yes,Yes,Yes,439.89,Tablet,Chrome,CA,South Vincent,Returning,384,7,
+343,2025-05-16,CUST0343,Facebook Ads,referral,/collections,Yes,Yes,No,No,0,Tablet,Firefox,UK,Port Cheryl,Returning,577,6,Checkout Abandoned
+344,2024-09-17,CUST0344,Google Ads,social,/,Yes,No,No,No,0,Desktop,Edge,IN,Matthewland,Returning,427,2,Cart Not Initiated
+345,2024-10-20,CUST0345,Twitter,cpc,/products,Yes,Yes,Yes,Yes,69.36,Desktop,Chrome,FR,East Ryantown,Returning,251,9,
+346,2024-10-07,CUST0346,Organic Search,cpc,/products,Yes,Yes,Yes,Yes,328.37,Tablet,Safari,IN,New Cheryl,New Visitor,389,3,
+347,2025-03-21,CUST0347,Email,email,/about,Yes,Yes,Yes,No,0,Desktop,Opera,UK,Hugheston,New Visitor,273,6,High Shipping Cost
+348,2024-10-02,CUST0348,Twitter,cpc,/sale,Yes,No,No,No,0,Tablet,Opera,MX,Justinberg,Returning,104,4,Cart Not Initiated
+349,2024-06-05,CUST0349,Pinterest,referral,/about,Yes,No,No,No,0,Desktop,Firefox,FR,Ashleymouth,Returning,370,13,Cart Not Initiated
+350,2025-05-20,CUST0350,Facebook Ads,organic,/collections,Yes,Yes,Yes,No,0,Desktop,Safari,DE,West Kimberlyborough,Returning,455,9,Payment Failed
+351,2024-10-18,CUST0351,Organic Search,cpc,/collections,Yes,No,No,No,0,Desktop,Chrome,BR,Port Keith,Returning,556,8,Cart Not Initiated
+352,2024-07-30,CUST0352,Instagram,referral,/collections,Yes,Yes,Yes,Yes,229.29,Mobile,Edge,US,Angelafurt,Returning,140,5,
+353,2025-06-28,CUST0353,TikTok,email,/sale,Yes,Yes,Yes,Yes,100.71,Desktop,Safari,MX,New Rhondatown,Returning,377,12,
+354,2024-11-08,CUST0354,Referral,cpc,/,Yes,Yes,No,No,0,Desktop,Safari,UK,Fitzgeraldland,New Visitor,435,14,Checkout Abandoned
+355,2025-06-19,CUST0355,Instagram,cpc,/sale,Yes,Yes,Yes,Yes,29.05,Tablet,Chrome,US,West Micheal,Returning,500,12,
+356,2024-08-01,CUST0356,Organic Search,referral,/products,No,No,No,No,0,Tablet,Edge,BR,North Paul,Returning,30,3,Bounced
+357,2025-04-23,CUST0357,Instagram,email,/about,Yes,Yes,Yes,No,0,Mobile,Chrome,MX,East Samanthaberg,Returning,126,4,High Shipping Cost
+358,2024-12-28,CUST0358,Pinterest,cpc,/products,Yes,Yes,No,No,0,Tablet,Opera,MX,South Ann,Returning,15,10,Checkout Abandoned
+359,2025-04-24,CUST0359,Twitter,social,/collections,Yes,No,No,No,0,Mobile,Chrome,IN,North Dianatown,Returning,223,5,Cart Not Initiated
+360,2024-09-20,CUST0360,TikTok,referral,/about,Yes,No,No,No,0,Desktop,Chrome,FR,New Robert,Returning,129,8,Cart Not Initiated
+361,2025-01-25,CUST0361,TikTok,cpc,/products,Yes,Yes,No,No,0,Desktop,Edge,FR,East Michelle,Returning,329,15,Checkout Abandoned
+362,2025-05-09,CUST0362,TikTok,referral,/products,Yes,Yes,Yes,Yes,369.52,Mobile,Edge,UK,Juliehaven,Returning,172,10,
+363,2025-05-15,CUST0363,Direct,social,/about,Yes,Yes,Yes,Yes,308.97,Desktop,Safari,MX,Williamsstad,Returning,278,8,
+364,2024-07-23,CUST0364,Email,cpc,/collections,Yes,Yes,No,No,0,Desktop,Edge,UK,Lake Gailside,New Visitor,549,10,Checkout Abandoned
+365,2025-02-04,CUST0365,Twitter,referral,/,Yes,Yes,Yes,Yes,91.4,Mobile,Opera,IN,Rickyfort,Returning,477,5,
+366,2025-05-07,CUST0366,Referral,social,/about,No,No,No,No,0,Tablet,Chrome,CA,Washingtonmouth,Returning,25,2,Bounced
+367,2025-01-21,CUST0367,Instagram,email,/products,Yes,Yes,No,No,0,Mobile,Firefox,UK,Daniellemouth,Returning,348,5,Checkout Abandoned
+368,2024-09-15,CUST0368,Instagram,organic,/products,No,No,No,No,0,Desktop,Safari,DE,Duarteport,Returning,25,3,Bounced
+369,2025-05-10,CUST0369,Google Ads,email,/,Yes,No,No,No,0,Tablet,Chrome,US,Lake Debrachester,Returning,180,8,Cart Not Initiated
+370,2024-11-30,CUST0370,Pinterest,organic,/sale,Yes,Yes,Yes,No,0,Tablet,Edge,UK,Lake Patriciatown,Returning,179,5,Slow Loading
+371,2024-12-17,CUST0371,Twitter,referral,/products,Yes,Yes,No,No,0,Tablet,Chrome,DE,Port Anthony,Returning,78,2,Checkout Abandoned
+372,2024-10-05,CUST0372,Facebook Ads,organic,/collections,Yes,Yes,Yes,Yes,65.76,Tablet,Safari,UK,Hallland,New Visitor,361,9,
+373,2025-05-01,CUST0373,TikTok,referral,/collections,Yes,Yes,No,No,0,Desktop,Opera,CA,New Jackie,Returning,352,15,Checkout Abandoned
+374,2025-05-07,CUST0374,Direct,cpc,/,Yes,No,No,No,0,Desktop,Chrome,AU,Lake Denise,New Visitor,32,13,Cart Not Initiated
+375,2024-10-23,CUST0375,Twitter,referral,/about,No,No,No,No,0,Tablet,Opera,JP,Briannastad,New Visitor,25,3,Bounced
+376,2024-10-13,CUST0376,Direct,social,/collections,Yes,Yes,Yes,No,0,Mobile,Opera,BR,Kathleenfort,Returning,449,10,Account Required
+377,2025-02-01,CUST0377,Instagram,referral,/sale,Yes,Yes,Yes,No,0,Mobile,Opera,BR,Walkerchester,Returning,169,7,High Shipping Cost
+378,2024-11-26,CUST0378,Twitter,cpc,/collections,Yes,Yes,No,No,0,Desktop,Safari,CA,Vanessafurt,New Visitor,215,8,Checkout Abandoned
+379,2025-04-23,CUST0379,Direct,social,/products,Yes,No,No,No,0,Mobile,Firefox,JP,Gloverside,New Visitor,337,13,Cart Not Initiated
+380,2025-01-09,CUST0380,TikTok,cpc,/sale,Yes,Yes,No,No,0,Desktop,Chrome,IN,Jamesshire,Returning,171,5,Checkout Abandoned
+381,2025-03-04,CUST0381,Referral,email,/about,Yes,No,No,No,0,Tablet,Chrome,FR,Warrenbury,Returning,23,2,Cart Not Initiated
+382,2025-02-01,CUST0382,Email,email,/sale,Yes,Yes,No,No,0,Desktop,Chrome,US,West Tylertown,Returning,127,6,Checkout Abandoned
+383,2025-04-24,CUST0383,Organic Search,email,/about,Yes,Yes,Yes,Yes,394.56,Desktop,Safari,UK,Nguyenburgh,New Visitor,600,13,
+384,2024-12-04,CUST0384,Twitter,email,/about,Yes,No,No,No,0,Tablet,Opera,AU,New Stephanieport,Returning,248,13,Cart Not Initiated
+385,2025-01-23,CUST0385,Direct,email,/,Yes,Yes,Yes,Yes,228.15,Tablet,Edge,CA,North Hailey,Returning,519,4,
+386,2025-03-12,CUST0386,TikTok,referral,/sale,No,No,No,No,0,Mobile,Firefox,UK,Lambbury,New Visitor,27,1,Bounced
+387,2025-06-14,CUST0387,Twitter,referral,/products,Yes,Yes,No,No,0,Mobile,Edge,JP,Perezview,Returning,547,3,Checkout Abandoned
+388,2024-10-09,CUST0388,Instagram,referral,/products,Yes,Yes,Yes,Yes,251.87,Tablet,Edge,IN,Fisherbury,New Visitor,404,12,
+389,2025-01-16,CUST0389,Twitter,organic,/,Yes,Yes,Yes,Yes,328.5,Desktop,Edge,UK,Port Danielton,New Visitor,183,6,
+390,2024-07-02,CUST0390,Instagram,email,/products,Yes,Yes,Yes,No,0,Tablet,Edge,IN,North Kenneth,New Visitor,534,3,Payment Failed
+391,2025-04-10,CUST0391,Direct,organic,/collections,Yes,Yes,No,No,0,Tablet,Chrome,MX,Monicaside,Returning,358,12,Checkout Abandoned
+392,2025-01-01,CUST0392,Facebook Ads,social,/sale,No,No,No,No,0,Mobile,Safari,BR,Danielberg,New Visitor,11,2,Bounced
+393,2024-08-11,CUST0393,Organic Search,referral,/,No,No,No,No,0,Desktop,Chrome,JP,East Shannonburgh,Returning,21,2,Bounced
+394,2024-10-30,CUST0394,Email,social,/sale,Yes,Yes,No,No,0,Tablet,Safari,FR,South Kevin,New Visitor,117,15,Checkout Abandoned
+395,2025-01-18,CUST0395,Pinterest,organic,/products,Yes,Yes,Yes,Yes,304.3,Desktop,Edge,MX,East Carrieshire,Returning,418,4,
+396,2025-06-25,CUST0396,Twitter,cpc,/about,Yes,No,No,No,0,Desktop,Chrome,US,West Jeffrey,New Visitor,591,3,Cart Not Initiated
+397,2024-08-28,CUST0397,Pinterest,social,/collections,Yes,Yes,No,No,0,Tablet,Firefox,US,East Michelletown,Returning,293,4,Checkout Abandoned
+398,2024-12-31,CUST0398,Organic Search,cpc,/about,Yes,No,No,No,0,Desktop,Chrome,FR,Martintown,Returning,413,3,Cart Not Initiated
+399,2025-06-10,CUST0399,Instagram,referral,/products,No,No,No,No,0,Desktop,Opera,US,Stuartside,Returning,15,2,Bounced
+400,2025-05-29,CUST0400,Email,organic,/products,Yes,Yes,No,No,0,Tablet,Firefox,MX,Port Regina,New Visitor,549,14,Checkout Abandoned
+401,2024-12-24,CUST0401,Email,cpc,/collections,No,No,No,No,0,Desktop,Chrome,CA,Jessicaville,Returning,11,2,Bounced
+402,2025-01-13,CUST0402,Email,referral,/collections,Yes,Yes,Yes,No,0,Desktop,Safari,IN,Jamesport,Returning,315,12,Account Required
+403,2024-08-06,CUST0403,Direct,referral,/sale,No,No,No,No,0,Tablet,Edge,BR,West Nicholasshire,Returning,19,3,Bounced
+404,2024-10-21,CUST0404,Google Ads,referral,/collections,Yes,No,No,No,0,Tablet,Edge,DE,New Douglasside,Returning,69,5,Cart Not Initiated
+405,2025-05-30,CUST0405,Facebook Ads,email,/products,Yes,Yes,Yes,No,0,Mobile,Firefox,MX,New Matthewfurt,New Visitor,447,15,High Shipping Cost
+406,2024-08-25,CUST0406,Referral,email,/sale,Yes,Yes,Yes,Yes,76.51,Mobile,Opera,MX,Katherineview,Returning,133,6,
+407,2025-02-04,CUST0407,Instagram,social,/sale,Yes,Yes,Yes,Yes,249.23,Desktop,Opera,AU,Boothbury,Returning,443,10,
+408,2024-07-16,CUST0408,Referral,social,/about,Yes,Yes,Yes,Yes,409.62,Mobile,Edge,BR,Morrisfort,Returning,311,5,
+409,2025-01-29,CUST0409,TikTok,referral,/collections,Yes,Yes,No,No,0,Desktop,Firefox,CA,New Davidmouth,Returning,308,2,Checkout Abandoned
+410,2025-06-15,CUST0410,Google Ads,referral,/collections,Yes,No,No,No,0,Desktop,Safari,US,Evansmouth,Returning,72,10,Cart Not Initiated
+411,2024-10-05,CUST0411,Google Ads,social,/,No,No,No,No,0,Mobile,Chrome,FR,Schultzshire,Returning,9,1,Bounced
+412,2025-01-23,CUST0412,TikTok,email,/products,Yes,No,No,No,0,Desktop,Opera,UK,Lake Melissa,Returning,333,10,Cart Not Initiated
+413,2024-11-10,CUST0413,Email,referral,/collections,No,No,No,No,0,Desktop,Chrome,CA,Hallborough,Returning,29,1,Bounced
+414,2024-07-12,CUST0414,Instagram,cpc,/products,Yes,Yes,No,No,0,Tablet,Chrome,CA,Port Robertshire,New Visitor,416,9,Checkout Abandoned
+415,2024-10-08,CUST0415,Direct,email,/products,Yes,Yes,Yes,No,0,Mobile,Edge,DE,South Jenniferbury,Returning,460,10,Payment Failed
+416,2024-06-01,CUST0416,Pinterest,social,/products,Yes,Yes,No,No,0,Tablet,Chrome,MX,North Susanfort,Returning,28,7,Checkout Abandoned
+417,2025-06-25,CUST0417,Organic Search,organic,/collections,Yes,No,No,No,0,Mobile,Edge,FR,South Chadland,New Visitor,50,10,Cart Not Initiated
+418,2024-10-12,CUST0418,Direct,social,/sale,Yes,Yes,Yes,Yes,72.5,Mobile,Edge,US,Port Andrew,Returning,326,14,
+419,2024-12-27,CUST0419,Referral,organic,/sale,Yes,Yes,Yes,No,0,Mobile,Safari,BR,Carrollburgh,Returning,195,12,High Shipping Cost
+420,2025-05-14,CUST0420,TikTok,referral,/collections,Yes,Yes,Yes,Yes,277.5,Mobile,Firefox,UK,East Andreamouth,Returning,352,10,
+421,2024-07-17,CUST0421,Organic Search,cpc,/collections,No,No,No,No,0,Mobile,Chrome,MX,West Carolynfurt,Returning,16,2,Bounced
+422,2024-09-19,CUST0422,Instagram,social,/collections,Yes,Yes,Yes,Yes,459.22,Desktop,Opera,UK,East Gary,Returning,15,7,
+423,2024-10-22,CUST0423,Facebook Ads,organic,/collections,Yes,Yes,Yes,No,0,Tablet,Chrome,BR,Juanside,Returning,203,13,No Reason
+424,2025-04-05,CUST0424,Organic Search,referral,/products,No,No,No,No,0,Desktop,Firefox,US,South Curtisstad,Returning,25,3,Bounced
+425,2024-09-29,CUST0425,Organic Search,email,/,Yes,No,No,No,0,Desktop,Safari,MX,Port Katherine,New Visitor,437,13,Cart Not Initiated
+426,2025-01-15,CUST0426,Email,cpc,/products,No,No,No,No,0,Desktop,Firefox,BR,Lindamouth,New Visitor,7,2,Bounced
+427,2025-02-11,CUST0427,Google Ads,referral,/,No,No,No,No,0,Tablet,Chrome,UK,Jameschester,Returning,27,2,Bounced
+428,2025-01-13,CUST0428,Referral,social,/sale,No,No,No,No,0,Mobile,Chrome,BR,North Kevin,Returning,22,3,Bounced
+429,2025-04-03,CUST0429,Google Ads,email,/products,Yes,No,No,No,0,Mobile,Safari,US,Lake Andrew,Returning,593,4,Cart Not Initiated
+430,2024-06-13,CUST0430,Facebook Ads,email,/sale,Yes,Yes,No,No,0,Tablet,Edge,UK,North John,Returning,208,15,Checkout Abandoned
+431,2024-10-13,CUST0431,TikTok,social,/products,Yes,No,No,No,0,Tablet,Edge,FR,Weberville,Returning,382,12,Cart Not Initiated
+432,2024-08-12,CUST0432,TikTok,social,/collections,Yes,No,No,No,0,Mobile,Safari,FR,Michaelville,Returning,509,7,Cart Not Initiated
+433,2024-08-22,CUST0433,TikTok,social,/products,Yes,Yes,No,No,0,Desktop,Firefox,IN,Port Wendyshire,Returning,51,9,Checkout Abandoned
+434,2025-01-22,CUST0434,Google Ads,organic,/collections,Yes,Yes,Yes,Yes,66.38,Tablet,Chrome,UK,Robertberg,Returning,577,8,
+435,2025-03-11,CUST0435,Facebook Ads,email,/about,Yes,Yes,Yes,Yes,421.06,Tablet,Firefox,US,Simonport,New Visitor,388,3,
+436,2024-12-28,CUST0436,Twitter,organic,/,Yes,No,No,No,0,Desktop,Safari,MX,Lake Adamchester,Returning,151,8,Cart Not Initiated
+437,2025-02-03,CUST0437,Email,cpc,/products,Yes,Yes,Yes,No,0,Tablet,Chrome,DE,Port Williamborough,Returning,539,14,Price Comparison
+438,2025-03-16,CUST0438,Instagram,cpc,/products,Yes,No,No,No,0,Mobile,Chrome,IN,Lake Anthonyfort,New Visitor,480,14,Cart Not Initiated
+439,2024-12-12,CUST0439,Twitter,social,/about,Yes,Yes,No,No,0,Desktop,Opera,MX,Port Maria,Returning,571,10,Checkout Abandoned
+440,2024-08-11,CUST0440,Referral,cpc,/,Yes,No,No,No,0,Mobile,Safari,US,East Jesse,Returning,326,5,Cart Not Initiated
+441,2024-08-26,CUST0441,Twitter,organic,/sale,No,No,No,No,0,Desktop,Firefox,UK,Carlborough,Returning,4,3,Bounced
+442,2024-08-04,CUST0442,Instagram,referral,/sale,Yes,Yes,Yes,Yes,83.62,Desktop,Firefox,CA,Cassandraberg,Returning,445,4,
+443,2024-09-07,CUST0443,Instagram,social,/products,Yes,Yes,Yes,Yes,308.44,Desktop,Chrome,UK,Jeffreyfort,Returning,431,11,
+444,2024-09-15,CUST0444,Pinterest,referral,/collections,Yes,No,No,No,0,Mobile,Edge,IN,Port Brettport,Returning,103,7,Cart Not Initiated
+445,2025-05-17,CUST0445,Organic Search,social,/,Yes,Yes,No,No,0,Desktop,Edge,UK,North Stevenchester,Returning,406,11,Checkout Abandoned
+446,2025-01-05,CUST0446,TikTok,organic,/collections,Yes,Yes,No,No,0,Mobile,Safari,FR,North Nathan,Returning,468,6,Checkout Abandoned
+447,2024-07-09,CUST0447,Referral,email,/sale,Yes,Yes,Yes,Yes,496.64,Desktop,Chrome,BR,North Robert,Returning,258,13,
+448,2025-01-19,CUST0448,Organic Search,email,/,Yes,Yes,No,No,0,Mobile,Opera,DE,West Dylanview,Returning,355,7,Checkout Abandoned
+449,2024-09-24,CUST0449,Facebook Ads,cpc,/products,Yes,Yes,Yes,No,0,Mobile,Firefox,BR,East Jeremyfurt,New Visitor,113,15,Slow Loading
+450,2025-06-14,CUST0450,Organic Search,referral,/sale,Yes,Yes,Yes,Yes,56.95,Tablet,Firefox,FR,South Kathryn,Returning,58,2,
+451,2025-01-10,CUST0451,Google Ads,cpc,/sale,Yes,Yes,Yes,No,0,Tablet,Edge,MX,West Laurenfort,Returning,145,5,Complex Checkout
+452,2024-09-16,CUST0452,Google Ads,referral,/about,No,No,No,No,0,Desktop,Safari,UK,Perrychester,New Visitor,16,2,Bounced
+453,2024-06-05,CUST0453,Facebook Ads,organic,/about,Yes,Yes,No,No,0,Mobile,Opera,AU,West Christinatown,Returning,230,9,Checkout Abandoned
+454,2024-09-25,CUST0454,Direct,email,/about,Yes,Yes,Yes,No,0,Mobile,Opera,AU,Theodorechester,Returning,37,8,Account Required
+455,2024-08-11,CUST0455,Google Ads,cpc,/,Yes,No,No,No,0,Mobile,Chrome,IN,Port Jeffrey,Returning,230,5,Cart Not Initiated
+456,2024-07-16,CUST0456,Email,social,/about,No,No,No,No,0,Tablet,Edge,JP,Bradleyhaven,Returning,14,1,Bounced
+457,2025-02-26,CUST0457,Pinterest,email,/about,Yes,Yes,No,No,0,Mobile,Edge,BR,Johnmouth,Returning,170,15,Checkout Abandoned
+458,2024-12-23,CUST0458,Twitter,cpc,/products,Yes,Yes,No,No,0,Mobile,Edge,BR,North Aaron,Returning,38,10,Checkout Abandoned
+459,2024-10-14,CUST0459,Pinterest,email,/collections,Yes,Yes,Yes,Yes,67.76,Desktop,Chrome,DE,Brittanybury,Returning,266,7,
+460,2024-12-25,CUST0460,Twitter,referral,/about,No,No,No,No,0,Tablet,Opera,CA,West Amychester,New Visitor,28,2,Bounced
+461,2025-03-03,CUST0461,Google Ads,referral,/,No,No,No,No,0,Mobile,Safari,UK,Nicholeton,New Visitor,5,2,Bounced
+462,2024-11-24,CUST0462,Facebook Ads,referral,/about,Yes,No,No,No,0,Tablet,Edge,JP,Davidshire,Returning,163,5,Cart Not Initiated
+463,2025-05-21,CUST0463,Facebook Ads,referral,/about,No,No,No,No,0,Mobile,Firefox,MX,Sarahview,Returning,19,2,Bounced
+464,2025-01-16,CUST0464,Google Ads,organic,/collections,Yes,No,No,No,0,Tablet,Firefox,IN,West Savannah,Returning,262,12,Cart Not Initiated
+465,2024-08-05,CUST0465,Pinterest,referral,/products,Yes,Yes,No,No,0,Tablet,Firefox,FR,South Bryan,New Visitor,544,15,Checkout Abandoned
+466,2025-01-01,CUST0466,Facebook Ads,referral,/products,Yes,No,No,No,0,Mobile,Edge,FR,West Sharonview,New Visitor,465,8,Cart Not Initiated
+467,2024-09-10,CUST0467,Email,email,/,Yes,Yes,Yes,Yes,166.22,Tablet,Chrome,FR,Hooverport,Returning,85,6,
+468,2024-09-18,CUST0468,Twitter,cpc,/products,Yes,Yes,No,No,0,Desktop,Chrome,DE,Walkermouth,Returning,133,4,Checkout Abandoned
+469,2024-08-14,CUST0469,Referral,referral,/collections,Yes,No,No,No,0,Mobile,Chrome,FR,Maryhaven,New Visitor,292,9,Cart Not Initiated
+470,2024-07-04,CUST0470,Organic Search,referral,/products,No,No,No,No,0,Mobile,Safari,UK,Booneshire,Returning,17,1,Bounced
+471,2025-04-03,CUST0471,Facebook Ads,email,/products,Yes,Yes,No,No,0,Tablet,Opera,IN,Lake Williamland,Returning,162,12,Checkout Abandoned
+472,2025-01-25,CUST0472,Google Ads,email,/products,Yes,Yes,No,No,0,Tablet,Edge,US,Port Janiceton,Returning,576,2,Checkout Abandoned
+473,2024-07-12,CUST0473,Referral,email,/about,No,No,No,No,0,Desktop,Firefox,BR,North Meganville,New Visitor,20,1,Bounced
+474,2024-10-28,CUST0474,Twitter,social,/,Yes,Yes,Yes,No,0,Tablet,Firefox,BR,Collinshaven,Returning,22,8,Payment Failed
+475,2024-11-27,CUST0475,Pinterest,organic,/about,No,No,No,No,0,Mobile,Safari,US,Hillton,Returning,24,2,Bounced
+476,2025-02-03,CUST0476,Referral,social,/products,Yes,Yes,Yes,Yes,221.95,Tablet,Opera,IN,Acostastad,New Visitor,231,3,
+477,2025-06-11,CUST0477,Referral,cpc,/sale,Yes,No,No,No,0,Tablet,Firefox,FR,New Carl,Returning,454,11,Cart Not Initiated
+478,2025-02-01,CUST0478,Google Ads,email,/collections,Yes,Yes,Yes,No,0,Desktop,Safari,FR,Clarkland,Returning,570,12,No Reason
+479,2024-10-30,CUST0479,Pinterest,email,/,Yes,Yes,No,No,0,Tablet,Firefox,US,Brookeland,Returning,246,9,Checkout Abandoned
+480,2025-04-21,CUST0480,Twitter,social,/collections,Yes,Yes,Yes,Yes,267.89,Mobile,Opera,FR,West Tina,New Visitor,412,3,
+481,2025-04-12,CUST0481,Email,cpc,/products,Yes,Yes,No,No,0,Mobile,Opera,US,Jonbury,Returning,260,2,Checkout Abandoned
+482,2025-01-04,CUST0482,Twitter,email,/,Yes,No,No,No,0,Tablet,Opera,UK,South Timothy,Returning,389,11,Cart Not Initiated
+483,2024-06-09,CUST0483,Google Ads,social,/sale,Yes,No,No,No,0,Desktop,Edge,AU,Nataliemouth,New Visitor,129,3,Cart Not Initiated
+484,2025-04-12,CUST0484,Organic Search,referral,/,Yes,No,No,No,0,Desktop,Safari,DE,Jamesstad,Returning,503,6,Cart Not Initiated
+485,2025-06-15,CUST0485,Organic Search,email,/about,Yes,No,No,No,0,Mobile,Edge,JP,Faithchester,New Visitor,458,15,Cart Not Initiated
+486,2024-12-24,CUST0486,Facebook Ads,referral,/about,No,No,No,No,0,Mobile,Firefox,US,East Jenniferfort,Returning,9,2,Bounced
+487,2025-01-20,CUST0487,Twitter,cpc,/collections,Yes,Yes,Yes,Yes,144.65,Desktop,Opera,AU,West Jenniferchester,Returning,44,13,
+488,2025-03-20,CUST0488,Twitter,email,/products,Yes,Yes,Yes,No,0,Desktop,Chrome,JP,Joneston,Returning,132,14,No Reason
+489,2025-02-08,CUST0489,Facebook Ads,cpc,/collections,Yes,No,No,No,0,Tablet,Opera,IN,Knightmouth,Returning,430,11,Cart Not Initiated
+490,2024-10-31,CUST0490,Direct,cpc,/,Yes,Yes,Yes,Yes,390.43,Mobile,Opera,IN,Shawnview,Returning,555,14,
+491,2024-11-09,CUST0491,Direct,email,/sale,Yes,No,No,No,0,Tablet,Chrome,UK,Christopherton,Returning,131,6,Cart Not Initiated
+492,2024-10-23,CUST0492,Email,cpc,/about,Yes,No,No,No,0,Desktop,Firefox,BR,Port James,Returning,494,14,Cart Not Initiated
+493,2025-06-01,CUST0493,Pinterest,social,/,No,No,No,No,0,Desktop,Edge,JP,Danielsberg,Returning,29,2,Bounced
+494,2024-08-17,CUST0494,Email,referral,/about,Yes,No,No,No,0,Mobile,Edge,JP,Port Breannatown,Returning,519,15,Cart Not Initiated
+495,2024-08-08,CUST0495,TikTok,organic,/about,Yes,Yes,No,No,0,Desktop,Safari,US,Ryanport,Returning,511,7,Checkout Abandoned
+496,2025-04-29,CUST0496,Direct,cpc,/,Yes,Yes,No,No,0,Desktop,Opera,US,Stephanieview,New Visitor,54,15,Checkout Abandoned
+497,2025-04-13,CUST0497,Pinterest,email,/,Yes,Yes,Yes,No,0,Tablet,Firefox,IN,Port Lindafort,Returning,215,12,Slow Loading
+498,2025-01-18,CUST0498,Email,social,/products,Yes,No,No,No,0,Tablet,Opera,US,Smithton,Returning,298,9,Cart Not Initiated
+499,2025-04-26,CUST0499,Facebook Ads,cpc,/about,Yes,Yes,Yes,Yes,495.87,Tablet,Firefox,UK,East James,Returning,160,8,
+500,2025-03-11,CUST0500,Direct,cpc,/products,Yes,Yes,Yes,No,0,Desktop,Opera,UK,Woodshaven,Returning,239,11,Complex Checkout
+501,2025-03-23,CUST0501,Direct,social,/products,Yes,Yes,No,No,0,Mobile,Safari,JP,North Donaldborough,Returning,459,12,Checkout Abandoned
+502,2024-12-22,CUST0502,TikTok,social,/products,Yes,No,No,No,0,Tablet,Opera,JP,North Lisastad,Returning,260,14,Cart Not Initiated
+503,2024-08-22,CUST0503,Twitter,cpc,/products,Yes,Yes,Yes,No,0,Desktop,Edge,JP,Petersonland,Returning,534,5,Payment Failed
+504,2025-01-02,CUST0504,Referral,organic,/sale,Yes,Yes,Yes,No,0,Desktop,Safari,JP,Mallorymouth,New Visitor,402,12,Price Comparison
+505,2024-07-28,CUST0505,Facebook Ads,organic,/about,No,No,No,No,0,Desktop,Firefox,AU,Lake Kim,New Visitor,23,2,Bounced
+506,2024-12-31,CUST0506,Facebook Ads,social,/sale,Yes,Yes,Yes,Yes,497.0,Desktop,Opera,MX,Parkershire,Returning,79,12,
+507,2025-04-11,CUST0507,Referral,cpc,/about,No,No,No,No,0,Desktop,Safari,IN,Chapmanmouth,New Visitor,27,3,Bounced
+508,2024-09-09,CUST0508,Organic Search,social,/collections,No,No,No,No,0,Mobile,Safari,JP,Port Andrew,Returning,30,3,Bounced
+509,2024-09-17,CUST0509,Direct,cpc,/sale,Yes,Yes,Yes,Yes,474.04,Mobile,Opera,IN,Valenciahaven,Returning,317,12,
+510,2024-08-18,CUST0510,Organic Search,cpc,/products,Yes,Yes,No,No,0,Tablet,Edge,CA,Lake Amanda,Returning,359,15,Checkout Abandoned
+511,2024-09-20,CUST0511,Direct,cpc,/,Yes,No,No,No,0,Desktop,Edge,FR,North Stephanieview,Returning,120,6,Cart Not Initiated
+512,2024-12-09,CUST0512,Referral,social,/sale,Yes,Yes,Yes,Yes,209.69,Tablet,Edge,CA,Port Kelly,Returning,177,2,
+513,2024-11-01,CUST0513,Facebook Ads,cpc,/,No,No,No,No,0,Tablet,Chrome,DE,Nelsonshire,Returning,21,3,Bounced
+514,2025-04-29,CUST0514,TikTok,cpc,/about,Yes,No,No,No,0,Tablet,Edge,MX,Karentown,New Visitor,63,8,Cart Not Initiated
+515,2024-11-21,CUST0515,Pinterest,organic,/sale,Yes,No,No,No,0,Desktop,Firefox,BR,Herreraton,Returning,467,8,Cart Not Initiated
+516,2024-11-08,CUST0516,Twitter,email,/sale,No,No,No,No,0,Desktop,Edge,AU,Port Latoyafort,Returning,22,3,Bounced
+517,2024-07-15,CUST0517,Facebook Ads,social,/products,Yes,Yes,Yes,No,0,Tablet,Firefox,DE,East Luis,New Visitor,223,13,High Shipping Cost
+518,2025-06-06,CUST0518,Referral,cpc,/,Yes,Yes,Yes,Yes,366.91,Desktop,Firefox,CA,North Jamesberg,New Visitor,124,3,
+519,2025-06-16,CUST0519,Instagram,cpc,/,Yes,Yes,Yes,No,0,Mobile,Chrome,JP,Kelseyton,New Visitor,236,12,Payment Failed
+520,2025-01-02,CUST0520,Facebook Ads,referral,/collections,No,No,No,No,0,Mobile,Firefox,DE,Richardchester,Returning,20,1,Bounced
+521,2025-02-15,CUST0521,Facebook Ads,cpc,/sale,Yes,Yes,Yes,Yes,150.71,Desktop,Safari,BR,Port Melissa,Returning,184,10,
+522,2025-01-28,CUST0522,Pinterest,organic,/about,Yes,Yes,Yes,No,0,Desktop,Chrome,CA,Jillianbury,New Visitor,526,4,Complex Checkout
+523,2024-11-13,CUST0523,Email,organic,/,No,No,No,No,0,Desktop,Edge,DE,Hendersonmouth,New Visitor,7,2,Bounced
+524,2024-09-24,CUST0524,Direct,referral,/,Yes,Yes,No,No,0,Desktop,Edge,DE,North Vanessaville,Returning,372,12,Checkout Abandoned
+525,2025-01-11,CUST0525,Twitter,organic,/about,Yes,Yes,Yes,No,0,Desktop,Chrome,CA,Port Sandra,New Visitor,368,12,Account Required
+526,2024-08-14,CUST0526,Organic Search,organic,/products,Yes,Yes,No,No,0,Desktop,Chrome,BR,Matthewsbury,New Visitor,45,12,Checkout Abandoned
+527,2024-06-11,CUST0527,Email,organic,/about,Yes,No,No,No,0,Tablet,Chrome,MX,Debbieport,New Visitor,51,13,Cart Not Initiated
+528,2025-04-11,CUST0528,Pinterest,social,/products,Yes,No,No,No,0,Mobile,Safari,IN,New Megan,Returning,78,3,Cart Not Initiated
+529,2025-01-25,CUST0529,TikTok,organic,/about,Yes,Yes,No,No,0,Mobile,Firefox,JP,East Jared,New Visitor,376,15,Checkout Abandoned
+530,2024-08-26,CUST0530,Pinterest,email,/collections,Yes,Yes,Yes,Yes,491.16,Desktop,Chrome,US,Thomasmouth,Returning,36,13,
+531,2025-04-23,CUST0531,Referral,organic,/collections,No,No,No,No,0,Mobile,Chrome,BR,West Katelynstad,Returning,4,1,Bounced
+532,2025-01-12,CUST0532,Instagram,social,/products,No,No,No,No,0,Mobile,Opera,FR,East Josebury,Returning,5,3,Bounced
+533,2025-04-02,CUST0533,Pinterest,referral,/products,Yes,Yes,No,No,0,Desktop,Opera,FR,North Jason,Returning,95,10,Checkout Abandoned
+534,2024-11-10,CUST0534,Organic Search,cpc,/sale,Yes,No,No,No,0,Mobile,Opera,IN,Brianfort,New Visitor,523,2,Cart Not Initiated
+535,2024-12-02,CUST0535,Instagram,email,/products,Yes,No,No,No,0,Desktop,Chrome,BR,Freemanmouth,Returning,246,11,Cart Not Initiated
+536,2024-07-03,CUST0536,Google Ads,email,/about,Yes,Yes,No,No,0,Mobile,Edge,UK,New Dennis,New Visitor,131,4,Checkout Abandoned
+537,2024-08-07,CUST0537,Twitter,referral,/about,Yes,No,No,No,0,Mobile,Edge,UK,North Adamberg,Returning,418,4,Cart Not Initiated
+538,2025-06-15,CUST0538,Referral,email,/about,Yes,Yes,Yes,Yes,174.07,Mobile,Opera,BR,New Melaniechester,Returning,340,5,
+539,2024-10-27,CUST0539,Email,organic,/about,Yes,Yes,No,No,0,Tablet,Firefox,BR,Nathanland,New Visitor,173,3,Checkout Abandoned
+540,2024-08-30,CUST0540,Instagram,referral,/,No,No,No,No,0,Tablet,Chrome,DE,Port Christopher,New Visitor,25,2,Bounced
+541,2025-03-01,CUST0541,TikTok,organic,/sale,Yes,Yes,No,No,0,Mobile,Edge,CA,Annhaven,New Visitor,151,13,Checkout Abandoned
+542,2024-08-26,CUST0542,Google Ads,referral,/,Yes,Yes,No,No,0,Desktop,Firefox,DE,West Derrick,Returning,304,6,Checkout Abandoned
+543,2025-01-14,CUST0543,Facebook Ads,social,/sale,Yes,No,No,No,0,Mobile,Firefox,FR,South Miguelhaven,Returning,592,4,Cart Not Initiated
+544,2025-02-08,CUST0544,Facebook Ads,email,/about,Yes,Yes,No,No,0,Mobile,Edge,US,Shawnport,New Visitor,10,14,Checkout Abandoned
+545,2025-06-08,CUST0545,TikTok,referral,/,Yes,Yes,No,No,0,Mobile,Chrome,AU,New Jesusfurt,Returning,212,5,Checkout Abandoned
+546,2024-08-12,CUST0546,Referral,social,/sale,Yes,No,No,No,0,Tablet,Safari,MX,South Katherinemouth,Returning,229,7,Cart Not Initiated
+547,2024-08-24,CUST0547,Pinterest,organic,/products,Yes,Yes,Yes,No,0,Tablet,Chrome,UK,South Nicholastown,New Visitor,441,7,No Reason
+548,2024-11-29,CUST0548,TikTok,cpc,/,Yes,Yes,No,No,0,Mobile,Edge,US,Rebeccaview,New Visitor,535,4,Checkout Abandoned
+549,2024-10-29,CUST0549,Pinterest,social,/about,Yes,Yes,No,No,0,Desktop,Chrome,BR,Lake Sherri,Returning,509,5,Checkout Abandoned
+550,2024-06-20,CUST0550,Instagram,social,/sale,Yes,Yes,No,No,0,Desktop,Safari,BR,Jamiebury,Returning,307,6,Checkout Abandoned
+551,2024-10-30,CUST0551,Instagram,referral,/sale,Yes,No,No,No,0,Desktop,Edge,DE,East Davidbury,New Visitor,237,11,Cart Not Initiated
+552,2024-12-16,CUST0552,Direct,organic,/,Yes,No,No,No,0,Tablet,Opera,CA,North Carlosfort,Returning,122,7,Cart Not Initiated
+553,2024-08-11,CUST0553,Google Ads,cpc,/about,Yes,No,No,No,0,Mobile,Chrome,FR,Lake Briannaview,Returning,19,13,Cart Not Initiated
+554,2025-01-02,CUST0554,Pinterest,cpc,/about,Yes,Yes,No,No,0,Tablet,Chrome,UK,New Sarahport,New Visitor,536,3,Checkout Abandoned
+555,2025-01-16,CUST0555,Pinterest,social,/,Yes,Yes,Yes,No,0,Desktop,Edge,IN,Garciaberg,Returning,577,11,No Reason
+556,2024-09-16,CUST0556,Organic Search,organic,/,Yes,Yes,Yes,No,0,Desktop,Chrome,AU,Hectormouth,New Visitor,193,13,Payment Failed
+557,2024-08-22,CUST0557,Email,organic,/sale,Yes,No,No,No,0,Mobile,Safari,CA,South Lauraberg,New Visitor,561,13,Cart Not Initiated
+558,2025-04-05,CUST0558,Twitter,social,/,No,No,No,No,0,Mobile,Firefox,MX,Joshuafort,Returning,13,2,Bounced
+559,2024-11-20,CUST0559,Twitter,referral,/products,No,No,No,No,0,Tablet,Chrome,DE,Lake Brett,New Visitor,28,2,Bounced
+560,2025-01-18,CUST0560,Direct,organic,/about,No,No,No,No,0,Desktop,Edge,AU,Port Kevin,Returning,28,2,Bounced
+561,2024-08-29,CUST0561,Pinterest,social,/about,No,No,No,No,0,Tablet,Opera,AU,North Davidton,Returning,17,3,Bounced
+562,2025-05-02,CUST0562,Twitter,email,/about,No,No,No,No,0,Tablet,Chrome,MX,Wagnerbury,Returning,17,2,Bounced
+563,2025-03-28,CUST0563,Email,organic,/collections,No,No,No,No,0,Mobile,Edge,FR,Lindahaven,Returning,16,2,Bounced
+564,2024-10-23,CUST0564,Instagram,cpc,/about,Yes,No,No,No,0,Desktop,Safari,IN,Smithton,Returning,30,7,Cart Not Initiated
+565,2025-06-29,CUST0565,TikTok,cpc,/collections,Yes,No,No,No,0,Desktop,Opera,AU,New Donna,Returning,310,14,Cart Not Initiated
+566,2025-01-26,CUST0566,Pinterest,social,/sale,Yes,Yes,No,No,0,Mobile,Chrome,AU,Port Karentown,Returning,355,11,Checkout Abandoned
+567,2024-06-16,CUST0567,Direct,organic,/,Yes,Yes,No,No,0,Tablet,Chrome,BR,South Gregoryfurt,Returning,164,7,Checkout Abandoned
+568,2025-04-27,CUST0568,Pinterest,organic,/products,Yes,Yes,No,No,0,Tablet,Chrome,MX,Harrisborough,Returning,488,9,Checkout Abandoned
+569,2025-03-11,CUST0569,Facebook Ads,email,/collections,No,No,No,No,0,Tablet,Firefox,CA,Cunninghamport,Returning,8,2,Bounced
+570,2024-08-04,CUST0570,Referral,organic,/about,No,No,No,No,0,Desktop,Safari,BR,East Tracy,Returning,25,3,Bounced
+571,2025-02-20,CUST0571,TikTok,organic,/collections,Yes,No,No,No,0,Tablet,Safari,FR,Jasonborough,Returning,491,4,Cart Not Initiated
+572,2024-11-28,CUST0572,Twitter,social,/,Yes,Yes,Yes,Yes,106.4,Desktop,Safari,JP,South Richard,Returning,73,13,
+573,2025-06-29,CUST0573,Pinterest,referral,/products,Yes,Yes,Yes,No,0,Mobile,Safari,IN,Port Erin,Returning,537,12,High Shipping Cost
+574,2024-11-02,CUST0574,TikTok,referral,/,Yes,Yes,Yes,No,0,Mobile,Edge,IN,Harrisside,Returning,155,11,Slow Loading
+575,2024-12-20,CUST0575,Email,cpc,/products,No,No,No,No,0,Desktop,Firefox,IN,North Sierraport,Returning,11,1,Bounced
+576,2024-11-09,CUST0576,Instagram,organic,/products,No,No,No,No,0,Mobile,Firefox,UK,Port Tiffanymouth,Returning,30,1,Bounced
+577,2025-04-15,CUST0577,TikTok,referral,/sale,Yes,Yes,Yes,Yes,257.35,Desktop,Firefox,US,Angelaside,Returning,423,7,
+578,2025-05-19,CUST0578,Twitter,cpc,/,Yes,Yes,No,No,0,Mobile,Opera,CA,East Christopherside,Returning,458,3,Checkout Abandoned
+579,2025-05-04,CUST0579,Email,organic,/sale,Yes,Yes,Yes,Yes,369.0,Desktop,Opera,BR,Tuckerbury,Returning,507,7,
+580,2024-10-06,CUST0580,Organic Search,email,/about,Yes,No,No,No,0,Mobile,Firefox,IN,East Elizabethside,Returning,15,7,Cart Not Initiated
+581,2024-12-17,CUST0581,Google Ads,organic,/collections,Yes,Yes,Yes,No,0,Desktop,Chrome,AU,Port Antonioberg,Returning,476,6,No Reason
+582,2025-04-04,CUST0582,Google Ads,organic,/collections,Yes,Yes,No,No,0,Tablet,Opera,MX,Thomasburgh,Returning,364,7,Checkout Abandoned
+583,2024-09-07,CUST0583,Organic Search,organic,/sale,Yes,Yes,No,No,0,Mobile,Opera,JP,East Dennis,Returning,193,15,Checkout Abandoned
+584,2025-06-04,CUST0584,Facebook Ads,cpc,/collections,Yes,No,No,No,0,Mobile,Opera,UK,Juarezhaven,Returning,230,5,Cart Not Initiated
+585,2025-02-28,CUST0585,Referral,social,/products,Yes,Yes,Yes,No,0,Mobile,Firefox,MX,New Meghan,Returning,575,13,No Reason
+586,2024-07-16,CUST0586,Twitter,referral,/about,Yes,Yes,No,No,0,Desktop,Chrome,UK,Port Kylehaven,Returning,283,12,Checkout Abandoned
+587,2025-05-20,CUST0587,Email,organic,/about,No,No,No,No,0,Tablet,Opera,US,Lake Kathleenside,Returning,15,2,Bounced
+588,2024-10-28,CUST0588,Referral,referral,/,Yes,Yes,Yes,Yes,305.44,Tablet,Edge,UK,South Jeffreyfurt,Returning,65,6,
+589,2025-04-06,CUST0589,Facebook Ads,social,/,Yes,No,No,No,0,Mobile,Edge,CA,West Grace,Returning,331,6,Cart Not Initiated
+590,2024-07-03,CUST0590,TikTok,email,/about,Yes,No,No,No,0,Desktop,Safari,UK,Penningtonchester,New Visitor,351,6,Cart Not Initiated
+591,2024-10-14,CUST0591,Direct,referral,/about,No,No,No,No,0,Desktop,Opera,UK,Richardport,New Visitor,26,3,Bounced
+592,2024-09-05,CUST0592,Pinterest,social,/about,Yes,No,No,No,0,Tablet,Firefox,UK,Wilsontown,New Visitor,120,6,Cart Not Initiated
+593,2024-12-31,CUST0593,Email,email,/sale,Yes,No,No,No,0,Desktop,Chrome,JP,Bradleyhaven,Returning,215,13,Cart Not Initiated
+594,2025-01-08,CUST0594,Twitter,cpc,/about,No,No,No,No,0,Mobile,Safari,MX,South Holly,Returning,16,2,Bounced
+595,2024-06-19,CUST0595,Instagram,email,/,Yes,Yes,Yes,Yes,98.2,Tablet,Opera,FR,Mcintoshmouth,Returning,93,7,
+596,2025-05-16,CUST0596,Pinterest,email,/about,Yes,Yes,Yes,No,0,Desktop,Safari,DE,East Tinaview,Returning,181,9,Slow Loading
+597,2025-01-10,CUST0597,Instagram,referral,/,No,No,No,No,0,Desktop,Chrome,US,Chadhaven,New Visitor,12,2,Bounced
+598,2025-01-29,CUST0598,Facebook Ads,cpc,/sale,Yes,Yes,Yes,Yes,223.27,Tablet,Safari,CA,West Jennychester,Returning,24,12,
+599,2025-02-09,CUST0599,Direct,organic,/products,Yes,No,No,No,0,Tablet,Edge,IN,Sampsonbury,Returning,181,5,Cart Not Initiated
+600,2024-11-25,CUST0600,Google Ads,referral,/,Yes,Yes,No,No,0,Tablet,Chrome,UK,Patrickville,Returning,263,10,Checkout Abandoned
+601,2025-01-09,CUST0601,Referral,social,/sale,Yes,Yes,Yes,Yes,161.31,Mobile,Firefox,UK,New Roberta,Returning,310,4,
+602,2024-12-17,CUST0602,Organic Search,organic,/about,Yes,Yes,Yes,Yes,162.13,Mobile,Chrome,UK,North Heatherton,Returning,600,9,
+603,2025-04-22,CUST0603,Twitter,email,/collections,Yes,Yes,Yes,Yes,40.86,Tablet,Firefox,CA,Brianshire,Returning,94,4,
+604,2024-10-02,CUST0604,Direct,email,/collections,Yes,Yes,No,No,0,Tablet,Edge,US,Romerostad,Returning,257,11,Checkout Abandoned
+605,2024-07-15,CUST0605,Google Ads,email,/,No,No,No,No,0,Mobile,Safari,JP,South Jenniferville,Returning,14,2,Bounced
+606,2025-05-17,CUST0606,Referral,social,/sale,Yes,Yes,No,No,0,Mobile,Chrome,UK,Jasonmouth,Returning,133,8,Checkout Abandoned
+607,2024-09-05,CUST0607,Pinterest,social,/sale,Yes,No,No,No,0,Mobile,Safari,MX,Wardland,Returning,389,13,Cart Not Initiated
+608,2024-11-27,CUST0608,Google Ads,referral,/collections,No,No,No,No,0,Tablet,Edge,IN,Allisonhaven,Returning,28,3,Bounced
+609,2024-11-24,CUST0609,Twitter,email,/collections,No,No,No,No,0,Mobile,Edge,JP,Port Donna,Returning,12,1,Bounced
+610,2024-11-29,CUST0610,Pinterest,referral,/,Yes,No,No,No,0,Mobile,Safari,MX,South Cherylmouth,Returning,299,2,Cart Not Initiated
+611,2024-08-18,CUST0611,Instagram,organic,/sale,No,No,No,No,0,Tablet,Opera,MX,Lake Nicholas,Returning,27,2,Bounced
+612,2024-06-30,CUST0612,Google Ads,email,/products,No,No,No,No,0,Tablet,Chrome,FR,Gibsonburgh,Returning,4,3,Bounced
+613,2025-06-21,CUST0613,Instagram,social,/sale,Yes,Yes,Yes,Yes,471.5,Mobile,Opera,AU,New Carlos,Returning,76,10,
+614,2025-04-11,CUST0614,Google Ads,email,/products,Yes,Yes,Yes,No,0,Mobile,Chrome,MX,Conwaymouth,Returning,503,2,No Reason
+615,2025-03-14,CUST0615,Pinterest,social,/collections,Yes,Yes,Yes,No,0,Desktop,Safari,AU,Ryanmouth,Returning,298,14,Price Comparison
+616,2025-03-15,CUST0616,Organic Search,email,/collections,Yes,Yes,Yes,Yes,438.87,Tablet,Firefox,MX,Lake Noah,Returning,349,3,
+617,2024-12-13,CUST0617,Direct,referral,/sale,Yes,No,No,No,0,Desktop,Safari,FR,Kylehaven,Returning,122,9,Cart Not Initiated
+618,2025-05-16,CUST0618,Pinterest,cpc,/products,Yes,Yes,No,No,0,Mobile,Opera,DE,Lake Ashley,New Visitor,48,3,Checkout Abandoned
+619,2025-01-19,CUST0619,Instagram,cpc,/products,Yes,Yes,Yes,Yes,117.68,Desktop,Opera,IN,Nixonland,New Visitor,207,13,
+620,2025-05-08,CUST0620,Direct,social,/,No,No,No,No,0,Tablet,Chrome,DE,Zacharyview,Returning,12,2,Bounced
+621,2024-11-18,CUST0621,TikTok,referral,/products,No,No,No,No,0,Desktop,Safari,JP,Michaeltown,Returning,3,2,Bounced
+622,2024-06-01,CUST0622,Email,social,/collections,No,No,No,No,0,Mobile,Edge,IN,South Bradleyport,Returning,19,2,Bounced
+623,2024-08-20,CUST0623,Google Ads,organic,/,No,No,No,No,0,Tablet,Edge,FR,Sarahbury,Returning,23,1,Bounced
+624,2024-09-12,CUST0624,Direct,referral,/about,Yes,No,No,No,0,Desktop,Chrome,AU,East Richard,Returning,543,6,Cart Not Initiated
+625,2025-04-05,CUST0625,Organic Search,email,/about,Yes,Yes,No,No,0,Mobile,Chrome,DE,Port Dylan,Returning,106,11,Checkout Abandoned
+626,2024-09-20,CUST0626,Referral,cpc,/collections,Yes,No,No,No,0,Tablet,Firefox,JP,Williamsshire,New Visitor,212,10,Cart Not Initiated
+627,2025-02-01,CUST0627,Instagram,referral,/products,Yes,No,No,No,0,Tablet,Opera,UK,North Erin,Returning,24,15,Cart Not Initiated
+628,2025-01-24,CUST0628,Facebook Ads,social,/,Yes,No,No,No,0,Desktop,Firefox,IN,Hartmantown,Returning,332,10,Cart Not Initiated
+629,2024-08-15,CUST0629,Twitter,organic,/about,No,No,No,No,0,Tablet,Opera,MX,Port Collinberg,Returning,25,2,Bounced
+630,2024-09-28,CUST0630,Google Ads,referral,/collections,Yes,Yes,No,No,0,Desktop,Chrome,CA,Kaylatown,Returning,422,15,Checkout Abandoned
+631,2024-07-29,CUST0631,Facebook Ads,organic,/about,Yes,No,No,No,0,Desktop,Chrome,MX,Shawnborough,New Visitor,502,11,Cart Not Initiated
+632,2024-08-04,CUST0632,Google Ads,email,/collections,Yes,No,No,No,0,Mobile,Safari,CA,New Kevin,New Visitor,571,3,Cart Not Initiated
+633,2025-03-01,CUST0633,Pinterest,referral,/sale,Yes,No,No,No,0,Mobile,Opera,BR,East Gregorymouth,Returning,145,2,Cart Not Initiated
+634,2024-12-06,CUST0634,Referral,email,/products,No,No,No,No,0,Tablet,Firefox,UK,Sharonbury,Returning,29,2,Bounced
+635,2024-09-29,CUST0635,Facebook Ads,email,/sale,Yes,No,No,No,0,Desktop,Firefox,UK,Fowlerport,Returning,458,13,Cart Not Initiated
+636,2025-02-27,CUST0636,Referral,referral,/collections,Yes,No,No,No,0,Mobile,Chrome,IN,Riveraport,Returning,570,14,Cart Not Initiated
+637,2024-08-29,CUST0637,Facebook Ads,organic,/sale,Yes,Yes,No,No,0,Desktop,Opera,UK,Carmenchester,New Visitor,537,8,Checkout Abandoned
+638,2025-03-04,CUST0638,Instagram,email,/sale,No,No,No,No,0,Mobile,Chrome,UK,Garciaborough,Returning,19,2,Bounced
+639,2024-06-04,CUST0639,Pinterest,social,/,Yes,Yes,No,No,0,Mobile,Safari,MX,Bethberg,Returning,322,2,Checkout Abandoned
+640,2024-11-23,CUST0640,Pinterest,social,/sale,Yes,Yes,Yes,Yes,22.09,Desktop,Firefox,UK,Lake Kevinburgh,Returning,406,6,
+641,2025-06-05,CUST0641,Instagram,email,/about,Yes,Yes,No,No,0,Tablet,Chrome,DE,Kirbystad,Returning,356,9,Checkout Abandoned
+642,2024-10-21,CUST0642,Instagram,email,/,Yes,Yes,No,No,0,Mobile,Chrome,CA,Port Virginiaview,Returning,598,5,Checkout Abandoned
+643,2024-08-08,CUST0643,Google Ads,social,/sale,Yes,Yes,Yes,Yes,310.67,Tablet,Opera,US,South Gabriela,Returning,30,8,
+644,2025-03-11,CUST0644,Organic Search,social,/collections,Yes,Yes,No,No,0,Mobile,Edge,AU,South Noahmouth,Returning,478,10,Checkout Abandoned
+645,2024-06-29,CUST0645,Instagram,organic,/about,Yes,Yes,Yes,Yes,211.36,Mobile,Chrome,DE,South Donaldborough,Returning,302,13,
+646,2025-03-22,CUST0646,Pinterest,email,/collections,Yes,Yes,Yes,No,0,Tablet,Safari,IN,Lake Davidhaven,Returning,480,2,No Reason
+647,2024-11-22,CUST0647,TikTok,social,/products,Yes,Yes,Yes,No,0,Tablet,Safari,MX,North Connor,Returning,258,15,Complex Checkout
+648,2025-01-06,CUST0648,Twitter,referral,/,Yes,No,No,No,0,Desktop,Firefox,CA,Blakeburgh,New Visitor,346,4,Cart Not Initiated
+649,2024-11-15,CUST0649,Direct,cpc,/collections,Yes,Yes,Yes,Yes,195.48,Desktop,Safari,DE,New Matthewberg,Returning,169,6,
+650,2025-01-07,CUST0650,Twitter,organic,/collections,Yes,No,No,No,0,Desktop,Edge,FR,South Sarah,Returning,277,14,Cart Not Initiated
+651,2024-07-10,CUST0651,Google Ads,organic,/sale,Yes,No,No,No,0,Desktop,Opera,MX,Port Kelliborough,Returning,574,9,Cart Not Initiated
+652,2024-07-08,CUST0652,Referral,email,/sale,Yes,No,No,No,0,Mobile,Firefox,CA,Flemingview,Returning,17,9,Cart Not Initiated
+653,2024-06-16,CUST0653,Pinterest,referral,/,Yes,No,No,No,0,Mobile,Safari,MX,Smithton,Returning,313,7,Cart Not Initiated
+654,2024-07-30,CUST0654,Direct,social,/products,No,No,No,No,0,Mobile,Chrome,UK,Port Jason,Returning,24,2,Bounced
+655,2024-12-29,CUST0655,Pinterest,email,/,Yes,Yes,Yes,Yes,427.17,Mobile,Firefox,FR,New Jasonborough,Returning,495,4,
+656,2024-08-03,CUST0656,Twitter,referral,/sale,No,No,No,No,0,Tablet,Opera,DE,Lake Kristin,Returning,29,3,Bounced
+657,2024-12-30,CUST0657,Direct,cpc,/about,No,No,No,No,0,Mobile,Firefox,JP,Lake Deborah,New Visitor,25,3,Bounced
+658,2025-04-28,CUST0658,Pinterest,social,/sale,Yes,Yes,No,No,0,Mobile,Safari,CA,New Nicole,Returning,288,8,Checkout Abandoned
+659,2025-01-24,CUST0659,Facebook Ads,social,/collections,Yes,Yes,No,No,0,Tablet,Edge,MX,Cainton,Returning,369,14,Checkout Abandoned
+660,2024-07-24,CUST0660,Google Ads,organic,/collections,No,No,No,No,0,Desktop,Chrome,AU,Joshuaton,New Visitor,16,2,Bounced
+661,2025-03-10,CUST0661,Referral,email,/about,No,No,No,No,0,Tablet,Edge,BR,Ashleyview,Returning,5,2,Bounced
+662,2024-08-11,CUST0662,Facebook Ads,cpc,/products,No,No,No,No,0,Tablet,Edge,BR,South Vincent,New Visitor,8,3,Bounced
+663,2025-02-23,CUST0663,Google Ads,social,/products,Yes,No,No,No,0,Tablet,Edge,IN,West Jennifer,Returning,501,12,Cart Not Initiated
+664,2024-09-09,CUST0664,Email,cpc,/sale,Yes,Yes,No,No,0,Tablet,Edge,UK,New Connie,New Visitor,42,3,Checkout Abandoned
+665,2024-08-24,CUST0665,Twitter,organic,/,No,No,No,No,0,Desktop,Firefox,UK,Kirkville,Returning,17,3,Bounced
+666,2024-06-23,CUST0666,Facebook Ads,cpc,/,Yes,Yes,Yes,Yes,143.18,Desktop,Opera,AU,New Amandaborough,Returning,142,11,
+667,2024-08-20,CUST0667,Email,organic,/about,Yes,No,No,No,0,Tablet,Edge,IN,South Ryan,Returning,334,4,Cart Not Initiated
+668,2024-10-01,CUST0668,Google Ads,cpc,/products,Yes,Yes,Yes,No,0,Desktop,Opera,MX,Lake Michael,New Visitor,580,9,High Shipping Cost
+669,2024-08-30,CUST0669,Twitter,organic,/collections,No,No,No,No,0,Desktop,Edge,DE,Kevinview,Returning,30,1,Bounced
+670,2024-11-15,CUST0670,Google Ads,referral,/,Yes,Yes,Yes,Yes,52.68,Mobile,Chrome,IN,North Wendymouth,New Visitor,129,15,
+671,2024-09-27,CUST0671,Facebook Ads,social,/,Yes,No,No,No,0,Tablet,Opera,US,New Scottside,Returning,109,9,Cart Not Initiated
+672,2024-06-02,CUST0672,Email,referral,/about,Yes,No,No,No,0,Desktop,Chrome,IN,South Amandaville,New Visitor,356,6,Cart Not Initiated
+673,2024-11-01,CUST0673,TikTok,referral,/about,No,No,No,No,0,Desktop,Chrome,UK,Haleyberg,Returning,20,2,Bounced
+674,2024-10-10,CUST0674,Instagram,social,/collections,No,No,No,No,0,Mobile,Opera,IN,Jacobside,New Visitor,25,2,Bounced
+675,2025-05-30,CUST0675,Facebook Ads,organic,/,Yes,Yes,Yes,Yes,418.93,Desktop,Safari,MX,Riversmouth,New Visitor,301,13,
+676,2024-12-28,CUST0676,Instagram,organic,/,No,No,No,No,0,Desktop,Edge,IN,Pattersonside,Returning,16,2,Bounced
+677,2025-01-17,CUST0677,Twitter,referral,/collections,Yes,Yes,No,No,0,Tablet,Safari,FR,Dariusland,Returning,328,2,Checkout Abandoned
+678,2025-03-31,CUST0678,Referral,social,/sale,No,No,No,No,0,Tablet,Firefox,UK,Allisonbury,Returning,10,3,Bounced
+679,2025-03-31,CUST0679,Google Ads,social,/collections,Yes,No,No,No,0,Mobile,Opera,UK,Wrightside,Returning,241,15,Cart Not Initiated
+680,2025-03-29,CUST0680,Organic Search,social,/sale,Yes,Yes,Yes,Yes,423.52,Tablet,Safari,UK,Jeffreyview,Returning,273,11,
+681,2024-11-19,CUST0681,Instagram,cpc,/collections,Yes,No,No,No,0,Mobile,Edge,DE,South Brian,Returning,194,10,Cart Not Initiated
+682,2025-05-04,CUST0682,Pinterest,organic,/sale,No,No,No,No,0,Desktop,Firefox,JP,West Robert,Returning,12,1,Bounced
+683,2025-02-07,CUST0683,Pinterest,cpc,/sale,Yes,No,No,No,0,Desktop,Edge,CA,Douglasport,Returning,248,12,Cart Not Initiated
+684,2024-06-07,CUST0684,Twitter,social,/collections,Yes,No,No,No,0,Mobile,Chrome,AU,East Wandafurt,Returning,229,13,Cart Not Initiated
+685,2025-01-26,CUST0685,Referral,organic,/sale,Yes,Yes,No,No,0,Mobile,Firefox,BR,Kevinchester,Returning,61,3,Checkout Abandoned
+686,2024-06-08,CUST0686,Email,social,/products,No,No,No,No,0,Tablet,Firefox,AU,Port Edwin,Returning,21,1,Bounced
+687,2025-01-05,CUST0687,Organic Search,social,/collections,No,No,No,No,0,Tablet,Edge,IN,Lake Michelefort,Returning,18,1,Bounced
+688,2024-09-05,CUST0688,TikTok,referral,/,No,No,No,No,0,Tablet,Safari,CA,New Robert,Returning,18,3,Bounced
+689,2024-08-12,CUST0689,Email,social,/,No,No,No,No,0,Tablet,Safari,MX,Port Alyssaberg,Returning,12,1,Bounced
+690,2024-07-23,CUST0690,TikTok,social,/,Yes,Yes,No,No,0,Mobile,Firefox,CA,Larsenfort,Returning,513,3,Checkout Abandoned
+691,2025-05-03,CUST0691,Referral,organic,/,No,No,No,No,0,Tablet,Edge,CA,East Adrianborough,Returning,29,2,Bounced
+692,2025-01-06,CUST0692,Direct,organic,/sale,No,No,No,No,0,Mobile,Safari,UK,Drakeville,Returning,20,2,Bounced
+693,2025-02-10,CUST0693,Instagram,referral,/about,Yes,No,No,No,0,Desktop,Opera,UK,Kington,Returning,594,4,Cart Not Initiated
+694,2025-06-13,CUST0694,Instagram,cpc,/products,Yes,No,No,No,0,Mobile,Firefox,AU,Port Timothy,New Visitor,398,5,Cart Not Initiated
+695,2024-11-25,CUST0695,TikTok,cpc,/about,No,No,No,No,0,Tablet,Chrome,BR,Port Saraview,New Visitor,23,3,Bounced
+696,2024-11-12,CUST0696,Google Ads,referral,/sale,Yes,Yes,Yes,No,0,Tablet,Edge,MX,Kellyshire,Returning,423,15,Price Comparison
+697,2024-12-19,CUST0697,Direct,email,/about,No,No,No,No,0,Mobile,Edge,US,Kirstentown,Returning,13,2,Bounced
+698,2025-06-05,CUST0698,Instagram,email,/about,Yes,Yes,Yes,Yes,103.17,Tablet,Opera,AU,East Charles,New Visitor,236,10,
+699,2024-09-05,CUST0699,Instagram,email,/collections,Yes,Yes,No,No,0,Mobile,Firefox,DE,South Lindabury,New Visitor,132,2,Checkout Abandoned
+700,2024-12-28,CUST0700,Direct,email,/about,Yes,No,No,No,0,Mobile,Chrome,BR,Lake Ryan,Returning,578,7,Cart Not Initiated
+701,2024-10-29,CUST0701,Direct,organic,/about,No,No,No,No,0,Desktop,Chrome,MX,New Karentown,Returning,12,1,Bounced
+702,2024-10-24,CUST0702,Google Ads,social,/about,Yes,Yes,Yes,Yes,160.36,Desktop,Firefox,DE,East Morgan,New Visitor,34,10,
+703,2024-08-22,CUST0703,Organic Search,cpc,/,Yes,Yes,No,No,0,Tablet,Chrome,IN,Theresaport,Returning,118,14,Checkout Abandoned
+704,2025-03-06,CUST0704,Organic Search,social,/sale,Yes,Yes,Yes,Yes,393.56,Tablet,Chrome,DE,New Patricia,Returning,287,9,
+705,2024-12-16,CUST0705,Pinterest,referral,/sale,Yes,Yes,No,No,0,Mobile,Safari,UK,Richardshire,Returning,356,7,Checkout Abandoned
+706,2025-04-12,CUST0706,Pinterest,cpc,/,Yes,No,No,No,0,Mobile,Opera,MX,Wyattside,Returning,256,13,Cart Not Initiated
+707,2024-07-05,CUST0707,Email,organic,/,Yes,Yes,No,No,0,Desktop,Firefox,MX,Port Martin,Returning,90,14,Checkout Abandoned
+708,2024-07-23,CUST0708,Google Ads,email,/,Yes,Yes,No,No,0,Tablet,Edge,AU,Lake Kathy,Returning,541,10,Checkout Abandoned
+709,2024-09-03,CUST0709,TikTok,cpc,/collections,Yes,No,No,No,0,Mobile,Edge,AU,Hernandezmouth,New Visitor,107,4,Cart Not Initiated
+710,2024-10-05,CUST0710,Referral,email,/about,Yes,Yes,Yes,Yes,215.27,Desktop,Firefox,MX,New Travisport,Returning,190,8,
+711,2024-12-05,CUST0711,Organic Search,email,/collections,Yes,No,No,No,0,Tablet,Opera,IN,Port Johnny,Returning,320,11,Cart Not Initiated
+712,2024-10-18,CUST0712,Instagram,referral,/products,Yes,Yes,No,No,0,Mobile,Edge,AU,Jenniferborough,New Visitor,588,6,Checkout Abandoned
+713,2024-08-20,CUST0713,Referral,referral,/collections,Yes,No,No,No,0,Mobile,Firefox,FR,North Stacy,New Visitor,269,14,Cart Not Initiated
+714,2025-06-20,CUST0714,Twitter,social,/sale,No,No,No,No,0,Tablet,Safari,CA,Perkinsburgh,Returning,18,3,Bounced
+715,2025-03-07,CUST0715,TikTok,organic,/collections,Yes,No,No,No,0,Desktop,Chrome,BR,Davidshire,New Visitor,530,10,Cart Not Initiated
+716,2024-07-09,CUST0716,Instagram,referral,/sale,Yes,No,No,No,0,Mobile,Safari,IN,North Tannermouth,Returning,479,10,Cart Not Initiated
+717,2025-06-11,CUST0717,Twitter,referral,/,Yes,No,No,No,0,Mobile,Opera,US,Bakerborough,Returning,467,9,Cart Not Initiated
+718,2024-11-29,CUST0718,Email,referral,/,No,No,No,No,0,Desktop,Opera,JP,Marissaport,New Visitor,7,2,Bounced
+719,2025-03-13,CUST0719,Referral,referral,/sale,Yes,No,No,No,0,Tablet,Edge,AU,Lake Justinport,Returning,124,11,Cart Not Initiated
+720,2025-02-20,CUST0720,Facebook Ads,organic,/about,Yes,Yes,Yes,Yes,224.69,Tablet,Chrome,IN,Port Jamesville,Returning,254,2,
+721,2025-05-06,CUST0721,Organic Search,organic,/,Yes,No,No,No,0,Mobile,Chrome,DE,New Deborah,New Visitor,123,4,Cart Not Initiated
+722,2025-06-11,CUST0722,Twitter,referral,/sale,Yes,No,No,No,0,Mobile,Firefox,AU,Port Peter,Returning,330,15,Cart Not Initiated
+723,2024-09-28,CUST0723,Organic Search,cpc,/about,Yes,Yes,No,No,0,Desktop,Chrome,FR,Lake Jessica,Returning,115,9,Checkout Abandoned
+724,2024-06-12,CUST0724,Organic Search,cpc,/about,Yes,No,No,No,0,Tablet,Opera,US,West Charlene,Returning,258,4,Cart Not Initiated
+725,2024-12-07,CUST0725,Facebook Ads,referral,/collections,Yes,Yes,No,No,0,Tablet,Safari,DE,Moorefort,Returning,560,15,Checkout Abandoned
+726,2024-06-14,CUST0726,Twitter,social,/sale,Yes,Yes,Yes,No,0,Tablet,Edge,FR,Jeffersonshire,Returning,305,3,Price Comparison
+727,2025-06-21,CUST0727,Direct,email,/collections,Yes,No,No,No,0,Tablet,Opera,IN,Joshuabury,Returning,482,5,Cart Not Initiated
+728,2025-02-07,CUST0728,Facebook Ads,social,/about,Yes,Yes,Yes,Yes,201.68,Desktop,Opera,US,Michellehaven,Returning,107,2,
+729,2025-04-10,CUST0729,Google Ads,referral,/about,Yes,Yes,No,No,0,Desktop,Firefox,JP,Port Levi,Returning,88,2,Checkout Abandoned
+730,2024-08-17,CUST0730,Referral,organic,/about,No,No,No,No,0,Tablet,Edge,MX,Lake Jacob,Returning,28,2,Bounced
+731,2024-06-19,CUST0731,Twitter,cpc,/,Yes,Yes,No,No,0,Mobile,Opera,AU,Luisside,New Visitor,243,14,Checkout Abandoned
+732,2025-02-14,CUST0732,Pinterest,social,/sale,Yes,Yes,Yes,Yes,284.01,Tablet,Firefox,CA,Mcdowelltown,New Visitor,188,11,
+733,2024-11-04,CUST0733,Instagram,organic,/sale,Yes,No,No,No,0,Desktop,Firefox,UK,West Maria,New Visitor,297,7,Cart Not Initiated
+734,2025-03-05,CUST0734,TikTok,email,/about,Yes,No,No,No,0,Mobile,Firefox,MX,Janicehaven,Returning,488,7,Cart Not Initiated
+735,2025-02-01,CUST0735,Twitter,social,/sale,Yes,Yes,No,No,0,Desktop,Firefox,CA,North Heather,Returning,530,11,Checkout Abandoned
+736,2025-03-06,CUST0736,Facebook Ads,referral,/,Yes,Yes,No,No,0,Desktop,Safari,UK,Paulshire,Returning,28,7,Checkout Abandoned
+737,2025-03-31,CUST0737,Google Ads,organic,/,Yes,No,No,No,0,Desktop,Firefox,UK,West Marissa,Returning,129,2,Cart Not Initiated
+738,2024-07-07,CUST0738,Direct,cpc,/collections,Yes,Yes,Yes,Yes,242.27,Desktop,Firefox,AU,East Caseyburgh,Returning,394,8,
+739,2025-04-25,CUST0739,Email,referral,/,No,No,No,No,0,Mobile,Safari,CA,Lake Abigail,New Visitor,3,2,Bounced
+740,2024-12-02,CUST0740,Facebook Ads,email,/,Yes,Yes,No,No,0,Tablet,Safari,CA,Lake Scott,New Visitor,167,5,Checkout Abandoned
+741,2024-08-19,CUST0741,Pinterest,referral,/collections,Yes,Yes,No,No,0,Mobile,Safari,AU,Charlesstad,New Visitor,462,4,Checkout Abandoned
+742,2024-07-31,CUST0742,Pinterest,social,/products,No,No,No,No,0,Desktop,Firefox,UK,East Jason,New Visitor,24,3,Bounced
+743,2024-11-26,CUST0743,TikTok,social,/collections,Yes,No,No,No,0,Desktop,Firefox,JP,Laurashire,Returning,194,11,Cart Not Initiated
+744,2025-01-07,CUST0744,Instagram,cpc,/sale,Yes,No,No,No,0,Mobile,Opera,FR,North Crystalton,Returning,361,10,Cart Not Initiated
+745,2024-09-10,CUST0745,Google Ads,social,/products,Yes,No,No,No,0,Tablet,Safari,UK,Bethborough,Returning,276,15,Cart Not Initiated
+746,2025-02-02,CUST0746,Pinterest,social,/products,Yes,Yes,Yes,Yes,452.47,Mobile,Firefox,JP,South Luisview,Returning,558,6,
+747,2024-07-22,CUST0747,Referral,cpc,/products,Yes,Yes,Yes,Yes,203.72,Desktop,Opera,MX,South Joshua,New Visitor,442,3,
+748,2024-12-11,CUST0748,Instagram,cpc,/products,No,No,No,No,0,Mobile,Chrome,CA,Tonyburgh,New Visitor,7,3,Bounced
+749,2025-03-11,CUST0749,Pinterest,organic,/products,No,No,No,No,0,Mobile,Edge,UK,Bakerhaven,New Visitor,20,1,Bounced
+750,2024-08-26,CUST0750,Pinterest,social,/collections,Yes,No,No,No,0,Mobile,Opera,US,New Scott,New Visitor,130,7,Cart Not Initiated
+751,2025-03-29,CUST0751,TikTok,referral,/products,No,No,No,No,0,Desktop,Opera,BR,East Justin,New Visitor,27,1,Bounced
+752,2024-12-25,CUST0752,Organic Search,social,/sale,Yes,Yes,Yes,Yes,394.88,Mobile,Edge,CA,Gutierrezhaven,Returning,318,3,
+753,2024-09-08,CUST0753,Pinterest,social,/about,Yes,No,No,No,0,Mobile,Chrome,CA,New Ericland,Returning,577,7,Cart Not Initiated
+754,2024-08-01,CUST0754,Organic Search,social,/collections,Yes,Yes,Yes,No,0,Mobile,Safari,BR,South Lindseyview,Returning,362,11,Price Comparison
+755,2024-11-20,CUST0755,Organic Search,email,/sale,Yes,Yes,Yes,No,0,Desktop,Edge,UK,Watersborough,Returning,156,9,Slow Loading
+756,2024-08-31,CUST0756,Direct,social,/about,Yes,No,No,No,0,Mobile,Firefox,BR,North Chloechester,Returning,30,3,Cart Not Initiated
+757,2024-08-17,CUST0757,Google Ads,referral,/sale,Yes,Yes,No,No,0,Tablet,Opera,DE,South Jessica,Returning,441,15,Checkout Abandoned
+758,2025-02-28,CUST0758,Direct,organic,/sale,Yes,No,No,No,0,Mobile,Firefox,DE,Mistyside,Returning,270,13,Cart Not Initiated
+759,2024-06-14,CUST0759,TikTok,social,/about,No,No,No,No,0,Mobile,Safari,UK,New Anthonyfurt,New Visitor,18,3,Bounced
+760,2024-12-04,CUST0760,Pinterest,cpc,/,Yes,Yes,Yes,No,0,Mobile,Safari,FR,Cliffordbury,New Visitor,307,7,No Reason
+761,2025-02-20,CUST0761,Instagram,cpc,/,Yes,Yes,Yes,Yes,458.86,Mobile,Safari,UK,Port Andrew,Returning,315,10,
+762,2025-01-23,CUST0762,Referral,cpc,/products,Yes,No,No,No,0,Mobile,Chrome,UK,Rivasshire,Returning,362,11,Cart Not Initiated
+763,2024-08-03,CUST0763,Twitter,social,/,Yes,Yes,Yes,No,0,Tablet,Chrome,AU,East Kennethfurt,Returning,553,3,Complex Checkout
+764,2024-09-14,CUST0764,Twitter,social,/about,Yes,No,No,No,0,Desktop,Edge,IN,North Maria,New Visitor,550,10,Cart Not Initiated
+765,2024-08-26,CUST0765,Instagram,cpc,/products,Yes,Yes,Yes,No,0,Tablet,Edge,FR,Johnsonburgh,Returning,388,13,High Shipping Cost
+766,2024-11-03,CUST0766,TikTok,email,/collections,Yes,Yes,Yes,No,0,Mobile,Opera,BR,New Meghanland,New Visitor,537,7,High Shipping Cost
+767,2025-06-18,CUST0767,Email,email,/,No,No,No,No,0,Tablet,Safari,MX,South Warren,Returning,30,2,Bounced
+768,2025-06-01,CUST0768,Referral,referral,/about,Yes,Yes,Yes,No,0,Tablet,Firefox,DE,Samuelberg,New Visitor,528,9,Slow Loading
+769,2024-09-28,CUST0769,Pinterest,organic,/about,Yes,Yes,No,No,0,Desktop,Safari,BR,Ingramfort,Returning,301,15,Checkout Abandoned
+770,2025-06-24,CUST0770,Organic Search,organic,/,Yes,No,No,No,0,Desktop,Edge,FR,Davisbury,Returning,534,15,Cart Not Initiated
+771,2025-03-26,CUST0771,Pinterest,cpc,/sale,Yes,Yes,No,No,0,Desktop,Opera,AU,New Daniel,Returning,383,8,Checkout Abandoned
+772,2025-03-21,CUST0772,Email,cpc,/collections,Yes,Yes,Yes,No,0,Tablet,Edge,FR,South Timothyfort,Returning,494,8,No Reason
+773,2024-11-08,CUST0773,Facebook Ads,social,/about,Yes,No,No,No,0,Tablet,Opera,FR,Waltonborough,Returning,493,14,Cart Not Initiated
+774,2024-10-18,CUST0774,Facebook Ads,organic,/sale,Yes,Yes,No,No,0,Desktop,Safari,DE,Rodriguezmouth,Returning,180,13,Checkout Abandoned
+775,2025-01-26,CUST0775,Pinterest,referral,/collections,Yes,Yes,No,No,0,Mobile,Edge,MX,Lake Tiffanyshire,Returning,163,2,Checkout Abandoned
+776,2025-05-24,CUST0776,Organic Search,referral,/about,Yes,Yes,Yes,Yes,447.63,Tablet,Chrome,JP,New Martinchester,Returning,211,12,
+777,2024-11-17,CUST0777,Instagram,email,/sale,Yes,No,No,No,0,Tablet,Chrome,US,Danielmouth,Returning,104,3,Cart Not Initiated
+778,2024-09-02,CUST0778,Google Ads,referral,/,Yes,Yes,Yes,Yes,195.38,Desktop,Opera,DE,South Vicki,Returning,565,15,
+779,2025-06-14,CUST0779,Email,cpc,/products,Yes,Yes,Yes,Yes,152.05,Mobile,Opera,MX,Christophershire,New Visitor,353,2,
+780,2024-10-26,CUST0780,Pinterest,organic,/collections,Yes,No,No,No,0,Mobile,Opera,BR,New Tiffanyshire,New Visitor,383,15,Cart Not Initiated
+781,2025-04-29,CUST0781,TikTok,social,/about,Yes,No,No,No,0,Desktop,Chrome,US,Port Alexis,Returning,352,11,Cart Not Initiated
+782,2024-11-12,CUST0782,Facebook Ads,cpc,/,Yes,Yes,Yes,Yes,38.8,Tablet,Opera,FR,Port Samantha,New Visitor,266,15,
+783,2025-01-19,CUST0783,Facebook Ads,cpc,/,Yes,Yes,No,No,0,Tablet,Safari,BR,Wilsonbury,New Visitor,412,13,Checkout Abandoned
+784,2024-08-13,CUST0784,Organic Search,social,/products,Yes,Yes,No,No,0,Desktop,Safari,US,Lake David,Returning,103,9,Checkout Abandoned
+785,2025-03-11,CUST0785,Pinterest,social,/products,Yes,No,No,No,0,Mobile,Chrome,US,Moorefort,Returning,432,10,Cart Not Initiated
+786,2025-06-02,CUST0786,Google Ads,referral,/products,Yes,Yes,No,No,0,Mobile,Opera,MX,Andrewburgh,Returning,502,13,Checkout Abandoned
+787,2024-12-10,CUST0787,Organic Search,email,/about,Yes,Yes,Yes,No,0,Tablet,Opera,DE,North Nicholas,Returning,340,15,Payment Failed
+788,2024-12-13,CUST0788,Instagram,email,/products,Yes,No,No,No,0,Mobile,Safari,JP,Lake Melissaport,Returning,598,5,Cart Not Initiated
+789,2024-10-19,CUST0789,Organic Search,email,/products,Yes,Yes,No,No,0,Tablet,Opera,FR,South Heidimouth,New Visitor,169,4,Checkout Abandoned
+790,2024-11-01,CUST0790,Instagram,referral,/sale,Yes,No,No,No,0,Desktop,Chrome,FR,Douglasbury,Returning,207,8,Cart Not Initiated
+791,2025-03-13,CUST0791,Facebook Ads,email,/about,Yes,No,No,No,0,Mobile,Firefox,DE,Andersonstad,Returning,16,3,Cart Not Initiated
+792,2024-12-16,CUST0792,Direct,cpc,/products,Yes,Yes,No,No,0,Tablet,Chrome,JP,Danielmouth,New Visitor,222,6,Checkout Abandoned
+793,2024-12-11,CUST0793,Pinterest,social,/sale,Yes,Yes,Yes,Yes,170.82,Desktop,Edge,JP,Morganfurt,Returning,467,4,
+794,2025-06-16,CUST0794,Direct,email,/collections,Yes,No,No,No,0,Tablet,Firefox,UK,Timothymouth,Returning,534,14,Cart Not Initiated
+795,2025-02-19,CUST0795,TikTok,email,/sale,Yes,Yes,No,No,0,Desktop,Firefox,UK,Port Ryan,New Visitor,342,15,Checkout Abandoned
+796,2025-03-01,CUST0796,Organic Search,referral,/about,Yes,Yes,No,No,0,Desktop,Firefox,IN,Loganberg,Returning,380,13,Checkout Abandoned
+797,2024-06-01,CUST0797,Email,cpc,/sale,Yes,Yes,Yes,Yes,172.6,Tablet,Firefox,MX,Fisherhaven,New Visitor,429,14,
+798,2024-11-22,CUST0798,Pinterest,email,/about,Yes,Yes,No,No,0,Tablet,Opera,FR,East Lisaburgh,New Visitor,387,3,Checkout Abandoned
+799,2025-01-16,CUST0799,Twitter,referral,/sale,No,No,No,No,0,Desktop,Opera,AU,Arianaburgh,Returning,11,2,Bounced
+800,2025-06-23,CUST0800,Email,social,/products,Yes,Yes,Yes,No,0,Tablet,Opera,DE,New Karlmouth,New Visitor,61,8,No Reason
+801,2025-01-05,CUST0801,Facebook Ads,organic,/,No,No,No,No,0,Desktop,Opera,AU,Williehaven,Returning,15,1,Bounced
+802,2024-09-28,CUST0802,Google Ads,organic,/,Yes,No,No,No,0,Desktop,Edge,CA,West Cynthiaview,New Visitor,131,12,Cart Not Initiated
+803,2024-12-16,CUST0803,Pinterest,email,/about,Yes,No,No,No,0,Desktop,Firefox,DE,Hansenview,New Visitor,504,8,Cart Not Initiated
+804,2024-10-01,CUST0804,Google Ads,cpc,/,No,No,No,No,0,Desktop,Opera,DE,New Anthony,Returning,27,3,Bounced
+805,2024-09-17,CUST0805,Direct,cpc,/about,Yes,Yes,No,No,0,Mobile,Chrome,CA,South Jessicabury,New Visitor,379,14,Checkout Abandoned
+806,2024-12-06,CUST0806,Google Ads,organic,/about,Yes,No,No,No,0,Tablet,Chrome,BR,Jackiefort,Returning,269,5,Cart Not Initiated
+807,2025-03-29,CUST0807,Organic Search,organic,/collections,Yes,No,No,No,0,Mobile,Edge,AU,Fryeside,Returning,301,14,Cart Not Initiated
+808,2024-07-17,CUST0808,Google Ads,email,/about,No,No,No,No,0,Desktop,Safari,US,Oliviaton,Returning,24,3,Bounced
+809,2025-04-20,CUST0809,Pinterest,organic,/products,Yes,No,No,No,0,Desktop,Safari,IN,South Patrickport,Returning,479,4,Cart Not Initiated
+810,2024-09-21,CUST0810,Instagram,cpc,/sale,No,No,No,No,0,Mobile,Firefox,IN,Martinezville,Returning,19,3,Bounced
+811,2025-01-18,CUST0811,Direct,organic,/products,No,No,No,No,0,Desktop,Opera,BR,Bretttown,Returning,26,1,Bounced
+812,2024-10-29,CUST0812,Instagram,cpc,/about,No,No,No,No,0,Desktop,Firefox,BR,Karlaburgh,New Visitor,30,3,Bounced
+813,2024-10-26,CUST0813,Email,organic,/products,No,No,No,No,0,Mobile,Opera,DE,Lake Brandistad,New Visitor,30,3,Bounced
+814,2024-11-20,CUST0814,Instagram,organic,/products,Yes,Yes,Yes,Yes,65.02,Mobile,Chrome,AU,Lake Jeffrey,Returning,291,10,
+815,2025-04-05,CUST0815,Google Ads,referral,/products,Yes,Yes,No,No,0,Desktop,Chrome,FR,Hernandezberg,Returning,101,15,Checkout Abandoned
+816,2024-11-05,CUST0816,Referral,organic,/sale,Yes,No,No,No,0,Mobile,Edge,BR,Robertshire,Returning,74,4,Cart Not Initiated
+817,2025-05-21,CUST0817,Referral,cpc,/sale,No,No,No,No,0,Desktop,Chrome,AU,Guzmanton,Returning,7,3,Bounced
+818,2024-09-16,CUST0818,Pinterest,organic,/,Yes,No,No,No,0,Mobile,Safari,AU,Brittanyhaven,New Visitor,374,13,Cart Not Initiated
+819,2024-07-12,CUST0819,Pinterest,organic,/about,Yes,Yes,No,No,0,Mobile,Chrome,DE,Port Cory,Returning,28,4,Checkout Abandoned
+820,2025-05-09,CUST0820,Referral,referral,/,Yes,Yes,No,No,0,Tablet,Chrome,US,Pottsmouth,Returning,151,14,Checkout Abandoned
+821,2024-06-04,CUST0821,Google Ads,referral,/collections,Yes,Yes,Yes,No,0,Desktop,Safari,FR,West Brittany,Returning,346,5,Price Comparison
+822,2025-06-29,CUST0822,Organic Search,organic,/,Yes,No,No,No,0,Mobile,Chrome,FR,West Caroltown,Returning,265,8,Cart Not Initiated
+823,2024-11-03,CUST0823,Twitter,email,/,Yes,No,No,No,0,Mobile,Opera,CA,Carterburgh,Returning,549,7,Cart Not Initiated
+824,2025-03-10,CUST0824,Direct,cpc,/about,No,No,No,No,0,Tablet,Safari,AU,New Michaelborough,Returning,26,3,Bounced
+825,2024-10-28,CUST0825,Direct,social,/,Yes,Yes,Yes,No,0,Desktop,Safari,UK,Judithside,New Visitor,401,11,Slow Loading
+826,2024-09-16,CUST0826,Facebook Ads,organic,/products,Yes,Yes,Yes,Yes,433.01,Desktop,Opera,AU,Owenfort,Returning,170,14,
+827,2024-11-22,CUST0827,Organic Search,organic,/,Yes,Yes,Yes,No,0,Tablet,Edge,DE,Youngborough,Returning,566,12,Account Required
+828,2024-12-02,CUST0828,Direct,email,/about,Yes,Yes,Yes,Yes,213.14,Mobile,Chrome,AU,Jonesshire,Returning,408,5,
+829,2024-08-10,CUST0829,Email,email,/about,Yes,No,No,No,0,Tablet,Chrome,UK,Nataliemouth,New Visitor,13,9,Cart Not Initiated
+830,2024-09-02,CUST0830,Direct,organic,/about,Yes,No,No,No,0,Desktop,Edge,IN,New Jamieport,Returning,523,2,Cart Not Initiated
+831,2025-03-17,CUST0831,Pinterest,social,/products,Yes,No,No,No,0,Mobile,Edge,UK,Martinezshire,Returning,533,6,Cart Not Initiated
+832,2024-06-26,CUST0832,Pinterest,email,/,Yes,Yes,Yes,No,0,Tablet,Firefox,IN,North Christianborough,New Visitor,327,12,No Reason
+833,2025-06-13,CUST0833,Twitter,referral,/,Yes,Yes,Yes,Yes,409.47,Desktop,Edge,UK,North Steven,Returning,48,11,
+834,2024-10-17,CUST0834,Pinterest,cpc,/,No,No,No,No,0,Tablet,Safari,BR,Ericton,Returning,3,2,Bounced
+835,2025-03-09,CUST0835,Google Ads,cpc,/collections,Yes,Yes,No,No,0,Desktop,Edge,CA,Sarachester,Returning,231,2,Checkout Abandoned
+836,2024-12-10,CUST0836,Organic Search,email,/about,No,No,No,No,0,Tablet,Chrome,MX,New Stephanie,Returning,21,2,Bounced
+837,2024-08-24,CUST0837,Pinterest,email,/products,Yes,Yes,No,No,0,Tablet,Opera,BR,Crossfort,Returning,44,4,Checkout Abandoned
+838,2025-02-23,CUST0838,Pinterest,social,/about,No,No,No,No,0,Tablet,Safari,AU,West Janetfort,Returning,5,2,Bounced
+839,2024-07-25,CUST0839,TikTok,cpc,/,Yes,Yes,Yes,Yes,86.54,Tablet,Chrome,JP,New Christopherhaven,Returning,402,10,
+840,2024-08-25,CUST0840,Organic Search,email,/collections,Yes,No,No,No,0,Desktop,Edge,UK,South Gwendolyn,Returning,503,8,Cart Not Initiated
+841,2024-08-15,CUST0841,Google Ads,referral,/collections,Yes,No,No,No,0,Mobile,Firefox,MX,East Bradley,Returning,165,6,Cart Not Initiated
+842,2024-12-06,CUST0842,Organic Search,cpc,/about,Yes,No,No,No,0,Desktop,Firefox,UK,Carpenterland,Returning,105,15,Cart Not Initiated
+843,2024-08-27,CUST0843,Google Ads,social,/products,Yes,No,No,No,0,Tablet,Firefox,US,South Justinfort,Returning,81,9,Cart Not Initiated
+844,2025-04-18,CUST0844,Email,email,/,No,No,No,No,0,Tablet,Safari,MX,North Charlotte,Returning,19,3,Bounced
+845,2024-09-15,CUST0845,Google Ads,email,/collections,Yes,No,No,No,0,Desktop,Chrome,CA,Elijahport,Returning,403,6,Cart Not Initiated
+846,2025-05-20,CUST0846,Direct,email,/about,No,No,No,No,0,Mobile,Chrome,CA,New Richardmouth,New Visitor,19,1,Bounced
+847,2025-06-07,CUST0847,Pinterest,referral,/,Yes,No,No,No,0,Desktop,Safari,CA,Walkerhaven,New Visitor,377,14,Cart Not Initiated
+848,2024-10-16,CUST0848,Referral,cpc,/,Yes,No,No,No,0,Mobile,Safari,FR,New Sean,New Visitor,50,8,Cart Not Initiated
+849,2024-08-04,CUST0849,Google Ads,cpc,/,Yes,Yes,Yes,No,0,Mobile,Safari,FR,South Williamstad,Returning,230,9,Price Comparison
+850,2025-04-23,CUST0850,TikTok,referral,/sale,Yes,Yes,Yes,Yes,215.0,Tablet,Safari,AU,Jameshaven,Returning,142,14,
+851,2025-01-26,CUST0851,Direct,social,/about,Yes,No,No,No,0,Mobile,Edge,BR,Graveschester,Returning,229,2,Cart Not Initiated
+852,2024-11-16,CUST0852,Direct,email,/collections,Yes,Yes,No,No,0,Desktop,Safari,MX,North Scott,Returning,418,6,Checkout Abandoned
+853,2024-08-17,CUST0853,Organic Search,cpc,/sale,No,No,No,No,0,Tablet,Safari,UK,Hollowaymouth,Returning,22,2,Bounced
+854,2025-01-20,CUST0854,TikTok,organic,/collections,Yes,Yes,Yes,Yes,282.34,Mobile,Safari,MX,Port Jennifer,Returning,456,2,
+855,2025-06-20,CUST0855,Organic Search,cpc,/,Yes,No,No,No,0,Desktop,Chrome,US,North Kaylamouth,Returning,147,10,Cart Not Initiated
+856,2025-01-10,CUST0856,Twitter,organic,/products,No,No,No,No,0,Tablet,Chrome,DE,North Vickie,Returning,14,2,Bounced
+857,2025-01-02,CUST0857,TikTok,email,/products,Yes,Yes,Yes,Yes,255.15,Mobile,Chrome,MX,Jackieville,Returning,141,11,
+858,2024-09-28,CUST0858,Pinterest,cpc,/products,Yes,Yes,No,No,0,Desktop,Edge,CA,Craigborough,Returning,499,14,Checkout Abandoned
+859,2024-09-16,CUST0859,Facebook Ads,referral,/,Yes,No,No,No,0,Mobile,Opera,MX,West Frankberg,Returning,413,13,Cart Not Initiated
+860,2024-12-29,CUST0860,Direct,organic,/products,No,No,No,No,0,Mobile,Chrome,IN,South Karl,New Visitor,25,1,Bounced
+861,2025-04-01,CUST0861,Organic Search,referral,/,Yes,Yes,No,No,0,Tablet,Edge,UK,East Christine,Returning,397,2,Checkout Abandoned
+862,2024-12-02,CUST0862,Google Ads,social,/about,Yes,Yes,No,No,0,Mobile,Firefox,US,Amytown,New Visitor,515,10,Checkout Abandoned
+863,2024-12-16,CUST0863,Facebook Ads,referral,/about,Yes,No,No,No,0,Tablet,Safari,DE,Carterhaven,Returning,262,13,Cart Not Initiated
+864,2024-08-19,CUST0864,TikTok,organic,/products,Yes,Yes,No,No,0,Desktop,Chrome,MX,Dennishaven,New Visitor,482,15,Checkout Abandoned
+865,2024-07-05,CUST0865,Twitter,cpc,/sale,Yes,No,No,No,0,Mobile,Safari,AU,New Nicholas,Returning,267,13,Cart Not Initiated
+866,2024-10-01,CUST0866,Email,referral,/sale,Yes,No,No,No,0,Desktop,Firefox,JP,Crystalport,Returning,65,11,Cart Not Initiated
+867,2024-06-30,CUST0867,Facebook Ads,cpc,/products,Yes,Yes,Yes,Yes,272.16,Tablet,Chrome,US,Loweryport,Returning,63,4,
+868,2024-07-13,CUST0868,Organic Search,email,/products,No,No,No,No,0,Desktop,Opera,UK,Mercerfurt,Returning,19,3,Bounced
+869,2025-05-10,CUST0869,Email,referral,/,Yes,No,No,No,0,Tablet,Opera,CA,Williamshaven,New Visitor,445,4,Cart Not Initiated
+870,2025-01-09,CUST0870,Direct,organic,/products,Yes,Yes,Yes,Yes,79.61,Mobile,Safari,AU,South Edwardland,Returning,227,13,
+871,2025-05-14,CUST0871,Direct,referral,/sale,Yes,No,No,No,0,Tablet,Safari,UK,Lake Thomaston,Returning,589,9,Cart Not Initiated
+872,2024-08-11,CUST0872,Email,referral,/products,Yes,Yes,No,No,0,Tablet,Chrome,AU,Lake Wandaville,Returning,302,10,Checkout Abandoned
+873,2025-06-23,CUST0873,TikTok,cpc,/collections,Yes,Yes,No,No,0,Desktop,Safari,BR,West Katieville,Returning,446,5,Checkout Abandoned
+874,2024-12-31,CUST0874,Direct,cpc,/collections,Yes,Yes,Yes,Yes,56.96,Desktop,Firefox,BR,East Matthew,Returning,566,15,
+875,2024-06-22,CUST0875,Twitter,organic,/about,Yes,No,No,No,0,Mobile,Firefox,US,Juareztown,Returning,25,11,Cart Not Initiated
+876,2024-08-22,CUST0876,Pinterest,cpc,/products,No,No,No,No,0,Desktop,Edge,CA,Port Tarabury,Returning,24,1,Bounced
+877,2024-11-26,CUST0877,Direct,social,/about,Yes,No,No,No,0,Mobile,Safari,IN,South Jonburgh,New Visitor,141,8,Cart Not Initiated
+878,2024-11-30,CUST0878,Facebook Ads,cpc,/,Yes,No,No,No,0,Mobile,Chrome,US,East Bethanybury,Returning,30,3,Cart Not Initiated
+879,2024-09-07,CUST0879,Direct,cpc,/products,No,No,No,No,0,Mobile,Edge,IN,Webershire,Returning,12,2,Bounced
+880,2024-07-14,CUST0880,TikTok,organic,/products,Yes,Yes,No,No,0,Desktop,Firefox,DE,Andreaview,New Visitor,349,10,Checkout Abandoned
+881,2024-11-09,CUST0881,Facebook Ads,organic,/about,Yes,Yes,No,No,0,Desktop,Edge,BR,Sarashire,Returning,73,2,Checkout Abandoned
+882,2024-07-20,CUST0882,Google Ads,organic,/,Yes,No,No,No,0,Desktop,Opera,BR,Port Monica,Returning,474,6,Cart Not Initiated
+883,2025-02-02,CUST0883,Referral,email,/collections,Yes,Yes,No,No,0,Desktop,Firefox,FR,East Matthewstad,New Visitor,485,2,Checkout Abandoned
+884,2024-08-09,CUST0884,Twitter,organic,/products,Yes,No,No,No,0,Desktop,Edge,AU,Lestermouth,Returning,413,14,Cart Not Initiated
+885,2024-07-17,CUST0885,Email,organic,/,Yes,No,No,No,0,Desktop,Edge,BR,Victoriaberg,Returning,512,11,Cart Not Initiated
+886,2025-05-27,CUST0886,Instagram,email,/products,No,No,No,No,0,Mobile,Chrome,BR,South William,Returning,6,1,Bounced
+887,2025-06-14,CUST0887,Referral,cpc,/products,Yes,No,No,No,0,Desktop,Opera,MX,Lake Kelly,Returning,343,2,Cart Not Initiated
+888,2024-07-13,CUST0888,Twitter,referral,/products,Yes,Yes,No,No,0,Mobile,Edge,UK,Taylorhaven,Returning,53,2,Checkout Abandoned
+889,2025-03-11,CUST0889,Direct,email,/about,No,No,No,No,0,Mobile,Opera,BR,Stephanieville,New Visitor,18,2,Bounced
+890,2025-04-12,CUST0890,Referral,cpc,/sale,Yes,Yes,No,No,0,Desktop,Chrome,US,South Michael,Returning,600,8,Checkout Abandoned
+891,2024-06-29,CUST0891,Email,email,/products,Yes,No,No,No,0,Tablet,Safari,CA,Staffordland,Returning,74,13,Cart Not Initiated
+892,2025-04-17,CUST0892,Pinterest,organic,/about,No,No,No,No,0,Mobile,Edge,FR,East Alexandra,Returning,14,3,Bounced
+893,2025-03-06,CUST0893,Google Ads,cpc,/collections,No,No,No,No,0,Tablet,Safari,DE,Raymondton,Returning,9,2,Bounced
+894,2025-05-26,CUST0894,Email,referral,/,Yes,No,No,No,0,Mobile,Safari,JP,South Melissa,New Visitor,216,14,Cart Not Initiated
+895,2024-07-12,CUST0895,Facebook Ads,referral,/collections,Yes,No,No,No,0,Desktop,Safari,AU,Jacksonside,Returning,161,10,Cart Not Initiated
+896,2024-11-15,CUST0896,Instagram,email,/sale,Yes,No,No,No,0,Mobile,Opera,CA,Katherinehaven,Returning,23,15,Cart Not Initiated
+897,2025-04-14,CUST0897,Google Ads,social,/collections,Yes,No,No,No,0,Desktop,Firefox,CA,West Josephtown,Returning,382,8,Cart Not Initiated
+898,2024-12-05,CUST0898,Pinterest,email,/collections,Yes,No,No,No,0,Mobile,Chrome,UK,Gregoryton,Returning,429,13,Cart Not Initiated
+899,2025-03-25,CUST0899,Facebook Ads,referral,/sale,No,No,No,No,0,Tablet,Edge,DE,South Lisa,Returning,22,1,Bounced
+900,2024-11-16,CUST0900,Pinterest,organic,/,No,No,No,No,0,Mobile,Chrome,BR,New Laurachester,Returning,14,3,Bounced
+901,2025-01-31,CUST0901,Twitter,cpc,/products,No,No,No,No,0,Mobile,Edge,MX,Spearsmouth,Returning,20,2,Bounced
+902,2025-05-12,CUST0902,Facebook Ads,email,/sale,Yes,Yes,No,No,0,Tablet,Firefox,IN,Donnaland,New Visitor,396,7,Checkout Abandoned
+903,2025-01-19,CUST0903,Facebook Ads,referral,/products,Yes,No,No,No,0,Mobile,Opera,BR,North Brittany,Returning,325,10,Cart Not Initiated
+904,2025-02-20,CUST0904,Twitter,referral,/products,Yes,Yes,Yes,Yes,292.39,Mobile,Safari,CA,New Rachel,Returning,190,12,
+905,2025-01-06,CUST0905,TikTok,referral,/products,Yes,Yes,Yes,Yes,214.86,Desktop,Safari,MX,Carterhaven,New Visitor,256,3,
+906,2024-07-14,CUST0906,Referral,email,/,Yes,Yes,No,No,0,Tablet,Chrome,BR,Hermanside,Returning,289,2,Checkout Abandoned
+907,2024-08-06,CUST0907,Google Ads,referral,/about,Yes,No,No,No,0,Mobile,Opera,US,Port Michael,Returning,463,5,Cart Not Initiated
+908,2025-04-10,CUST0908,TikTok,email,/,No,No,No,No,0,Desktop,Chrome,FR,North Ryan,Returning,23,1,Bounced
+909,2025-04-15,CUST0909,Google Ads,email,/sale,Yes,No,No,No,0,Mobile,Edge,MX,East William,New Visitor,310,10,Cart Not Initiated
+910,2025-01-30,CUST0910,Email,organic,/about,Yes,Yes,Yes,No,0,Desktop,Edge,IN,North Judy,Returning,377,4,Account Required
+911,2025-06-11,CUST0911,Referral,email,/collections,No,No,No,No,0,Tablet,Safari,BR,North Davidchester,New Visitor,5,2,Bounced
+912,2024-11-15,CUST0912,Referral,email,/about,Yes,No,No,No,0,Desktop,Chrome,DE,Cassiebury,Returning,591,11,Cart Not Initiated
+913,2024-07-21,CUST0913,Direct,social,/collections,Yes,No,No,No,0,Mobile,Chrome,BR,Lake Kristin,Returning,258,2,Cart Not Initiated
+914,2024-07-17,CUST0914,Organic Search,email,/products,Yes,Yes,Yes,No,0,Desktop,Edge,DE,Lewisville,Returning,179,4,Complex Checkout
+915,2024-12-20,CUST0915,Instagram,referral,/sale,No,No,No,No,0,Tablet,Edge,AU,North Donnahaven,New Visitor,15,3,Bounced
+916,2025-01-08,CUST0916,Organic Search,organic,/products,Yes,Yes,Yes,Yes,64.33,Tablet,Firefox,US,Lake Michelle,New Visitor,222,2,
+917,2024-12-04,CUST0917,Referral,referral,/collections,Yes,Yes,No,No,0,Tablet,Safari,US,New Amanda,Returning,149,15,Checkout Abandoned
+918,2024-07-20,CUST0918,TikTok,cpc,/sale,Yes,No,No,No,0,Tablet,Edge,US,Jamieport,New Visitor,192,2,Cart Not Initiated
+919,2025-04-01,CUST0919,Instagram,referral,/collections,Yes,Yes,No,No,0,Mobile,Edge,IN,Alexanderburgh,Returning,435,12,Checkout Abandoned
+920,2025-03-28,CUST0920,Twitter,social,/products,Yes,No,No,No,0,Mobile,Edge,UK,South Andreamouth,Returning,305,9,Cart Not Initiated
+921,2025-05-20,CUST0921,Facebook Ads,email,/about,Yes,Yes,Yes,Yes,277.08,Tablet,Opera,US,Harrisonmouth,Returning,27,12,
+922,2024-08-07,CUST0922,TikTok,referral,/,Yes,Yes,No,No,0,Mobile,Edge,UK,Rushview,New Visitor,142,12,Checkout Abandoned
+923,2024-06-23,CUST0923,Facebook Ads,email,/collections,Yes,Yes,Yes,Yes,246.02,Tablet,Safari,BR,Adrianhaven,Returning,370,13,
+924,2024-06-20,CUST0924,Twitter,email,/,Yes,No,No,No,0,Tablet,Safari,MX,New Christopher,Returning,284,12,Cart Not Initiated
+925,2025-06-13,CUST0925,Google Ads,referral,/collections,No,No,No,No,0,Mobile,Opera,DE,South Michaeltown,Returning,8,1,Bounced
+926,2024-09-17,CUST0926,Facebook Ads,organic,/about,Yes,Yes,No,No,0,Tablet,Chrome,CA,Margaretborough,Returning,415,9,Checkout Abandoned
+927,2024-12-18,CUST0927,Pinterest,email,/about,No,No,No,No,0,Tablet,Opera,CA,West Brendaburgh,Returning,5,2,Bounced
+928,2024-08-06,CUST0928,Email,cpc,/sale,Yes,Yes,No,No,0,Desktop,Chrome,DE,Fowlerstad,Returning,355,3,Checkout Abandoned
+929,2024-06-01,CUST0929,Pinterest,organic,/collections,Yes,Yes,Yes,Yes,186.44,Desktop,Safari,DE,Gonzalezberg,New Visitor,242,10,
+930,2024-09-09,CUST0930,Email,organic,/sale,Yes,Yes,No,No,0,Desktop,Opera,DE,Port James,Returning,548,15,Checkout Abandoned
+931,2025-01-26,CUST0931,Google Ads,referral,/,No,No,No,No,0,Desktop,Safari,BR,West Kyle,Returning,13,3,Bounced
+932,2025-05-31,CUST0932,Instagram,email,/products,Yes,Yes,Yes,No,0,Tablet,Firefox,MX,Lake Norma,Returning,552,11,High Shipping Cost
+933,2025-06-06,CUST0933,Direct,social,/about,Yes,No,No,No,0,Mobile,Edge,MX,Lake Wendyland,New Visitor,465,13,Cart Not Initiated
+934,2024-11-09,CUST0934,Referral,social,/about,Yes,No,No,No,0,Desktop,Edge,MX,Shirleyburgh,Returning,214,11,Cart Not Initiated
+935,2024-08-15,CUST0935,Pinterest,social,/sale,Yes,Yes,Yes,No,0,Mobile,Safari,CA,Christinebury,Returning,350,12,No Reason
+936,2024-09-18,CUST0936,Organic Search,organic,/about,Yes,Yes,No,No,0,Desktop,Edge,UK,Waltersfurt,Returning,362,2,Checkout Abandoned
+937,2025-03-04,CUST0937,Pinterest,social,/,No,No,No,No,0,Mobile,Safari,IN,Nguyenburgh,New Visitor,30,1,Bounced
+938,2024-12-30,CUST0938,Instagram,social,/sale,No,No,No,No,0,Desktop,Firefox,IN,Lake Leetown,Returning,19,2,Bounced
+939,2024-07-10,CUST0939,Direct,social,/about,Yes,Yes,Yes,Yes,36.16,Tablet,Firefox,AU,Elizabethberg,Returning,114,13,
+940,2024-11-18,CUST0940,Direct,email,/collections,Yes,No,No,No,0,Tablet,Opera,UK,Kaylaport,Returning,547,7,Cart Not Initiated
+941,2024-07-20,CUST0941,Instagram,email,/,Yes,Yes,No,No,0,Tablet,Firefox,MX,Yangland,Returning,440,15,Checkout Abandoned
+942,2025-06-10,CUST0942,Facebook Ads,email,/collections,No,No,No,No,0,Desktop,Safari,JP,Bridgetfurt,New Visitor,5,1,Bounced
+943,2024-09-24,CUST0943,Organic Search,social,/products,Yes,No,No,No,0,Tablet,Safari,MX,Markmouth,Returning,185,2,Cart Not Initiated
+944,2025-04-04,CUST0944,TikTok,email,/about,No,No,No,No,0,Mobile,Safari,FR,Lake Amyton,Returning,24,3,Bounced
+945,2025-04-30,CUST0945,Twitter,organic,/collections,Yes,Yes,No,No,0,Desktop,Opera,BR,Jameston,Returning,324,13,Checkout Abandoned
+946,2025-01-17,CUST0946,Direct,organic,/sale,No,No,No,No,0,Mobile,Edge,BR,Johnfort,Returning,29,2,Bounced
+947,2024-06-11,CUST0947,Email,email,/collections,Yes,Yes,Yes,No,0,Desktop,Edge,DE,Smithmouth,Returning,242,3,High Shipping Cost
+948,2024-11-19,CUST0948,Email,email,/,Yes,Yes,No,No,0,Mobile,Safari,FR,Emilyberg,Returning,530,15,Checkout Abandoned
+949,2024-10-01,CUST0949,Direct,email,/collections,No,No,No,No,0,Tablet,Chrome,AU,Romeroland,New Visitor,21,2,Bounced
+950,2025-04-06,CUST0950,Direct,organic,/products,Yes,No,No,No,0,Mobile,Safari,CA,East Shelly,Returning,38,7,Cart Not Initiated
+951,2025-02-10,CUST0951,Referral,social,/,Yes,Yes,No,No,0,Desktop,Edge,DE,New Philliphaven,New Visitor,133,14,Checkout Abandoned
+952,2025-04-20,CUST0952,Referral,referral,/about,Yes,No,No,No,0,Mobile,Safari,DE,Kellyland,Returning,195,5,Cart Not Initiated
+953,2025-01-08,CUST0953,Google Ads,social,/collections,Yes,Yes,Yes,Yes,332.04,Tablet,Chrome,JP,Port Courtney,New Visitor,263,10,
+954,2025-05-25,CUST0954,TikTok,organic,/collections,No,No,No,No,0,Tablet,Safari,US,Lake Richardhaven,New Visitor,14,3,Bounced
+955,2024-08-05,CUST0955,Pinterest,email,/collections,Yes,No,No,No,0,Mobile,Opera,UK,Lake Jason,Returning,562,7,Cart Not Initiated
+956,2025-05-02,CUST0956,Referral,social,/about,Yes,No,No,No,0,Mobile,Opera,AU,Bradleyside,Returning,456,6,Cart Not Initiated
+957,2025-03-07,CUST0957,Instagram,organic,/collections,Yes,No,No,No,0,Tablet,Opera,US,Juliehaven,Returning,348,5,Cart Not Initiated
+958,2024-06-07,CUST0958,Referral,email,/,Yes,Yes,No,No,0,Desktop,Chrome,FR,Sherriburgh,New Visitor,254,8,Checkout Abandoned
+959,2025-02-23,CUST0959,TikTok,email,/sale,Yes,Yes,No,No,0,Desktop,Chrome,JP,Angelafurt,Returning,213,5,Checkout Abandoned
+960,2025-02-06,CUST0960,Direct,social,/about,Yes,Yes,No,No,0,Tablet,Chrome,BR,Christopherfurt,Returning,501,6,Checkout Abandoned
+961,2025-04-18,CUST0961,Instagram,organic,/,Yes,No,No,No,0,Tablet,Safari,IN,East Paigeton,New Visitor,454,13,Cart Not Initiated
+962,2025-03-23,CUST0962,Referral,email,/sale,Yes,Yes,No,No,0,Tablet,Chrome,FR,West Catherinemouth,New Visitor,184,5,Checkout Abandoned
+963,2024-10-23,CUST0963,Organic Search,email,/sale,Yes,Yes,Yes,No,0,Desktop,Edge,FR,West Jonathan,Returning,491,4,Payment Failed
+964,2025-02-05,CUST0964,Twitter,referral,/sale,Yes,No,No,No,0,Tablet,Firefox,FR,Maryborough,Returning,478,2,Cart Not Initiated
+965,2024-08-04,CUST0965,Facebook Ads,cpc,/,No,No,No,No,0,Mobile,Safari,BR,North Rachel,New Visitor,8,1,Bounced
+966,2025-03-02,CUST0966,Instagram,email,/sale,Yes,Yes,No,No,0,Mobile,Opera,MX,Fowlertown,New Visitor,473,2,Checkout Abandoned
+967,2025-03-21,CUST0967,Email,cpc,/sale,Yes,No,No,No,0,Desktop,Firefox,CA,Joanneville,Returning,227,12,Cart Not Initiated
+968,2024-07-24,CUST0968,Facebook Ads,organic,/sale,Yes,Yes,Yes,Yes,326.25,Desktop,Edge,US,Schwartzfort,Returning,207,12,
+969,2024-11-24,CUST0969,TikTok,cpc,/about,Yes,Yes,No,No,0,Mobile,Opera,CA,Lake Claudiatown,Returning,272,8,Checkout Abandoned
+970,2025-01-19,CUST0970,TikTok,email,/,Yes,No,No,No,0,Tablet,Chrome,AU,New Jillside,Returning,18,12,Cart Not Initiated
+971,2024-09-25,CUST0971,Organic Search,social,/collections,Yes,No,No,No,0,Mobile,Chrome,DE,Theresafort,Returning,47,7,Cart Not Initiated
+972,2024-09-03,CUST0972,Pinterest,organic,/products,Yes,Yes,No,No,0,Tablet,Safari,CA,Huntberg,Returning,29,3,Checkout Abandoned
+973,2025-05-29,CUST0973,Facebook Ads,email,/sale,Yes,Yes,Yes,No,0,Tablet,Edge,FR,Weaverhaven,Returning,446,12,Complex Checkout
+974,2024-12-17,CUST0974,Twitter,cpc,/,Yes,No,No,No,0,Mobile,Firefox,FR,Port Johnnyland,Returning,384,6,Cart Not Initiated
+975,2024-07-16,CUST0975,Twitter,referral,/,No,No,No,No,0,Tablet,Edge,US,Mcdonaldton,Returning,30,2,Bounced
+976,2025-04-19,CUST0976,Referral,referral,/collections,Yes,Yes,Yes,Yes,45.67,Tablet,Edge,BR,Cindyhaven,Returning,327,10,
+977,2024-06-24,CUST0977,Twitter,social,/,No,No,No,No,0,Tablet,Edge,CA,Swansonside,Returning,18,3,Bounced
+978,2024-11-04,CUST0978,Instagram,organic,/collections,Yes,Yes,Yes,Yes,171.06,Mobile,Firefox,US,North Matthewport,Returning,533,12,
+979,2025-06-07,CUST0979,Twitter,email,/collections,Yes,Yes,Yes,No,0,Mobile,Edge,AU,Joshualand,Returning,238,11,Complex Checkout
+980,2024-11-16,CUST0980,Direct,cpc,/sale,Yes,Yes,Yes,No,0,Desktop,Safari,MX,New Kenneth,Returning,544,12,Complex Checkout
+981,2025-01-12,CUST0981,Twitter,email,/products,Yes,Yes,No,No,0,Tablet,Firefox,US,West Ann,Returning,333,4,Checkout Abandoned
+982,2024-11-26,CUST0982,TikTok,referral,/about,No,No,No,No,0,Tablet,Firefox,CA,Brandyville,Returning,17,1,Bounced
+983,2024-10-06,CUST0983,Organic Search,organic,/,Yes,Yes,No,No,0,Tablet,Chrome,MX,West Carolyn,Returning,184,8,Checkout Abandoned
+984,2024-06-09,CUST0984,Referral,cpc,/sale,Yes,No,No,No,0,Tablet,Chrome,MX,Campbellhaven,Returning,567,3,Cart Not Initiated
+985,2024-08-15,CUST0985,Facebook Ads,organic,/products,Yes,Yes,Yes,Yes,447.55,Desktop,Safari,US,Lake Danaland,New Visitor,25,2,
+986,2025-04-06,CUST0986,Google Ads,cpc,/collections,Yes,Yes,Yes,No,0,Desktop,Opera,AU,Jamesburgh,Returning,153,7,No Reason
+987,2024-06-18,CUST0987,Direct,cpc,/,Yes,Yes,Yes,No,0,Mobile,Chrome,AU,East Dominic,Returning,105,5,No Reason
+988,2025-02-05,CUST0988,TikTok,organic,/about,Yes,No,No,No,0,Tablet,Chrome,BR,Hartmouth,Returning,275,8,Cart Not Initiated
+989,2025-04-18,CUST0989,Facebook Ads,organic,/products,Yes,Yes,Yes,Yes,480.4,Desktop,Opera,MX,West Maryhaven,Returning,321,15,
+990,2024-08-17,CUST0990,Google Ads,social,/about,Yes,Yes,Yes,Yes,491.09,Tablet,Safari,DE,Port Cherylburgh,Returning,82,7,
+991,2025-01-22,CUST0991,Twitter,cpc,/sale,No,No,No,No,0,Desktop,Opera,UK,Dorseyshire,Returning,3,3,Bounced
+992,2024-08-07,CUST0992,Direct,social,/,Yes,Yes,Yes,Yes,325.82,Desktop,Safari,DE,Charlesmouth,New Visitor,238,4,
+993,2024-06-02,CUST0993,Twitter,email,/about,Yes,Yes,No,No,0,Tablet,Firefox,BR,South Theodore,Returning,526,13,Checkout Abandoned
+994,2024-11-11,CUST0994,Direct,organic,/,No,No,No,No,0,Tablet,Safari,IN,Jessicafurt,Returning,22,2,Bounced
+995,2024-10-08,CUST0995,Twitter,organic,/collections,Yes,Yes,No,No,0,Mobile,Firefox,US,Hallport,Returning,358,10,Checkout Abandoned
+996,2024-12-06,CUST0996,Instagram,cpc,/about,No,No,No,No,0,Tablet,Safari,UK,Bettybury,Returning,8,3,Bounced
+997,2025-01-03,CUST0997,Referral,organic,/sale,Yes,Yes,No,No,0,Desktop,Opera,JP,Ryanland,New Visitor,470,8,Checkout Abandoned
+998,2024-08-09,CUST0998,Pinterest,referral,/collections,No,No,No,No,0,Tablet,Chrome,DE,East Cynthia,Returning,15,2,Bounced
+999,2024-12-17,CUST0999,Twitter,referral,/products,Yes,No,No,No,0,Desktop,Chrome,IN,West Marcusville,Returning,328,15,Cart Not Initiated
+1000,2025-04-30,CUST1000,Organic Search,referral,/about,Yes,Yes,Yes,Yes,249.54,Mobile,Opera,UK,East Jeromeberg,New Visitor,140,9,
+1001,2024-08-13,CUST1001,Instagram,organic,/about,Yes,Yes,Yes,No,0,Desktop,Firefox,FR,Port Amandastad,Returning,228,14,Complex Checkout
+1002,2024-09-02,CUST1002,Twitter,email,/sale,No,No,No,No,0,Tablet,Edge,MX,Lindseyville,New Visitor,18,3,Bounced
+1003,2025-06-09,CUST1003,TikTok,social,/sale,Yes,No,No,No,0,Tablet,Opera,US,West Ambermouth,New Visitor,234,9,Cart Not Initiated
+1004,2025-03-28,CUST1004,Facebook Ads,email,/products,Yes,Yes,Yes,Yes,40.07,Desktop,Safari,IN,Jenniferhaven,Returning,546,8,
+1005,2024-07-22,CUST1005,Direct,social,/about,Yes,Yes,Yes,Yes,21.8,Mobile,Opera,JP,East Richardfurt,New Visitor,564,11,
+1006,2025-02-18,CUST1006,Instagram,cpc,/about,Yes,No,No,No,0,Tablet,Edge,MX,North Amyshire,New Visitor,66,6,Cart Not Initiated
+1007,2024-07-25,CUST1007,Facebook Ads,social,/collections,Yes,Yes,Yes,Yes,210.59,Mobile,Firefox,IN,Gonzalezberg,New Visitor,141,7,
+1008,2025-03-14,CUST1008,Referral,cpc,/collections,Yes,Yes,Yes,No,0,Tablet,Edge,JP,Bendershire,Returning,53,7,Price Comparison
+1009,2024-09-08,CUST1009,Direct,cpc,/,Yes,Yes,Yes,Yes,331.41,Desktop,Opera,US,Davidsonland,Returning,426,12,
+1010,2024-09-16,CUST1010,Referral,referral,/collections,Yes,Yes,No,No,0,Tablet,Chrome,MX,Lynchchester,Returning,471,4,Checkout Abandoned
+1011,2024-12-11,CUST1011,Facebook Ads,cpc,/,Yes,Yes,Yes,Yes,261.3,Mobile,Edge,BR,Paulaborough,Returning,436,12,
+1012,2024-09-02,CUST1012,Direct,referral,/about,Yes,No,No,No,0,Mobile,Opera,JP,West Lisa,Returning,179,5,Cart Not Initiated
+1013,2024-11-13,CUST1013,Email,cpc,/sale,Yes,No,No,No,0,Tablet,Opera,UK,Mariastad,Returning,351,3,Cart Not Initiated
+1014,2024-06-22,CUST1014,Twitter,email,/sale,No,No,No,No,0,Desktop,Safari,DE,Bethshire,Returning,3,1,Bounced
+1015,2024-10-11,CUST1015,Facebook Ads,organic,/sale,Yes,Yes,Yes,No,0,Desktop,Edge,CA,Port William,Returning,101,8,Payment Failed
+1016,2024-11-03,CUST1016,Facebook Ads,organic,/about,Yes,No,No,No,0,Desktop,Safari,BR,East Michael,New Visitor,502,11,Cart Not Initiated
+1017,2024-07-26,CUST1017,Email,cpc,/products,Yes,Yes,Yes,Yes,376.61,Tablet,Safari,US,Janetton,Returning,195,13,
+1018,2024-08-24,CUST1018,Instagram,social,/about,Yes,Yes,No,No,0,Mobile,Chrome,US,North Robert,Returning,527,14,Checkout Abandoned
+1019,2025-04-13,CUST1019,Organic Search,organic,/collections,Yes,Yes,Yes,Yes,218.06,Mobile,Chrome,CA,Catherineberg,Returning,152,5,
+1020,2025-03-09,CUST1020,Pinterest,cpc,/collections,No,No,No,No,0,Tablet,Chrome,MX,Port Daniel,Returning,9,2,Bounced
+1021,2024-11-25,CUST1021,TikTok,cpc,/collections,Yes,Yes,No,No,0,Desktop,Edge,JP,East Richardview,New Visitor,199,4,Checkout Abandoned
+1022,2024-09-01,CUST1022,Email,organic,/collections,No,No,No,No,0,Mobile,Chrome,FR,Elizabethberg,Returning,8,2,Bounced
+1023,2024-09-06,CUST1023,Instagram,referral,/sale,Yes,No,No,No,0,Desktop,Firefox,US,Brownland,Returning,439,13,Cart Not Initiated
+1024,2024-07-13,CUST1024,Pinterest,organic,/,Yes,Yes,No,No,0,Tablet,Edge,CA,Garyhaven,Returning,370,4,Checkout Abandoned
+1025,2024-08-30,CUST1025,Google Ads,organic,/about,Yes,No,No,No,0,Mobile,Opera,IN,Thomasmouth,Returning,590,5,Cart Not Initiated
+1026,2025-02-19,CUST1026,TikTok,cpc,/collections,Yes,Yes,Yes,Yes,98.34,Tablet,Safari,UK,Mcdanielland,New Visitor,224,12,
+1027,2025-02-27,CUST1027,Referral,referral,/collections,No,No,No,No,0,Desktop,Safari,CA,East Antoniomouth,New Visitor,21,3,Bounced
+1028,2024-07-28,CUST1028,Pinterest,cpc,/,Yes,No,No,No,0,Mobile,Edge,AU,Nathanberg,Returning,371,10,Cart Not Initiated
+1029,2024-11-24,CUST1029,Email,organic,/collections,No,No,No,No,0,Desktop,Firefox,DE,South Jessicabury,Returning,19,1,Bounced
+1030,2025-04-24,CUST1030,Instagram,social,/,Yes,Yes,No,No,0,Desktop,Safari,DE,Stephaniefurt,New Visitor,377,9,Checkout Abandoned
+1031,2025-01-14,CUST1031,Facebook Ads,cpc,/products,Yes,Yes,Yes,No,0,Tablet,Opera,AU,Thomasview,New Visitor,572,8,High Shipping Cost
+1032,2024-10-05,CUST1032,Google Ads,cpc,/sale,Yes,Yes,Yes,Yes,410.03,Tablet,Firefox,AU,New Paulside,Returning,37,9,
+1033,2025-06-21,CUST1033,Email,social,/products,Yes,Yes,Yes,No,0,Desktop,Opera,CA,New Destiny,Returning,272,9,Price Comparison
+1034,2024-11-24,CUST1034,Direct,cpc,/,Yes,No,No,No,0,Tablet,Firefox,UK,East Justin,Returning,415,7,Cart Not Initiated
+1035,2024-10-06,CUST1035,Referral,social,/about,Yes,Yes,Yes,Yes,65.42,Mobile,Opera,UK,Reginaldchester,New Visitor,282,6,
+1036,2025-03-16,CUST1036,Email,organic,/products,No,No,No,No,0,Mobile,Safari,IN,New Linda,New Visitor,26,3,Bounced
+1037,2025-04-12,CUST1037,Pinterest,social,/collections,Yes,No,No,No,0,Mobile,Safari,JP,Port Gary,Returning,197,3,Cart Not Initiated
+1038,2024-07-21,CUST1038,Google Ads,cpc,/about,Yes,No,No,No,0,Desktop,Firefox,BR,East Juanfort,Returning,457,6,Cart Not Initiated
+1039,2025-01-15,CUST1039,TikTok,social,/sale,Yes,No,No,No,0,Tablet,Edge,FR,North Patricialand,Returning,499,12,Cart Not Initiated
+1040,2025-04-13,CUST1040,Organic Search,referral,/collections,Yes,Yes,Yes,No,0,Tablet,Opera,MX,Moonville,Returning,417,6,Slow Loading
+1041,2025-02-27,CUST1041,Instagram,organic,/products,Yes,No,No,No,0,Desktop,Firefox,DE,Hillhaven,New Visitor,412,2,Cart Not Initiated
+1042,2024-07-06,CUST1042,Instagram,referral,/products,No,No,No,No,0,Desktop,Opera,CA,Lake Emily,New Visitor,20,1,Bounced
+1043,2024-10-11,CUST1043,Google Ads,referral,/sale,No,No,No,No,0,Desktop,Opera,FR,West Amyshire,New Visitor,13,2,Bounced
+1044,2025-03-08,CUST1044,Direct,email,/sale,No,No,No,No,0,Tablet,Firefox,BR,Jonesville,Returning,7,2,Bounced
+1045,2024-11-12,CUST1045,Referral,organic,/products,Yes,Yes,No,No,0,Tablet,Safari,DE,Castroton,New Visitor,34,9,Checkout Abandoned
+1046,2024-11-18,CUST1046,Organic Search,referral,/sale,Yes,No,No,No,0,Desktop,Chrome,JP,Moraburgh,New Visitor,260,11,Cart Not Initiated
+1047,2025-02-28,CUST1047,Instagram,social,/,Yes,Yes,No,No,0,Desktop,Safari,DE,South Christophertown,Returning,177,8,Checkout Abandoned
+1048,2024-12-21,CUST1048,Referral,email,/products,Yes,Yes,Yes,No,0,Mobile,Chrome,BR,New Nicholaston,Returning,152,14,Payment Failed
+1049,2025-02-08,CUST1049,Organic Search,organic,/sale,No,No,No,No,0,Desktop,Edge,UK,Huntbury,Returning,16,1,Bounced
+1050,2025-03-05,CUST1050,Organic Search,email,/sale,No,No,No,No,0,Tablet,Edge,JP,North Amber,New Visitor,3,2,Bounced
+1051,2025-06-07,CUST1051,Referral,cpc,/about,Yes,Yes,Yes,Yes,406.32,Tablet,Firefox,AU,Jonathanton,New Visitor,140,15,
+1052,2025-01-23,CUST1052,TikTok,organic,/sale,No,No,No,No,0,Desktop,Edge,AU,Lukestad,Returning,22,2,Bounced
+1053,2024-10-07,CUST1053,Twitter,cpc,/products,Yes,No,No,No,0,Mobile,Edge,US,Kevinborough,Returning,367,15,Cart Not Initiated
+1054,2025-03-21,CUST1054,Referral,social,/sale,Yes,Yes,No,No,0,Mobile,Opera,US,New Johnny,Returning,96,3,Checkout Abandoned
+1055,2025-05-12,CUST1055,Organic Search,email,/sale,Yes,Yes,No,No,0,Mobile,Opera,DE,Sancheztown,Returning,444,5,Checkout Abandoned
+1056,2025-06-26,CUST1056,Email,cpc,/collections,No,No,No,No,0,Tablet,Edge,DE,West Daniel,New Visitor,22,1,Bounced
+1057,2025-06-17,CUST1057,Email,organic,/collections,Yes,No,No,No,0,Tablet,Opera,AU,Justinshire,New Visitor,457,3,Cart Not Initiated
+1058,2025-03-11,CUST1058,Referral,email,/products,Yes,Yes,Yes,Yes,435.87,Tablet,Edge,FR,New Margaretfurt,New Visitor,141,4,
+1059,2024-11-03,CUST1059,Referral,referral,/,Yes,Yes,No,No,0,Tablet,Safari,MX,Williamville,Returning,479,2,Checkout Abandoned
+1060,2024-12-15,CUST1060,Google Ads,social,/about,Yes,No,No,No,0,Tablet,Chrome,IN,South Ricardo,New Visitor,250,9,Cart Not Initiated
+1061,2025-01-11,CUST1061,Facebook Ads,social,/collections,No,No,No,No,0,Tablet,Safari,CA,New Jeanbury,New Visitor,3,3,Bounced
+1062,2024-11-05,CUST1062,Facebook Ads,social,/,Yes,Yes,Yes,Yes,280.33,Mobile,Firefox,FR,North Christopherville,Returning,345,2,
+1063,2025-02-22,CUST1063,Direct,referral,/,No,No,No,No,0,Desktop,Edge,JP,South Stephanie,Returning,7,3,Bounced
+1064,2024-07-14,CUST1064,Email,cpc,/sale,Yes,Yes,Yes,No,0,Tablet,Chrome,CA,Melanieland,New Visitor,124,3,High Shipping Cost
+1065,2025-02-19,CUST1065,Instagram,social,/,Yes,Yes,Yes,Yes,358.5,Desktop,Chrome,CA,West Adrian,Returning,403,7,
+1066,2024-10-09,CUST1066,Twitter,social,/sale,No,No,No,No,0,Desktop,Chrome,MX,Schneidertown,Returning,12,1,Bounced
+1067,2024-12-15,CUST1067,Pinterest,social,/about,Yes,Yes,No,No,0,Tablet,Safari,FR,Scottmouth,New Visitor,155,14,Checkout Abandoned
+1068,2024-11-30,CUST1068,Pinterest,social,/collections,Yes,Yes,Yes,Yes,186.8,Tablet,Safari,AU,Lake Davidberg,Returning,164,9,
+1069,2025-05-13,CUST1069,Facebook Ads,cpc,/collections,Yes,Yes,No,No,0,Mobile,Opera,FR,Austinview,Returning,176,2,Checkout Abandoned
+1070,2024-10-10,CUST1070,Instagram,email,/collections,Yes,Yes,Yes,No,0,Mobile,Opera,JP,South Angela,Returning,507,6,Account Required
+1071,2025-02-01,CUST1071,Referral,organic,/,Yes,Yes,Yes,Yes,42.17,Tablet,Opera,CA,Colemanmouth,Returning,491,2,
+1072,2025-04-07,CUST1072,Referral,organic,/,Yes,Yes,No,No,0,Tablet,Chrome,AU,Burgessfurt,Returning,485,7,Checkout Abandoned
+1073,2025-02-23,CUST1073,Facebook Ads,email,/sale,Yes,Yes,Yes,Yes,155.8,Desktop,Edge,MX,Lake Stevenburgh,Returning,182,15,
+1074,2025-01-15,CUST1074,Pinterest,email,/,Yes,Yes,No,No,0,Desktop,Opera,UK,Amandamouth,Returning,343,8,Checkout Abandoned
+1075,2024-07-09,CUST1075,Pinterest,organic,/products,Yes,Yes,No,No,0,Tablet,Chrome,US,Port Gregory,Returning,36,9,Checkout Abandoned
+1076,2024-06-05,CUST1076,Twitter,cpc,/,Yes,Yes,No,No,0,Desktop,Firefox,AU,Swansonfurt,Returning,515,15,Checkout Abandoned
+1077,2024-09-22,CUST1077,Google Ads,cpc,/,Yes,No,No,No,0,Tablet,Edge,MX,Weberview,Returning,388,14,Cart Not Initiated
+1078,2025-05-06,CUST1078,Twitter,referral,/sale,Yes,No,No,No,0,Mobile,Edge,DE,Bryantown,New Visitor,204,5,Cart Not Initiated
+1079,2024-11-26,CUST1079,Referral,social,/products,No,No,No,No,0,Mobile,Safari,US,Samuelville,Returning,30,1,Bounced
+1080,2024-09-07,CUST1080,Referral,social,/,Yes,No,No,No,0,Desktop,Firefox,IN,Jenniferfort,Returning,122,3,Cart Not Initiated
+1081,2025-05-18,CUST1081,Pinterest,referral,/,Yes,No,No,No,0,Desktop,Opera,MX,Kyleberg,Returning,363,3,Cart Not Initiated
+1082,2025-04-30,CUST1082,Instagram,cpc,/about,Yes,Yes,No,No,0,Mobile,Opera,IN,Jenniferborough,Returning,445,5,Checkout Abandoned
+1083,2024-09-15,CUST1083,Email,social,/sale,Yes,No,No,No,0,Mobile,Edge,MX,Baileyberg,Returning,557,10,Cart Not Initiated
+1084,2025-05-05,CUST1084,Referral,organic,/,Yes,No,No,No,0,Mobile,Opera,DE,Wrightshire,New Visitor,405,12,Cart Not Initiated
+1085,2024-11-18,CUST1085,TikTok,organic,/sale,Yes,Yes,No,No,0,Tablet,Edge,BR,Heatherville,Returning,43,9,Checkout Abandoned
+1086,2024-10-01,CUST1086,Referral,email,/products,Yes,Yes,Yes,Yes,90.46,Mobile,Firefox,AU,South Latoyaburgh,Returning,238,14,
+1087,2024-12-24,CUST1087,Twitter,referral,/collections,Yes,Yes,No,No,0,Mobile,Edge,BR,North Brian,Returning,87,8,Checkout Abandoned
+1088,2025-02-17,CUST1088,TikTok,social,/sale,Yes,Yes,No,No,0,Tablet,Chrome,CA,North Samuel,New Visitor,283,7,Checkout Abandoned
+1089,2024-11-12,CUST1089,TikTok,email,/products,Yes,Yes,Yes,Yes,152.59,Tablet,Safari,FR,Kevinstad,Returning,240,14,
+1090,2024-12-27,CUST1090,TikTok,referral,/sale,Yes,Yes,Yes,No,0,Desktop,Chrome,JP,North Erinfurt,Returning,239,14,Account Required
+1091,2024-06-20,CUST1091,Pinterest,cpc,/collections,Yes,No,No,No,0,Mobile,Edge,BR,North Brandonmouth,Returning,583,5,Cart Not Initiated
+1092,2025-02-10,CUST1092,TikTok,social,/collections,Yes,Yes,No,No,0,Desktop,Chrome,UK,Lake Bridget,New Visitor,249,7,Checkout Abandoned
+1093,2025-01-19,CUST1093,Facebook Ads,email,/about,Yes,Yes,No,No,0,Mobile,Edge,CA,Amandaborough,New Visitor,382,4,Checkout Abandoned
+1094,2025-05-05,CUST1094,Email,social,/,Yes,No,No,No,0,Tablet,Opera,DE,Garciaberg,Returning,568,6,Cart Not Initiated
+1095,2024-08-11,CUST1095,Organic Search,referral,/sale,No,No,No,No,0,Desktop,Edge,US,Charlesburgh,Returning,8,1,Bounced
+1096,2025-03-08,CUST1096,Instagram,social,/collections,Yes,Yes,Yes,Yes,67.25,Tablet,Edge,AU,New Dennisview,Returning,96,3,
+1097,2024-10-16,CUST1097,Facebook Ads,organic,/about,Yes,Yes,Yes,No,0,Mobile,Safari,CA,Wallacehaven,Returning,258,6,Price Comparison
+1098,2025-01-04,CUST1098,Pinterest,email,/products,No,No,No,No,0,Desktop,Edge,UK,New Robin,Returning,9,1,Bounced
+1099,2025-03-03,CUST1099,Instagram,social,/collections,Yes,Yes,Yes,Yes,430.59,Mobile,Edge,FR,Lake Tamara,New Visitor,513,6,
+1100,2025-05-18,CUST1100,TikTok,referral,/about,Yes,Yes,Yes,Yes,86.09,Desktop,Firefox,JP,New Joshuaburgh,New Visitor,179,13,
+1101,2024-10-18,CUST1101,TikTok,organic,/products,Yes,No,No,No,0,Mobile,Chrome,MX,Lake Don,Returning,570,7,Cart Not Initiated
+1102,2024-10-14,CUST1102,TikTok,cpc,/products,Yes,Yes,No,No,0,Desktop,Safari,MX,Michellefurt,Returning,402,2,Checkout Abandoned
+1103,2025-05-08,CUST1103,Direct,cpc,/products,Yes,Yes,Yes,Yes,285.42,Desktop,Edge,MX,Curtisview,Returning,28,10,
+1104,2024-08-08,CUST1104,Twitter,organic,/collections,Yes,Yes,Yes,Yes,93.07,Desktop,Chrome,CA,West Emily,New Visitor,469,9,
+1105,2025-04-06,CUST1105,Direct,organic,/about,Yes,Yes,No,No,0,Desktop,Opera,MX,Anthonyberg,Returning,546,4,Checkout Abandoned
+1106,2025-04-25,CUST1106,Pinterest,referral,/collections,Yes,Yes,Yes,No,0,Desktop,Edge,DE,Smithville,New Visitor,431,12,High Shipping Cost
+1107,2024-06-27,CUST1107,Facebook Ads,organic,/products,Yes,Yes,No,No,0,Desktop,Edge,FR,Pamelafurt,Returning,561,6,Checkout Abandoned
+1108,2025-03-14,CUST1108,Instagram,referral,/collections,Yes,Yes,No,No,0,Mobile,Opera,FR,Klinefort,Returning,123,13,Checkout Abandoned
+1109,2024-06-05,CUST1109,Organic Search,email,/sale,Yes,Yes,Yes,Yes,369.63,Mobile,Edge,BR,Penabury,Returning,531,11,
+1110,2024-12-09,CUST1110,Email,email,/collections,No,No,No,No,0,Desktop,Safari,IN,Richardside,Returning,10,1,Bounced
+1111,2025-06-25,CUST1111,Direct,cpc,/,No,No,No,No,0,Tablet,Chrome,CA,Davidborough,Returning,30,3,Bounced
+1112,2025-06-24,CUST1112,Pinterest,referral,/sale,Yes,Yes,Yes,No,0,Mobile,Firefox,MX,New Danielstad,New Visitor,173,7,Price Comparison
+1113,2024-11-13,CUST1113,Direct,organic,/products,Yes,No,No,No,0,Tablet,Firefox,BR,Burgessmouth,Returning,413,8,Cart Not Initiated
+1114,2024-12-18,CUST1114,Twitter,social,/about,No,No,No,No,0,Desktop,Safari,US,Johnmouth,New Visitor,22,3,Bounced
+1115,2024-11-12,CUST1115,Email,cpc,/products,Yes,Yes,No,No,0,Desktop,Edge,UK,North Ivan,Returning,208,11,Checkout Abandoned
+1116,2024-06-14,CUST1116,Facebook Ads,email,/collections,No,No,No,No,0,Desktop,Safari,CA,Robinsonmouth,Returning,27,2,Bounced
+1117,2025-02-18,CUST1117,Twitter,cpc,/sale,Yes,Yes,Yes,Yes,70.37,Desktop,Opera,MX,Hillside,Returning,595,7,
+1118,2024-11-01,CUST1118,Direct,organic,/collections,Yes,Yes,Yes,Yes,283.9,Desktop,Opera,FR,Carterside,Returning,373,2,
+1119,2025-05-25,CUST1119,Organic Search,cpc,/,Yes,No,No,No,0,Desktop,Safari,MX,North Kimberly,Returning,549,8,Cart Not Initiated
+1120,2025-01-09,CUST1120,TikTok,referral,/,Yes,No,No,No,0,Tablet,Chrome,DE,Port Andreamouth,Returning,387,10,Cart Not Initiated
+1121,2025-05-06,CUST1121,TikTok,organic,/products,Yes,Yes,No,No,0,Tablet,Chrome,BR,New Jessica,Returning,14,3,Checkout Abandoned
+1122,2025-06-23,CUST1122,Instagram,referral,/products,Yes,No,No,No,0,Desktop,Edge,BR,Lake Robin,Returning,166,9,Cart Not Initiated
+1123,2024-11-01,CUST1123,Facebook Ads,referral,/products,Yes,Yes,Yes,Yes,18.91,Mobile,Safari,BR,Craneport,Returning,14,10,
+1124,2025-04-20,CUST1124,Instagram,referral,/products,Yes,Yes,Yes,Yes,207.77,Tablet,Edge,UK,Lake Alexis,Returning,151,10,
+1125,2025-06-04,CUST1125,Direct,email,/products,Yes,Yes,Yes,Yes,112.22,Desktop,Chrome,AU,Diazton,Returning,193,15,
+1126,2025-02-28,CUST1126,Google Ads,referral,/sale,Yes,Yes,No,No,0,Tablet,Safari,CA,Lake Stacyborough,Returning,33,13,Checkout Abandoned
+1127,2025-03-17,CUST1127,Email,email,/,Yes,Yes,Yes,No,0,Mobile,Chrome,US,East Christopherton,New Visitor,177,2,Price Comparison
+1128,2024-12-07,CUST1128,Pinterest,cpc,/about,Yes,Yes,Yes,Yes,366.3,Mobile,Chrome,AU,North Christopher,Returning,582,5,
+1129,2025-05-28,CUST1129,Pinterest,social,/,Yes,No,No,No,0,Tablet,Safari,CA,Kristinahaven,New Visitor,582,7,Cart Not Initiated
+1130,2024-11-13,CUST1130,Pinterest,referral,/collections,Yes,Yes,No,No,0,Tablet,Opera,UK,New Tiffanyland,Returning,105,11,Checkout Abandoned
+1131,2024-08-08,CUST1131,Instagram,social,/,Yes,Yes,Yes,No,0,Desktop,Safari,FR,New Kathryn,Returning,197,9,Payment Failed
+1132,2024-10-04,CUST1132,Pinterest,email,/products,Yes,Yes,Yes,Yes,365.71,Desktop,Chrome,CA,Mckinneymouth,Returning,242,2,
+1133,2024-07-14,CUST1133,Organic Search,organic,/,Yes,Yes,Yes,Yes,379.8,Tablet,Safari,DE,Danielsland,New Visitor,268,15,
+1134,2024-08-27,CUST1134,Instagram,email,/,Yes,Yes,Yes,No,0,Mobile,Edge,UK,East Ryanberg,Returning,400,6,High Shipping Cost
+1135,2024-12-04,CUST1135,Email,referral,/,Yes,No,No,No,0,Mobile,Firefox,UK,Reedborough,Returning,170,5,Cart Not Initiated
+1136,2024-08-30,CUST1136,Referral,cpc,/about,No,No,No,No,0,Desktop,Opera,BR,Tamarafurt,New Visitor,14,2,Bounced
+1137,2024-12-30,CUST1137,Twitter,social,/products,Yes,Yes,Yes,No,0,Tablet,Edge,IN,Chavezport,Returning,187,7,High Shipping Cost
+1138,2024-08-06,CUST1138,Email,email,/products,Yes,Yes,No,No,0,Desktop,Chrome,FR,Karenland,Returning,62,3,Checkout Abandoned
+1139,2024-07-04,CUST1139,Twitter,email,/products,Yes,Yes,Yes,Yes,35.45,Tablet,Edge,DE,Olsonborough,Returning,588,12,
+1140,2024-07-14,CUST1140,Organic Search,social,/products,Yes,No,No,No,0,Desktop,Opera,CA,New Michael,New Visitor,89,2,Cart Not Initiated
+1141,2024-06-18,CUST1141,TikTok,referral,/,Yes,Yes,No,No,0,Desktop,Edge,AU,Lake Matthewberg,Returning,437,12,Checkout Abandoned
+1142,2024-10-09,CUST1142,Referral,cpc,/,Yes,Yes,Yes,No,0,Tablet,Chrome,IN,Crawfordmouth,Returning,46,13,Complex Checkout
+1143,2025-01-22,CUST1143,Pinterest,organic,/about,Yes,No,No,No,0,Tablet,Chrome,BR,Lake Teresaton,New Visitor,396,10,Cart Not Initiated
+1144,2024-08-18,CUST1144,Instagram,organic,/,No,No,No,No,0,Mobile,Safari,MX,Wilkinsshire,New Visitor,7,1,Bounced
+1145,2024-09-20,CUST1145,Organic Search,cpc,/sale,Yes,Yes,Yes,Yes,344.27,Mobile,Edge,FR,Conniebury,New Visitor,96,10,
+1146,2025-01-15,CUST1146,Google Ads,social,/about,Yes,Yes,Yes,Yes,349.86,Desktop,Safari,DE,New Alanburgh,Returning,237,15,
+1147,2025-06-15,CUST1147,Organic Search,organic,/sale,Yes,Yes,No,No,0,Desktop,Safari,AU,Youngton,Returning,277,2,Checkout Abandoned
+1148,2025-03-30,CUST1148,Google Ads,organic,/collections,Yes,Yes,Yes,No,0,Mobile,Opera,IN,Andrewsview,Returning,365,11,Account Required
+1149,2025-04-26,CUST1149,Referral,organic,/sale,Yes,Yes,No,No,0,Mobile,Chrome,CA,New Mariahaven,New Visitor,544,7,Checkout Abandoned
+1150,2024-08-27,CUST1150,Pinterest,social,/sale,Yes,No,No,No,0,Mobile,Safari,FR,North Victoriamouth,Returning,383,6,Cart Not Initiated
+1151,2025-02-20,CUST1151,Direct,referral,/products,Yes,Yes,Yes,Yes,485.07,Mobile,Opera,MX,East Kevin,Returning,123,3,
+1152,2025-04-18,CUST1152,Facebook Ads,organic,/products,Yes,Yes,No,No,0,Tablet,Safari,MX,South Elizabethshire,New Visitor,221,9,Checkout Abandoned
+1153,2024-12-17,CUST1153,TikTok,referral,/sale,Yes,Yes,Yes,No,0,Tablet,Opera,JP,Christopherberg,Returning,526,2,High Shipping Cost
+1154,2025-02-22,CUST1154,Facebook Ads,email,/products,No,No,No,No,0,Tablet,Chrome,IN,Timothyhaven,Returning,18,2,Bounced
+1155,2024-10-18,CUST1155,Organic Search,referral,/,Yes,Yes,Yes,No,0,Tablet,Opera,FR,South Jonathan,Returning,34,8,Account Required
+1156,2025-05-19,CUST1156,Google Ads,email,/collections,Yes,Yes,Yes,Yes,233.78,Tablet,Edge,AU,Wesleyside,Returning,21,2,
+1157,2024-10-06,CUST1157,TikTok,social,/products,Yes,No,No,No,0,Desktop,Opera,CA,Port Ashleyberg,Returning,545,2,Cart Not Initiated
+1158,2025-05-18,CUST1158,Referral,email,/collections,Yes,Yes,Yes,No,0,Tablet,Edge,AU,New Stevenfurt,New Visitor,53,11,Account Required
+1159,2025-05-06,CUST1159,Instagram,referral,/sale,Yes,Yes,No,No,0,Desktop,Chrome,FR,Allentown,Returning,459,10,Checkout Abandoned
+1160,2024-11-26,CUST1160,Instagram,email,/sale,Yes,Yes,No,No,0,Tablet,Firefox,BR,Robertland,Returning,265,7,Checkout Abandoned
+1161,2024-12-21,CUST1161,Pinterest,cpc,/sale,No,No,No,No,0,Mobile,Edge,JP,Justinburgh,Returning,3,3,Bounced
+1162,2024-11-17,CUST1162,Direct,cpc,/collections,Yes,No,No,No,0,Mobile,Opera,CA,Port Alyssamouth,New Visitor,220,2,Cart Not Initiated
+1163,2025-01-27,CUST1163,Direct,referral,/products,Yes,Yes,Yes,Yes,39.82,Mobile,Opera,JP,Nguyenstad,New Visitor,70,13,
+1164,2025-02-20,CUST1164,Organic Search,organic,/,Yes,Yes,Yes,Yes,347.41,Mobile,Safari,BR,Solisfurt,Returning,558,11,
+1165,2024-10-23,CUST1165,Instagram,email,/,Yes,Yes,No,No,0,Mobile,Firefox,BR,West Latashaburgh,Returning,403,15,Checkout Abandoned
+1166,2025-05-21,CUST1166,Google Ads,cpc,/,No,No,No,No,0,Mobile,Edge,UK,Graceview,Returning,3,2,Bounced
+1167,2025-06-28,CUST1167,Direct,social,/collections,Yes,No,No,No,0,Desktop,Opera,CA,Dakotatown,New Visitor,172,15,Cart Not Initiated
+1168,2025-01-23,CUST1168,Referral,cpc,/products,Yes,No,No,No,0,Tablet,Opera,IN,North Lisa,Returning,532,9,Cart Not Initiated
+1169,2024-09-18,CUST1169,Twitter,organic,/,Yes,Yes,Yes,No,0,Tablet,Firefox,DE,Lake Jenniferfurt,Returning,54,13,Price Comparison
+1170,2025-03-10,CUST1170,Direct,organic,/,Yes,No,No,No,0,Tablet,Safari,JP,Briggsview,New Visitor,134,2,Cart Not Initiated
+1171,2024-09-23,CUST1171,Referral,referral,/sale,Yes,Yes,Yes,No,0,Desktop,Opera,IN,Port Shaun,Returning,327,11,Complex Checkout
+1172,2025-06-06,CUST1172,Facebook Ads,organic,/about,Yes,Yes,Yes,No,0,Desktop,Safari,FR,Douglasbury,New Visitor,301,2,Payment Failed
+1173,2024-10-01,CUST1173,TikTok,email,/about,Yes,Yes,Yes,No,0,Tablet,Firefox,UK,West Ronald,Returning,255,7,Account Required
+1174,2025-01-10,CUST1174,Direct,email,/sale,Yes,Yes,No,No,0,Desktop,Firefox,DE,Cohenport,Returning,565,2,Checkout Abandoned
+1175,2025-01-05,CUST1175,Direct,referral,/collections,No,No,No,No,0,Tablet,Chrome,FR,Lake Tyler,Returning,21,3,Bounced
+1176,2025-05-09,CUST1176,Referral,email,/products,Yes,Yes,Yes,No,0,Desktop,Chrome,MX,North Ericmouth,New Visitor,328,15,Complex Checkout
+1177,2024-06-04,CUST1177,Direct,email,/sale,Yes,No,No,No,0,Mobile,Firefox,IN,Michaelmouth,Returning,453,11,Cart Not Initiated
+1178,2024-06-30,CUST1178,Direct,referral,/collections,Yes,Yes,Yes,No,0,Tablet,Firefox,BR,Pollardborough,Returning,199,4,Payment Failed
+1179,2025-05-11,CUST1179,Twitter,organic,/,Yes,Yes,Yes,Yes,482.27,Mobile,Chrome,UK,West Emilyton,Returning,159,6,
+1180,2024-10-10,CUST1180,Organic Search,cpc,/sale,No,No,No,No,0,Tablet,Chrome,UK,South Austin,Returning,15,3,Bounced
+1181,2024-08-17,CUST1181,Facebook Ads,cpc,/products,Yes,Yes,Yes,No,0,Tablet,Safari,BR,Jaredland,Returning,545,7,Payment Failed
+1182,2024-06-11,CUST1182,Direct,email,/,Yes,Yes,No,No,0,Tablet,Chrome,FR,Bergerview,New Visitor,600,9,Checkout Abandoned
+1183,2025-01-17,CUST1183,Facebook Ads,cpc,/sale,Yes,Yes,No,No,0,Desktop,Edge,UK,Julianshire,Returning,281,3,Checkout Abandoned
+1184,2024-09-08,CUST1184,Google Ads,organic,/about,Yes,Yes,Yes,Yes,428.57,Desktop,Firefox,UK,New Cody,Returning,96,13,
+1185,2024-10-25,CUST1185,Referral,social,/about,Yes,No,No,No,0,Desktop,Chrome,US,Kevinville,New Visitor,584,7,Cart Not Initiated
+1186,2025-05-15,CUST1186,TikTok,social,/sale,Yes,Yes,Yes,No,0,Tablet,Opera,US,Wendyview,Returning,180,14,Payment Failed
+1187,2025-05-24,CUST1187,Instagram,email,/collections,Yes,Yes,Yes,Yes,70.19,Tablet,Firefox,AU,Sotofurt,New Visitor,594,14,
+1188,2024-07-10,CUST1188,Organic Search,social,/sale,Yes,Yes,No,No,0,Mobile,Firefox,MX,Hollyside,Returning,72,11,Checkout Abandoned
+1189,2025-03-04,CUST1189,Organic Search,referral,/about,Yes,Yes,No,No,0,Desktop,Safari,IN,Jillberg,New Visitor,241,9,Checkout Abandoned
+1190,2024-06-23,CUST1190,Twitter,cpc,/products,No,No,No,No,0,Mobile,Opera,BR,West Adamtown,Returning,24,2,Bounced
+1191,2025-04-16,CUST1191,Pinterest,social,/about,Yes,No,No,No,0,Desktop,Opera,BR,Francostad,Returning,381,3,Cart Not Initiated
+1192,2024-12-12,CUST1192,Organic Search,referral,/about,Yes,Yes,No,No,0,Tablet,Edge,US,Port Amanda,Returning,92,11,Checkout Abandoned
+1193,2025-05-23,CUST1193,Pinterest,cpc,/,Yes,Yes,Yes,Yes,494.86,Mobile,Edge,IN,New Noahburgh,Returning,222,13,
+1194,2024-06-10,CUST1194,Pinterest,cpc,/products,Yes,Yes,Yes,Yes,139.37,Tablet,Chrome,IN,West Rachelmouth,Returning,28,9,
+1195,2024-11-14,CUST1195,Twitter,referral,/sale,Yes,No,No,No,0,Mobile,Firefox,FR,Castrotown,Returning,535,2,Cart Not Initiated
+1196,2025-03-06,CUST1196,Instagram,organic,/about,Yes,Yes,Yes,Yes,96.2,Tablet,Edge,IN,Tonyashire,Returning,136,12,
+1197,2024-08-03,CUST1197,Google Ads,social,/collections,Yes,Yes,No,No,0,Tablet,Edge,FR,East Michaelland,New Visitor,485,10,Checkout Abandoned
+1198,2024-10-06,CUST1198,Google Ads,cpc,/products,Yes,Yes,Yes,Yes,490.84,Mobile,Safari,IN,South Donna,Returning,214,14,
+1199,2025-01-04,CUST1199,Twitter,email,/sale,Yes,No,No,No,0,Mobile,Edge,IN,West Jaimemouth,New Visitor,394,2,Cart Not Initiated
+1200,2024-10-18,CUST1200,Organic Search,email,/products,No,No,No,No,0,Tablet,Chrome,IN,Kerrtown,Returning,10,2,Bounced
+1201,2024-09-16,CUST1201,Referral,organic,/,Yes,No,No,No,0,Tablet,Firefox,FR,Mendozamouth,Returning,115,12,Cart Not Initiated
+1202,2024-11-28,CUST1202,Pinterest,email,/products,Yes,Yes,No,No,0,Mobile,Chrome,AU,Hawkinsview,Returning,443,2,Checkout Abandoned
+1203,2024-10-10,CUST1203,Organic Search,email,/products,Yes,Yes,No,No,0,Tablet,Safari,BR,Anthonytown,Returning,487,7,Checkout Abandoned
+1204,2025-06-13,CUST1204,Organic Search,cpc,/,Yes,Yes,No,No,0,Tablet,Opera,BR,East Jonathanborough,Returning,258,4,Checkout Abandoned
+1205,2024-12-14,CUST1205,TikTok,cpc,/about,Yes,No,No,No,0,Mobile,Opera,FR,East Jennifer,Returning,337,2,Cart Not Initiated
+1206,2024-11-21,CUST1206,Google Ads,referral,/about,Yes,Yes,Yes,No,0,Mobile,Firefox,JP,Isaacchester,New Visitor,407,12,Account Required
+1207,2024-12-01,CUST1207,TikTok,referral,/,Yes,No,No,No,0,Mobile,Edge,US,North Jill,New Visitor,185,4,Cart Not Initiated
+1208,2025-02-20,CUST1208,Twitter,email,/,Yes,Yes,Yes,Yes,482.06,Tablet,Opera,US,Larrymouth,Returning,134,12,
+1209,2025-04-29,CUST1209,Twitter,email,/,Yes,Yes,Yes,Yes,129.52,Tablet,Firefox,IN,Aaronville,New Visitor,143,12,
+1210,2024-12-24,CUST1210,Instagram,organic,/products,Yes,Yes,Yes,No,0,Desktop,Chrome,AU,Suttonstad,New Visitor,183,6,Payment Failed
+1211,2025-06-05,CUST1211,Referral,social,/sale,Yes,Yes,No,No,0,Tablet,Firefox,FR,Port Jeffchester,New Visitor,41,13,Checkout Abandoned
+1212,2024-07-10,CUST1212,Twitter,email,/collections,Yes,Yes,No,No,0,Tablet,Firefox,IN,East Robert,Returning,502,6,Checkout Abandoned
+1213,2025-04-29,CUST1213,Pinterest,email,/products,Yes,No,No,No,0,Mobile,Firefox,JP,North Julia,New Visitor,464,12,Cart Not Initiated
+1214,2024-10-20,CUST1214,Pinterest,referral,/,Yes,Yes,Yes,Yes,156.06,Tablet,Opera,UK,New Dylan,Returning,96,12,
+1215,2024-08-10,CUST1215,Referral,referral,/,Yes,Yes,No,No,0,Mobile,Firefox,MX,Port Shelby,New Visitor,437,12,Checkout Abandoned
+1216,2025-04-24,CUST1216,Organic Search,cpc,/,Yes,Yes,Yes,Yes,168.34,Tablet,Chrome,FR,Johnland,New Visitor,562,7,
+1217,2024-08-20,CUST1217,Referral,organic,/collections,Yes,Yes,Yes,No,0,Mobile,Opera,CA,Crystalland,Returning,525,8,High Shipping Cost
+1218,2025-05-06,CUST1218,Organic Search,cpc,/products,Yes,No,No,No,0,Tablet,Firefox,FR,East Shanefurt,New Visitor,405,9,Cart Not Initiated
+1219,2025-06-22,CUST1219,Instagram,cpc,/,Yes,No,No,No,0,Tablet,Chrome,FR,West Stevebury,Returning,15,4,Cart Not Initiated
+1220,2025-04-06,CUST1220,Pinterest,email,/about,Yes,Yes,No,No,0,Mobile,Edge,CA,Davidbury,New Visitor,425,15,Checkout Abandoned
+1221,2025-02-11,CUST1221,Google Ads,referral,/,No,No,No,No,0,Desktop,Firefox,FR,Shawbury,Returning,5,3,Bounced
+1222,2024-07-22,CUST1222,Referral,cpc,/collections,Yes,Yes,No,No,0,Mobile,Safari,US,Anthonymouth,Returning,338,13,Checkout Abandoned
+1223,2024-08-08,CUST1223,Instagram,organic,/,Yes,Yes,Yes,Yes,280.67,Tablet,Opera,DE,Jasonstad,Returning,559,10,
+1224,2024-08-14,CUST1224,TikTok,social,/collections,Yes,Yes,Yes,Yes,122.71,Mobile,Safari,AU,Erinstad,Returning,34,13,
+1225,2025-03-28,CUST1225,Pinterest,social,/products,No,No,No,No,0,Tablet,Opera,BR,Liburgh,New Visitor,7,2,Bounced
+1226,2025-04-17,CUST1226,Facebook Ads,organic,/sale,Yes,Yes,Yes,No,0,Desktop,Chrome,BR,Wrightburgh,Returning,292,4,Slow Loading
+1227,2024-09-26,CUST1227,Pinterest,cpc,/collections,No,No,No,No,0,Desktop,Firefox,BR,South Brian,Returning,18,3,Bounced
+1228,2025-03-02,CUST1228,Direct,organic,/collections,Yes,Yes,No,No,0,Tablet,Chrome,JP,Lake Tiffany,Returning,56,6,Checkout Abandoned
+1229,2024-12-17,CUST1229,Email,referral,/sale,No,No,No,No,0,Mobile,Chrome,FR,Burkeville,Returning,5,3,Bounced
+1230,2025-02-22,CUST1230,Pinterest,email,/collections,Yes,No,No,No,0,Mobile,Firefox,CA,Lake Meredith,Returning,237,15,Cart Not Initiated
+1231,2025-06-26,CUST1231,Organic Search,cpc,/sale,No,No,No,No,0,Mobile,Edge,FR,Gracefurt,Returning,4,3,Bounced
+1232,2025-04-03,CUST1232,TikTok,cpc,/,Yes,Yes,No,No,0,Tablet,Chrome,FR,Mariaborough,Returning,284,10,Checkout Abandoned
+1233,2025-03-26,CUST1233,Organic Search,email,/about,Yes,No,No,No,0,Desktop,Opera,DE,West Codyborough,Returning,79,15,Cart Not Initiated
+1234,2025-01-10,CUST1234,Facebook Ads,cpc,/,Yes,Yes,No,No,0,Tablet,Opera,UK,Blairville,New Visitor,424,10,Checkout Abandoned
+1235,2024-08-14,CUST1235,TikTok,email,/sale,Yes,No,No,No,0,Mobile,Opera,UK,Gibsonbury,Returning,390,4,Cart Not Initiated
+1236,2025-04-24,CUST1236,Email,email,/sale,Yes,Yes,No,No,0,Mobile,Chrome,CA,South Julianton,New Visitor,353,12,Checkout Abandoned
+1237,2024-11-27,CUST1237,Facebook Ads,email,/about,Yes,No,No,No,0,Desktop,Edge,JP,Davidfurt,New Visitor,519,11,Cart Not Initiated
+1238,2024-12-24,CUST1238,Twitter,cpc,/about,No,No,No,No,0,Tablet,Opera,US,New James,Returning,10,3,Bounced
+1239,2024-07-18,CUST1239,Twitter,organic,/about,No,No,No,No,0,Mobile,Chrome,MX,Anntown,New Visitor,6,1,Bounced
+1240,2024-11-19,CUST1240,Google Ads,social,/products,Yes,No,No,No,0,Tablet,Edge,JP,South Heiditown,Returning,146,4,Cart Not Initiated
+1241,2025-04-05,CUST1241,Pinterest,referral,/about,Yes,Yes,Yes,No,0,Tablet,Edge,AU,Amberland,Returning,592,5,Slow Loading
+1242,2024-11-05,CUST1242,Facebook Ads,referral,/products,Yes,Yes,No,No,0,Desktop,Firefox,JP,West John,Returning,297,8,Checkout Abandoned
+1243,2024-09-15,CUST1243,Referral,social,/products,Yes,Yes,Yes,Yes,232.1,Mobile,Opera,FR,New Robert,Returning,118,12,
+1244,2024-10-13,CUST1244,Facebook Ads,referral,/collections,Yes,No,No,No,0,Tablet,Opera,BR,Debbiefort,Returning,149,14,Cart Not Initiated
+1245,2025-03-28,CUST1245,Twitter,email,/about,Yes,Yes,No,No,0,Tablet,Opera,MX,West Laura,Returning,404,9,Checkout Abandoned
+1246,2025-02-28,CUST1246,Direct,referral,/products,Yes,Yes,No,No,0,Mobile,Chrome,JP,Lake Kelsey,Returning,109,3,Checkout Abandoned
+1247,2024-06-30,CUST1247,Direct,organic,/products,No,No,No,No,0,Mobile,Chrome,AU,South Nicole,New Visitor,15,3,Bounced
+1248,2025-03-13,CUST1248,Direct,referral,/sale,Yes,Yes,No,No,0,Tablet,Firefox,DE,Sarahmouth,Returning,279,5,Checkout Abandoned
+1249,2024-10-12,CUST1249,Facebook Ads,email,/about,Yes,No,No,No,0,Desktop,Chrome,DE,Maldonadoberg,Returning,400,3,Cart Not Initiated
+1250,2024-10-30,CUST1250,Instagram,social,/about,No,No,No,No,0,Tablet,Chrome,DE,Sharonhaven,Returning,9,2,Bounced
+1251,2025-05-05,CUST1251,TikTok,email,/about,Yes,Yes,No,No,0,Tablet,Opera,CA,New Gregorymouth,Returning,407,10,Checkout Abandoned
+1252,2025-01-24,CUST1252,Google Ads,cpc,/,No,No,No,No,0,Mobile,Edge,MX,Lake Robertburgh,Returning,10,2,Bounced
+1253,2024-10-18,CUST1253,Instagram,organic,/sale,Yes,No,No,No,0,Mobile,Firefox,DE,East Austinburgh,Returning,362,14,Cart Not Initiated
+1254,2025-04-28,CUST1254,Email,social,/,Yes,Yes,No,No,0,Mobile,Edge,DE,Mikeshire,Returning,358,10,Checkout Abandoned
+1255,2024-07-14,CUST1255,Referral,cpc,/products,Yes,Yes,Yes,Yes,375.39,Tablet,Edge,CA,South Christopherport,Returning,467,4,
+1256,2024-06-25,CUST1256,Referral,referral,/products,Yes,No,No,No,0,Mobile,Chrome,AU,Montoyaburgh,Returning,520,8,Cart Not Initiated
+1257,2025-02-17,CUST1257,Pinterest,social,/,Yes,Yes,No,No,0,Mobile,Firefox,FR,Susanmouth,Returning,382,13,Checkout Abandoned
+1258,2024-10-21,CUST1258,Instagram,organic,/about,No,No,No,No,0,Desktop,Safari,CA,New Nancymouth,New Visitor,19,1,Bounced
+1259,2024-07-22,CUST1259,Referral,cpc,/,No,No,No,No,0,Tablet,Opera,AU,Matthewside,Returning,16,1,Bounced
+1260,2024-12-01,CUST1260,TikTok,cpc,/about,Yes,Yes,Yes,No,0,Tablet,Safari,DE,Masonmouth,Returning,122,11,High Shipping Cost
+1261,2024-08-02,CUST1261,Facebook Ads,cpc,/collections,Yes,Yes,Yes,Yes,263.35,Desktop,Safari,IN,Johnsonstad,Returning,409,3,
+1262,2024-08-22,CUST1262,Twitter,cpc,/products,Yes,No,No,No,0,Tablet,Edge,AU,Goodmanview,Returning,258,5,Cart Not Initiated
+1263,2024-11-02,CUST1263,Pinterest,email,/sale,Yes,Yes,No,No,0,Desktop,Firefox,US,New Edwinfort,Returning,241,5,Checkout Abandoned
+1264,2024-10-22,CUST1264,Organic Search,cpc,/collections,Yes,Yes,No,No,0,Desktop,Chrome,UK,Thomashaven,Returning,115,14,Checkout Abandoned
+1265,2024-09-05,CUST1265,Organic Search,organic,/sale,Yes,Yes,Yes,Yes,444.35,Mobile,Edge,DE,Caseyview,Returning,184,14,
+1266,2024-11-07,CUST1266,Email,email,/about,No,No,No,No,0,Desktop,Edge,IN,Stephenshire,Returning,20,1,Bounced
+1267,2025-02-25,CUST1267,Pinterest,social,/collections,Yes,Yes,No,No,0,Desktop,Opera,MX,South Corey,Returning,103,8,Checkout Abandoned
+1268,2025-06-18,CUST1268,Email,email,/products,No,No,No,No,0,Desktop,Safari,CA,Davidstad,New Visitor,12,2,Bounced
+1269,2025-05-31,CUST1269,Direct,email,/collections,Yes,Yes,Yes,Yes,68.47,Mobile,Firefox,IN,New Keithchester,Returning,387,15,
+1270,2024-09-13,CUST1270,Twitter,organic,/collections,Yes,No,No,No,0,Mobile,Safari,JP,Port Sueton,New Visitor,336,2,Cart Not Initiated
+1271,2024-06-21,CUST1271,Organic Search,social,/about,No,No,No,No,0,Tablet,Edge,DE,Riceton,Returning,19,3,Bounced
+1272,2025-04-01,CUST1272,Facebook Ads,email,/,Yes,No,No,No,0,Tablet,Safari,FR,Port Emilyton,Returning,129,12,Cart Not Initiated
+1273,2025-04-13,CUST1273,Direct,email,/about,Yes,Yes,Yes,Yes,57.05,Mobile,Opera,BR,West Chloe,Returning,253,8,
+1274,2025-02-11,CUST1274,TikTok,cpc,/,No,No,No,No,0,Mobile,Firefox,US,Port Juliatown,Returning,20,1,Bounced
+1275,2025-04-01,CUST1275,Google Ads,social,/about,Yes,Yes,No,No,0,Mobile,Firefox,CA,Jimmyshire,Returning,541,15,Checkout Abandoned
+1276,2025-05-29,CUST1276,Direct,social,/about,No,No,No,No,0,Desktop,Edge,CA,Kellybury,Returning,26,2,Bounced
+1277,2025-05-15,CUST1277,Google Ads,social,/,Yes,Yes,Yes,Yes,189.62,Mobile,Chrome,US,South Margaretfurt,New Visitor,572,3,
+1278,2025-01-24,CUST1278,Instagram,cpc,/,Yes,Yes,Yes,No,0,Desktop,Safari,JP,West Courtney,Returning,519,9,Slow Loading
+1279,2024-09-29,CUST1279,Twitter,cpc,/sale,Yes,No,No,No,0,Mobile,Edge,CA,West Dianemouth,Returning,527,13,Cart Not Initiated
+1280,2024-08-01,CUST1280,Pinterest,referral,/about,Yes,No,No,No,0,Tablet,Safari,DE,South Anthonystad,New Visitor,109,10,Cart Not Initiated
+1281,2025-06-27,CUST1281,Email,organic,/about,Yes,Yes,Yes,No,0,Mobile,Opera,BR,North Courtney,New Visitor,553,4,Complex Checkout
+1282,2024-10-18,CUST1282,Google Ads,organic,/sale,No,No,No,No,0,Tablet,Chrome,JP,Angelaville,Returning,13,2,Bounced
+1283,2025-01-28,CUST1283,Facebook Ads,email,/,Yes,No,No,No,0,Mobile,Edge,AU,East David,New Visitor,11,7,Cart Not Initiated
+1284,2024-06-12,CUST1284,Referral,social,/about,Yes,Yes,Yes,No,0,Tablet,Safari,UK,Cheryltown,Returning,529,10,Payment Failed
+1285,2025-03-09,CUST1285,Organic Search,referral,/about,Yes,Yes,Yes,Yes,238.28,Mobile,Edge,AU,East Charles,Returning,506,14,
+1286,2025-03-15,CUST1286,TikTok,referral,/products,Yes,Yes,Yes,No,0,Tablet,Edge,CA,Morrowfort,Returning,117,6,Payment Failed
+1287,2024-08-29,CUST1287,Referral,cpc,/sale,Yes,Yes,No,No,0,Desktop,Opera,US,Wilkinsonville,New Visitor,126,4,Checkout Abandoned
+1288,2024-07-27,CUST1288,Referral,referral,/,Yes,Yes,No,No,0,Desktop,Safari,BR,Kathleenport,Returning,420,15,Checkout Abandoned
+1289,2024-12-18,CUST1289,Google Ads,referral,/collections,Yes,Yes,Yes,Yes,243.73,Mobile,Chrome,IN,Alexanderfurt,Returning,89,6,
+1290,2024-11-06,CUST1290,Google Ads,cpc,/products,Yes,Yes,No,No,0,Tablet,Opera,IN,Meyermouth,Returning,535,11,Checkout Abandoned
+1291,2024-12-18,CUST1291,Direct,email,/about,Yes,Yes,No,No,0,Mobile,Chrome,JP,Donaldsonberg,Returning,541,13,Checkout Abandoned
+1292,2024-11-05,CUST1292,Direct,cpc,/,Yes,Yes,Yes,Yes,449.01,Tablet,Firefox,DE,West Dennis,Returning,555,3,
+1293,2025-03-31,CUST1293,Organic Search,social,/products,Yes,Yes,Yes,Yes,53.91,Desktop,Safari,FR,Lake Rodney,Returning,241,8,
+1294,2025-01-01,CUST1294,Facebook Ads,referral,/about,Yes,No,No,No,0,Mobile,Safari,DE,Danielview,New Visitor,573,13,Cart Not Initiated
+1295,2024-08-15,CUST1295,Email,organic,/,No,No,No,No,0,Mobile,Safari,UK,Jimenezbury,Returning,4,1,Bounced
+1296,2025-03-10,CUST1296,Twitter,referral,/sale,Yes,Yes,No,No,0,Tablet,Firefox,CA,West Thomaston,Returning,350,14,Checkout Abandoned
+1297,2024-06-18,CUST1297,Direct,organic,/collections,Yes,No,No,No,0,Tablet,Edge,US,East Noah,New Visitor,269,10,Cart Not Initiated
+1298,2025-03-10,CUST1298,Facebook Ads,email,/,Yes,Yes,Yes,Yes,94.23,Mobile,Edge,IN,Codyville,Returning,96,13,
+1299,2025-02-16,CUST1299,Facebook Ads,cpc,/collections,Yes,Yes,Yes,Yes,406.31,Mobile,Edge,JP,Christensenfort,Returning,253,5,
+1300,2024-11-08,CUST1300,Organic Search,cpc,/products,No,No,No,No,0,Tablet,Chrome,US,South Mary,Returning,13,3,Bounced
+1301,2024-08-15,CUST1301,Pinterest,cpc,/products,Yes,Yes,No,No,0,Tablet,Opera,FR,Port Kyleland,Returning,342,5,Checkout Abandoned
+1302,2024-07-06,CUST1302,Email,referral,/products,Yes,Yes,Yes,No,0,Desktop,Edge,MX,West Williamside,New Visitor,522,9,No Reason
+1303,2025-05-28,CUST1303,Referral,organic,/products,Yes,No,No,No,0,Tablet,Edge,MX,West Jason,Returning,369,9,Cart Not Initiated
+1304,2024-06-25,CUST1304,Email,cpc,/collections,Yes,No,No,No,0,Tablet,Chrome,IN,Lisaside,Returning,182,6,Cart Not Initiated
+1305,2025-05-27,CUST1305,TikTok,cpc,/products,Yes,Yes,Yes,Yes,274.04,Tablet,Edge,UK,Dianashire,Returning,439,10,
+1306,2025-02-22,CUST1306,TikTok,referral,/collections,No,No,No,No,0,Desktop,Opera,CA,Patelfort,Returning,4,2,Bounced
+1307,2025-01-18,CUST1307,Direct,social,/,No,No,No,No,0,Tablet,Chrome,AU,Robertsburgh,New Visitor,18,1,Bounced
+1308,2025-06-03,CUST1308,Referral,social,/,Yes,No,No,No,0,Desktop,Chrome,FR,Ballview,Returning,525,7,Cart Not Initiated
+1309,2024-09-27,CUST1309,TikTok,referral,/about,No,No,No,No,0,Mobile,Opera,UK,Harveyville,Returning,14,2,Bounced
+1310,2024-09-22,CUST1310,Facebook Ads,cpc,/sale,Yes,Yes,No,No,0,Tablet,Edge,AU,West Samanthastad,Returning,146,9,Checkout Abandoned
+1311,2025-03-27,CUST1311,Twitter,referral,/sale,Yes,Yes,Yes,No,0,Mobile,Safari,CA,Lake Travis,New Visitor,256,10,Account Required
+1312,2024-08-12,CUST1312,Organic Search,cpc,/collections,Yes,Yes,Yes,No,0,Mobile,Firefox,US,West Carolinestad,Returning,389,7,Payment Failed
+1313,2024-09-08,CUST1313,Facebook Ads,referral,/about,Yes,Yes,No,No,0,Desktop,Firefox,US,West Aimee,Returning,468,11,Checkout Abandoned
+1314,2025-04-13,CUST1314,Instagram,cpc,/collections,No,No,No,No,0,Tablet,Edge,BR,South Jennifer,Returning,7,2,Bounced
+1315,2024-06-22,CUST1315,Google Ads,cpc,/about,Yes,Yes,No,No,0,Desktop,Opera,MX,Rodriguezborough,Returning,569,9,Checkout Abandoned
+1316,2025-04-02,CUST1316,Pinterest,referral,/products,Yes,No,No,No,0,Tablet,Firefox,FR,Nancyberg,New Visitor,139,5,Cart Not Initiated
+1317,2024-09-11,CUST1317,Referral,email,/collections,Yes,Yes,No,No,0,Mobile,Firefox,UK,Alexandertown,New Visitor,584,14,Checkout Abandoned
+1318,2025-05-09,CUST1318,Google Ads,social,/sale,No,No,No,No,0,Desktop,Chrome,UK,North Brian,Returning,3,2,Bounced
+1319,2024-07-21,CUST1319,Referral,organic,/,No,No,No,No,0,Desktop,Edge,AU,Priceville,Returning,22,2,Bounced
+1320,2025-05-21,CUST1320,Email,organic,/products,Yes,No,No,No,0,Desktop,Edge,US,Gomezland,Returning,12,3,Cart Not Initiated
+1321,2024-06-05,CUST1321,Referral,social,/sale,Yes,Yes,No,No,0,Desktop,Chrome,BR,Terrellshire,New Visitor,28,3,Checkout Abandoned
+1322,2025-02-23,CUST1322,Twitter,referral,/sale,Yes,Yes,No,No,0,Desktop,Chrome,UK,East Courtney,Returning,547,8,Checkout Abandoned
+1323,2024-08-16,CUST1323,TikTok,cpc,/about,Yes,Yes,Yes,Yes,298.37,Mobile,Chrome,BR,Barrettland,Returning,377,14,
+1324,2024-09-04,CUST1324,Facebook Ads,email,/about,Yes,Yes,No,No,0,Tablet,Edge,AU,Grossland,New Visitor,436,3,Checkout Abandoned
+1325,2024-12-25,CUST1325,Pinterest,email,/sale,Yes,No,No,No,0,Desktop,Opera,JP,Adrianside,New Visitor,518,6,Cart Not Initiated
+1326,2024-08-17,CUST1326,Pinterest,organic,/products,Yes,No,No,No,0,Tablet,Opera,JP,Garciahaven,New Visitor,122,13,Cart Not Initiated
+1327,2024-12-10,CUST1327,Email,email,/products,Yes,Yes,Yes,No,0,Tablet,Firefox,DE,Gibsonview,New Visitor,197,3,No Reason
+1328,2024-07-12,CUST1328,Twitter,email,/products,Yes,Yes,Yes,No,0,Mobile,Opera,BR,South Kariburgh,Returning,437,2,Slow Loading
+1329,2025-03-03,CUST1329,Direct,social,/sale,Yes,Yes,Yes,No,0,Mobile,Safari,AU,Ginaview,Returning,324,10,Payment Failed
+1330,2024-07-16,CUST1330,Twitter,cpc,/collections,Yes,No,No,No,0,Tablet,Edge,IN,Port Annashire,Returning,588,12,Cart Not Initiated
+1331,2025-04-04,CUST1331,Pinterest,social,/sale,Yes,Yes,Yes,No,0,Desktop,Safari,BR,Louisside,New Visitor,435,15,No Reason
+1332,2025-02-13,CUST1332,Google Ads,organic,/products,Yes,No,No,No,0,Desktop,Firefox,US,East Edward,Returning,265,9,Cart Not Initiated
+1333,2025-01-12,CUST1333,Google Ads,social,/,Yes,Yes,Yes,No,0,Mobile,Opera,DE,Port Meaganmouth,Returning,289,7,Slow Loading
+1334,2024-12-09,CUST1334,Google Ads,organic,/collections,No,No,No,No,0,Tablet,Safari,FR,Theresamouth,New Visitor,18,1,Bounced
+1335,2025-02-19,CUST1335,Organic Search,referral,/products,Yes,No,No,No,0,Mobile,Edge,UK,Mackmouth,New Visitor,12,8,Cart Not Initiated
+1336,2024-11-08,CUST1336,Pinterest,email,/collections,Yes,No,No,No,0,Desktop,Opera,IN,Sierrachester,Returning,506,9,Cart Not Initiated
+1337,2025-04-21,CUST1337,Organic Search,email,/sale,No,No,No,No,0,Tablet,Chrome,IN,East Katherine,Returning,29,3,Bounced
+1338,2024-09-01,CUST1338,Pinterest,email,/sale,Yes,Yes,No,No,0,Mobile,Safari,AU,Torresstad,New Visitor,46,5,Checkout Abandoned
+1339,2024-12-03,CUST1339,Instagram,email,/,Yes,No,No,No,0,Tablet,Chrome,BR,Port David,New Visitor,236,2,Cart Not Initiated
+1340,2024-11-02,CUST1340,Google Ads,cpc,/about,No,No,No,No,0,Tablet,Firefox,AU,West Annette,New Visitor,9,1,Bounced
+1341,2024-06-25,CUST1341,Pinterest,email,/,Yes,No,No,No,0,Desktop,Firefox,AU,North Ginamouth,Returning,147,8,Cart Not Initiated
+1342,2025-05-16,CUST1342,Google Ads,email,/,Yes,No,No,No,0,Tablet,Opera,MX,Lake Maryfurt,Returning,472,8,Cart Not Initiated
+1343,2024-07-30,CUST1343,Organic Search,organic,/,No,No,No,No,0,Desktop,Opera,MX,Port Connie,New Visitor,14,3,Bounced
+1344,2024-07-25,CUST1344,Referral,social,/about,No,No,No,No,0,Mobile,Edge,FR,Port Amber,Returning,5,3,Bounced
+1345,2025-05-01,CUST1345,Organic Search,cpc,/,Yes,Yes,No,No,0,Mobile,Safari,CA,North Katrina,New Visitor,55,3,Checkout Abandoned
+1346,2025-02-23,CUST1346,Organic Search,organic,/products,Yes,No,No,No,0,Desktop,Firefox,MX,New Angelachester,Returning,532,15,Cart Not Initiated
+1347,2024-09-05,CUST1347,Google Ads,cpc,/sale,Yes,Yes,Yes,Yes,474.95,Desktop,Edge,UK,North Wanda,Returning,105,2,
+1348,2024-11-22,CUST1348,Direct,social,/about,Yes,Yes,No,No,0,Mobile,Safari,FR,Danielmouth,Returning,240,3,Checkout Abandoned
+1349,2024-09-21,CUST1349,Organic Search,social,/about,Yes,Yes,Yes,Yes,41.76,Tablet,Opera,IN,West Crystalberg,New Visitor,264,8,
+1350,2024-09-09,CUST1350,Twitter,social,/collections,Yes,Yes,No,No,0,Tablet,Safari,IN,Schneiderberg,Returning,600,13,Checkout Abandoned
+1351,2024-08-30,CUST1351,TikTok,email,/products,No,No,No,No,0,Desktop,Safari,US,Randallborough,New Visitor,28,2,Bounced
+1352,2025-02-09,CUST1352,Direct,social,/about,Yes,No,No,No,0,Desktop,Chrome,AU,Glovermouth,New Visitor,431,6,Cart Not Initiated
+1353,2024-06-23,CUST1353,Email,cpc,/products,Yes,No,No,No,0,Tablet,Safari,US,Burkestad,New Visitor,443,8,Cart Not Initiated
+1354,2024-07-19,CUST1354,TikTok,organic,/collections,Yes,Yes,Yes,Yes,355.92,Tablet,Edge,IN,South Ashleytown,Returning,418,4,
+1355,2024-08-16,CUST1355,Twitter,organic,/sale,Yes,Yes,Yes,Yes,437.26,Mobile,Chrome,FR,Wadefurt,Returning,280,12,
+1356,2025-06-13,CUST1356,Twitter,referral,/,No,No,No,No,0,Mobile,Edge,DE,Justinshire,Returning,26,2,Bounced
+1357,2024-06-16,CUST1357,Pinterest,social,/products,Yes,Yes,Yes,No,0,Mobile,Edge,CA,Lake Katherineburgh,Returning,595,2,High Shipping Cost
+1358,2025-05-25,CUST1358,TikTok,social,/sale,Yes,No,No,No,0,Tablet,Opera,US,Sharpmouth,New Visitor,514,2,Cart Not Initiated
+1359,2024-07-03,CUST1359,Instagram,cpc,/,Yes,No,No,No,0,Mobile,Opera,IN,Port Kristietown,Returning,237,12,Cart Not Initiated
+1360,2024-12-06,CUST1360,Facebook Ads,referral,/,Yes,Yes,No,No,0,Tablet,Safari,CA,West Morgantown,Returning,163,5,Checkout Abandoned
+1361,2024-06-02,CUST1361,Email,referral,/,Yes,Yes,Yes,Yes,66.04,Mobile,Firefox,CA,Murphymouth,Returning,234,13,
+1362,2025-05-16,CUST1362,Facebook Ads,organic,/products,Yes,Yes,No,No,0,Desktop,Edge,MX,Davidview,Returning,35,14,Checkout Abandoned
+1363,2025-01-12,CUST1363,Instagram,email,/collections,Yes,Yes,No,No,0,Tablet,Safari,BR,Thomasland,Returning,197,8,Checkout Abandoned
+1364,2025-03-04,CUST1364,Email,cpc,/sale,Yes,Yes,Yes,No,0,Desktop,Chrome,CA,West Leslieburgh,Returning,534,4,High Shipping Cost
+1365,2024-07-22,CUST1365,Pinterest,cpc,/collections,Yes,Yes,Yes,Yes,492.91,Desktop,Opera,IN,Haysborough,Returning,593,15,
+1366,2025-03-19,CUST1366,TikTok,social,/sale,Yes,No,No,No,0,Desktop,Edge,AU,Charleshaven,Returning,226,14,Cart Not Initiated
+1367,2024-06-08,CUST1367,Twitter,social,/about,Yes,No,No,No,0,Desktop,Firefox,JP,Pamelaborough,Returning,317,5,Cart Not Initiated
+1368,2024-10-03,CUST1368,TikTok,email,/,Yes,Yes,Yes,Yes,25.15,Mobile,Safari,AU,Carlosborough,New Visitor,207,10,
+1369,2024-06-18,CUST1369,Direct,referral,/sale,No,No,No,No,0,Mobile,Safari,CA,Shannonside,Returning,6,3,Bounced
+1370,2024-12-18,CUST1370,Direct,email,/collections,Yes,No,No,No,0,Desktop,Edge,MX,East Shane,Returning,362,9,Cart Not Initiated
+1371,2024-10-17,CUST1371,Direct,email,/,No,No,No,No,0,Tablet,Safari,JP,East Briannafort,New Visitor,20,2,Bounced
+1372,2025-05-20,CUST1372,Twitter,cpc,/products,Yes,Yes,Yes,No,0,Tablet,Edge,UK,Timothyburgh,New Visitor,267,9,Slow Loading
+1373,2025-05-11,CUST1373,Pinterest,cpc,/,No,No,No,No,0,Desktop,Opera,FR,New Emily,Returning,17,1,Bounced
+1374,2025-01-04,CUST1374,Pinterest,organic,/,Yes,Yes,Yes,Yes,476.91,Desktop,Firefox,UK,Abbottstad,New Visitor,369,8,
+1375,2024-09-03,CUST1375,Twitter,social,/products,No,No,No,No,0,Desktop,Firefox,DE,North Melinda,Returning,4,2,Bounced
+1376,2024-11-01,CUST1376,Email,cpc,/about,No,No,No,No,0,Desktop,Opera,BR,West Joshuaborough,Returning,30,1,Bounced
+1377,2025-05-24,CUST1377,TikTok,email,/collections,Yes,No,No,No,0,Tablet,Firefox,BR,North Kellyside,New Visitor,529,3,Cart Not Initiated
+1378,2024-10-28,CUST1378,TikTok,social,/about,No,No,No,No,0,Desktop,Chrome,CA,North Briannafort,Returning,23,1,Bounced
+1379,2024-09-08,CUST1379,Referral,referral,/products,Yes,Yes,No,No,0,Mobile,Safari,DE,Shepardfurt,Returning,568,14,Checkout Abandoned
+1380,2025-03-15,CUST1380,Facebook Ads,social,/,No,No,No,No,0,Tablet,Edge,US,Cookland,Returning,20,3,Bounced
+1381,2025-04-04,CUST1381,Google Ads,referral,/products,No,No,No,No,0,Desktop,Opera,IN,Jesseport,Returning,20,2,Bounced
+1382,2025-01-17,CUST1382,Instagram,social,/about,Yes,Yes,No,No,0,Desktop,Edge,UK,New Katherine,Returning,576,3,Checkout Abandoned
+1383,2024-11-24,CUST1383,Facebook Ads,cpc,/collections,Yes,No,No,No,0,Mobile,Safari,UK,West Brenda,Returning,366,2,Cart Not Initiated
+1384,2024-09-22,CUST1384,Google Ads,email,/products,Yes,Yes,No,No,0,Desktop,Safari,BR,West Gregory,Returning,102,11,Checkout Abandoned
+1385,2024-12-29,CUST1385,Pinterest,cpc,/about,Yes,Yes,No,No,0,Tablet,Firefox,UK,Alicialand,Returning,508,6,Checkout Abandoned
+1386,2025-01-04,CUST1386,Email,cpc,/,No,No,No,No,0,Desktop,Edge,US,Rhondaland,Returning,19,1,Bounced
+1387,2025-02-15,CUST1387,Google Ads,email,/products,No,No,No,No,0,Desktop,Chrome,CA,Andersonchester,Returning,4,1,Bounced
+1388,2024-09-21,CUST1388,Instagram,referral,/products,Yes,Yes,Yes,Yes,40.56,Mobile,Opera,JP,Billyside,Returning,288,4,
+1389,2025-03-18,CUST1389,Referral,organic,/,Yes,Yes,No,No,0,Mobile,Firefox,US,North Michaelland,Returning,388,2,Checkout Abandoned
+1390,2025-05-03,CUST1390,Referral,social,/sale,Yes,No,No,No,0,Mobile,Chrome,JP,Marqueztown,New Visitor,451,11,Cart Not Initiated
+1391,2025-05-06,CUST1391,Email,cpc,/products,Yes,No,No,No,0,Tablet,Opera,IN,Patriciafurt,New Visitor,345,4,Cart Not Initiated
+1392,2025-01-04,CUST1392,Twitter,email,/products,Yes,No,No,No,0,Tablet,Safari,US,New Stephenfurt,Returning,320,9,Cart Not Initiated
+1393,2024-11-12,CUST1393,Direct,social,/collections,Yes,No,No,No,0,Mobile,Opera,US,South Katelyn,Returning,536,9,Cart Not Initiated
+1394,2024-12-09,CUST1394,Pinterest,organic,/sale,Yes,Yes,No,No,0,Mobile,Safari,FR,Johnsonville,Returning,572,2,Checkout Abandoned
+1395,2025-06-25,CUST1395,Referral,referral,/products,Yes,No,No,No,0,Tablet,Chrome,FR,East Sonia,New Visitor,33,15,Cart Not Initiated
+1396,2024-11-25,CUST1396,Instagram,organic,/,Yes,No,No,No,0,Tablet,Chrome,IN,Port Dannyfort,Returning,374,7,Cart Not Initiated
+1397,2024-09-12,CUST1397,Referral,organic,/products,Yes,Yes,No,No,0,Mobile,Firefox,UK,Lake Tracitown,Returning,289,2,Checkout Abandoned
+1398,2025-05-23,CUST1398,Instagram,social,/sale,Yes,Yes,Yes,No,0,Desktop,Opera,UK,Frankberg,Returning,283,3,Slow Loading
+1399,2025-05-11,CUST1399,Referral,email,/sale,Yes,Yes,Yes,No,0,Mobile,Safari,BR,Gomezhaven,Returning,378,11,Payment Failed
+1400,2024-10-31,CUST1400,TikTok,referral,/,Yes,No,No,No,0,Tablet,Safari,MX,North Michelle,Returning,165,15,Cart Not Initiated
+1401,2024-11-25,CUST1401,Direct,referral,/collections,No,No,No,No,0,Tablet,Firefox,UK,North Janiceville,Returning,19,2,Bounced
+1402,2025-02-25,CUST1402,Email,cpc,/sale,No,No,No,No,0,Mobile,Opera,CA,East Johnville,Returning,11,2,Bounced
+1403,2025-06-20,CUST1403,Email,organic,/sale,Yes,No,No,No,0,Mobile,Safari,AU,North Adam,Returning,41,4,Cart Not Initiated
+1404,2024-12-21,CUST1404,Facebook Ads,referral,/about,Yes,No,No,No,0,Tablet,Opera,FR,New Anthony,Returning,493,7,Cart Not Initiated
+1405,2024-07-26,CUST1405,Instagram,referral,/,No,No,No,No,0,Desktop,Edge,CA,Mullenton,Returning,11,3,Bounced
+1406,2024-12-05,CUST1406,Instagram,social,/about,No,No,No,No,0,Tablet,Opera,CA,Reedport,Returning,9,2,Bounced
+1407,2025-04-25,CUST1407,Organic Search,cpc,/sale,Yes,Yes,No,No,0,Tablet,Chrome,CA,Stevensmouth,Returning,534,10,Checkout Abandoned
+1408,2024-07-19,CUST1408,Pinterest,referral,/collections,Yes,Yes,No,No,0,Tablet,Chrome,US,Rogersburgh,New Visitor,182,6,Checkout Abandoned
+1409,2025-06-02,CUST1409,Facebook Ads,referral,/about,Yes,No,No,No,0,Tablet,Opera,DE,Gregoryberg,Returning,226,14,Cart Not Initiated
+1410,2024-06-21,CUST1410,Instagram,referral,/about,Yes,Yes,Yes,Yes,80.68,Tablet,Chrome,UK,New Masonfurt,Returning,345,12,
+1411,2025-04-27,CUST1411,Organic Search,social,/,Yes,Yes,Yes,Yes,395.17,Mobile,Safari,BR,West Heidiview,Returning,372,7,
+1412,2025-06-15,CUST1412,Instagram,referral,/products,Yes,No,No,No,0,Mobile,Firefox,FR,Burtonshire,Returning,294,4,Cart Not Initiated
+1413,2024-07-21,CUST1413,Google Ads,cpc,/collections,No,No,No,No,0,Tablet,Opera,JP,Bakerbury,Returning,29,1,Bounced
+1414,2025-05-21,CUST1414,Referral,email,/collections,Yes,No,No,No,0,Mobile,Chrome,US,New Michelle,Returning,87,11,Cart Not Initiated
+1415,2024-10-25,CUST1415,TikTok,cpc,/collections,Yes,Yes,Yes,Yes,391.31,Desktop,Safari,CA,Obrienville,New Visitor,238,8,
+1416,2025-04-28,CUST1416,Google Ads,cpc,/collections,Yes,Yes,No,No,0,Tablet,Edge,MX,East Brandonchester,Returning,470,3,Checkout Abandoned
+1417,2024-11-20,CUST1417,Facebook Ads,social,/,No,No,No,No,0,Tablet,Chrome,AU,Lake Kim,Returning,30,2,Bounced
+1418,2024-08-04,CUST1418,Pinterest,referral,/collections,Yes,No,No,No,0,Desktop,Opera,MX,Aaronmouth,Returning,85,4,Cart Not Initiated
+1419,2024-06-15,CUST1419,Instagram,social,/about,Yes,No,No,No,0,Mobile,Opera,DE,Walkerton,Returning,548,7,Cart Not Initiated
+1420,2025-04-30,CUST1420,Referral,email,/about,Yes,Yes,Yes,No,0,Desktop,Edge,US,North Troyfurt,Returning,486,10,Payment Failed
+1421,2024-07-29,CUST1421,Email,social,/about,Yes,Yes,Yes,No,0,Tablet,Edge,DE,Ortegashire,New Visitor,552,8,Account Required
+1422,2025-04-15,CUST1422,Referral,organic,/about,Yes,Yes,No,No,0,Desktop,Safari,US,Torresmouth,Returning,549,5,Checkout Abandoned
+1423,2024-12-26,CUST1423,Referral,organic,/,No,No,No,No,0,Mobile,Opera,AU,Kevinville,Returning,10,2,Bounced
+1424,2025-04-19,CUST1424,Instagram,cpc,/sale,No,No,No,No,0,Mobile,Edge,UK,Silvatown,Returning,13,1,Bounced
+1425,2025-02-18,CUST1425,Direct,cpc,/products,No,No,No,No,0,Desktop,Edge,UK,Allenborough,Returning,4,1,Bounced
+1426,2024-12-07,CUST1426,Direct,email,/about,Yes,Yes,No,No,0,Desktop,Safari,BR,Ryanchester,Returning,332,5,Checkout Abandoned
+1427,2024-11-21,CUST1427,Google Ads,cpc,/,Yes,No,No,No,0,Tablet,Opera,UK,Mooreview,Returning,285,3,Cart Not Initiated
+1428,2024-12-20,CUST1428,Email,email,/,No,No,No,No,0,Desktop,Chrome,JP,Lake Amy,Returning,28,1,Bounced
+1429,2025-04-02,CUST1429,Instagram,cpc,/about,Yes,Yes,Yes,No,0,Mobile,Chrome,UK,East Tiffany,Returning,489,10,High Shipping Cost
+1430,2025-03-21,CUST1430,Email,social,/about,Yes,Yes,Yes,Yes,328.98,Mobile,Opera,DE,Sarahville,Returning,452,14,
+1431,2024-09-11,CUST1431,Email,organic,/about,Yes,No,No,No,0,Tablet,Opera,UK,Braunbury,Returning,539,2,Cart Not Initiated
+1432,2024-11-05,CUST1432,Pinterest,referral,/products,Yes,Yes,Yes,Yes,431.23,Desktop,Safari,FR,Patelstad,Returning,541,10,
+1433,2025-06-16,CUST1433,Instagram,cpc,/products,Yes,Yes,No,No,0,Desktop,Edge,IN,Rodriguezton,Returning,226,4,Checkout Abandoned
+1434,2025-03-07,CUST1434,Google Ads,cpc,/sale,Yes,Yes,No,No,0,Mobile,Chrome,JP,Rubenburgh,Returning,16,5,Checkout Abandoned
+1435,2025-04-13,CUST1435,Email,email,/products,Yes,No,No,No,0,Mobile,Firefox,UK,Mercedeschester,Returning,423,6,Cart Not Initiated
+1436,2024-07-05,CUST1436,Twitter,email,/collections,Yes,Yes,Yes,Yes,183.5,Mobile,Safari,AU,Charlesburgh,New Visitor,188,10,
+1437,2024-08-27,CUST1437,Facebook Ads,organic,/products,Yes,No,No,No,0,Tablet,Firefox,DE,Velezland,Returning,29,3,Cart Not Initiated
+1438,2024-06-12,CUST1438,Referral,social,/about,Yes,Yes,No,No,0,Tablet,Chrome,IN,Whiteberg,Returning,101,6,Checkout Abandoned
+1439,2024-08-06,CUST1439,Facebook Ads,social,/about,Yes,Yes,Yes,Yes,257.99,Desktop,Firefox,DE,Jessicaport,Returning,567,5,
+1440,2025-04-24,CUST1440,Email,referral,/collections,Yes,Yes,Yes,Yes,451.92,Mobile,Edge,IN,Jamieburgh,Returning,156,13,
+1441,2025-03-23,CUST1441,TikTok,social,/about,Yes,Yes,No,No,0,Mobile,Edge,JP,New Jasonfurt,Returning,85,7,Checkout Abandoned
+1442,2025-06-22,CUST1442,Referral,referral,/sale,Yes,Yes,Yes,Yes,307.22,Tablet,Chrome,JP,Sarahtown,Returning,361,10,
+1443,2025-05-03,CUST1443,TikTok,social,/sale,Yes,Yes,No,No,0,Desktop,Safari,DE,Cherryview,New Visitor,530,12,Checkout Abandoned
+1444,2025-04-04,CUST1444,Instagram,email,/,Yes,Yes,Yes,No,0,Tablet,Safari,AU,New Michaelfurt,New Visitor,466,15,Account Required
+1445,2024-10-11,CUST1445,Pinterest,email,/,Yes,No,No,No,0,Tablet,Chrome,DE,Lake Amy,Returning,339,13,Cart Not Initiated
+1446,2024-07-14,CUST1446,Organic Search,social,/,Yes,Yes,Yes,Yes,456.99,Desktop,Chrome,US,Harmonton,Returning,569,3,
+1447,2025-02-05,CUST1447,Referral,social,/products,No,No,No,No,0,Desktop,Chrome,AU,Port Jessica,Returning,9,2,Bounced
+1448,2025-06-29,CUST1448,Email,referral,/products,Yes,No,No,No,0,Mobile,Opera,JP,Lake Heather,Returning,142,15,Cart Not Initiated
+1449,2024-07-02,CUST1449,Pinterest,cpc,/products,Yes,No,No,No,0,Mobile,Edge,CA,Lake Kyle,New Visitor,419,15,Cart Not Initiated
+1450,2025-05-23,CUST1450,Facebook Ads,organic,/products,Yes,No,No,No,0,Desktop,Firefox,FR,Walkerstad,Returning,166,15,Cart Not Initiated
+1451,2024-07-30,CUST1451,Pinterest,referral,/collections,Yes,No,No,No,0,Mobile,Edge,FR,Christianmouth,New Visitor,292,7,Cart Not Initiated
+1452,2025-03-31,CUST1452,Twitter,email,/sale,Yes,Yes,Yes,Yes,31.0,Mobile,Edge,US,Port Joshua,Returning,43,14,
+1453,2024-10-09,CUST1453,Twitter,organic,/,Yes,Yes,No,No,0,Mobile,Firefox,MX,New Dustinstad,Returning,207,3,Checkout Abandoned
+1454,2025-05-16,CUST1454,Instagram,social,/products,Yes,Yes,Yes,Yes,423.96,Desktop,Firefox,MX,Billyborough,New Visitor,306,8,
+1455,2024-12-01,CUST1455,Google Ads,organic,/products,Yes,Yes,No,No,0,Tablet,Chrome,BR,West Michelleberg,Returning,544,5,Checkout Abandoned
+1456,2025-01-31,CUST1456,Twitter,organic,/products,No,No,No,No,0,Desktop,Safari,CA,East Jessehaven,Returning,29,1,Bounced
+1457,2024-08-12,CUST1457,Pinterest,organic,/about,Yes,Yes,Yes,Yes,386.2,Desktop,Opera,CA,Johnsonside,Returning,278,12,
+1458,2024-11-07,CUST1458,TikTok,cpc,/sale,Yes,Yes,Yes,Yes,297.53,Tablet,Opera,JP,Port Erik,Returning,283,6,
+1459,2025-01-13,CUST1459,TikTok,organic,/,Yes,Yes,No,No,0,Desktop,Firefox,FR,New Lorrainestad,New Visitor,15,5,Checkout Abandoned
+1460,2025-03-31,CUST1460,Organic Search,organic,/sale,Yes,Yes,No,No,0,Desktop,Chrome,CA,South Maryville,New Visitor,572,6,Checkout Abandoned
+1461,2024-06-05,CUST1461,Direct,cpc,/sale,Yes,No,No,No,0,Desktop,Chrome,JP,Port Cherylton,Returning,304,5,Cart Not Initiated
+1462,2025-03-25,CUST1462,Email,organic,/about,Yes,Yes,Yes,No,0,Desktop,Chrome,CA,Millerland,New Visitor,278,3,Payment Failed
+1463,2024-11-01,CUST1463,Pinterest,referral,/collections,Yes,Yes,No,No,0,Mobile,Chrome,UK,Longton,Returning,54,15,Checkout Abandoned
+1464,2025-03-21,CUST1464,Organic Search,referral,/collections,No,No,No,No,0,Tablet,Chrome,AU,New Jeffrey,Returning,17,1,Bounced
+1465,2024-10-29,CUST1465,Referral,cpc,/sale,Yes,No,No,No,0,Tablet,Opera,CA,Gonzalesberg,Returning,41,10,Cart Not Initiated
+1466,2024-12-29,CUST1466,Pinterest,social,/collections,Yes,No,No,No,0,Mobile,Firefox,IN,West Kellyfurt,New Visitor,236,4,Cart Not Initiated
+1467,2025-04-16,CUST1467,Pinterest,email,/collections,Yes,Yes,Yes,No,0,Mobile,Edge,MX,Lauraberg,New Visitor,553,12,Slow Loading
+1468,2024-06-17,CUST1468,Referral,referral,/sale,No,No,No,No,0,Tablet,Chrome,UK,New Garrettview,New Visitor,30,3,Bounced
+1469,2025-04-02,CUST1469,Twitter,social,/sale,Yes,No,No,No,0,Desktop,Firefox,UK,Timothyfurt,Returning,480,9,Cart Not Initiated
+1470,2024-07-17,CUST1470,TikTok,organic,/sale,Yes,No,No,No,0,Desktop,Chrome,AU,Davidbury,Returning,466,11,Cart Not Initiated
+1471,2025-06-12,CUST1471,Organic Search,cpc,/,Yes,No,No,No,0,Desktop,Opera,CA,Lake Alexanderside,Returning,86,2,Cart Not Initiated
+1472,2024-12-21,CUST1472,Email,email,/about,Yes,No,No,No,0,Tablet,Edge,FR,Lake Aprilbury,New Visitor,553,9,Cart Not Initiated
+1473,2025-03-16,CUST1473,Referral,referral,/collections,Yes,Yes,Yes,Yes,87.17,Desktop,Firefox,BR,East Dawnmouth,Returning,295,3,
+1474,2025-03-30,CUST1474,Direct,organic,/collections,No,No,No,No,0,Desktop,Opera,US,Port Nicholasbury,Returning,29,1,Bounced
+1475,2025-03-05,CUST1475,Organic Search,email,/sale,Yes,No,No,No,0,Desktop,Opera,JP,Lake Lynnborough,Returning,377,13,Cart Not Initiated
+1476,2024-11-04,CUST1476,Referral,organic,/collections,Yes,Yes,Yes,No,0,Desktop,Edge,UK,Robertsonmouth,Returning,143,7,No Reason
+1477,2025-01-19,CUST1477,Instagram,organic,/about,No,No,No,No,0,Tablet,Chrome,IN,New Matthew,New Visitor,29,2,Bounced
+1478,2024-10-01,CUST1478,Pinterest,cpc,/products,Yes,Yes,No,No,0,Desktop,Edge,FR,Heatherville,New Visitor,299,2,Checkout Abandoned
+1479,2024-12-27,CUST1479,Google Ads,email,/products,Yes,Yes,No,No,0,Mobile,Opera,CA,Lake Nathan,New Visitor,122,5,Checkout Abandoned
+1480,2025-02-06,CUST1480,Email,organic,/sale,No,No,No,No,0,Mobile,Edge,DE,South Erin,Returning,23,2,Bounced
+1481,2024-10-12,CUST1481,Organic Search,email,/,Yes,Yes,No,No,0,Tablet,Chrome,DE,New William,Returning,435,15,Checkout Abandoned
+1482,2025-06-20,CUST1482,Referral,social,/collections,Yes,No,No,No,0,Mobile,Opera,JP,New David,Returning,266,12,Cart Not Initiated
+1483,2025-04-22,CUST1483,Instagram,referral,/,Yes,Yes,No,No,0,Mobile,Opera,US,Powellburgh,Returning,558,12,Checkout Abandoned
+1484,2024-09-13,CUST1484,Referral,cpc,/sale,No,No,No,No,0,Desktop,Chrome,FR,Wellsville,Returning,28,1,Bounced
+1485,2024-08-09,CUST1485,Instagram,referral,/,Yes,Yes,No,No,0,Mobile,Edge,BR,Port Thomasfurt,Returning,555,10,Checkout Abandoned
+1486,2024-06-08,CUST1486,Twitter,organic,/collections,Yes,Yes,Yes,Yes,16.72,Mobile,Chrome,DE,Port Thomas,Returning,480,9,
+1487,2025-04-20,CUST1487,Google Ads,email,/products,Yes,No,No,No,0,Mobile,Edge,AU,New Nicolehaven,New Visitor,155,4,Cart Not Initiated
+1488,2025-03-10,CUST1488,Google Ads,social,/about,Yes,Yes,Yes,Yes,245.11,Tablet,Opera,US,Michaelberg,Returning,203,10,
+1489,2025-01-15,CUST1489,Pinterest,cpc,/,Yes,Yes,Yes,Yes,143.64,Desktop,Firefox,DE,Micheletown,New Visitor,225,5,
+1490,2025-03-25,CUST1490,Referral,social,/about,Yes,Yes,No,No,0,Desktop,Firefox,DE,Brownstad,Returning,357,4,Checkout Abandoned
+1491,2024-11-21,CUST1491,Twitter,organic,/,No,No,No,No,0,Mobile,Firefox,BR,Jenniferstad,Returning,30,3,Bounced
+1492,2024-08-10,CUST1492,TikTok,organic,/about,Yes,Yes,Yes,Yes,334.96,Tablet,Chrome,CA,East Jamie,New Visitor,411,9,
+1493,2024-09-02,CUST1493,Email,cpc,/about,Yes,Yes,No,No,0,Desktop,Chrome,MX,East Randall,Returning,332,7,Checkout Abandoned
+1494,2024-08-19,CUST1494,TikTok,organic,/products,Yes,Yes,Yes,Yes,135.79,Desktop,Firefox,AU,Moralesmouth,Returning,470,12,
+1495,2024-06-22,CUST1495,Instagram,organic,/about,Yes,Yes,No,No,0,Mobile,Edge,US,Lake Tiffany,Returning,16,2,Checkout Abandoned
+1496,2024-08-20,CUST1496,TikTok,email,/,Yes,No,No,No,0,Mobile,Opera,CA,New Elizabeth,Returning,448,13,Cart Not Initiated
+1497,2024-08-17,CUST1497,Facebook Ads,referral,/sale,Yes,No,No,No,0,Tablet,Firefox,CA,Mistychester,Returning,64,2,Cart Not Initiated
+1498,2024-07-08,CUST1498,Twitter,cpc,/,Yes,Yes,Yes,Yes,312.23,Tablet,Opera,AU,Kennedyfort,Returning,440,8,
+1499,2025-05-21,CUST1499,Twitter,organic,/,Yes,Yes,Yes,Yes,94.63,Desktop,Opera,CA,West Connie,Returning,362,10,
+1500,2024-08-28,CUST1500,Facebook Ads,cpc,/collections,Yes,Yes,Yes,No,0,Desktop,Safari,UK,Port Feliciatown,New Visitor,388,6,Payment Failed

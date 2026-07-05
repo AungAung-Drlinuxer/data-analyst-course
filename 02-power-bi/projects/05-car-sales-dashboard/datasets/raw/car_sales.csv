@@ -1,0 +1,801 @@
+sale_id,date,make,model,year,body_style,color,mileage,condition,price,sale_price,customer_id,customer_name,dealer_name,city,state,payment_type,financing_bank
+1,2025-05-30,Subaru,Outback,2018,Truck,Green,64987,Excellent,31890.24,30633.32,CUST0001,Daniel Ward,Norris-Kramer Auto,Riddlemouth,FL,Financing,Bank of America
+2,2024-03-04,Chevrolet,Silverado,2018,Sedan,Beige,27624,Certified Pre-Owned,59682.61,57821.94,CUST0002,Elizabeth Smith,Smith-Anderson Auto,Michaelport,TX,Financing,Chase
+3,2024-06-03,Hyundai,Tucson,2019,SUV,White,30123,Excellent,72690.09,72579.72,CUST0003,Bryce Butler,"Miller, Knight and Rodgers Auto",West Ronald,MI,Financing,Capital One
+4,2024-07-04,Kia,Sportage,2019,Sedan,Black,49941,Fair,59158.64,57826.14,CUST0004,Daniel Porter,Hudson Group Auto,Websterberg,IL,Financing,US Bank
+5,2024-07-13,Mercedes,C-Class,2024,Sedan,Silver,45767,Good,79696.32,77184.66,CUST0005,Mary Turner,Riddle-Krueger Auto,Elizabethton,NY,Financing,Bank of America
+6,2024-12-02,Honda,Accord,2025,SUV,Silver,76546,Certified Pre-Owned,41158.26,40130.49,CUST0006,Eric Freeman,Hess and Sons Auto,North Chelseashire,OH,Financing,US Bank
+7,2024-10-15,Audi,A4,2022,Sedan,Beige,30348,Certified Pre-Owned,38650.9,37791.64,CUST0007,Michelle Jenkins,Jimenez LLC Auto,Bradfordburgh,NY,Cash,Ally Financial
+8,2025-01-31,Mazda,CX-5,2025,SUV,Green,10811,Fair,21113.1,20505.36,CUST0008,Jeffrey Wilkins,Adams-Brennan Auto,Lake Catherinestad,IL,Financing,LightStream
+9,2024-01-18,Toyota,RAV4,2024,Sedan,Red,24294,Fair,36642.95,36364.76,CUST0009,Matthew Williams,Becker-Perez Auto,Jennaland,GA,Financing,US Bank
+10,2025-01-27,BMW,3 Series,2020,Hatchback,Red,33679,Fair,53973.68,53411.15,CUST0010,Shelly Parrish,Mcdonald Inc Auto,New Trevor,TX,Lease,Bank of America
+11,2024-11-21,Tesla,Model Y,2021,Truck,Beige,56173,Excellent,75581.74,74893.19,CUST0011,John Jones,Casey-Davis Auto,Lawrenceburgh,FL,Cash,Citi
+12,2025-03-30,Tesla,Model 3,2021,Hatchback,Silver,40954,Fair,43875.85,42985.67,CUST0012,Justin Rodgers,"Sanchez, Murillo and Gibson Auto",North Angela,FL,Financing,Capital One
+13,2024-07-12,Toyota,Camry,2025,Coupe,Blue,35423,Fair,33285.67,32746.23,CUST0013,Eric Fletcher,Joseph PLC Auto,North Steventown,CA,Cash,Capital One
+14,2024-02-11,Volkswagen,Jetta,2019,Truck,Red,44759,Good,27371.79,26264.99,CUST0014,Dale Williamson,Thomas-Sutton Auto,South Tammytown,GA,Cash,Citi
+15,2025-05-06,Honda,Accord,2024,Convertible,Blue,16106,Good,61791.71,61269.95,CUST0015,Stephanie Richards,Young PLC Auto,West Luisport,OH,Financing,Bank of America
+16,2025-04-03,Tesla,Model Y,2018,Hatchback,Red,18528,Good,52416.57,50717.15,CUST0016,Heather Martin,"Orozco, Nguyen and Jones Auto",New Kelly,PA,Financing,Chase
+17,2024-03-08,BMW,3 Series,2024,Convertible,Blue,68890,Excellent,73670.01,71840.48,CUST0017,Joshua Hamilton,Jackson-Zimmerman Auto,Birdburgh,FL,Lease,Chase
+18,2025-03-15,Mercedes,E-Class,2020,SUV,Blue,4275,Good,45602.85,43667.69,CUST0018,Pam Williams,Norman-Gomez Auto,Thomashaven,FL,Lease,Citi
+19,2024-08-22,Audi,A4,2019,Coupe,Silver,59153,Certified Pre-Owned,62664.71,60309.24,CUST0019,Monica Martinez,"Oliver, Henderson and Galvan Auto",Alexanderbury,NY,Cash,Wells Fargo
+20,2024-12-25,Mercedes,C-Class,2020,Coupe,Blue,56939,Certified Pre-Owned,44173.65,43987.88,CUST0020,Christopher Jones,Larson Group Auto,Port Brittanystad,AZ,Financing,Bank of America
+21,2024-10-29,Hyundai,Tucson,2022,Hatchback,Beige,38564,Certified Pre-Owned,64550.56,63057.6,CUST0021,Kevin Hooper,"Morales, Sanchez and Palmer Auto",West Johnny,AZ,Lease,Wells Fargo
+22,2025-02-24,Hyundai,Tucson,2022,SUV,Green,64092,Excellent,32451.61,31819.74,CUST0022,Nicole Hudson,Poole and Sons Auto,North Gina,OH,Lease,LightStream
+23,2024-01-14,Honda,CR-V,2024,Hatchback,Red,30134,Excellent,41576.52,40039.51,CUST0023,David Stark,Frey-Hays Auto,Wendyside,GA,Lease,Capital One
+24,2024-12-07,Mercedes,E-Class,2021,Coupe,Black,27052,Excellent,64611.67,61483.65,CUST0024,Jessica Frazier,Oconnor-Franklin Auto,Morganville,TX,Financing,LightStream
+25,2025-02-02,Kia,Sportage,2018,Convertible,Gray,24826,Good,37200.32,35902.79,CUST0025,Julie Duncan,Stuart Group Auto,Brownmouth,NY,Cash,Ally Financial
+26,2025-04-26,Tesla,Model 3,2019,Truck,White,20646,Certified Pre-Owned,48285.91,46126.08,CUST0026,Lisa Hall,Ferguson and Sons Auto,Lauramouth,NY,Financing,Wells Fargo
+27,2024-11-10,Hyundai,Elantra,2018,Convertible,Red,25421,Good,71466.48,71006.61,CUST0027,James Martin,Scott-Adams Auto,Riverastad,TX,Cash,Ally Financial
+28,2025-01-10,Ford,Explorer,2021,Truck,Beige,32252,Excellent,51618.91,50442.46,CUST0028,Richard Adams,"Fields, Lin and Perez Auto",Brittanyshire,IL,Cash,Ally Financial
+29,2025-01-23,Hyundai,Tucson,2019,Sedan,Green,24032,Certified Pre-Owned,16396.77,15886.49,CUST0029,Derrick Jackson,Aguilar Ltd Auto,East Albert,NY,Lease,Capital One
+30,2024-02-16,BMW,3 Series,2018,Coupe,Silver,18815,Good,33830.74,32203.27,CUST0030,Chase Patterson,Gilmore-Christensen Auto,East Megan,IL,Financing,Wells Fargo
+31,2024-02-15,Honda,Accord,2023,Coupe,Black,32075,Good,21809.75,21571.83,CUST0031,Joseph Fisher,"Wilson, Douglas and Watson Auto",Riveraland,OH,Cash,Capital One
+32,2024-10-19,Honda,Accord,2019,Truck,Beige,76275,Excellent,18922.46,18249.85,CUST0032,Lauren Anderson,Choi-Cole Auto,Evansport,PA,Lease,Chase
+33,2025-06-01,BMW,X5,2020,Sedan,Beige,46375,Excellent,61091.29,60737.8,CUST0033,Daniel Anderson,Hall-Marsh Auto,Leonland,FL,Financing,Capital One
+34,2024-10-05,Mercedes,C-Class,2023,Convertible,Black,51292,Certified Pre-Owned,18225.14,17799.95,CUST0034,Douglas Wheeler,"Combs, Reynolds and Collins Auto",Owensland,MI,Lease,Wells Fargo
+35,2024-11-13,Honda,Civic,2022,SUV,White,68872,Certified Pre-Owned,17728.19,17687.25,CUST0035,Susan Knox,"Arroyo, Jones and Gonzalez Auto",South Abigailmouth,PA,Cash,US Bank
+36,2025-06-01,Mazda,CX-5,2021,Convertible,Silver,3429,Excellent,52606.66,50489.27,CUST0036,James Meyer,Tyler and Sons Auto,New Brendahaven,CA,Financing,Capital One
+37,2025-04-30,Honda,CR-V,2024,Hatchback,Blue,64544,Good,66745.94,65018.47,CUST0037,Anthony Adams,"Cooke, Nunez and Johnson Auto",New Shawnport,IL,Lease,Ally Financial
+38,2025-06-18,Nissan,Altima,2025,Sedan,Gray,22051,Good,55540.59,54752.66,CUST0038,Jessica French,Richardson-Hurst Auto,Johnhaven,PA,Cash,Bank of America
+39,2024-12-02,Chevrolet,Tahoe,2020,SUV,Silver,75352,Good,24923.95,24655.61,CUST0039,Nicole Graves,Logan-Haas Auto,Trevorberg,PA,Lease,Wells Fargo
+40,2025-03-28,Mazda,CX-5,2023,Convertible,Blue,64133,Good,31634.94,30230.56,CUST0040,Kimberly Mccann,"Barr, Marshall and Decker Auto",Port Nicole,OH,Financing,Citi
+41,2025-02-02,Nissan,Altima,2019,Truck,Blue,59575,Fair,47880.9,46448.83,CUST0041,Michael Carter,Wilson-Garcia Auto,New Paul,MI,Cash,Chase
+42,2024-08-15,Audi,A4,2020,SUV,Green,53882,Certified Pre-Owned,62868.96,60572.97,CUST0042,Edward Harris,Cruz Inc Auto,North Rebeccatown,AZ,Lease,Citi
+43,2025-05-24,Audi,A4,2023,Hatchback,White,36718,Fair,38365.93,37672.51,CUST0043,Jessica Blanchard,Johnson-Casey Auto,Ericview,OH,Lease,Citi
+44,2024-05-17,Hyundai,Elantra,2025,Hatchback,Beige,4108,Certified Pre-Owned,38456.56,36559.9,CUST0044,David Steele,Spence and Sons Auto,East Brendan,AZ,Lease,Chase
+45,2025-06-23,Subaru,Outback,2021,Hatchback,Black,29756,Excellent,22512.02,22275.13,CUST0045,James Newman,Henderson-Nelson Auto,Boyertown,OH,Lease,Chase
+46,2024-01-23,Chevrolet,Silverado,2021,Hatchback,Green,76111,Fair,28616.06,27342.63,CUST0046,Benjamin Williams,Williams Inc Auto,North Markborough,GA,Financing,Chase
+47,2024-05-29,Honda,Civic,2018,Convertible,Gray,27367,Excellent,20420.75,19813.95,CUST0047,Brian Long,Snyder-Schneider Auto,New Hailey,OH,Cash,Chase
+48,2024-04-16,Mercedes,C-Class,2020,Sedan,Gray,10126,Certified Pre-Owned,79104.13,78350.47,CUST0048,James Mitchell,"Wilson, Russell and Allison Auto",Lake Theresa,GA,Lease,US Bank
+49,2024-06-07,Honda,Accord,2024,Sedan,Green,12385,Good,40909.51,40780.4,CUST0049,Seth Taylor,Garcia-Cruz Auto,Meredithton,IL,Cash,Wells Fargo
+50,2024-12-24,Ford,Mustang,2019,Sedan,Blue,41475,Certified Pre-Owned,15507.1,15100.32,CUST0050,Gina Zimmerman,Davis PLC Auto,Robertsontown,PA,Lease,US Bank
+51,2024-06-13,Toyota,Corolla,2023,Sedan,Black,78383,Fair,64556.64,63277.53,CUST0051,Ashley Payne,Adams PLC Auto,Phillipsbury,CA,Cash,Ally Financial
+52,2025-05-23,Mercedes,C-Class,2025,SUV,Green,29600,Fair,66865.11,64300.0,CUST0052,Ashley Robinson MD,Mcgee-Wang Auto,Mirandachester,OH,Lease,Ally Financial
+53,2025-06-05,Toyota,RAV4,2025,Truck,Black,31432,Good,66985.36,64435.33,CUST0053,Richard King,"Hayes, Hines and Howard Auto",Brooksview,CA,Cash,Wells Fargo
+54,2025-04-26,Tesla,Model 3,2024,Coupe,Red,55499,Certified Pre-Owned,46130.91,44049.98,CUST0054,Nicholas Dunn,Hart Ltd Auto,Rogersside,CA,Cash,US Bank
+55,2024-12-03,Hyundai,Tucson,2020,Coupe,Beige,37689,Certified Pre-Owned,77846.02,75379.6,CUST0055,Gary Fleming MD,Williams-Stone Auto,New Craigland,TX,Lease,US Bank
+56,2025-01-14,Hyundai,Tucson,2018,SUV,Silver,16843,Fair,38868.55,37091.19,CUST0056,Veronica Kennedy,Nelson-Shelton Auto,Davidstad,PA,Lease,LightStream
+57,2024-03-01,Volkswagen,Jetta,2023,Convertible,Beige,68503,Fair,25608.95,25589.78,CUST0057,Abigail Kane,Lamb-Walker Auto,Port Jessebury,AZ,Lease,Bank of America
+58,2024-12-17,BMW,X5,2021,Sedan,Black,8741,Fair,21411.19,21379.93,CUST0058,Desiree Vargas,"Bullock, Dixon and Nelson Auto",Grahamtown,IL,Cash,US Bank
+59,2025-04-20,Honda,Civic,2020,Truck,Blue,54587,Fair,34029.57,33699.43,CUST0059,Taylor Brown,"Reynolds, West and Miller Auto",Cynthiafort,PA,Cash,Bank of America
+60,2025-03-03,Nissan,Rogue,2021,Hatchback,Blue,12112,Certified Pre-Owned,43838.49,43669.91,CUST0060,Wesley Brock,"Thompson, Johnson and Lloyd Auto",Dicksonberg,AZ,Cash,Capital One
+61,2024-06-25,BMW,X5,2023,Convertible,Red,62336,Excellent,35167.25,35068.66,CUST0061,Alexis Nunez,"West, Young and Schultz Auto",South Morganside,CA,Cash,US Bank
+62,2024-06-09,Toyota,Camry,2019,Coupe,Black,60490,Certified Pre-Owned,57219.39,56633.02,CUST0062,Joseph Middleton,Singh-Williams Auto,Lake Robertside,CA,Financing,Bank of America
+63,2024-08-25,Ford,Mustang,2018,SUV,Gray,11858,Certified Pre-Owned,22368.09,22001.37,CUST0063,Joseph Washington,"Day, Jennings and Brown Auto",East Chad,MI,Lease,Bank of America
+64,2025-01-19,Mercedes,E-Class,2020,Coupe,Green,46878,Fair,16924.87,16285.44,CUST0064,Holly Clark,"Larsen, Hernandez and Lewis Auto",Blairfurt,GA,Financing,Chase
+65,2024-01-26,Toyota,Camry,2019,Truck,Silver,52272,Fair,52032.86,51163.14,CUST0065,Chelsea Anderson,Lopez Group Auto,North Erikabury,CA,Lease,LightStream
+66,2024-01-06,Hyundai,Elantra,2020,Truck,Gray,35551,Certified Pre-Owned,70367.03,67112.98,CUST0066,Scott Anderson,Sexton-Dixon Auto,Lake Loganborough,FL,Financing,Bank of America
+67,2025-03-07,Tesla,Model Y,2019,Truck,Green,57212,Fair,31476.13,31473.87,CUST0067,Mary Bryant,Pena PLC Auto,Shepherdside,FL,Financing,Wells Fargo
+68,2025-02-12,Honda,Accord,2021,Truck,Silver,9605,Certified Pre-Owned,76901.57,73296.61,CUST0068,Christopher Erickson,"Hancock, Martin and Boyd Auto",East Tanyastad,TX,Financing,US Bank
+69,2024-04-12,BMW,X5,2018,Sedan,Red,19504,Fair,29580.53,29294.63,CUST0069,Jennifer Williams,Myers PLC Auto,Allenhaven,NY,Financing,Capital One
+70,2024-06-19,BMW,X5,2023,Truck,Green,33701,Certified Pre-Owned,24546.05,24356.43,CUST0070,Adam Brown,Harmon-Murphy Auto,North Thomasside,OH,Cash,Citi
+71,2025-04-17,Honda,Civic,2024,Sedan,Green,4421,Fair,63884.1,61553.41,CUST0071,Richard Mejia,Marks-Garcia Auto,South Nicole,OH,Lease,US Bank
+72,2024-02-10,Honda,Civic,2019,SUV,Blue,55743,Excellent,59916.97,57559.82,CUST0072,Michele Arnold,"Hill, Mcbride and Boyle Auto",Thompsonfort,NY,Lease,Bank of America
+73,2024-12-13,Mazda,CX-5,2018,Hatchback,Beige,70192,Excellent,76521.14,74773.86,CUST0073,Carrie Roberts,"Solomon, Padilla and Graham Auto",North Patrick,GA,Lease,Ally Financial
+74,2024-03-25,Mercedes,E-Class,2024,Sedan,Blue,13956,Good,18478.35,18069.45,CUST0074,Kelsey Mcdowell,"Barber, Torres and Lewis Auto",Wigginsview,OH,Lease,US Bank
+75,2025-01-28,Nissan,Altima,2022,SUV,Blue,29215,Good,46749.49,46370.38,CUST0075,Kathryn Wilkins,Tucker-Smith Auto,Crystalville,OH,Lease,LightStream
+76,2025-02-17,Ford,F-150,2024,Hatchback,Green,65793,Excellent,64338.67,62658.84,CUST0076,Teresa Johnson,"Quinn, Blackwell and Mann Auto",Erinstad,OH,Cash,Ally Financial
+77,2025-06-23,Tesla,Model Y,2021,Truck,White,33307,Certified Pre-Owned,19972.71,19781.62,CUST0077,Kyle Larsen,"Jenkins, Fitzpatrick and Turner Auto",North Brianton,CA,Lease,Citi
+78,2024-04-24,Audi,A4,2018,Convertible,Green,73008,Fair,20369.42,20112.39,CUST0078,Michelle Mack,Torres Ltd Auto,Lake Kathryn,AZ,Lease,LightStream
+79,2024-12-31,Ford,Explorer,2018,Truck,Red,4261,Excellent,62953.85,60934.51,CUST0079,Anna Reid,Brown-Taylor Auto,New Jonathan,AZ,Financing,LightStream
+80,2024-12-17,Hyundai,Tucson,2020,Hatchback,Silver,51192,Certified Pre-Owned,47642.36,46524.28,CUST0080,Isaiah Lawson III,Hernandez-Hughes Auto,Susanmouth,GA,Lease,Chase
+81,2025-01-25,BMW,X5,2021,Truck,Black,55839,Good,63165.68,61922.4,CUST0081,Fernando Williams,"Freeman, Warren and Garcia Auto",North Tina,TX,Cash,Ally Financial
+82,2025-03-14,Ford,Explorer,2018,SUV,Beige,67213,Certified Pre-Owned,67812.36,66866.58,CUST0082,Sarah Allen,"Robinson, Dixon and Rich Auto",Port Robert,AZ,Cash,Chase
+83,2024-02-26,BMW,X5,2021,Coupe,Red,78993,Excellent,20786.94,19875.16,CUST0083,Sarah Wilson,Aguirre Group Auto,Hectorshire,FL,Lease,Wells Fargo
+84,2024-08-03,Mazda,CX-5,2020,Truck,Green,63706,Good,28628.37,28564.77,CUST0084,Marc Nguyen Jr.,"Howard, Davis and Woods Auto",Webstermouth,PA,Cash,Ally Financial
+85,2024-11-03,Toyota,Camry,2021,Sedan,Green,22919,Certified Pre-Owned,48741.71,47143.06,CUST0085,Matthew Hart,"Cobb, James and Gibson Auto",Amandachester,PA,Lease,Bank of America
+86,2025-03-20,Ford,Explorer,2019,Hatchback,Beige,24723,Certified Pre-Owned,27316.17,27030.93,CUST0086,Tracey Scott,Morris-Pena Auto,Laurentown,FL,Cash,Ally Financial
+87,2024-12-13,Nissan,Altima,2025,SUV,Black,40569,Fair,30114.01,29346.22,CUST0087,Michael Lewis,Miller-Baker Auto,Wongburgh,FL,Cash,US Bank
+88,2024-06-03,Honda,CR-V,2018,Truck,Black,48446,Certified Pre-Owned,43553.66,41895.27,CUST0088,Jason Moore,King-Martin Auto,Kramerchester,MI,Financing,Bank of America
+89,2024-04-17,Kia,Sportage,2022,Convertible,Silver,43254,Fair,24325.81,23170.84,CUST0089,Donna Lamb,Johnson LLC Auto,Nathanburgh,NY,Lease,Chase
+90,2024-06-22,Mazda,CX-5,2023,Coupe,Gray,51823,Certified Pre-Owned,38328.11,38037.56,CUST0090,James Stevens,Perez-Gay Auto,Tammystad,IL,Lease,Wells Fargo
+91,2024-08-02,Audi,A4,2021,SUV,Black,55348,Good,44921.6,43457.69,CUST0091,Adam Smith,Garcia-Vargas Auto,Laurieton,TX,Cash,Wells Fargo
+92,2024-07-11,Toyota,RAV4,2021,SUV,Gray,6648,Excellent,35840.27,34231.0,CUST0092,April Smith,Smith Inc Auto,Aliceview,TX,Cash,LightStream
+93,2025-02-04,Chevrolet,Tahoe,2021,SUV,Blue,53084,Excellent,39242.12,38780.91,CUST0093,Andrew Johnson,Romero-Lin Auto,Rodriguezhaven,AZ,Financing,US Bank
+94,2024-06-18,Volkswagen,Jetta,2019,SUV,Gray,22298,Good,26084.49,24962.12,CUST0094,Phillip Hayes,Bauer LLC Auto,Smithberg,CA,Lease,LightStream
+95,2024-01-18,Tesla,Model 3,2021,Sedan,Blue,27158,Certified Pre-Owned,49041.97,47378.84,CUST0095,Kevin Cook,"Jordan, Taylor and Shaw Auto",Ariasburgh,AZ,Cash,Citi
+96,2025-04-22,Audi,A4,2018,Convertible,Gray,62878,Certified Pre-Owned,78958.75,78859.83,CUST0096,Emily Dean,James and Sons Auto,Kathleenbury,AZ,Cash,Bank of America
+97,2025-01-24,Ford,F-150,2019,SUV,Green,7088,Good,42576.31,42462.05,CUST0097,Alicia Anderson,Webster LLC Auto,Goodmanport,MI,Cash,Citi
+98,2024-08-09,Mercedes,E-Class,2019,Coupe,Blue,35383,Excellent,39204.47,38468.59,CUST0098,Yvonne Luna,Jarvis Inc Auto,Richardport,AZ,Lease,Citi
+99,2024-02-24,Hyundai,Elantra,2018,Hatchback,Gray,71267,Certified Pre-Owned,27827.25,27323.51,CUST0099,Caroline Mcdaniel,Perez Ltd Auto,South Manuelfurt,TX,Cash,Citi
+100,2024-02-12,Tesla,Model 3,2021,Coupe,Silver,40134,Fair,43950.18,43227.51,CUST0100,Felicia Young,Smith Inc Auto,New Ronnietown,OH,Financing,US Bank
+101,2024-03-16,Toyota,Camry,2025,Sedan,Red,30492,Excellent,70660.92,70245.19,CUST0101,Kimberly Norris,Miller and Sons Auto,New Russellland,OH,Financing,Wells Fargo
+102,2024-10-16,Ford,Mustang,2022,Convertible,White,72798,Excellent,50865.03,48578.95,CUST0102,Jeremiah Nguyen,"Cox, Myers and Brown Auto",West Sarah,FL,Lease,Citi
+103,2025-01-04,Audi,Q5,2023,Coupe,Beige,77536,Fair,18767.33,18702.09,CUST0103,James Berry,Kelly-Simmons Auto,Ramirezchester,MI,Cash,Ally Financial
+104,2025-05-19,Audi,Q5,2025,Truck,Green,38638,Excellent,62860.87,60406.72,CUST0104,Danielle Bailey,"Cooper, Wilson and Rogers Auto",Nicoleshire,TX,Financing,Citi
+105,2024-08-09,Ford,Mustang,2018,Coupe,Beige,7976,Certified Pre-Owned,44006.13,41841.33,CUST0105,Raymond Crawford,"Wells, Buchanan and Rowland Auto",Greenborough,GA,Cash,Citi
+106,2024-07-28,Toyota,RAV4,2019,Hatchback,Black,13677,Certified Pre-Owned,52249.6,52215.42,CUST0106,Michael Whitehead,"Mcclure, Jones and Garrett Auto",Transhire,AZ,Financing,Ally Financial
+107,2024-02-24,Subaru,Outback,2021,Hatchback,Black,24944,Good,16661.51,16032.46,CUST0107,Justin Krueger,Greene-Baker Auto,New Patrick,IL,Lease,Chase
+108,2025-04-24,Ford,F-150,2025,Sedan,Gray,63654,Certified Pre-Owned,47038.15,44867.75,CUST0108,Aaron Jacobson,"Mcconnell, Fritz and Mendez Auto",Stevenfort,AZ,Lease,Citi
+109,2025-01-23,Toyota,Camry,2024,Sedan,White,37590,Good,21338.97,20846.52,CUST0109,Alexandra Hill,Hunter PLC Auto,South Benjamin,OH,Lease,Wells Fargo
+110,2024-04-02,Toyota,Corolla,2025,Truck,Beige,39134,Good,24352.23,23252.12,CUST0110,Heather Gonzales,Ayala-Brown Auto,Dawnview,FL,Financing,Capital One
+111,2024-05-10,Hyundai,Elantra,2022,Truck,White,55653,Fair,75559.05,72702.29,CUST0111,Christopher Thompson,Valenzuela-Schmidt Auto,Port Austinbury,OH,Cash,Chase
+112,2024-03-20,Chevrolet,Tahoe,2021,Convertible,Black,16958,Certified Pre-Owned,39998.35,39828.74,CUST0112,Mary Butler,King-Jones Auto,South Philip,CA,Financing,Wells Fargo
+113,2024-04-05,Subaru,Outback,2018,SUV,Red,42050,Excellent,55390.89,53941.55,CUST0113,Debra Mack,Hernandez-Wilson Auto,East Dawnmouth,CA,Lease,Bank of America
+114,2024-09-24,Hyundai,Tucson,2024,Truck,Red,57073,Fair,50074.45,49575.54,CUST0114,Jo Aguilar,"Nash, Clarke and Petty Auto",Audreymouth,OH,Lease,LightStream
+115,2025-02-18,Subaru,Outback,2019,SUV,White,41234,Fair,68584.16,66688.71,CUST0115,Tina Morgan,Nguyen and Sons Auto,South Mauriceshire,IL,Cash,Ally Financial
+116,2024-11-04,Toyota,RAV4,2023,Coupe,Blue,1260,Certified Pre-Owned,75010.65,73757.9,CUST0116,Kevin Norris,Myers-Singh Auto,Lake Kelly,AZ,Cash,Chase
+117,2025-03-15,Honda,Civic,2024,Sedan,White,9378,Good,56989.26,56416.21,CUST0117,James Hood,"Ellison, Kim and Sanchez Auto",New Shawn,NY,Financing,Bank of America
+118,2024-09-05,Chevrolet,Silverado,2018,Coupe,Beige,2504,Excellent,37692.45,36993.53,CUST0118,Molly Rodriguez,Higgins Group Auto,West Elizabeth,AZ,Cash,US Bank
+119,2024-11-26,Tesla,Model 3,2022,Sedan,White,1776,Fair,76973.15,74507.51,CUST0119,Angelica Flynn,Levine-Mclaughlin Auto,Lindseyberg,CA,Financing,Chase
+120,2024-12-16,Toyota,Camry,2022,Truck,Beige,50468,Fair,61358.68,59072.67,CUST0120,Kayla Miller,"Williams, Martinez and Rangel Auto",New Chadland,MI,Cash,US Bank
+121,2024-04-07,Subaru,Outback,2025,Truck,Silver,36965,Excellent,37815.44,36607.77,CUST0121,Kathryn Contreras,"Coleman, Walker and Elliott Auto",Port Paul,GA,Financing,Wells Fargo
+122,2025-04-13,Chevrolet,Tahoe,2025,Convertible,White,61671,Good,42433.37,40488.13,CUST0122,James Booth,Weber Ltd Auto,Paulfort,AZ,Financing,Bank of America
+123,2024-04-08,Toyota,RAV4,2019,Truck,Silver,48872,Certified Pre-Owned,26091.49,25951.18,CUST0123,Juan Saunders,"Gonzalez, Bryan and Wolf Auto",Smithchester,CA,Lease,Bank of America
+124,2024-04-28,BMW,3 Series,2023,Truck,White,57565,Excellent,54108.05,52236.66,CUST0124,William Webster,Newton-Martin Auto,West Amber,TX,Financing,US Bank
+125,2024-09-10,Toyota,RAV4,2024,Hatchback,Green,24732,Certified Pre-Owned,59444.57,57902.06,CUST0125,Raymond Martin,"Washington, Leach and Riley Auto",Kramerberg,TX,Lease,Chase
+126,2024-03-12,Volkswagen,Jetta,2021,Sedan,Beige,52691,Good,65498.07,62735.07,CUST0126,Jennifer Garrett,Lopez-Fox Auto,Christinamouth,PA,Cash,Wells Fargo
+127,2024-06-08,BMW,3 Series,2022,Truck,Blue,49771,Fair,77621.58,74127.21,CUST0127,Michael Austin,Long Group Auto,Stephanieville,AZ,Financing,US Bank
+128,2024-05-26,BMW,3 Series,2020,SUV,Black,11536,Good,31334.19,30250.51,CUST0128,Ashley Wagner,"Nichols, Hodges and Adams Auto",Rebeccamouth,NY,Financing,Wells Fargo
+129,2024-08-05,Ford,Explorer,2022,Convertible,Beige,42547,Good,64882.55,64666.94,CUST0129,Lauren Torres,Logan-Carter Auto,Longside,AZ,Cash,US Bank
+130,2025-01-14,Tesla,Model Y,2022,Sedan,White,75292,Fair,78141.59,77787.96,CUST0130,Shane Martinez,Wiley-Robbins Auto,South Jonathan,IL,Financing,Ally Financial
+131,2025-02-24,Mazda,CX-5,2022,Hatchback,Blue,73446,Good,73307.63,70502.25,CUST0131,Cristina Curtis,"Singleton, Meyers and Mccullough Auto",Turnerview,MI,Financing,Chase
+132,2024-10-19,Nissan,Altima,2025,Coupe,Blue,74995,Certified Pre-Owned,63876.36,62210.52,CUST0132,Christian Barrera,Richards LLC Auto,Drewshire,PA,Cash,LightStream
+133,2024-11-25,Audi,Q5,2018,Truck,Black,73780,Good,35905.89,34602.84,CUST0133,Cynthia Nunez,Cobb Inc Auto,East John,TX,Lease,LightStream
+134,2024-02-18,Honda,Civic,2024,Truck,Beige,57044,Certified Pre-Owned,23241.78,22705.16,CUST0134,James Bautista,Orozco-Thomas Auto,Garcialand,PA,Financing,Capital One
+135,2024-12-27,Volkswagen,Jetta,2024,Convertible,Black,78825,Excellent,63980.72,62995.65,CUST0135,Julie Graham,"Rosales, Williams and Horton Auto",Medinachester,NY,Financing,Wells Fargo
+136,2025-03-31,BMW,X5,2022,Sedan,Beige,57046,Good,23201.67,22710.8,CUST0136,Cody Carpenter DVM,Jones-Carroll Auto,East Amberport,AZ,Financing,Chase
+137,2024-07-25,Audi,Q5,2023,Convertible,Black,3428,Fair,42329.92,42028.01,CUST0137,Kristi Myers,"Simmons, Allen and Miller Auto",Beckerton,OH,Lease,Capital One
+138,2025-04-09,Subaru,Outback,2021,Coupe,White,39716,Certified Pre-Owned,66772.73,65883.6,CUST0138,Mary Zamora,"Drake, Reed and Robinson Auto",Noblefurt,IL,Financing,LightStream
+139,2025-03-18,Audi,A4,2019,Coupe,White,17664,Certified Pre-Owned,32659.96,31607.39,CUST0139,Jacob Ashley,Miller Ltd Auto,Lake Jamesside,OH,Lease,Chase
+140,2025-01-11,Volkswagen,Jetta,2019,Convertible,Blue,4689,Fair,38398.39,38326.8,CUST0140,Jeremy White,Gibson-Miller Auto,East Amyton,AZ,Lease,Ally Financial
+141,2025-06-04,Mercedes,E-Class,2023,Coupe,Blue,35011,Good,23592.05,22871.84,CUST0141,Julie Mcdonald,"Young, Barron and Edwards Auto",Johnsmouth,MI,Financing,Ally Financial
+142,2024-07-23,Chevrolet,Tahoe,2023,Hatchback,Green,27593,Certified Pre-Owned,61118.72,60062.88,CUST0142,Tracey Wade,Berry Group Auto,New Samuelville,NY,Financing,US Bank
+143,2024-04-16,Honda,CR-V,2018,Convertible,Red,28287,Excellent,61057.85,61005.48,CUST0143,Lisa Smith,Palmer-Stevenson Auto,Lake Jesse,CA,Lease,LightStream
+144,2024-02-04,Honda,CR-V,2025,Coupe,Green,74944,Good,75354.84,73358.5,CUST0144,Donna Spence,"Gordon, Torres and Bird Auto",West Cathyfurt,OH,Lease,LightStream
+145,2025-02-06,Toyota,Corolla,2022,Coupe,White,30769,Certified Pre-Owned,69697.22,69221.02,CUST0145,Joshua Beard,"White, Underwood and Dennis Auto",Pereztown,GA,Financing,Chase
+146,2024-09-24,Tesla,Model 3,2020,Truck,Silver,78651,Fair,65561.43,63709.91,CUST0146,Justin Cantrell,"Young, Hernandez and Watkins Auto",East Jonathan,IL,Cash,Ally Financial
+147,2025-05-16,Toyota,Corolla,2018,Sedan,Green,46515,Certified Pre-Owned,77432.86,75896.43,CUST0147,Melissa Garrison,Delgado LLC Auto,Gregorymouth,NY,Financing,LightStream
+148,2024-03-02,Mazda,CX-5,2025,Coupe,Black,55060,Fair,59249.61,57045.67,CUST0148,James Haynes,Barker-Foley Auto,Johnsonberg,IL,Lease,Bank of America
+149,2025-04-05,Hyundai,Tucson,2019,Convertible,Red,2845,Certified Pre-Owned,40323.43,40212.23,CUST0149,Tara Barry,Martinez Group Auto,Jamesburgh,PA,Cash,Ally Financial
+150,2024-10-22,Kia,Sportage,2020,Truck,Green,62446,Excellent,37377.45,35693.8,CUST0150,William Higgins,Richards LLC Auto,New Todd,MI,Cash,LightStream
+151,2024-08-20,Kia,Sportage,2020,Sedan,Black,25778,Excellent,28530.38,27786.09,CUST0151,Catherine Munoz,Meyer-Bradshaw Auto,West Ashleyland,NY,Lease,US Bank
+152,2025-03-05,Tesla,Model Y,2018,Truck,Gray,23311,Certified Pre-Owned,24192.24,24128.06,CUST0152,Jonathan Reid,Anderson-Villanueva Auto,Lake Paulview,GA,Lease,Wells Fargo
+153,2024-04-15,Mazda,CX-5,2022,Sedan,Green,75657,Excellent,55528.66,53023.4,CUST0153,Jennifer Burns,Stevens-Delgado Auto,Robinsonport,OH,Lease,Bank of America
+154,2025-04-06,Honda,Civic,2020,Sedan,Gray,8935,Fair,52203.6,50377.85,CUST0154,Donald Parker MD,"Reyes, Patel and Hamilton Auto",South Steven,TX,Lease,Wells Fargo
+155,2024-08-26,Hyundai,Elantra,2025,Coupe,Red,77348,Fair,79577.28,79201.99,CUST0155,Thomas Johnson,Smith Ltd Auto,North Luis,OH,Cash,Bank of America
+156,2024-08-14,Nissan,Altima,2020,Convertible,White,48161,Good,16787.15,16106.07,CUST0156,Nicholas Pennington Jr.,Petty Group Auto,East Vanessafort,AZ,Financing,Capital One
+157,2024-07-16,Nissan,Rogue,2024,Convertible,Blue,24757,Good,57009.72,54882.71,CUST0157,Gina Malone,Bridges Group Auto,Lake Josephmouth,MI,Lease,Citi
+158,2024-10-31,Subaru,Outback,2025,SUV,Blue,50450,Fair,38221.04,37956.89,CUST0158,Sharon Reynolds,Oliver LLC Auto,New Brittanyborough,NY,Financing,LightStream
+159,2024-10-15,Ford,F-150,2022,Sedan,Gray,1275,Fair,55807.54,54774.87,CUST0159,Mr. Darin Harvey,Lynch Ltd Auto,West Jermainestad,FL,Financing,LightStream
+160,2025-01-18,Tesla,Model 3,2020,Convertible,Gray,9780,Certified Pre-Owned,59445.99,56709.46,CUST0160,David Callahan,"Thomas, Harris and Bowers Auto",North Connie,GA,Cash,Ally Financial
+161,2024-01-19,Toyota,Corolla,2023,Convertible,Silver,36427,Certified Pre-Owned,37912.52,36316.29,CUST0161,Cameron Rice,Simmons-Jimenez Auto,Port Dariusbury,IL,Lease,Citi
+162,2024-06-19,Volkswagen,Jetta,2025,Hatchback,Beige,77225,Certified Pre-Owned,24332.89,24277.13,CUST0162,Ashley Parker,Zhang-Collins Auto,South Lisa,NY,Lease,US Bank
+163,2024-04-21,Kia,Sportage,2019,Coupe,Silver,66378,Certified Pre-Owned,67086.89,66600.61,CUST0163,Dr. Ryan Valencia,Carey and Sons Auto,Turnerchester,PA,Financing,US Bank
+164,2024-02-15,Audi,A4,2024,Sedan,Beige,49728,Fair,74756.03,71330.2,CUST0164,Jessica Martinez,Hayes Group Auto,South Kaitlyn,FL,Lease,Capital One
+165,2025-05-04,Kia,Sportage,2024,Sedan,Red,63711,Fair,35377.24,35085.11,CUST0165,Steven Michael,Hill LLC Auto,New Jacobview,NY,Cash,Chase
+166,2024-04-15,Honda,Accord,2018,Coupe,Black,74288,Excellent,33567.97,32332.45,CUST0166,Mark Chapman,Craig LLC Auto,West James,TX,Cash,US Bank
+167,2024-12-30,Ford,F-150,2021,Coupe,Red,57383,Good,44665.41,44639.46,CUST0167,Heather Mitchell,Wolfe and Sons Auto,East Alexastad,MI,Cash,US Bank
+168,2024-06-02,Kia,Sportage,2024,Sedan,Gray,48500,Excellent,29431.14,28485.82,CUST0168,Sean Martinez,Lucas-Landry Auto,Lake Markchester,NY,Cash,Bank of America
+169,2024-07-13,Toyota,Camry,2019,Coupe,Beige,29523,Fair,61752.94,60243.57,CUST0169,Mary Anderson,Greene PLC Auto,Johnsville,TX,Cash,LightStream
+170,2024-08-17,Toyota,Corolla,2018,Truck,Gray,12094,Certified Pre-Owned,62053.46,61171.77,CUST0170,Heather Hart,Herrera-Benson Auto,Wongborough,PA,Financing,Capital One
+171,2025-04-03,Toyota,Camry,2025,Hatchback,Beige,27932,Excellent,79930.18,75960.89,CUST0171,Monica Morgan,Fox LLC Auto,New Anthony,PA,Cash,Citi
+172,2024-04-03,Tesla,Model Y,2025,Sedan,Black,37935,Excellent,67733.52,66578.55,CUST0172,Alicia Walker,Holt Ltd Auto,Browntown,AZ,Cash,Capital One
+173,2024-05-27,Honda,CR-V,2019,SUV,Blue,2038,Good,68760.6,68690.1,CUST0173,Melissa Ryan,Petty Ltd Auto,Port Brendanland,CA,Financing,Bank of America
+174,2024-06-24,Ford,Mustang,2024,Coupe,White,22422,Certified Pre-Owned,36751.56,36469.45,CUST0174,Joshua Castro,Terry Ltd Auto,Harrellville,OH,Cash,US Bank
+175,2024-09-10,Ford,F-150,2023,Coupe,Black,8407,Fair,50261.55,47852.58,CUST0175,Lisa Hudson,Brooks-Miller Auto,South Jose,MI,Lease,Chase
+176,2024-04-26,Tesla,Model 3,2018,Truck,Gray,9181,Excellent,77195.53,74644.07,CUST0176,Jennifer Sloan,Roach-Rice Auto,South Laura,TX,Lease,Ally Financial
+177,2025-06-19,Kia,Sportage,2024,Coupe,Gray,35917,Certified Pre-Owned,18777.68,18744.0,CUST0177,Dustin Mills,Owen-Young Auto,Johnfurt,PA,Financing,Capital One
+178,2025-01-29,Mercedes,C-Class,2018,Coupe,Silver,41526,Fair,70077.51,67472.97,CUST0178,Rebecca Evans,"Todd, Taylor and Hayes Auto",Jessicafort,PA,Financing,Chase
+179,2024-08-31,Tesla,Model Y,2022,Sedan,Green,77419,Fair,25994.16,25096.86,CUST0179,Ashley Sutton,Hughes PLC Auto,Brandonside,IL,Lease,Capital One
+180,2024-08-01,Mazda,CX-5,2019,Truck,Black,67924,Fair,65723.43,64935.02,CUST0180,Joshua Smith,"Dillon, Gonzalez and Phelps Auto",East William,FL,Financing,LightStream
+181,2024-01-31,Honda,Civic,2019,Coupe,White,48377,Excellent,34507.11,33744.63,CUST0181,Tamara Ballard,Banks-Jones Auto,Anthonyton,MI,Cash,Bank of America
+182,2024-12-03,Hyundai,Tucson,2025,Coupe,White,72962,Fair,58625.68,58223.53,CUST0182,Elizabeth Jordan,Watson-Montgomery Auto,Williamsberg,FL,Financing,LightStream
+183,2025-03-03,Subaru,Outback,2024,Truck,Blue,37970,Excellent,70268.06,67900.37,CUST0183,Hannah Gibson,Briggs-Horton Auto,Danielburgh,TX,Financing,US Bank
+184,2024-05-28,Subaru,Outback,2020,Hatchback,Green,64708,Good,55568.53,55358.37,CUST0184,Danielle Hanson,"Lynch, Forbes and Sanders Auto",North Amandamouth,CA,Lease,Chase
+185,2024-05-15,Volkswagen,Jetta,2023,SUV,Beige,67082,Excellent,70123.19,66844.22,CUST0185,Laura Shepherd,"Thomas, Wright and Floyd Auto",Cameronland,GA,Cash,Capital One
+186,2024-04-06,Audi,Q5,2022,Sedan,Blue,18740,Certified Pre-Owned,72054.8,71865.17,CUST0186,Kayla Smith,Kelly Ltd Auto,Jodifort,IL,Cash,Capital One
+187,2025-02-23,Subaru,Outback,2019,Coupe,Green,70644,Excellent,34162.85,33947.79,CUST0187,Jerome Walker,Black PLC Auto,Kristinaberg,TX,Financing,Chase
+188,2024-02-11,Toyota,Corolla,2024,Coupe,Red,75599,Good,49766.86,49522.19,CUST0188,Diane Smith,"Rodriguez, Johnson and Alexander Auto",Joneshaven,PA,Cash,Citi
+189,2024-12-15,Kia,Sportage,2025,Truck,Blue,15925,Excellent,40443.2,39911.77,CUST0189,Christine Mcclure,Graham Group Auto,Campbellton,PA,Cash,Ally Financial
+190,2024-01-15,Toyota,Corolla,2018,Hatchback,Beige,45595,Excellent,66774.69,64879.69,CUST0190,Eduardo Robinson,"Boone, Jacobs and Watts Auto",Nicoleland,TX,Lease,Chase
+191,2024-09-07,Toyota,Camry,2025,Convertible,Blue,48198,Good,74318.32,72659.52,CUST0191,Deborah Howell,"Foley, Hoover and Welch Auto",East Brittanyland,OH,Financing,Capital One
+192,2025-02-19,Honda,Civic,2024,Coupe,Green,63976,Excellent,74863.51,72925.36,CUST0192,Matthew Harrington,Klein-Bennett Auto,Davidville,FL,Lease,Bank of America
+193,2024-10-02,Kia,Sportage,2020,Truck,Black,33940,Good,66894.74,64141.61,CUST0193,Ashley Jenkins,"Ramirez, Swanson and Patrick Auto",Port Kristin,NY,Cash,Wells Fargo
+194,2024-04-26,Honda,Civic,2023,Convertible,Beige,70088,Fair,25298.62,25237.97,CUST0194,Karen Jordan,Davenport-Howard Auto,West Patriciaport,NY,Cash,Capital One
+195,2024-05-09,Tesla,Model Y,2025,Convertible,Black,22357,Excellent,74253.47,71581.79,CUST0195,Mark Hardy,Potter PLC Auto,New Erica,CA,Financing,US Bank
+196,2024-06-10,Tesla,Model 3,2022,Convertible,White,11875,Certified Pre-Owned,59724.8,58614.07,CUST0196,Anne Nguyen,Shaw-Evans Auto,Bryantown,FL,Lease,Wells Fargo
+197,2024-05-13,Chevrolet,Tahoe,2024,Coupe,Black,1908,Good,66843.82,63704.93,CUST0197,Victoria Edwards,Young-Hart Auto,Port Jeffrey,MI,Lease,Chase
+198,2025-01-31,Honda,Accord,2023,Coupe,Silver,6195,Excellent,46907.8,46106.1,CUST0198,Tracy Liu MD,Dominguez Group Auto,Nicholasview,GA,Lease,Citi
+199,2024-08-16,Mercedes,E-Class,2018,Convertible,Red,13842,Fair,29721.52,28787.76,CUST0199,Nichole Atkins,Turner-Campbell Auto,East Maryport,OH,Cash,Capital One
+200,2024-11-22,Mercedes,E-Class,2024,SUV,Green,45510,Certified Pre-Owned,63963.01,62157.95,CUST0200,Andre Carter,"Tucker, Buck and Jackson Auto",East Jill,MI,Financing,Citi
+201,2025-01-12,BMW,X5,2018,Convertible,Beige,24642,Certified Pre-Owned,23628.99,22872.56,CUST0201,Victoria Cook,Carson Ltd Auto,Lake Brandon,FL,Cash,Wells Fargo
+202,2025-03-07,Honda,CR-V,2023,Coupe,Blue,2404,Excellent,71750.96,69453.45,CUST0202,Wanda Thornton,Miller-Moreno Auto,Hardingville,AZ,Financing,LightStream
+203,2024-03-26,Tesla,Model Y,2021,Sedan,Gray,37684,Certified Pre-Owned,68453.2,68131.51,CUST0203,Emma Kelly,Jones LLC Auto,South Victoria,TX,Cash,Chase
+204,2024-04-14,Nissan,Altima,2018,Convertible,Blue,31568,Fair,43406.14,41936.0,CUST0204,Charles Welch,Castillo-Edwards Auto,Katiemouth,AZ,Cash,Chase
+205,2025-04-08,Mazda,CX-5,2018,Hatchback,Green,171,Fair,32982.46,31435.55,CUST0205,Trevor Rodriguez,"Barber, Mccullough and Hoffman Auto",West James,MI,Lease,LightStream
+206,2025-06-09,Toyota,Corolla,2024,Coupe,Red,696,Good,32934.78,32707.86,CUST0206,Ronald Patton,Williams-Alvarado Auto,East Kimberlyfort,IL,Financing,LightStream
+207,2025-05-12,Kia,Sportage,2018,Sedan,Blue,61589,Good,56304.41,56155.8,CUST0207,Oscar Foster,"Wall, Escobar and Eaton Auto",Tranville,CA,Cash,LightStream
+208,2025-06-17,Nissan,Altima,2018,Truck,Black,24651,Fair,25387.38,24696.14,CUST0208,Teresa Montgomery,"Salazar, Morris and Simon Auto",Port Sean,CA,Lease,Chase
+209,2024-02-06,Chevrolet,Tahoe,2018,Coupe,Red,39161,Fair,73311.86,70079.79,CUST0209,Jennifer Charles,"Morales, Andersen and Garcia Auto",Jonesbury,PA,Cash,Chase
+210,2024-10-04,Hyundai,Elantra,2022,SUV,Silver,65716,Certified Pre-Owned,26696.73,25772.3,CUST0210,David Hobbs,Brown and Sons Auto,Josefurt,OH,Cash,LightStream
+211,2025-06-04,Honda,CR-V,2023,Hatchback,Silver,70286,Fair,35457.7,34010.64,CUST0211,Phillip Haley,"Frazier, Chavez and Davis Auto",Belindamouth,OH,Cash,Ally Financial
+212,2024-07-19,Tesla,Model Y,2023,SUV,Blue,61356,Fair,73393.7,70153.61,CUST0212,Krystal Brown,Lopez-Mccoy Auto,Lake Diana,TX,Cash,LightStream
+213,2025-05-17,Hyundai,Elantra,2025,Sedan,Red,16001,Fair,58711.64,58653.8,CUST0213,Elizabeth Morris,Nunez LLC Auto,Melissafurt,NY,Lease,Bank of America
+214,2024-01-25,Audi,Q5,2022,Truck,Black,16669,Excellent,20706.56,19696.61,CUST0214,Kevin Jacobs,"Garner, Smith and Sosa Auto",Lake Christie,CA,Lease,Chase
+215,2025-04-18,Audi,A4,2022,Hatchback,Red,8879,Fair,56076.77,53389.89,CUST0215,Nicholas Martinez,Morgan-Sanders Auto,Rosshaven,OH,Financing,Citi
+216,2024-09-15,Ford,Mustang,2020,Coupe,Blue,58729,Good,45733.42,45047.78,CUST0216,Jeffery Peters,Boyd-Mccullough Auto,Lake Tracymouth,NY,Lease,LightStream
+217,2024-04-26,Tesla,Model Y,2021,SUV,Gray,79001,Fair,17732.75,17675.72,CUST0217,Joseph Carson,Stewart Group Auto,New Brittanyhaven,CA,Financing,Chase
+218,2024-08-06,BMW,3 Series,2024,Sedan,Silver,39540,Certified Pre-Owned,27915.16,27651.64,CUST0218,Nathaniel Fisher,Rubio Group Auto,Bentleyfort,TX,Cash,LightStream
+219,2024-12-01,Ford,Mustang,2022,Convertible,Black,74382,Fair,55017.25,52642.99,CUST0219,Allison Butler MD,Blair and Sons Auto,South Kim,NY,Financing,Capital One
+220,2024-07-08,Hyundai,Tucson,2022,Coupe,Red,25553,Good,71526.22,69490.15,CUST0220,Brooke Vance,"Aguilar, Short and Bryant Auto",Oconnorhaven,TX,Lease,US Bank
+221,2024-08-08,Subaru,Outback,2023,Truck,Green,72341,Fair,60043.94,58831.59,CUST0221,Melissa Blair,Lynch PLC Auto,Port Kimberly,TX,Financing,Chase
+222,2024-07-20,Mazda,CX-5,2023,Hatchback,Gray,14128,Certified Pre-Owned,79495.15,79161.85,CUST0222,Anna Holloway DDS,Aguilar and Sons Auto,Matthewfurt,MI,Financing,LightStream
+223,2024-01-03,Mercedes,C-Class,2021,SUV,Gray,1026,Excellent,30590.47,30091.52,CUST0223,Nicole Johnson,"Peters, Stanley and Harrell Auto",Cameronton,IL,Cash,Citi
+224,2024-06-19,Ford,F-150,2021,Sedan,Green,533,Good,59947.62,58524.32,CUST0224,Miguel Shelton,"Maxwell, Zimmerman and Johnson Auto",Carrilloberg,FL,Financing,Chase
+225,2024-09-23,Kia,Sportage,2020,Truck,Gray,71600,Excellent,47217.85,45467.26,CUST0225,Angelica Castillo,"Carson, May and Schneider Auto",Nicholasside,GA,Financing,Capital One
+226,2025-02-10,Audi,Q5,2022,Coupe,White,20996,Good,45374.63,44947.61,CUST0226,Michael Terry,Fuller-Perry Auto,New Gloria,PA,Financing,LightStream
+227,2025-04-24,Subaru,Outback,2024,Truck,Gray,63639,Excellent,76903.64,73837.25,CUST0227,Shelly Henderson,"Boyer, Harrell and Whitney Auto",North Marioburgh,NY,Lease,Chase
+228,2024-09-19,Tesla,Model Y,2020,Convertible,Beige,3872,Excellent,28081.08,27916.7,CUST0228,Thomas Smith,Farmer-Alvarado Auto,Brownport,TX,Lease,Wells Fargo
+229,2024-09-09,Chevrolet,Silverado,2025,Truck,Black,68634,Certified Pre-Owned,47499.04,46622.46,CUST0229,Jacqueline Flores,Mejia LLC Auto,Barronview,GA,Cash,Bank of America
+230,2024-06-20,Toyota,Camry,2024,Convertible,Black,55524,Good,69567.2,67493.28,CUST0230,John James,Rodriguez-Garza Auto,South Kellymouth,MI,Lease,Capital One
+231,2024-12-01,Toyota,Camry,2018,Convertible,Black,20922,Certified Pre-Owned,39596.1,39366.87,CUST0231,Ann Simmons,Williams LLC Auto,Julieborough,PA,Lease,Chase
+232,2024-11-11,Chevrolet,Silverado,2020,Coupe,Red,66005,Fair,39016.55,38127.55,CUST0232,Melanie Sutton,"Love, Austin and Aguilar Auto",Brandychester,CA,Financing,Bank of America
+233,2025-06-17,Nissan,Rogue,2025,Sedan,Beige,79233,Fair,53790.88,51523.01,CUST0233,Paula Miller,Brown-Berry Auto,Port Lori,PA,Cash,Citi
+234,2024-03-02,Honda,Civic,2018,Convertible,White,71574,Fair,51244.62,50043.38,CUST0234,Jennifer Bradshaw MD,Burton-Lee Auto,Johnville,OH,Lease,US Bank
+235,2025-06-28,Ford,Explorer,2025,Convertible,Gray,25217,Fair,50813.72,48386.16,CUST0235,Kevin Morrison,"Nguyen, Garner and Warner Auto",Port Stephanie,IL,Financing,Ally Financial
+236,2024-05-05,Hyundai,Elantra,2024,Coupe,White,23959,Good,74665.95,72642.02,CUST0236,Amy Edwards,"Rogers, Davidson and Hart Auto",Kellerbury,TX,Cash,Bank of America
+237,2024-10-02,Nissan,Rogue,2018,Truck,White,41966,Certified Pre-Owned,42453.21,41227.37,CUST0237,Devon Jordan,Stark-Smith Auto,West Patrick,AZ,Lease,LightStream
+238,2024-02-23,Nissan,Altima,2022,Hatchback,White,27741,Certified Pre-Owned,29467.08,28029.52,CUST0238,Julie Fleming,Mendoza PLC Auto,Jillside,PA,Lease,Wells Fargo
+239,2024-03-05,Nissan,Altima,2023,Sedan,Silver,54823,Certified Pre-Owned,60892.52,60408.29,CUST0239,Ashlee Bright,"Martinez, Morton and Marshall Auto",Kingfurt,MI,Lease,LightStream
+240,2025-04-10,Toyota,Camry,2022,Coupe,Black,30793,Fair,79542.01,75884.25,CUST0240,Stephen Poole,Shaw-Pierce Auto,West Sandramouth,PA,Cash,Bank of America
+241,2024-03-14,Chevrolet,Silverado,2020,Hatchback,Red,50816,Certified Pre-Owned,78249.7,74804.53,CUST0241,Jessica Rodriguez,Reilly-Trevino Auto,Whitebury,FL,Financing,LightStream
+242,2025-03-08,Kia,Sportage,2022,Sedan,Beige,71384,Good,77756.06,74848.1,CUST0242,Wanda Smith,Hall Inc Auto,Chambersmouth,FL,Financing,Citi
+243,2024-03-20,Subaru,Outback,2018,Coupe,Green,17676,Certified Pre-Owned,37870.7,37613.22,CUST0243,Calvin Jackson,"Bailey, Peterson and Archer Auto",Thomasview,CA,Lease,US Bank
+244,2024-05-26,Tesla,Model Y,2018,Hatchback,Green,33169,Fair,74903.19,72807.89,CUST0244,Monica Hernandez,"Robinson, Woods and Shaw Auto",Lisatown,CA,Cash,Ally Financial
+245,2025-03-28,Mercedes,E-Class,2025,Sedan,Beige,66977,Good,34129.66,34079.36,CUST0245,Antonio Cummings,Turner PLC Auto,Lake Robertshire,OH,Financing,Ally Financial
+246,2024-01-28,Nissan,Altima,2020,SUV,Blue,43791,Fair,35546.21,34379.59,CUST0246,Julie Mosley,Allen PLC Auto,South Chelsea,MI,Financing,Capital One
+247,2024-09-08,Mercedes,E-Class,2020,Coupe,Silver,17730,Excellent,54658.61,53490.43,CUST0247,Steven Keller,Johnson Inc Auto,Richardsonland,GA,Financing,US Bank
+248,2025-03-08,Toyota,Corolla,2024,Sedan,Gray,67733,Fair,58303.47,55676.59,CUST0248,Jesse Allen,Williamson PLC Auto,Lake Morgan,FL,Financing,Citi
+249,2025-04-27,Hyundai,Elantra,2024,Convertible,Silver,26593,Good,58609.78,57219.6,CUST0249,Daniel Miller,Briggs Ltd Auto,Leemouth,MI,Lease,Capital One
+250,2025-05-21,Honda,Accord,2020,Hatchback,Green,24473,Certified Pre-Owned,38279.85,38052.42,CUST0250,Patricia Fry,Jones-Taylor Auto,South Katherinemouth,AZ,Financing,Capital One
+251,2025-05-26,Toyota,RAV4,2018,Truck,White,73342,Certified Pre-Owned,29732.6,28842.77,CUST0251,Paul Snyder,"Velasquez, Martin and Townsend Auto",Jasonport,IL,Cash,LightStream
+252,2024-11-24,Nissan,Altima,2019,Coupe,Silver,63050,Good,60892.17,60381.99,CUST0252,Randall Horne Jr.,Miller-Prince Auto,Monicashire,NY,Lease,Ally Financial
+253,2025-03-18,Toyota,Camry,2024,Coupe,Green,37403,Good,17044.55,16814.23,CUST0253,Christopher Morgan,Roman Ltd Auto,Shelleytown,GA,Lease,Chase
+254,2025-02-01,Hyundai,Tucson,2024,Convertible,Black,832,Excellent,19905.49,19512.23,CUST0254,Sandra Rodriguez,Stewart-Carter Auto,West Christineberg,CA,Lease,Bank of America
+255,2025-06-25,Mercedes,C-Class,2024,Truck,Red,40761,Fair,38115.17,37478.66,CUST0255,Jason Miller,Wong Ltd Auto,East Katelyn,NY,Cash,Chase
+256,2025-04-25,Honda,Civic,2025,SUV,Beige,39074,Certified Pre-Owned,72530.55,72056.52,CUST0256,Mrs. Jessica Hardin,Duncan Group Auto,South April,FL,Cash,Ally Financial
+257,2024-10-09,Honda,CR-V,2020,Hatchback,Gray,7405,Certified Pre-Owned,37091.86,36488.71,CUST0257,Peter Benson,Mitchell Inc Auto,Lindseyland,PA,Cash,Wells Fargo
+258,2024-09-22,Honda,Civic,2024,Convertible,Black,6009,Certified Pre-Owned,79470.55,76981.2,CUST0258,Madison Mejia,Warren PLC Auto,Johnport,PA,Cash,Capital One
+259,2024-08-12,Mazda,CX-5,2019,SUV,Blue,121,Excellent,71194.49,70531.54,CUST0259,Colin Jones DDS,Smith-Cantu Auto,Wrighttown,FL,Financing,Chase
+260,2025-02-06,Toyota,Camry,2024,Coupe,Blue,32138,Certified Pre-Owned,32532.74,31146.35,CUST0260,Wanda Chapman,Lucero-Mcdonald Auto,Amyfort,IL,Lease,US Bank
+261,2025-01-16,Mazda,CX-5,2024,Sedan,Red,25226,Fair,36998.05,36845.64,CUST0261,Michelle Thomas,"Holt, Douglas and Edwards Auto",New Sydney,IL,Financing,LightStream
+262,2024-01-29,Nissan,Rogue,2022,SUV,Red,75106,Excellent,20169.57,20165.5,CUST0262,Antonio Davis,Wilkins-Miller Auto,Josephbury,OH,Cash,LightStream
+263,2024-01-03,Chevrolet,Tahoe,2023,Truck,Silver,7777,Certified Pre-Owned,53967.87,53698.74,CUST0263,Tara Singleton,Rivera Group Auto,West Jennaside,IL,Lease,Bank of America
+264,2025-06-16,Nissan,Rogue,2023,SUV,White,12972,Good,72304.25,69280.67,CUST0264,Lacey Mccullough,Pitts-Weaver Auto,Port Charles,GA,Financing,Citi
+265,2024-09-11,Toyota,Camry,2021,Coupe,Blue,38654,Certified Pre-Owned,55766.59,55756.22,CUST0265,Christopher Rodriguez,Clark-Watkins Auto,Dianestad,IL,Cash,Citi
+266,2024-11-16,Mazda,CX-5,2020,Convertible,Green,65390,Certified Pre-Owned,53554.31,51704.23,CUST0266,Kylie Stewart,Dominguez and Sons Auto,Lake Veronica,IL,Lease,Chase
+267,2025-02-27,Chevrolet,Silverado,2025,Hatchback,Blue,63022,Certified Pre-Owned,76300.96,72979.88,CUST0267,Maxwell Noble,"Holt, Hernandez and Johnson Auto",Duncanborough,FL,Lease,Citi
+268,2025-02-01,Nissan,Rogue,2022,Coupe,Black,2855,Certified Pre-Owned,21680.34,21458.21,CUST0268,Brandon Lewis,Bowen-Hutchinson Auto,Lake Victoriaberg,CA,Lease,LightStream
+269,2024-04-21,Hyundai,Elantra,2022,Convertible,Gray,8654,Good,33951.87,32549.22,CUST0269,Cory Carlson,"Howard, Evans and Thompson Auto",South Williammouth,GA,Lease,US Bank
+270,2025-02-11,Honda,Accord,2019,Convertible,Red,79225,Fair,23363.99,22343.74,CUST0270,Jennifer Watkins,"Levine, Brown and Cooper Auto",Portershire,PA,Cash,Wells Fargo
+271,2024-05-28,Chevrolet,Silverado,2019,Convertible,Black,47403,Certified Pre-Owned,15114.72,14845.11,CUST0271,Tammie Morris,Mckee-Roth Auto,Priscillatown,MI,Lease,US Bank
+272,2024-12-18,Ford,F-150,2022,Truck,Black,19318,Certified Pre-Owned,59105.54,57186.81,CUST0272,Anthony Alvarado,Calderon Inc Auto,North Matthewshire,NY,Financing,Citi
+273,2025-04-05,Ford,Explorer,2022,Convertible,White,54316,Excellent,18631.8,18509.92,CUST0273,Katrina Walker,"Knight, Allen and Lee Auto",Marissaton,NY,Cash,Citi
+274,2024-05-22,Hyundai,Tucson,2023,Coupe,Blue,42748,Fair,54672.83,52738.67,CUST0274,Terri Barnes,"Fox, Banks and Riley Auto",Port Adammouth,AZ,Cash,LightStream
+275,2024-11-23,Ford,Mustang,2019,Sedan,Silver,51570,Excellent,25143.04,24091.48,CUST0275,Jennifer Farley,Lee-Shepard Auto,New Warrenshire,IL,Lease,Wells Fargo
+276,2024-01-05,Honda,Civic,2019,Convertible,Gray,60869,Certified Pre-Owned,35756.84,34438.44,CUST0276,Matthew Parker,"Buckley, Austin and Rios Auto",North Katie,PA,Cash,LightStream
+277,2025-01-05,Toyota,Corolla,2023,Hatchback,White,52714,Fair,70622.7,68659.21,CUST0277,Kyle Riley,"Jackson, Miles and Miller Auto",Harveyfort,FL,Financing,Citi
+278,2025-01-22,Honda,CR-V,2025,SUV,Green,43871,Good,41303.17,41162.07,CUST0278,Kenneth Francis,"Smith, Ortiz and Perez Auto",Herreraborough,PA,Cash,Chase
+279,2024-03-23,Mazda,CX-5,2025,Sedan,Beige,67295,Certified Pre-Owned,54413.94,51836.29,CUST0279,Andrew Miller,Hester Group Auto,Vincentmouth,AZ,Lease,Citi
+280,2024-12-22,Mercedes,E-Class,2025,Convertible,Green,25580,Good,47151.08,45568.72,CUST0280,Aaron Reyes,Lawson-Smith Auto,Madelinemouth,GA,Lease,Bank of America
+281,2025-05-29,Tesla,Model 3,2022,Convertible,Red,59293,Good,38526.66,37116.02,CUST0281,Julie Davis,Freeman-Chase Auto,Port Jeffreystad,AZ,Cash,Wells Fargo
+282,2025-04-01,BMW,X5,2020,Truck,Black,41376,Certified Pre-Owned,63253.82,60147.6,CUST0282,Corey Powers,Chavez Inc Auto,South Andreatown,AZ,Lease,Ally Financial
+283,2024-07-22,Honda,CR-V,2025,Sedan,Red,43449,Certified Pre-Owned,75353.7,73267.66,CUST0283,Sean Baker,Morris-Bender Auto,Lopezberg,NY,Cash,Citi
+284,2024-07-24,Toyota,RAV4,2025,Hatchback,Gray,39158,Excellent,52318.58,51727.54,CUST0284,Scott Hansen,"Taylor, Lane and Williams Auto",Wilsonchester,PA,Financing,Capital One
+285,2024-07-19,Toyota,RAV4,2024,Truck,White,18677,Certified Pre-Owned,63713.61,63265.61,CUST0285,Aaron Cooley,"Fowler, White and Williams Auto",Peterview,TX,Cash,Chase
+286,2025-01-23,Tesla,Model 3,2018,Hatchback,Red,68393,Fair,26149.44,25532.76,CUST0286,Carla Smith DDS,Brown and Sons Auto,Claymouth,PA,Cash,Chase
+287,2024-03-06,BMW,3 Series,2019,Convertible,White,55286,Good,56372.47,56209.83,CUST0287,Albert Carr,"Carrillo, Wagner and Smith Auto",Millerfurt,NY,Cash,Chase
+288,2024-12-21,Chevrolet,Tahoe,2021,Convertible,Gray,22361,Certified Pre-Owned,72662.98,72062.37,CUST0288,Stephanie Noble,"Martinez, Lee and Wong Auto",North Jimport,MI,Financing,Wells Fargo
+289,2024-09-21,Volkswagen,Jetta,2025,SUV,Silver,51802,Certified Pre-Owned,33653.99,33389.04,CUST0289,Craig Jones,Todd-Greene Auto,Gonzalezville,MI,Lease,LightStream
+290,2024-11-08,Chevrolet,Tahoe,2021,SUV,Blue,27054,Fair,20775.12,20512.17,CUST0290,Regina Santana,Walls LLC Auto,West Jenniferhaven,MI,Financing,Wells Fargo
+291,2025-04-27,Nissan,Rogue,2018,Hatchback,Black,40695,Good,43890.74,42675.11,CUST0291,Eddie James,Webb-Costa Auto,North Amanda,IL,Financing,US Bank
+292,2024-10-22,Tesla,Model 3,2019,Truck,Green,23043,Fair,53591.49,52424.5,CUST0292,Kenneth Oliver,"Carter, Jackson and Johnston Auto",South Susan,IL,Lease,Citi
+293,2024-10-16,Hyundai,Elantra,2022,Coupe,Beige,9759,Good,15412.25,15084.51,CUST0293,Kenneth King,"Pham, Phillips and Meyer Auto",West Shirley,OH,Financing,Citi
+294,2024-06-14,Nissan,Rogue,2024,Sedan,Red,14392,Certified Pre-Owned,49316.26,46864.11,CUST0294,Antonio Fisher,"Martinez, Hughes and Myers Auto",Cookshire,MI,Cash,Ally Financial
+295,2024-09-24,Toyota,RAV4,2019,Hatchback,Green,59366,Excellent,66369.99,66163.24,CUST0295,Brenda Williams,Haynes-Hull Auto,Fowlerstad,FL,Cash,LightStream
+296,2024-06-07,BMW,3 Series,2019,Coupe,Green,10115,Fair,32802.77,32521.77,CUST0296,Scott Williamson,"Gardner, Keller and Cole Auto",Aaronton,AZ,Financing,Capital One
+297,2024-01-04,Subaru,Outback,2025,Hatchback,Red,7155,Excellent,59609.3,59001.88,CUST0297,Brian Sweeney,"Doyle, Mcmillan and Jenkins Auto",Maryside,IL,Cash,US Bank
+298,2024-02-23,Toyota,Camry,2019,Truck,Beige,49609,Fair,15065.58,14451.94,CUST0298,Amy Rodriguez,"Pham, Kennedy and Blake Auto",Gouldland,IL,Financing,Ally Financial
+299,2025-04-03,Mercedes,C-Class,2024,Hatchback,Silver,77063,Good,38578.97,37533.44,CUST0299,Brittany Mckinney,Palmer and Sons Auto,East Williamburgh,PA,Financing,US Bank
+300,2025-05-21,Toyota,RAV4,2018,Convertible,White,19908,Fair,36941.55,35894.66,CUST0300,Elizabeth Willis,Allen Group Auto,East Paige,NY,Cash,Chase
+301,2024-12-31,Kia,Sportage,2022,Sedan,Blue,63600,Good,72928.03,70835.82,CUST0301,Jeffrey Garcia,Taylor-Castillo Auto,Schmidtview,CA,Financing,Bank of America
+302,2024-07-01,Tesla,Model Y,2024,SUV,White,42202,Certified Pre-Owned,76800.24,74244.39,CUST0302,Michael Mitchell,Miller-Mcclure Auto,Scottburgh,NY,Financing,Wells Fargo
+303,2024-08-06,Hyundai,Elantra,2018,Hatchback,Green,19520,Excellent,76811.05,75694.76,CUST0303,Mark Robles,"Meyers, West and Figueroa Auto",West Cassandra,AZ,Cash,Chase
+304,2024-09-08,Hyundai,Tucson,2024,Sedan,White,56600,Certified Pre-Owned,22243.1,22095.91,CUST0304,Tracey Harvey,"Weber, Stone and Burns Auto",Port Luis,GA,Cash,Capital One
+305,2024-12-01,Kia,Sportage,2018,Sedan,Red,75521,Certified Pre-Owned,29316.49,29092.75,CUST0305,Jorge Gross,Gonzalez-Krause Auto,East Joan,CA,Financing,Bank of America
+306,2024-05-28,Honda,Civic,2025,Coupe,Green,26572,Certified Pre-Owned,57699.77,56471.11,CUST0306,Aaron Black,"Wagner, Hall and Zimmerman Auto",Soniafort,TX,Lease,US Bank
+307,2024-12-31,Mercedes,C-Class,2025,Hatchback,White,72024,Certified Pre-Owned,17098.17,17038.4,CUST0307,Carl Carpenter,Haynes Ltd Auto,Cardenasfurt,PA,Financing,Capital One
+308,2025-04-28,Tesla,Model Y,2019,Sedan,Beige,70917,Good,71094.83,68071.79,CUST0308,Robert Tapia,Vargas Ltd Auto,Anthonyfurt,MI,Financing,LightStream
+309,2024-10-14,Mercedes,E-Class,2020,Convertible,Green,69603,Fair,31637.74,30398.8,CUST0309,Robin Ross,Riddle-Clay Auto,Campbellchester,GA,Lease,Capital One
+310,2024-07-17,Honda,CR-V,2025,Hatchback,Gray,1600,Good,79123.34,78809.21,CUST0310,Denise Torres,Elliott Inc Auto,East Michaelberg,CA,Lease,LightStream
+311,2024-06-17,Toyota,RAV4,2023,Sedan,Black,25480,Fair,31727.33,31432.86,CUST0311,Shawn Duran,Alvarez-Anderson Auto,Christinaborough,NY,Financing,LightStream
+312,2024-08-24,Honda,Accord,2019,Hatchback,Black,36310,Certified Pre-Owned,19266.37,18618.57,CUST0312,Shane Tran,"Bishop, Day and Medina Auto",Port Rodney,CA,Lease,Wells Fargo
+313,2025-06-02,Hyundai,Elantra,2020,Truck,Black,31454,Certified Pre-Owned,76584.17,75635.82,CUST0313,Alyssa Henry,Howard-Ball Auto,East Joshuabury,PA,Cash,Capital One
+314,2024-03-26,Tesla,Model 3,2023,Hatchback,Gray,13871,Good,18635.88,17963.64,CUST0314,Jeffrey Pierce,"Williams, Murphy and Clark Auto",Port Travisland,OH,Lease,Capital One
+315,2024-11-20,Nissan,Altima,2021,Sedan,Black,47785,Good,45496.93,44447.51,CUST0315,Denise Cook,"Johnson, Mueller and Villa Auto",Matthewmouth,TX,Lease,Bank of America
+316,2024-03-15,Volkswagen,Jetta,2021,Sedan,Blue,57684,Excellent,39778.47,38943.55,CUST0316,Steven Johnson,Barron-Miller Auto,Lake Ryan,AZ,Cash,US Bank
+317,2024-11-02,Mercedes,C-Class,2022,Hatchback,Black,43071,Fair,33292.44,32063.48,CUST0317,Linda Curry,"Green, Summers and Scott Auto",Jennifershire,TX,Lease,Citi
+318,2024-02-17,Kia,Sportage,2022,Hatchback,Black,21041,Excellent,74006.03,72135.58,CUST0318,Jeremy Washington,Ray-Burnett Auto,New Andrew,GA,Lease,Chase
+319,2024-03-07,Toyota,Camry,2024,Convertible,Black,38207,Certified Pre-Owned,77218.95,73550.97,CUST0319,Paula Alvarado,Gordon-Wilkins Auto,Brandonhaven,IL,Cash,Capital One
+320,2024-08-20,Nissan,Altima,2024,Coupe,Beige,19937,Excellent,71620.65,69431.71,CUST0320,Kristin Gomez,Phillips LLC Auto,West Amandabury,AZ,Financing,Wells Fargo
+321,2024-01-03,Toyota,Camry,2024,Truck,Red,72662,Excellent,72757.45,70824.97,CUST0321,Dennis Ortiz,Garcia-Alvarez Auto,West Dawn,FL,Financing,Chase
+322,2025-04-16,Ford,Explorer,2025,Hatchback,Beige,23152,Fair,46494.28,45760.05,CUST0322,Jean Rhodes,Stewart-Schneider Auto,Franklinview,IL,Cash,Chase
+323,2024-08-17,Ford,F-150,2018,Sedan,Beige,45553,Certified Pre-Owned,27824.24,26941.52,CUST0323,Gary Bullock,Mayer Ltd Auto,Richardport,AZ,Lease,Capital One
+324,2024-01-23,Honda,CR-V,2020,Coupe,Blue,13178,Certified Pre-Owned,59606.87,58446.84,CUST0324,Michael Mccarthy,Clark LLC Auto,Arthurton,AZ,Financing,Ally Financial
+325,2024-09-21,Audi,Q5,2021,Sedan,White,17863,Excellent,26774.73,25921.82,CUST0325,John Gentry,Parker Group Auto,Greenshire,GA,Cash,Citi
+326,2024-02-18,Ford,Explorer,2020,Hatchback,Beige,7191,Certified Pre-Owned,78915.19,76717.67,CUST0326,Karen Sharp,"Harper, Rogers and Aguilar Auto",Smithville,MI,Financing,US Bank
+327,2024-12-06,Nissan,Rogue,2020,Hatchback,Red,34592,Fair,42471.88,40714.19,CUST0327,David Garcia,Perez Inc Auto,Katelynton,NY,Lease,US Bank
+328,2024-10-10,Ford,Explorer,2020,Sedan,Black,41071,Excellent,20941.22,20441.34,CUST0328,Cody Arias,Hernandez Ltd Auto,Watkinshaven,OH,Financing,Capital One
+329,2024-10-01,Kia,Sportage,2022,Sedan,Gray,71521,Fair,65613.99,64538.58,CUST0329,Sarah Rhodes,Tyler-Murphy Auto,Amymouth,OH,Financing,Citi
+330,2024-01-03,Honda,CR-V,2021,Convertible,Beige,31747,Good,45585.9,43338.34,CUST0330,Brandon Lopez,Crawford PLC Auto,West Jennifer,TX,Financing,Ally Financial
+331,2024-11-27,Honda,CR-V,2023,SUV,Blue,30766,Good,24727.48,24703.55,CUST0331,Mary Snow,Wolfe-Wiley Auto,Annaside,IL,Lease,Wells Fargo
+332,2024-11-23,Honda,Civic,2021,Convertible,Green,42715,Certified Pre-Owned,51980.98,51455.14,CUST0332,Michelle Anderson,Reeves LLC Auto,Lindsaytown,GA,Cash,Chase
+333,2024-05-26,Audi,A4,2021,Coupe,Blue,42689,Excellent,72621.18,70347.36,CUST0333,Melissa Bowen,Jimenez-Gonzalez Auto,Anthonychester,OH,Lease,Chase
+334,2024-03-04,Chevrolet,Silverado,2020,Hatchback,Silver,68077,Certified Pre-Owned,54851.52,52911.44,CUST0334,Lance Duncan,Johnson-Briggs Auto,Guerreroport,GA,Cash,Ally Financial
+335,2025-03-05,Subaru,Outback,2023,Hatchback,Beige,3053,Good,48901.87,48286.92,CUST0335,Daniel Wright,Callahan Ltd Auto,Annaville,GA,Cash,Ally Financial
+336,2025-05-22,Audi,Q5,2025,Truck,Red,70581,Excellent,62056.66,60134.55,CUST0336,Sean Wood,Reynolds Group Auto,Mooreton,FL,Lease,Wells Fargo
+337,2025-03-15,Mercedes,C-Class,2020,Coupe,Beige,48925,Excellent,64122.61,63920.88,CUST0337,Danielle Nelson,"Bradshaw, Sanchez and Mitchell Auto",Jasontown,CA,Cash,Bank of America
+338,2024-05-04,BMW,3 Series,2021,Hatchback,White,28184,Certified Pre-Owned,70257.43,68978.43,CUST0338,Kenneth Campbell,Chan and Sons Auto,South Alexfort,IL,Cash,US Bank
+339,2025-03-09,Mercedes,E-Class,2025,SUV,Beige,11763,Certified Pre-Owned,75116.76,74204.54,CUST0339,Melissa Kelly,Miller Ltd Auto,New Codyside,NY,Financing,LightStream
+340,2024-09-29,Toyota,Camry,2018,SUV,Silver,70729,Fair,71012.13,69912.49,CUST0340,Gregory Ramsey,White-Porter Auto,Port Michael,AZ,Lease,Bank of America
+341,2024-05-15,Tesla,Model 3,2020,Hatchback,Green,43266,Good,60789.55,59740.07,CUST0341,David Reynolds,"Johnson, Galloway and Stephenson Auto",Paultown,PA,Lease,Ally Financial
+342,2025-04-10,Ford,Mustang,2025,Truck,Black,20779,Fair,66486.52,64455.09,CUST0342,Devin Hunter,"Thompson, Mclean and Adams Auto",Lake Amanda,OH,Financing,Wells Fargo
+343,2024-11-08,Honda,CR-V,2020,Truck,Green,33605,Good,15781.61,15753.76,CUST0343,Johnny Bowen,Mccann-Cox Auto,Jenniferfurt,IL,Cash,Capital One
+344,2025-03-21,Honda,Civic,2021,Sedan,Green,74750,Certified Pre-Owned,48657.44,47313.44,CUST0344,Jennifer Griffin,Mcbride Inc Auto,Dianaside,AZ,Lease,Citi
+345,2024-02-18,Kia,Sportage,2022,Hatchback,Gray,67986,Certified Pre-Owned,37091.5,35305.43,CUST0345,Scott Whitney,Miller LLC Auto,New Jessica,FL,Lease,Wells Fargo
+346,2025-06-21,Toyota,RAV4,2024,Sedan,Blue,24319,Certified Pre-Owned,24470.7,23959.52,CUST0346,Stephanie Bryant,Sloan-Lee Auto,East Julie,PA,Lease,Ally Financial
+347,2025-01-22,Volkswagen,Jetta,2025,SUV,Green,24988,Excellent,66674.52,63693.54,CUST0347,Tina Clark,"Aguilar, Horton and White Auto",New Meganberg,CA,Financing,Capital One
+348,2025-05-04,Kia,Sportage,2023,SUV,Red,4530,Certified Pre-Owned,57337.19,56335.25,CUST0348,Mr. Erik Harrison MD,Romero-Singh Auto,Barbaraside,AZ,Financing,US Bank
+349,2024-06-03,Toyota,RAV4,2020,Hatchback,Green,4070,Excellent,28926.73,27723.54,CUST0349,Julie Castro,Butler PLC Auto,Julieburgh,MI,Cash,Bank of America
+350,2025-04-29,Toyota,Camry,2025,SUV,Green,3364,Good,21465.05,21031.28,CUST0350,Stephen Cunningham IV,Brown PLC Auto,Susanmouth,NY,Financing,Chase
+351,2024-06-22,Audi,Q5,2023,Truck,Blue,27449,Fair,78801.36,77470.98,CUST0351,Pamela Greer,Morgan-Carter Auto,Samanthaview,PA,Cash,Bank of America
+352,2024-12-08,Tesla,Model Y,2021,Coupe,Green,27841,Certified Pre-Owned,26296.09,26110.55,CUST0352,Scott Ho,Hill LLC Auto,East Brianchester,MI,Cash,Bank of America
+353,2024-03-18,Volkswagen,Jetta,2019,SUV,Blue,31547,Fair,59456.67,57983.04,CUST0353,Joe Dixon,Raymond-Wood Auto,North Joelton,CA,Lease,LightStream
+354,2025-05-25,Hyundai,Tucson,2025,SUV,Black,72787,Fair,36414.26,35997.97,CUST0354,Travis Bowman,"Roberts, Soto and Mcintosh Auto",South Douglas,TX,Lease,Chase
+355,2024-11-15,Toyota,RAV4,2025,Hatchback,Gray,13735,Excellent,33152.78,31770.53,CUST0355,Meghan Smith,"Booth, Edwards and French Auto",Mooremouth,TX,Cash,Capital One
+356,2024-11-04,BMW,3 Series,2025,SUV,Gray,14010,Excellent,35096.02,33354.15,CUST0356,Oscar Smith,Moore LLC Auto,Lake Pamelastad,FL,Cash,LightStream
+357,2024-04-04,Audi,Q5,2019,SUV,Gray,18422,Fair,44105.06,43556.38,CUST0357,Aaron Contreras,"Wagner, Martin and Grimes Auto",Pamelafort,PA,Financing,Bank of America
+358,2024-11-20,Toyota,RAV4,2023,SUV,White,34303,Certified Pre-Owned,54717.16,52437.53,CUST0358,Jerry Salas,Chang-Thompson Auto,East Gabrielshire,TX,Financing,Ally Financial
+359,2025-04-20,Honda,Accord,2025,Sedan,Red,29523,Excellent,25885.19,25103.77,CUST0359,Bryan Perkins,Cunningham Inc Auto,East Kyleburgh,TX,Cash,Chase
+360,2024-03-14,Tesla,Model Y,2019,Truck,Black,29557,Good,44879.44,44113.82,CUST0360,Amy Schneider,Smith-Joyce Auto,Garciaside,GA,Lease,Wells Fargo
+361,2024-02-02,Honda,Accord,2021,Hatchback,Beige,4192,Good,50309.21,47839.04,CUST0361,Joseph Lee,Martin-Miller Auto,Aprilville,FL,Cash,Bank of America
+362,2024-10-28,Tesla,Model Y,2022,Coupe,Green,10795,Fair,15317.54,15214.59,CUST0362,John Thomas,Smith PLC Auto,Carpenterside,NY,Financing,Chase
+363,2024-04-11,Mercedes,E-Class,2025,Hatchback,Blue,47770,Excellent,24283.67,23665.56,CUST0363,Robert Sandoval,Garner PLC Auto,Lawrenceborough,CA,Lease,Chase
+364,2024-10-31,Mercedes,C-Class,2021,SUV,Gray,27106,Fair,59843.12,59506.26,CUST0364,Julie Hernandez,Goodwin and Sons Auto,North Dawnfurt,OH,Cash,Bank of America
+365,2024-02-20,BMW,X5,2020,Sedan,Blue,75522,Excellent,42378.84,40949.53,CUST0365,Robert Harris,Oconnor PLC Auto,North Steven,IL,Financing,Bank of America
+366,2025-01-05,Audi,A4,2021,Hatchback,Red,13172,Excellent,17307.21,17215.8,CUST0366,Danielle Roberts,"Barry, Wood and Jackson Auto",Port Kylefort,NY,Cash,Wells Fargo
+367,2024-07-17,Toyota,Camry,2024,Truck,White,62620,Good,43803.46,41733.99,CUST0367,Kevin Walters,Rodriguez-Davis Auto,North Stevenmouth,IL,Cash,Citi
+368,2024-10-22,Chevrolet,Tahoe,2024,SUV,Green,29528,Excellent,41966.76,40369.63,CUST0368,Kristin Torres,"Wells, Guerra and White Auto",South Williamville,MI,Financing,LightStream
+369,2024-04-09,Ford,Explorer,2021,Convertible,White,1528,Fair,29383.53,28063.0,CUST0369,John Watts,"Robbins, James and Kim Auto",West Michael,CA,Lease,US Bank
+370,2024-08-18,Honda,Civic,2024,Sedan,Black,40642,Fair,24204.84,23451.09,CUST0370,Austin Baker,Fleming LLC Auto,New Aaron,GA,Lease,Citi
+371,2025-01-30,Nissan,Altima,2019,SUV,Blue,48518,Excellent,32419.35,31386.34,CUST0371,Jacqueline Jackson,Nguyen-Burton Auto,Morrisberg,OH,Lease,US Bank
+372,2024-12-04,BMW,X5,2022,Hatchback,White,18408,Excellent,56784.14,54111.46,CUST0372,William Nelson,"Kelley, Ross and Simon Auto",East Angiechester,NY,Cash,Chase
+373,2025-02-25,Honda,Civic,2024,Coupe,White,77835,Excellent,78539.95,75025.92,CUST0373,Robert Montgomery,"Hanson, Mcmillan and Cohen Auto",Jenniferstad,TX,Financing,Ally Financial
+374,2024-11-03,Toyota,Corolla,2025,Coupe,Beige,62018,Good,77987.32,74555.82,CUST0374,Amanda Simmons,Smith-Chavez Auto,Sethberg,OH,Cash,US Bank
+375,2024-01-19,BMW,X5,2019,Hatchback,Blue,25726,Good,72550.81,71272.11,CUST0375,Casey Flores,Lopez-Tyler Auto,New Holly,AZ,Lease,Capital One
+376,2024-11-21,BMW,3 Series,2024,SUV,White,18636,Certified Pre-Owned,49965.53,49324.65,CUST0376,Keith Mcknight,Alvarez-Riley Auto,Sherryberg,CA,Financing,LightStream
+377,2024-04-10,Toyota,RAV4,2018,SUV,Blue,63948,Fair,68846.32,66723.97,CUST0377,Jennifer Martinez,Nguyen Ltd Auto,Schaefermouth,GA,Financing,Bank of America
+378,2024-10-17,Ford,Explorer,2022,Sedan,Beige,38723,Certified Pre-Owned,66037.67,65121.67,CUST0378,Eric Greene,Levine PLC Auto,North Charles,OH,Cash,Bank of America
+379,2024-03-27,Chevrolet,Silverado,2023,Sedan,Silver,2420,Excellent,52730.43,51030.22,CUST0379,Valerie Baker,Koch Inc Auto,South Bethshire,GA,Lease,Ally Financial
+380,2025-03-09,Chevrolet,Silverado,2025,SUV,Beige,18218,Fair,27726.96,26777.5,CUST0380,Mark Nelson,"Chavez, Church and Dougherty Auto",Haileyview,AZ,Financing,Citi
+381,2024-09-26,Mercedes,C-Class,2019,Convertible,Silver,34219,Excellent,17471.37,17282.09,CUST0381,Katherine Schroeder,"Lopez, Vang and Taylor Auto",Hartfurt,OH,Cash,Bank of America
+382,2024-03-23,Ford,Explorer,2024,SUV,Green,790,Good,58225.92,56601.28,CUST0382,Mary Young,Webb Group Auto,Port Jamesview,PA,Financing,Bank of America
+383,2025-02-25,Audi,A4,2018,Truck,Silver,43991,Good,65982.9,62725.83,CUST0383,Ryan Weber,"Blake, Duke and Lee Auto",East Brianhaven,OH,Cash,Bank of America
+384,2024-01-06,Ford,Mustang,2022,SUV,White,75497,Good,63295.18,61554.9,CUST0384,Tina Carter,"Bond, Sanchez and Franklin Auto",Port Jonathan,OH,Financing,Bank of America
+385,2025-05-14,Audi,A4,2023,SUV,Beige,4741,Certified Pre-Owned,32283.72,30720.51,CUST0385,Stephanie Taylor,Moreno LLC Auto,North Deborahton,OH,Lease,US Bank
+386,2025-03-06,Hyundai,Elantra,2020,SUV,Green,13542,Good,50991.12,49577.68,CUST0386,Thomas Dunlap,"Schroeder, Price and Flores Auto",Lake Allison,CA,Lease,Wells Fargo
+387,2024-12-19,Tesla,Model 3,2024,Sedan,Silver,7983,Certified Pre-Owned,57362.03,57292.05,CUST0387,Nicole Cervantes,"Sutton, Perez and Valdez Auto",Ayalatown,GA,Financing,Capital One
+388,2025-01-24,Ford,Explorer,2024,Truck,Beige,72745,Certified Pre-Owned,69386.67,69386.57,CUST0388,Shelby Kirk,Fisher PLC Auto,Andersontown,OH,Financing,Wells Fargo
+389,2025-01-02,Chevrolet,Tahoe,2018,Hatchback,Black,40069,Excellent,51080.24,50880.25,CUST0389,Patricia Thomas,Bruce Group Auto,Burkehaven,NY,Lease,Wells Fargo
+390,2024-08-05,BMW,3 Series,2025,Convertible,Green,15703,Good,72381.15,71949.14,CUST0390,Yolanda Hatfield,Alexander Ltd Auto,South Vickieside,CA,Cash,Ally Financial
+391,2025-05-05,Nissan,Altima,2023,Convertible,Silver,42248,Good,64706.15,61817.24,CUST0391,Jeffrey Campos,Larson-Khan Auto,Lake Colebury,OH,Cash,Chase
+392,2025-06-20,Ford,F-150,2020,Truck,Black,70349,Certified Pre-Owned,76024.01,74779.42,CUST0392,Steven Aguilar,Kent-Henderson Auto,East Michellehaven,TX,Lease,Chase
+393,2025-03-23,Mazda,CX-5,2023,Truck,Gray,1980,Excellent,27068.96,26874.4,CUST0393,Patricia Gonzalez,"Mooney, Cooper and Liu Auto",Lake Shawnstad,GA,Financing,Citi
+394,2024-12-22,Toyota,Camry,2021,Sedan,Black,56461,Fair,67770.6,65151.26,CUST0394,Andrew Roberts,Mckenzie Group Auto,Hamiltonfurt,PA,Financing,Capital One
+395,2025-05-18,Hyundai,Tucson,2020,Hatchback,White,43041,Excellent,60243.43,59854.83,CUST0395,Dustin Lee,Reid-Ford Auto,Larryville,CA,Financing,Bank of America
+396,2024-10-08,Hyundai,Tucson,2025,Truck,Blue,45658,Certified Pre-Owned,17275.25,16717.26,CUST0396,Kayla Aguirre,"Jensen, Gay and Williamson Auto",New Charleschester,IL,Cash,Capital One
+397,2025-04-12,Hyundai,Tucson,2019,Coupe,Beige,27165,Certified Pre-Owned,72825.78,70084.74,CUST0397,Richard Smith,Scott-Bennett Auto,Alexanderville,MI,Lease,US Bank
+398,2025-05-29,Ford,F-150,2019,Hatchback,Red,54152,Fair,65160.96,64919.05,CUST0398,David Harris,Cook-Cole Auto,Melissaside,PA,Financing,Ally Financial
+399,2024-01-10,Kia,Sportage,2025,Hatchback,Green,29698,Good,55620.56,54405.8,CUST0399,Eric Johnson,Martin PLC Auto,South Crystal,FL,Lease,LightStream
+400,2024-01-06,Ford,Mustang,2020,Sedan,Gray,10334,Certified Pre-Owned,77613.84,77411.15,CUST0400,Brandy Miranda,Bailey PLC Auto,New Anneburgh,AZ,Lease,Chase
+401,2024-09-11,Chevrolet,Tahoe,2024,Truck,Black,30614,Excellent,41357.48,39953.69,CUST0401,Carolyn Richardson,Luna Group Auto,Derrickview,IL,Cash,Chase
+402,2024-11-27,Mercedes,E-Class,2024,Convertible,Beige,50416,Good,48693.62,48342.84,CUST0402,Matthew Hayes,Tate Group Auto,South Mollyshire,MI,Cash,Capital One
+403,2025-06-25,Toyota,Corolla,2023,Coupe,White,20990,Excellent,67672.73,66411.54,CUST0403,Cody Jenkins,Stone-White Auto,Turnershire,IL,Cash,Citi
+404,2024-09-20,Mercedes,C-Class,2021,Coupe,Gray,70007,Good,43693.38,43101.09,CUST0404,Laura Morris,Simpson-Waters Auto,Curtisview,CA,Cash,Citi
+405,2025-01-03,Toyota,RAV4,2022,Hatchback,Beige,15639,Fair,27530.59,26257.4,CUST0405,Brian Weaver,Bennett LLC Auto,Port Gregorymouth,GA,Lease,Wells Fargo
+406,2024-08-04,Mercedes,C-Class,2019,Coupe,Green,22357,Fair,19249.67,18999.85,CUST0406,Lori Shaw,Moreno Group Auto,Davidshire,CA,Financing,Citi
+407,2024-10-18,Ford,Explorer,2025,Hatchback,Red,40899,Good,50014.05,49728.53,CUST0407,Cory Johnston,Johnson-Smith Auto,Eugeneville,TX,Financing,Ally Financial
+408,2024-09-03,BMW,3 Series,2024,Sedan,Black,51960,Good,71603.39,69641.69,CUST0408,Allison Watson,Johnston-Sheppard Auto,South Mikayla,MI,Lease,Ally Financial
+409,2024-08-18,Hyundai,Tucson,2020,Sedan,Blue,29306,Excellent,41294.12,39707.18,CUST0409,Mark Lyons,"Franklin, Daniels and Flowers Auto",Rebeccastad,MI,Cash,Chase
+410,2024-10-22,Honda,Civic,2022,Coupe,Red,56828,Excellent,50555.51,48952.67,CUST0410,Cameron Franco,Walker Group Auto,New Angela,CA,Lease,Chase
+411,2025-06-08,Nissan,Rogue,2022,Hatchback,Silver,36870,Excellent,73309.17,71506.7,CUST0411,Mallory Sanchez,Marshall Ltd Auto,Davidshire,IL,Financing,Wells Fargo
+412,2024-08-31,Hyundai,Elantra,2020,Hatchback,Green,4454,Fair,43094.97,41947.11,CUST0412,William Fuentes,Butler and Sons Auto,Kevinbury,MI,Financing,Citi
+413,2025-02-27,Mazda,CX-5,2024,Hatchback,Black,67669,Good,69242.42,66051.01,CUST0413,Dana Roth,"Bruce, Hancock and Becker Auto",Kathrynstad,TX,Cash,LightStream
+414,2024-01-17,Honda,Accord,2020,Truck,Red,885,Excellent,53315.71,51186.87,CUST0414,Nathan Leblanc,"Paul, Joseph and Taylor Auto",Seanstad,NY,Cash,Citi
+415,2025-01-31,Ford,Explorer,2019,Coupe,Blue,76104,Certified Pre-Owned,57544.58,55823.54,CUST0415,Tina Singh,Brown-Nichols Auto,Brianfurt,FL,Lease,LightStream
+416,2024-04-29,Ford,Mustang,2024,Hatchback,Beige,17235,Good,51073.9,48764.75,CUST0416,Sally Barker,"Edwards, Martinez and Robinson Auto",Lake Diane,FL,Lease,LightStream
+417,2024-09-10,Tesla,Model 3,2019,Hatchback,Silver,47847,Good,51287.27,49655.77,CUST0417,Aaron Santos,Bird-Price Auto,Lake Tammy,MI,Lease,Citi
+418,2025-03-28,Toyota,Corolla,2020,Coupe,White,31263,Excellent,20744.22,20119.33,CUST0418,Patricia Simon,"Mendez, Thomas and King Auto",Abigailstad,NY,Lease,US Bank
+419,2024-07-16,Toyota,RAV4,2025,SUV,Beige,40602,Excellent,64349.7,62596.42,CUST0419,Lisa Davis,Johnson-Snyder Auto,South Charlesshire,AZ,Cash,LightStream
+420,2024-12-20,Honda,CR-V,2024,Sedan,Red,3969,Excellent,74367.98,73199.32,CUST0420,Kathy Stark,"Bates, Morris and Jackson Auto",Ericaberg,NY,Lease,Bank of America
+421,2025-03-18,Mercedes,C-Class,2025,Coupe,Gray,78870,Good,49906.74,47844.68,CUST0421,Robert Cooper,"Harrington, Cunningham and Deleon Auto",Crossborough,MI,Financing,Citi
+422,2025-02-13,Mazda,CX-5,2018,Coupe,Black,35899,Good,65511.11,65159.84,CUST0422,Joyce Morrison,Jones-Hurst Auto,Landryland,GA,Lease,Ally Financial
+423,2025-06-08,Ford,F-150,2023,SUV,Silver,5601,Good,30930.61,30581.08,CUST0423,Matthew Moore,"Snyder, Wu and Gonzalez Auto",Smithfurt,PA,Cash,US Bank
+424,2025-01-28,Tesla,Model Y,2024,Coupe,Silver,30303,Fair,21443.64,21099.6,CUST0424,Cody Jacobs,Jacobson Group Auto,Adamberg,CA,Lease,Capital One
+425,2024-10-17,Audi,A4,2018,Coupe,White,11095,Certified Pre-Owned,19193.66,18786.76,CUST0425,William Berg,"Ferguson, Cobb and Collins Auto",East James,IL,Lease,Bank of America
+426,2024-07-09,Honda,Accord,2018,Sedan,Gray,55027,Good,31596.01,30707.41,CUST0426,Derek Patel,"Wood, Love and Smith Auto",East Anthonyshire,FL,Financing,LightStream
+427,2024-04-27,Chevrolet,Silverado,2023,Convertible,Green,9204,Certified Pre-Owned,41175.14,39557.09,CUST0427,Kyle Ruiz PhD,"Davis, Rodriguez and Peterson Auto",North Patriciatown,PA,Cash,Wells Fargo
+428,2024-08-07,Tesla,Model 3,2025,SUV,Red,8685,Certified Pre-Owned,44847.48,43518.26,CUST0428,Margaret Moore,Williams and Sons Auto,East Brianport,NY,Financing,Chase
+429,2025-01-31,Mercedes,C-Class,2023,Convertible,Blue,28744,Certified Pre-Owned,65219.31,62909.82,CUST0429,Michelle Reynolds,Mathews PLC Auto,North Nicholas,GA,Financing,Citi
+430,2025-02-24,Nissan,Rogue,2021,Coupe,Black,66479,Fair,45915.78,45535.37,CUST0430,Adam Powell,"Campbell, Todd and Lopez Auto",North Carrieland,IL,Financing,Citi
+431,2025-05-31,Chevrolet,Tahoe,2025,Convertible,Silver,79873,Fair,44437.63,43803.23,CUST0431,Jonathan Mcdonald,Curry-Reynolds Auto,Meganton,IL,Financing,Citi
+432,2024-09-09,Mercedes,C-Class,2019,Coupe,Blue,40901,Good,49822.0,49027.69,CUST0432,Michelle Graves,Haas-Webb Auto,New Kristen,MI,Lease,Wells Fargo
+433,2024-01-24,Ford,Mustang,2024,Truck,White,23909,Fair,17439.55,16681.39,CUST0433,Christina Erickson,Barron LLC Auto,Wolfehaven,OH,Financing,LightStream
+434,2024-07-22,Nissan,Altima,2018,Convertible,Red,77032,Good,25101.37,25083.92,CUST0434,Austin Silva,Moss-Johnson Auto,New Lindafort,MI,Lease,Bank of America
+435,2025-02-24,BMW,X5,2019,Hatchback,Green,27305,Certified Pre-Owned,62013.49,61897.32,CUST0435,Christopher Baker,Willis and Sons Auto,Barnesfurt,FL,Lease,US Bank
+436,2024-06-24,Toyota,Camry,2021,Truck,Gray,64336,Excellent,69212.29,67509.42,CUST0436,Jose Lewis,"Hogan, Thomas and Hunter Auto",East Christopher,IL,Cash,Wells Fargo
+437,2024-08-06,Mercedes,C-Class,2018,Sedan,White,68682,Fair,48312.99,46803.99,CUST0437,Stephen Lowe,Lee-Johnson Auto,Port Diana,GA,Cash,LightStream
+438,2024-12-21,Toyota,Camry,2025,Convertible,Gray,10495,Good,70117.58,69228.11,CUST0438,Richard Wilson,Aguilar LLC Auto,Allenborough,NY,Cash,US Bank
+439,2024-10-17,Toyota,Corolla,2020,SUV,Red,5610,Fair,58956.08,58349.84,CUST0439,Mrs. Amanda Rivera,Banks LLC Auto,Port Christina,TX,Financing,Ally Financial
+440,2024-10-14,Mercedes,E-Class,2023,SUV,Silver,72776,Certified Pre-Owned,38717.71,37700.94,CUST0440,Christina Yoder,"Carter, Sharp and Jackson Auto",Schneidermouth,TX,Cash,LightStream
+441,2025-05-27,Nissan,Rogue,2018,Truck,Beige,27548,Fair,65974.06,63976.02,CUST0441,Mario Green,"Moore, Hobbs and Rodriguez Auto",Aliciashire,MI,Lease,US Bank
+442,2024-03-30,Honda,Civic,2018,Hatchback,Green,49745,Excellent,52195.88,49603.39,CUST0442,Deborah Jacobs,Bush-Smith Auto,New Victoria,TX,Financing,Bank of America
+443,2025-03-31,Nissan,Rogue,2023,Coupe,White,21564,Certified Pre-Owned,27589.11,26319.03,CUST0443,Jerome Robinson,Gonzalez Inc Auto,South Kristin,IL,Financing,Ally Financial
+444,2025-03-08,BMW,X5,2025,Truck,Gray,30165,Excellent,60654.72,57899.18,CUST0444,Debra Cordova,Le-Moreno Auto,North Timothyport,GA,Lease,LightStream
+445,2025-05-03,Chevrolet,Tahoe,2025,Coupe,White,50397,Fair,36605.99,36225.45,CUST0445,Jennifer Robinson,"Mathews, West and Miller Auto",South Elizabethside,MI,Cash,US Bank
+446,2024-01-26,Mazda,CX-5,2020,Convertible,Silver,40671,Good,42164.87,40842.41,CUST0446,Tina Harding,Stein-Trujillo Auto,East Danielport,AZ,Lease,Capital One
+447,2025-03-27,Hyundai,Tucson,2024,Convertible,Beige,41972,Excellent,39515.83,37639.18,CUST0447,Angela Valenzuela,"Rodriguez, Bailey and Daugherty Auto",Birdville,MI,Lease,Chase
+448,2024-08-18,Chevrolet,Silverado,2019,SUV,Blue,69001,Certified Pre-Owned,33793.2,32136.74,CUST0448,Kevin Jones,Bullock-Hughes Auto,South Catherine,PA,Financing,Ally Financial
+449,2024-08-25,Honda,Civic,2020,Coupe,White,21589,Good,67129.74,65083.43,CUST0449,Michelle Sanders,Smith-Johnson Auto,Lake Angelatown,FL,Lease,Citi
+450,2024-03-06,Toyota,Camry,2022,Hatchback,Silver,11110,Excellent,34129.91,34033.93,CUST0450,William Horne,Gray-Jefferson Auto,South Michael,NY,Financing,Ally Financial
+451,2024-11-02,Chevrolet,Tahoe,2025,Coupe,Silver,44910,Excellent,54432.82,53334.82,CUST0451,Bradley Wright,"Mata, Morrow and Miller Auto",Ericshire,GA,Financing,LightStream
+452,2024-05-14,Honda,Accord,2021,Truck,Beige,69059,Certified Pre-Owned,18731.08,18394.52,CUST0452,Cynthia Espinoza,Fox PLC Auto,Wangberg,NY,Financing,Bank of America
+453,2024-03-09,Nissan,Altima,2023,Sedan,Gray,52289,Fair,22095.35,21860.59,CUST0453,David Allen,Cordova Group Auto,Zamoraberg,PA,Financing,LightStream
+454,2024-04-25,BMW,X5,2025,Hatchback,Silver,17380,Good,54403.39,53871.71,CUST0454,Gregory Adams,Young and Sons Auto,West Lindseyshire,IL,Lease,Capital One
+455,2024-11-28,Audi,A4,2021,Truck,Red,59185,Certified Pre-Owned,45414.45,44481.99,CUST0455,Robert Christensen,Johnson Inc Auto,Marquezton,AZ,Cash,Wells Fargo
+456,2024-12-29,Toyota,Camry,2022,Convertible,Blue,39077,Good,36741.39,36135.19,CUST0456,Susan Brown,Harrington Inc Auto,Julieview,NY,Lease,Wells Fargo
+457,2025-03-24,BMW,X5,2025,SUV,Green,50709,Excellent,41239.35,39752.32,CUST0457,Barry Hull,"Glover, White and Howard Auto",Port Richardbury,PA,Financing,Capital One
+458,2024-03-20,Tesla,Model Y,2024,Convertible,Green,30401,Certified Pre-Owned,54164.04,51477.93,CUST0458,April Robinson,"Gonzalez, Martin and Rodriguez Auto",Leahburgh,AZ,Cash,US Bank
+459,2024-12-05,Honda,Civic,2021,Convertible,White,36890,Fair,36030.89,34298.11,CUST0459,Todd Bishop,"Lawrence, Costa and Pittman Auto",Williammouth,IL,Financing,LightStream
+460,2025-01-31,Ford,Explorer,2020,Truck,Blue,45034,Fair,44772.7,43547.57,CUST0460,Mrs. Tracy Sullivan,Mcgee and Sons Auto,Crystaltown,FL,Financing,Capital One
+461,2024-07-29,Toyota,RAV4,2018,Convertible,Beige,36341,Good,54102.01,52080.07,CUST0461,Shawn Scott,Kline Inc Auto,Singhhaven,CA,Financing,Ally Financial
+462,2024-10-25,Toyota,RAV4,2021,Sedan,Gray,58829,Certified Pre-Owned,54711.82,54524.65,CUST0462,Stephanie Foster,Snow Group Auto,North Paul,MI,Cash,Chase
+463,2024-09-22,Ford,F-150,2023,Hatchback,White,73377,Excellent,41903.83,41798.32,CUST0463,Scott Smith,"Moore, Dawson and Richmond Auto",West Stephanie,OH,Lease,LightStream
+464,2025-02-04,Audi,A4,2025,Sedan,Black,25085,Fair,15027.59,14816.89,CUST0464,Donald Ramirez,Davis PLC Auto,Port Brendanhaven,AZ,Lease,Citi
+465,2025-01-29,Tesla,Model Y,2020,Convertible,Beige,39908,Certified Pre-Owned,79033.34,76637.4,CUST0465,Angelica Diaz,Gonzalez LLC Auto,Jamesshire,GA,Cash,Bank of America
+466,2025-02-12,Mazda,CX-5,2025,SUV,Green,53265,Certified Pre-Owned,65550.94,62493.15,CUST0466,Debra Wells,Meza-Peters Auto,Kathyborough,PA,Lease,Capital One
+467,2025-05-24,Toyota,RAV4,2024,SUV,Black,31691,Certified Pre-Owned,73632.38,72879.6,CUST0467,Lawrence Shelton,Morales Ltd Auto,East Ryan,CA,Cash,Wells Fargo
+468,2024-12-15,Subaru,Outback,2024,Truck,White,79959,Certified Pre-Owned,23438.67,23069.32,CUST0468,Nathaniel Barry,Barker-Mckenzie Auto,Gregorymouth,IL,Financing,Capital One
+469,2025-01-30,BMW,3 Series,2022,SUV,Green,38920,Fair,51856.41,50436.86,CUST0469,Heather Smith,Anderson Group Auto,South Brookehaven,IL,Cash,US Bank
+470,2024-05-05,Hyundai,Tucson,2023,Coupe,Silver,6343,Certified Pre-Owned,33672.17,32210.72,CUST0470,Haley Wilson,Peterson and Sons Auto,Alvaradobury,MI,Lease,Chase
+471,2024-02-07,Toyota,RAV4,2020,Convertible,Silver,69813,Fair,71162.4,69795.17,CUST0471,Amanda Jones,Jones-Zavala Auto,North Michaelview,CA,Cash,Wells Fargo
+472,2024-05-10,Tesla,Model Y,2018,Sedan,Blue,46516,Fair,38097.78,37828.22,CUST0472,Christine Campbell,Munoz-Morgan Auto,Schmittland,GA,Lease,Capital One
+473,2025-01-20,Kia,Sportage,2024,Convertible,Silver,28636,Excellent,53913.44,51321.14,CUST0473,Cassandra Mcdaniel,"Bailey, Farley and Stokes Auto",Grahammouth,NY,Cash,Ally Financial
+474,2024-11-05,Honda,Accord,2022,Truck,Beige,42867,Excellent,15947.76,15367.57,CUST0474,Dustin Kirk,"Gentry, Mcguire and Dominguez Auto",South Sharontown,MI,Lease,US Bank
+475,2025-06-24,Volkswagen,Jetta,2020,Hatchback,Silver,62963,Excellent,45041.02,43953.89,CUST0475,Kelly Chase,"Shaw, Riley and Gomez Auto",Martinezland,PA,Lease,Citi
+476,2024-10-07,Tesla,Model 3,2021,Convertible,Blue,20275,Certified Pre-Owned,29703.01,29449.0,CUST0476,James Bates,Caldwell PLC Auto,Johntown,CA,Cash,US Bank
+477,2024-08-07,Ford,Explorer,2023,Coupe,Silver,75403,Excellent,44103.58,44022.33,CUST0477,Kimberly Ward,Cook-Long Auto,Delgadoville,OH,Cash,Capital One
+478,2025-04-15,Chevrolet,Silverado,2019,Sedan,Beige,32207,Fair,15902.84,15169.57,CUST0478,Margaret Anderson,Butler Group Auto,Stephanieburgh,FL,Lease,Capital One
+479,2024-06-06,BMW,3 Series,2020,Truck,Red,36889,Certified Pre-Owned,28776.78,28250.94,CUST0479,Leslie Evans,Williams-Horn Auto,North Douglas,GA,Lease,Bank of America
+480,2024-07-03,Honda,Accord,2018,Hatchback,Green,59632,Fair,29324.8,28971.89,CUST0480,Hannah Phillips,Perez-Silva Auto,Edwardsshire,FL,Financing,US Bank
+481,2024-04-21,Chevrolet,Silverado,2018,Hatchback,Black,39331,Good,19948.2,19551.22,CUST0481,Catherine Hall,Rodriguez-Richardson Auto,East Emily,NY,Financing,Citi
+482,2024-09-26,Chevrolet,Tahoe,2022,SUV,Green,305,Certified Pre-Owned,68660.84,66404.82,CUST0482,Kyle Evans,Smith and Sons Auto,New Maureen,PA,Lease,Bank of America
+483,2024-01-28,Tesla,Model Y,2021,Hatchback,Beige,43659,Fair,65841.11,65838.22,CUST0483,Mark Tucker,Williams PLC Auto,New Jennifer,TX,Cash,US Bank
+484,2025-04-06,Mazda,CX-5,2018,Convertible,Red,2419,Excellent,45107.91,43468.71,CUST0484,Mr. David Bowers,"Jordan, Lloyd and Cunningham Auto",Port Jeremy,OH,Lease,Wells Fargo
+485,2024-12-18,Nissan,Rogue,2022,Truck,Green,46048,Fair,18366.4,17765.61,CUST0485,Elijah Anderson,"Kerr, Logan and Norris Auto",Tanyaton,TX,Cash,Chase
+486,2025-02-10,BMW,X5,2018,Sedan,Red,77577,Excellent,58021.7,56990.89,CUST0486,Sandra Daugherty,"Mckee, Hines and Williams Auto",Prestonview,PA,Cash,LightStream
+487,2024-05-16,Honda,Accord,2023,Truck,Blue,49621,Excellent,30496.08,28972.89,CUST0487,Brian Foster,Moore Group Auto,West John,IL,Cash,US Bank
+488,2024-08-02,Ford,Explorer,2020,Hatchback,White,8019,Fair,50558.24,49769.42,CUST0488,Victoria May,Robinson Group Auto,West Krystal,AZ,Cash,Citi
+489,2024-03-19,Honda,Civic,2023,Convertible,Beige,31842,Certified Pre-Owned,75715.72,72111.01,CUST0489,Matthew Blake,"Marshall, Lee and Brock Auto",West Angelmouth,CA,Financing,Citi
+490,2024-02-11,Hyundai,Tucson,2018,Hatchback,Gray,24403,Fair,70193.6,67525.87,CUST0490,Steven Hall,Watson-Shaffer Auto,South Traci,AZ,Cash,Capital One
+491,2024-06-27,Honda,Accord,2018,Hatchback,Red,50144,Fair,73084.41,71920.02,CUST0491,Matthew Ramsey,Hoffman-Stevenson Auto,Paulville,FL,Lease,US Bank
+492,2024-07-16,Kia,Sportage,2025,Convertible,Gray,30072,Certified Pre-Owned,39145.39,38747.39,CUST0492,Erin Carter,Hickman-Crane Auto,West Jessicaburgh,AZ,Cash,US Bank
+493,2025-03-25,Ford,Mustang,2019,Convertible,Red,58316,Excellent,16916.48,16647.54,CUST0493,Hunter Frank DVM,"Mcgee, Noble and Murray Auto",Nicoleville,MI,Financing,Wells Fargo
+494,2025-03-13,Tesla,Model 3,2018,SUV,Gray,79167,Certified Pre-Owned,59125.44,57842.02,CUST0494,Christine Jones,"Hernandez, Pennington and Morales Auto",Williamsonshire,PA,Lease,Citi
+495,2024-04-05,Toyota,Camry,2019,Hatchback,Blue,52980,Fair,51455.54,50329.83,CUST0495,James Patterson,Galvan Group Auto,Gibsonview,CA,Financing,US Bank
+496,2025-03-04,Chevrolet,Tahoe,2024,Hatchback,Beige,464,Certified Pre-Owned,25228.73,24370.17,CUST0496,Madison Powers,"Anderson, Jennings and West Auto",North Anneberg,NY,Cash,LightStream
+497,2024-07-27,Honda,Civic,2025,Sedan,White,17322,Fair,38184.26,37138.01,CUST0497,Carlos Hoffman,Moyer-Lee Auto,New David,CA,Financing,Ally Financial
+498,2024-03-05,Nissan,Rogue,2020,Coupe,Blue,27283,Excellent,17966.97,17428.31,CUST0498,Jessica Moreno,Bailey-Morgan Auto,Caseystad,AZ,Cash,Capital One
+499,2024-07-25,Tesla,Model Y,2022,SUV,Silver,5430,Certified Pre-Owned,74773.63,71974.84,CUST0499,Trevor Garcia,Hampton Inc Auto,Gregoryhaven,FL,Financing,US Bank
+500,2024-03-07,Tesla,Model Y,2022,Convertible,Beige,10578,Excellent,15847.0,15433.13,CUST0500,Shannon Mcfarland,Carlson-Harris Auto,Payneshire,MI,Lease,Chase
+501,2025-06-04,Honda,Civic,2019,Coupe,Silver,9439,Certified Pre-Owned,26756.83,26432.12,CUST0501,Mary Butler,"Holland, Mccoy and Hartman Auto",Edwardsfurt,GA,Lease,US Bank
+502,2025-02-09,Honda,Accord,2024,Coupe,Green,35990,Certified Pre-Owned,20366.03,19998.04,CUST0502,Devin Caldwell,"Hart, Ellis and Gonzalez Auto",Davisview,PA,Cash,Chase
+503,2025-02-12,Audi,A4,2021,Truck,Silver,3268,Certified Pre-Owned,37526.9,36481.72,CUST0503,Angela Franco,"Braun, Jackson and Durham Auto",North Rachael,MI,Cash,Bank of America
+504,2024-12-31,Nissan,Rogue,2021,Sedan,Gray,23392,Certified Pre-Owned,15743.36,14960.26,CUST0504,Sophia Clark,Clayton-Powell Auto,North Mark,TX,Financing,Wells Fargo
+505,2024-05-14,Hyundai,Tucson,2018,Sedan,Green,49486,Fair,18861.97,18819.3,CUST0505,Charles Harvey,Lane LLC Auto,Rogerbury,IL,Cash,Chase
+506,2025-01-09,Hyundai,Elantra,2024,Sedan,Green,64321,Good,16573.06,15990.32,CUST0506,Heather Farrell,Simmons-Porter Auto,Arnoldchester,FL,Cash,Wells Fargo
+507,2024-01-05,Chevrolet,Silverado,2024,Coupe,Black,4998,Fair,69390.45,66795.71,CUST0507,Joshua Dixon,Cruz-Wagner Auto,Wileyhaven,GA,Cash,Capital One
+508,2025-03-08,Toyota,Corolla,2024,Coupe,Silver,9489,Certified Pre-Owned,44524.38,43731.61,CUST0508,Brenda Shaw,Daniels-Larson Auto,Jeffreybury,IL,Cash,Bank of America
+509,2024-04-01,Toyota,Corolla,2018,Convertible,Blue,61724,Excellent,44843.56,44409.29,CUST0509,Robert Anderson,Li-Green Auto,West Jennifer,AZ,Lease,Chase
+510,2024-07-01,Subaru,Outback,2019,Coupe,Blue,60942,Fair,57594.65,56028.36,CUST0510,Michael Leon,Rodriguez Group Auto,Sarachester,GA,Lease,Ally Financial
+511,2024-12-10,Hyundai,Elantra,2023,SUV,Gray,52227,Excellent,44545.28,43130.21,CUST0511,Jonathan Ramos,"Freeman, Moss and Mitchell Auto",Powersmouth,PA,Lease,Ally Financial
+512,2024-06-02,Nissan,Altima,2022,Sedan,Gray,63318,Excellent,64933.75,64711.89,CUST0512,James Martinez,Collins and Sons Auto,Randalltown,MI,Financing,Capital One
+513,2024-12-08,Chevrolet,Tahoe,2020,Truck,Red,28050,Excellent,29118.8,27725.44,CUST0513,Michelle Valdez,"Bryant, Gomez and Vasquez Auto",Collinsmouth,NY,Financing,Citi
+514,2024-01-27,Toyota,Camry,2022,Coupe,White,281,Excellent,54771.52,53524.29,CUST0514,Kathleen Farmer,"Smith, Wood and Bradley Auto",Garciaton,CA,Cash,Capital One
+515,2024-09-26,Mazda,CX-5,2025,SUV,Green,38091,Fair,37718.4,36326.39,CUST0515,Trevor Joseph,Calhoun-Hill Auto,South Larry,TX,Financing,Citi
+516,2025-01-22,Audi,Q5,2020,Hatchback,Gray,6907,Good,37197.42,35531.16,CUST0516,Jennifer Bates,Palmer-Robinson Auto,West Linda,NY,Financing,Wells Fargo
+517,2025-03-28,Toyota,RAV4,2025,SUV,Gray,3825,Certified Pre-Owned,67097.99,64331.13,CUST0517,Keith Bennett,Williams-Abbott Auto,Jamesburgh,MI,Cash,US Bank
+518,2024-02-05,Hyundai,Elantra,2018,Hatchback,Black,14065,Certified Pre-Owned,49792.31,49023.95,CUST0518,Joshua Mitchell,Acosta-Miller Auto,Rowebury,FL,Financing,Chase
+519,2024-04-22,Chevrolet,Silverado,2022,Truck,Beige,63400,Certified Pre-Owned,60635.7,58306.27,CUST0519,Samuel Rivera,Bell-Lopez Auto,Elaineburgh,FL,Cash,Bank of America
+520,2025-01-22,Honda,Accord,2025,Sedan,Black,59490,Excellent,21956.15,21302.59,CUST0520,Heather Boyer,Rosario PLC Auto,Boonemouth,GA,Financing,Citi
+521,2024-12-17,BMW,3 Series,2020,Coupe,Gray,59192,Certified Pre-Owned,20541.09,19670.4,CUST0521,Taylor Shaw,Ortiz-Smith Auto,New Timothychester,TX,Cash,Chase
+522,2025-03-08,Mercedes,E-Class,2018,Truck,Green,40257,Certified Pre-Owned,75839.67,74073.1,CUST0522,Jennifer Dunn,"Fuller, Atkinson and Brown Auto",South James,TX,Financing,LightStream
+523,2024-02-04,Ford,F-150,2023,Convertible,Red,25091,Certified Pre-Owned,71866.33,71291.07,CUST0523,Richard Rosales,Wright Ltd Auto,East Jasonland,PA,Financing,Wells Fargo
+524,2025-01-29,Chevrolet,Tahoe,2020,Convertible,Beige,63227,Certified Pre-Owned,35638.05,34647.77,CUST0524,Kellie Clark,Vargas-Buck Auto,South Jennifer,NY,Lease,Ally Financial
+525,2024-05-19,Toyota,RAV4,2024,Hatchback,Silver,32657,Good,55721.75,54010.39,CUST0525,Diana Peterson,"Johnson, Goodwin and Scott Auto",Jamesfurt,PA,Lease,Chase
+526,2024-03-11,Honda,Civic,2022,Hatchback,White,57657,Fair,58962.97,56064.85,CUST0526,Ryan Rangel,"Matthews, Nolan and Mayo Auto",Wagnerburgh,TX,Financing,Bank of America
+527,2024-05-01,Kia,Sportage,2024,SUV,Gray,7596,Good,62345.68,61195.93,CUST0527,Steven Rosales,Brooks Group Auto,East Nathan,IL,Financing,LightStream
+528,2025-02-17,Honda,Accord,2023,Truck,Red,30138,Excellent,61652.59,59860.24,CUST0528,Sharon Matthews,Schmidt Group Auto,West Samanthaberg,NY,Lease,US Bank
+529,2025-06-29,Toyota,RAV4,2024,Coupe,Silver,71767,Excellent,23170.82,22889.02,CUST0529,Holly Robinson,House-Burch Auto,North Ericfurt,MI,Cash,Ally Financial
+530,2024-08-25,Subaru,Outback,2024,Sedan,White,46053,Good,40844.34,40153.33,CUST0530,Keith Rodriguez,"Glover, Hampton and Smith Auto",Rachelborough,TX,Lease,Citi
+531,2024-01-25,Ford,Explorer,2021,SUV,Red,57031,Certified Pre-Owned,32817.25,32107.46,CUST0531,James Jordan,Davis Ltd Auto,Steelebury,MI,Cash,LightStream
+532,2024-11-30,Mercedes,E-Class,2021,Sedan,Green,60786,Fair,33484.34,32052.84,CUST0532,Katie Barry,"Hudson, Vaughn and Vaughn Auto",Theresaborough,GA,Cash,Bank of America
+533,2025-05-13,Tesla,Model 3,2025,Truck,Beige,39507,Certified Pre-Owned,63437.32,61031.18,CUST0533,Brandy Potts,"Alvarez, Wilson and Griffin Auto",South Tylerburgh,FL,Lease,Citi
+534,2024-11-28,Honda,Accord,2024,Sedan,Silver,76506,Certified Pre-Owned,49337.39,48669.78,CUST0534,Stephanie Jones MD,Greene-Gordon Auto,Lake Austinview,OH,Cash,Capital One
+535,2025-06-03,Nissan,Rogue,2020,Truck,Blue,68971,Fair,51409.8,50353.93,CUST0535,David Pitts,"Goodman, Conrad and Collins Auto",Paulchester,FL,Financing,Wells Fargo
+536,2024-07-18,Mercedes,E-Class,2025,Truck,Black,17122,Good,73875.64,71006.48,CUST0536,Dr. Thomas Jones DDS,Phillips and Sons Auto,North David,MI,Financing,Capital One
+537,2025-06-21,BMW,X5,2021,Convertible,Beige,33070,Excellent,32286.92,31086.02,CUST0537,Stephanie Dorsey,Nguyen PLC Auto,Barreramouth,IL,Financing,Capital One
+538,2024-01-16,Chevrolet,Tahoe,2020,Convertible,Green,67638,Certified Pre-Owned,70235.76,67177.19,CUST0538,Kaitlin Stuart,Shepard Group Auto,Davisside,OH,Cash,Capital One
+539,2024-05-11,Hyundai,Tucson,2020,Sedan,Gray,48701,Certified Pre-Owned,19324.51,18716.47,CUST0539,Melissa Rojas,Villanueva-Russell Auto,Port Meaganshire,FL,Lease,US Bank
+540,2025-05-05,Chevrolet,Tahoe,2022,Sedan,White,46458,Fair,56755.8,54000.77,CUST0540,David Jones,Le LLC Auto,Emilyhaven,PA,Financing,Ally Financial
+541,2024-09-11,Volkswagen,Jetta,2018,Convertible,Blue,15077,Certified Pre-Owned,46505.25,45155.45,CUST0541,Seth Baker,Clark-Nelson Auto,Mcfarlandchester,NY,Lease,Citi
+542,2024-04-14,Honda,Civic,2020,SUV,Red,79514,Good,44648.91,42520.19,CUST0542,Kyle Macias,Brooks-Lynch Auto,New Johnchester,IL,Lease,Wells Fargo
+543,2024-01-24,Nissan,Altima,2020,Convertible,Black,50711,Fair,74810.78,72425.47,CUST0543,Jeffrey Oliver,Moss-Gonzalez Auto,South Gailmouth,CA,Lease,Citi
+544,2025-04-02,BMW,3 Series,2021,Truck,Green,13976,Fair,35099.07,34199.13,CUST0544,James Sexton,"Allen, Robinson and Pierce Auto",West Loriberg,IL,Cash,Bank of America
+545,2025-06-19,Nissan,Altima,2019,SUV,Black,22206,Certified Pre-Owned,17119.2,16348.68,CUST0545,Patricia Cain,"Taylor, Horn and Ali Auto",South Jaredtown,AZ,Lease,Citi
+546,2024-05-23,Tesla,Model 3,2023,Hatchback,Black,17651,Excellent,48785.54,47033.48,CUST0546,Peter Cunningham MD,Owens Inc Auto,Smithhaven,PA,Financing,Bank of America
+547,2024-07-06,Honda,Accord,2025,Coupe,Red,25511,Fair,78677.01,77486.26,CUST0547,Vanessa Griffin,"Parker, Lane and Lin Auto",Marcusport,AZ,Cash,Bank of America
+548,2025-01-22,Nissan,Rogue,2025,Sedan,White,25205,Fair,33315.97,32462.17,CUST0548,Jennifer Wood,Ellison Group Auto,East Stephanie,CA,Lease,Wells Fargo
+549,2024-10-23,Honda,CR-V,2018,Convertible,Green,42702,Excellent,71043.89,68420.33,CUST0549,Brandon Mcpherson,Watson-Davis Auto,North Connieborough,MI,Lease,US Bank
+550,2024-12-23,Toyota,Corolla,2020,Truck,Red,16613,Certified Pre-Owned,60144.78,57874.63,CUST0550,James King,Davis-Simon Auto,East Brentport,GA,Lease,Ally Financial
+551,2024-07-18,Hyundai,Elantra,2025,SUV,Green,41975,Good,77801.19,75952.16,CUST0551,Gabriela Bennett,"Hoover, Hansen and Evans Auto",Carrolltown,GA,Cash,Capital One
+552,2024-03-27,Toyota,Corolla,2018,Hatchback,Black,68902,Excellent,51037.53,49417.23,CUST0552,Nathan Gonzalez,Cox Group Auto,East Alvin,MI,Lease,Chase
+553,2025-01-16,Toyota,Camry,2021,Coupe,Silver,71585,Good,15003.3,14502.32,CUST0553,Rachel Lester,Shaw Ltd Auto,Humphreychester,GA,Lease,LightStream
+554,2025-06-22,Nissan,Altima,2020,Sedan,Gray,1321,Good,66088.48,64950.59,CUST0554,Patricia Perez,Jordan-Santos Auto,Justinport,PA,Cash,Chase
+555,2024-04-15,Hyundai,Elantra,2019,SUV,Gray,77374,Good,73476.18,71360.44,CUST0555,Anthony Stanley,"Thomas, Miller and Cruz Auto",Lake Carolyn,PA,Financing,Capital One
+556,2024-10-14,Honda,CR-V,2019,Convertible,White,58371,Excellent,38808.07,37001.74,CUST0556,Dawn Lopez,"Logan, Olson and Walters Auto",Aimeeberg,CA,Lease,Wells Fargo
+557,2024-04-24,Mercedes,E-Class,2020,SUV,Green,28398,Fair,55277.28,52974.05,CUST0557,Ashley Watson,Sawyer LLC Auto,New Stevenchester,OH,Lease,Citi
+558,2024-05-20,Chevrolet,Silverado,2020,Hatchback,Blue,42441,Certified Pre-Owned,60726.76,58875.94,CUST0558,Stephanie Taylor,"Salazar, Mejia and Baker Auto",Thompsonport,OH,Lease,Bank of America
+559,2024-10-28,Toyota,Corolla,2020,Truck,Red,68743,Good,65131.15,64305.53,CUST0559,Samantha Davenport,"Booth, Donaldson and Allen Auto",Matthewmouth,MI,Financing,LightStream
+560,2024-02-14,Honda,Accord,2021,Coupe,Black,78626,Excellent,32065.4,31511.94,CUST0560,Martin Thomas,"Barrera, Koch and Hernandez Auto",South Daniellebury,CA,Financing,Ally Financial
+561,2024-11-10,Hyundai,Elantra,2025,Convertible,Green,11310,Good,38769.1,36866.6,CUST0561,Diane Callahan,"Zamora, Travis and Weber Auto",Tiffanyville,IL,Lease,Chase
+562,2024-07-29,Tesla,Model 3,2022,Hatchback,Silver,5524,Fair,19191.48,18681.0,CUST0562,Tammy Wheeler,Martin-Hill Auto,East Amber,FL,Financing,Bank of America
+563,2024-06-18,Ford,Explorer,2023,Sedan,Black,62024,Excellent,70302.62,70028.92,CUST0563,Melissa Dodson,Fisher-Kent Auto,Pettybury,FL,Lease,US Bank
+564,2024-06-23,Chevrolet,Tahoe,2022,Sedan,White,75539,Fair,49842.22,48555.41,CUST0564,Kayla Davidson,Salinas LLC Auto,Meyerhaven,FL,Financing,Wells Fargo
+565,2024-05-31,Hyundai,Elantra,2024,Coupe,Silver,2805,Excellent,37528.66,36665.62,CUST0565,Donna Diaz,Martin-Ellis Auto,Emilyland,CA,Lease,Chase
+566,2025-05-04,BMW,3 Series,2025,Truck,Gray,42179,Certified Pre-Owned,67140.78,64053.42,CUST0566,Lucas Walker,"Dennis, Cruz and Cole Auto",North Christine,PA,Financing,Wells Fargo
+567,2024-09-05,Nissan,Rogue,2020,Hatchback,Green,65564,Fair,36461.43,36451.33,CUST0567,Cameron Green,Rios Inc Auto,East Steventown,CA,Lease,US Bank
+568,2024-07-19,Mercedes,C-Class,2018,SUV,Gray,49830,Excellent,15093.35,14594.86,CUST0568,Vernon Mitchell,Douglas Group Auto,Brucefurt,FL,Financing,Wells Fargo
+569,2024-10-14,Chevrolet,Silverado,2022,SUV,Red,15216,Excellent,66006.93,64945.49,CUST0569,Amanda Ali,"Pierce, Silva and Dyer Auto",Sharibury,AZ,Lease,Chase
+570,2024-01-18,BMW,X5,2025,Coupe,White,47125,Fair,73769.58,71218.13,CUST0570,William Lucero,Cooper and Sons Auto,East Michealtown,PA,Lease,LightStream
+571,2024-09-22,Honda,CR-V,2022,Coupe,Gray,7125,Certified Pre-Owned,49622.78,48343.5,CUST0571,Warren Francis,Shields Ltd Auto,Powellhaven,MI,Cash,Ally Financial
+572,2024-09-06,Mercedes,E-Class,2020,Hatchback,White,4843,Excellent,58508.6,57347.84,CUST0572,Gregory Nguyen,Evans-Johnson Auto,West Markville,GA,Cash,US Bank
+573,2024-12-12,Nissan,Altima,2025,Convertible,White,34623,Excellent,34980.65,34578.93,CUST0573,James Solomon,"Delacruz, Glass and Erickson Auto",North Timothy,FL,Cash,Wells Fargo
+574,2024-09-08,Honda,CR-V,2021,Truck,Beige,32662,Certified Pre-Owned,16001.65,15826.42,CUST0574,Matthew Parker,"Lawrence, Johnson and Moore Auto",Yorkstad,NY,Financing,Wells Fargo
+575,2025-06-03,Audi,Q5,2025,Hatchback,Red,45487,Fair,39579.51,39495.5,CUST0575,Jeanne Brown,King Group Auto,Ricetown,FL,Financing,Capital One
+576,2025-06-18,Hyundai,Elantra,2023,Sedan,Green,50399,Fair,76147.33,75678.27,CUST0576,Madison Harris,"Torres, Dixon and Anderson Auto",Lake Timothy,IL,Lease,LightStream
+577,2025-05-22,Audi,Q5,2020,Sedan,Gray,5893,Certified Pre-Owned,57759.77,55766.71,CUST0577,John Stone,Schneider-Harrell Auto,Knappmouth,CA,Cash,Wells Fargo
+578,2024-05-15,Chevrolet,Tahoe,2023,SUV,Gray,37449,Fair,31977.59,31403.71,CUST0578,Hayley Miller,Collins PLC Auto,Tiffanyburgh,PA,Lease,Ally Financial
+579,2024-01-12,Honda,Accord,2022,Truck,Beige,793,Fair,56303.26,56235.07,CUST0579,Lisa Brown,Price and Sons Auto,Robinsonton,IL,Cash,US Bank
+580,2024-07-10,BMW,3 Series,2018,SUV,Beige,5291,Good,36381.15,35917.63,CUST0580,Amber Smith,"Valenzuela, Evans and Orr Auto",North Juliestad,GA,Lease,Ally Financial
+581,2024-09-07,Nissan,Altima,2019,Hatchback,Black,25929,Certified Pre-Owned,70428.75,68747.53,CUST0581,Noah Juarez,Patterson Group Auto,New Shannonshire,MI,Lease,LightStream
+582,2025-05-18,BMW,3 Series,2023,Convertible,Black,25028,Good,36170.0,34866.81,CUST0582,Jamie Rivera,Pena LLC Auto,East Matthewmouth,NY,Lease,Wells Fargo
+583,2024-08-13,Chevrolet,Silverado,2019,Hatchback,Black,10614,Certified Pre-Owned,55039.92,53979.15,CUST0583,Robin Lynch,Martin and Sons Auto,Ashleyport,MI,Cash,Bank of America
+584,2025-03-20,Volkswagen,Jetta,2024,SUV,Green,6763,Fair,43696.63,43224.21,CUST0584,Martin George,Frederick LLC Auto,West Christopherhaven,IL,Lease,Chase
+585,2024-03-24,Hyundai,Tucson,2023,SUV,Green,75162,Fair,54234.96,52712.28,CUST0585,Christina Hudson,"Garcia, Miller and Schroeder Auto",Sanchezborough,IL,Financing,US Bank
+586,2024-10-03,Kia,Sportage,2021,Coupe,Gray,66275,Certified Pre-Owned,78003.65,75296.01,CUST0586,Wendy Arnold,Moore-Adams Auto,New Derek,GA,Cash,Capital One
+587,2024-07-24,Nissan,Altima,2019,Coupe,Green,40255,Certified Pre-Owned,60539.72,59106.27,CUST0587,Anita Marshall DDS,"Floyd, Bailey and Morales Auto",West Christopherfurt,OH,Lease,Chase
+588,2025-02-27,Hyundai,Elantra,2022,Hatchback,Red,21307,Certified Pre-Owned,27288.37,27001.04,CUST0588,Dr. Joan Hahn MD,Howard Inc Auto,Lewisview,TX,Lease,LightStream
+589,2025-03-29,Tesla,Model Y,2018,SUV,Black,17585,Fair,56612.58,53860.35,CUST0589,Heather Adams,Johnson-Tate Auto,East Denise,GA,Cash,Ally Financial
+590,2025-03-11,Chevrolet,Tahoe,2025,Truck,Red,70484,Fair,34447.46,32966.12,CUST0590,Joanna Moses,Rice-Roberts Auto,Johnville,PA,Financing,Ally Financial
+591,2024-05-13,BMW,3 Series,2019,SUV,White,65011,Excellent,56624.93,54970.8,CUST0591,Matthew Cortez,Boone and Sons Auto,Lake Jeremiah,MI,Cash,LightStream
+592,2024-05-22,Ford,Mustang,2019,Truck,Blue,14301,Good,65783.98,64780.52,CUST0592,Laura Mclaughlin,Padilla Ltd Auto,West Tony,FL,Lease,Citi
+593,2025-01-18,Mazda,CX-5,2022,SUV,Red,67676,Good,36305.84,35791.75,CUST0593,Rebecca Drake,"Wade, Hansen and Russell Auto",Huntfurt,CA,Lease,Wells Fargo
+594,2024-10-27,Chevrolet,Silverado,2023,Coupe,Silver,60978,Excellent,35751.56,34857.67,CUST0594,Alex Flynn,Hernandez-Austin Auto,Keithside,IL,Cash,Ally Financial
+595,2024-04-16,Honda,Civic,2022,SUV,Silver,64987,Certified Pre-Owned,53800.4,52493.92,CUST0595,Jake Haynes,Miller Inc Auto,Port Elizabethside,CA,Cash,Citi
+596,2024-10-10,Honda,Civic,2025,SUV,Black,5828,Excellent,31668.3,31514.35,CUST0596,Carrie Cruz,"Atkins, Roth and Johnson Auto",East Melissa,GA,Cash,LightStream
+597,2024-02-13,BMW,X5,2021,Truck,Green,269,Good,68977.0,66472.42,CUST0597,Justin Patterson,"Perry, Mays and Scott Auto",Johnsonmouth,FL,Lease,Capital One
+598,2024-08-19,Ford,Mustang,2021,Hatchback,Green,23491,Excellent,62096.47,60227.61,CUST0598,Lynn Fernandez,Heath Group Auto,North Dawn,AZ,Lease,LightStream
+599,2025-02-22,Toyota,Corolla,2020,Truck,Gray,46006,Excellent,36500.32,34848.02,CUST0599,Adam Martin,James and Sons Auto,Kevinport,TX,Financing,Wells Fargo
+600,2025-03-24,Nissan,Altima,2021,Sedan,Blue,40893,Fair,58455.72,58230.63,CUST0600,Tom Salinas,"Duncan, Ingram and Maldonado Auto",New Yolanda,MI,Financing,Wells Fargo
+601,2025-04-18,BMW,X5,2018,Truck,Blue,61680,Good,56177.54,55478.59,CUST0601,Lisa Palmer,"Schroeder, Vargas and Gonzalez Auto",South Ana,FL,Cash,US Bank
+602,2024-01-19,Toyota,Corolla,2023,Sedan,Green,10074,Good,75294.04,75041.07,CUST0602,Christy Booker,West-Anderson Auto,East Suzanne,TX,Cash,Chase
+603,2024-09-12,Toyota,Camry,2022,Coupe,Red,21643,Good,38762.11,37852.8,CUST0603,Cory Barrett,Torres Group Auto,Lake Christine,NY,Financing,Chase
+604,2024-11-07,Audi,Q5,2025,SUV,Red,47970,Good,17324.45,16782.24,CUST0604,Jamie Peterson,Collins-Bates Auto,Gonzalezfort,OH,Financing,Citi
+605,2024-08-27,Audi,Q5,2023,Convertible,Blue,27511,Good,53354.3,50855.47,CUST0605,Mark Young,Lewis-Gomez Auto,Port Margaret,AZ,Lease,LightStream
+606,2025-03-05,Chevrolet,Silverado,2024,Hatchback,Red,64006,Fair,52690.17,50167.21,CUST0606,Adam Austin,Lucero-Castillo Auto,Allenside,NY,Cash,Chase
+607,2025-01-16,Mercedes,E-Class,2020,Sedan,Blue,33012,Fair,41393.64,40127.64,CUST0607,Thomas Smith,Maxwell-Smith Auto,Lake Michelle,PA,Financing,Chase
+608,2025-06-17,Honda,Civic,2025,Hatchback,Green,45483,Certified Pre-Owned,67474.82,64153.44,CUST0608,Alexis Munoz,"Rivers, Brown and Mitchell Auto",Allisontown,OH,Lease,Chase
+609,2024-11-18,Nissan,Altima,2024,Hatchback,Silver,21470,Certified Pre-Owned,35999.86,35879.82,CUST0609,Kelly Monroe,Johnson-Anderson Auto,Lake George,NY,Cash,US Bank
+610,2024-04-24,Honda,CR-V,2018,SUV,Black,75255,Certified Pre-Owned,31383.74,29843.02,CUST0610,Randy Lambert,Smith-Martinez Auto,Port Jessicaport,TX,Cash,Capital One
+611,2025-02-18,Hyundai,Tucson,2025,Coupe,Gray,44548,Good,69478.31,66354.32,CUST0611,Mallory Smith,Torres-Martinez Auto,Scottville,AZ,Cash,Bank of America
+612,2024-09-19,Chevrolet,Silverado,2020,Convertible,Green,14262,Good,69168.34,69085.04,CUST0612,Robert Phillips,"Mcdonald, Simmons and Hester Auto",Haasmouth,FL,Cash,Citi
+613,2024-04-27,Honda,CR-V,2024,Truck,White,17249,Excellent,59156.18,58908.26,CUST0613,Bryan Serrano,"Hill, Roy and Murphy Auto",Fergusonview,IL,Financing,US Bank
+614,2025-06-26,Honda,Accord,2020,Truck,Gray,2930,Good,31981.11,31332.89,CUST0614,Zachary Williams DDS,"Johnson, Long and Silva Auto",Port Mikemouth,FL,Cash,Wells Fargo
+615,2024-11-14,Mazda,CX-5,2018,Coupe,Silver,71378,Good,15979.93,15258.04,CUST0615,Gina Reyes,"Walker, Powers and Maxwell Auto",Loriport,FL,Financing,Citi
+616,2024-03-16,Chevrolet,Tahoe,2018,Hatchback,Gray,43994,Excellent,56645.09,56181.1,CUST0616,Nicholas Lawrence,Davenport-Eaton Auto,East Sherri,NY,Cash,Ally Financial
+617,2024-12-16,BMW,X5,2019,SUV,Blue,68084,Certified Pre-Owned,56354.16,54902.18,CUST0617,Diana Yu,Jackson-Rocha Auto,New Ashleymouth,IL,Financing,LightStream
+618,2025-03-22,Tesla,Model 3,2024,Coupe,Red,28250,Certified Pre-Owned,33581.99,33413.43,CUST0618,Dean Ramirez,"Hall, Williams and Dawson Auto",Port Louis,GA,Cash,US Bank
+619,2024-12-04,Toyota,Camry,2021,Coupe,Gray,31127,Excellent,15017.35,14615.59,CUST0619,John Tran,Allen-Warren Auto,Bennettfort,GA,Cash,Wells Fargo
+620,2024-08-11,Audi,A4,2021,Coupe,Beige,21478,Fair,74143.31,73110.2,CUST0620,Bryce Pruitt,Jenkins-Black Auto,Lake Saraport,GA,Cash,LightStream
+621,2025-01-16,Subaru,Outback,2021,Truck,Beige,59044,Fair,42905.91,42021.4,CUST0621,Sarah Hampton,Fuentes-Barnes Auto,West Jose,PA,Cash,Wells Fargo
+622,2025-05-03,Volkswagen,Jetta,2022,Truck,Green,21781,Excellent,27625.92,26938.66,CUST0622,Ronald Cox,Warner-Gallagher Auto,Jeanland,AZ,Cash,Wells Fargo
+623,2024-01-09,Honda,CR-V,2020,Convertible,Black,25801,Good,76499.31,75941.42,CUST0623,Sharon Owens,"Perkins, Johnson and Mcclain Auto",Tylerberg,MI,Financing,Wells Fargo
+624,2025-04-22,Subaru,Outback,2020,Coupe,Silver,63615,Excellent,29135.59,28554.9,CUST0624,Amber Ho,Miller-Guzman Auto,Dominicside,CA,Lease,US Bank
+625,2025-03-28,Tesla,Model Y,2018,Truck,Black,22514,Fair,72034.06,70908.31,CUST0625,Mark Thornton,Castillo-Bradshaw Auto,East Michael,IL,Financing,Wells Fargo
+626,2025-06-14,Honda,CR-V,2020,Hatchback,White,68472,Certified Pre-Owned,31356.6,30368.37,CUST0626,Stacy Shaw,Preston-Griffith Auto,East Zachary,AZ,Cash,Citi
+627,2024-08-13,Volkswagen,Jetta,2023,Hatchback,Gray,25770,Good,17249.36,16744.8,CUST0627,Carrie Perez,"Kim, Barrera and Martinez Auto",Sheristad,PA,Financing,Bank of America
+628,2025-03-17,BMW,3 Series,2021,SUV,Beige,66645,Good,70839.41,69255.5,CUST0628,Meredith Garcia,Wilson-Lawson Auto,Bishopside,AZ,Financing,Bank of America
+629,2024-01-16,Subaru,Outback,2018,Truck,Beige,47370,Fair,37122.45,36681.52,CUST0629,Isaac Stone,Adams-Smith Auto,Lake Richardborough,AZ,Financing,Chase
+630,2024-04-28,Audi,Q5,2020,SUV,Silver,25046,Good,37448.64,37278.49,CUST0630,Andrew Duran,Hall-Mcguire Auto,Scottbury,CA,Cash,LightStream
+631,2024-11-14,Toyota,Camry,2024,Convertible,Blue,65923,Certified Pre-Owned,71808.47,68469.52,CUST0631,Stacey Lee,Hendricks Inc Auto,Fernandezshire,IL,Financing,LightStream
+632,2024-03-25,Chevrolet,Silverado,2025,Hatchback,Black,35242,Good,61741.21,60979.42,CUST0632,Trevor Kemp,Hoffman LLC Auto,Georgeport,MI,Cash,Ally Financial
+633,2025-03-03,Nissan,Altima,2024,Convertible,Silver,18271,Certified Pre-Owned,71513.54,68085.68,CUST0633,Patrick Daniels,"Jenkins, Horton and Chung Auto",East Mark,PA,Lease,Chase
+634,2024-06-24,Subaru,Outback,2020,Hatchback,Blue,13540,Fair,36641.08,35047.54,CUST0634,Melissa Howard,Ross PLC Auto,Port Mary,TX,Lease,Chase
+635,2024-04-09,Mazda,CX-5,2023,Sedan,Silver,55419,Fair,38080.63,36958.16,CUST0635,David Anderson,Owens-Griffin Auto,South Lucasfort,GA,Financing,Capital One
+636,2024-05-26,Nissan,Altima,2018,Sedan,Red,74504,Fair,66086.86,65867.43,CUST0636,Michael Martinez,Hoffman-Rhodes Auto,New Marytown,GA,Financing,LightStream
+637,2024-10-13,Toyota,Corolla,2021,Truck,Red,26031,Good,28024.63,27774.5,CUST0637,Deborah Torres,Reynolds PLC Auto,Port Juliemouth,FL,Cash,Capital One
+638,2024-10-01,Chevrolet,Tahoe,2022,Coupe,Black,38657,Good,70272.48,69332.6,CUST0638,Michael Tanner,Buckley-Davis Auto,Ralphfort,NY,Financing,Chase
+639,2025-06-16,Volkswagen,Jetta,2021,SUV,Black,5637,Fair,46099.61,44590.38,CUST0639,Wendy Davis,Gonzalez Group Auto,New Joshua,AZ,Cash,Ally Financial
+640,2024-05-15,Nissan,Rogue,2024,Convertible,Red,31558,Excellent,49677.27,48809.27,CUST0640,Matthew Hahn,Flores LLC Auto,Roberthaven,TX,Lease,Wells Fargo
+641,2024-01-13,Honda,CR-V,2023,Truck,Beige,36926,Certified Pre-Owned,25623.15,25443.67,CUST0641,Gabriel Vargas,"Carson, Wright and Best Auto",New Diane,PA,Lease,LightStream
+642,2024-11-16,Toyota,Corolla,2024,Truck,Blue,21407,Certified Pre-Owned,43490.61,42677.49,CUST0642,Jennifer Griffin,"Barajas, Martin and Stark Auto",Christinafurt,MI,Financing,Citi
+643,2024-06-16,Toyota,Corolla,2025,Convertible,Black,5215,Certified Pre-Owned,78873.2,77836.22,CUST0643,Jamie Williamson,"Miller, Sullivan and Lozano Auto",Garrettstad,TX,Lease,Chase
+644,2025-02-21,Honda,Civic,2020,Convertible,White,48748,Fair,34131.16,33856.93,CUST0644,Ryan Perez,Webster PLC Auto,New Francesborough,GA,Lease,US Bank
+645,2024-04-10,Honda,Accord,2019,Hatchback,White,3344,Fair,22310.58,21763.15,CUST0645,Kristin Hines,Ware-Carpenter Auto,Lake Nicholas,IL,Financing,Bank of America
+646,2024-07-05,Tesla,Model Y,2018,Coupe,Silver,25210,Excellent,57763.11,57125.62,CUST0646,Courtney Cunningham,Green-Ellis Auto,East Clarenceland,TX,Lease,US Bank
+647,2024-06-27,Hyundai,Tucson,2020,Sedan,Green,37901,Good,79947.51,77082.31,CUST0647,Jesse Miller,Holt Ltd Auto,Andrewmouth,CA,Financing,Bank of America
+648,2024-01-08,Honda,Accord,2019,Hatchback,Gray,9835,Fair,18834.76,17930.79,CUST0648,Amy Carpenter,"Rodriguez, Weaver and Sullivan Auto",Leahburgh,CA,Financing,Ally Financial
+649,2025-06-09,Tesla,Model 3,2018,Convertible,Red,5098,Certified Pre-Owned,29106.74,28181.77,CUST0649,George Hansen,"Quinn, Olson and Jimenez Auto",West Geraldville,GA,Financing,Chase
+650,2024-01-10,Mazda,CX-5,2024,Truck,Black,34718,Excellent,43916.69,43499.17,CUST0650,Jonathan Molina,Davis-Kim Auto,Lake Michaelstad,MI,Cash,Ally Financial
+651,2025-04-01,Toyota,RAV4,2023,Truck,Silver,60008,Excellent,41203.95,40311.49,CUST0651,Jason Carpenter,Lee LLC Auto,Daviston,PA,Cash,Wells Fargo
+652,2024-08-13,Toyota,RAV4,2023,Sedan,Red,16012,Excellent,65598.41,64089.26,CUST0652,David Santos,Moore-Nguyen Auto,Jenkinston,TX,Cash,Capital One
+653,2025-04-05,Honda,CR-V,2025,Convertible,Gray,34504,Fair,69994.51,67390.91,CUST0653,Kevin Sullivan,Maxwell Ltd Auto,Lake Ryan,TX,Cash,Capital One
+654,2024-05-04,Honda,Civic,2024,Hatchback,Beige,24480,Fair,77626.53,73785.64,CUST0654,Chase Perez,Murray-Jones Auto,East Lisafurt,OH,Financing,Citi
+655,2025-03-27,Honda,Civic,2018,SUV,Silver,903,Excellent,47290.55,46106.54,CUST0655,Ashley Carter,Lyons Group Auto,Petersstad,PA,Cash,Ally Financial
+656,2024-02-04,Subaru,Outback,2018,Hatchback,Silver,39405,Fair,50473.12,50443.98,CUST0656,Angela Carrillo,"Davis, Shepard and Taylor Auto",South Catherinemouth,CA,Lease,Capital One
+657,2024-04-18,Subaru,Outback,2018,Truck,Gray,30774,Good,63079.81,61277.35,CUST0657,Charlene Vaughn,Jensen and Sons Auto,Port Kevinland,GA,Cash,Bank of America
+658,2025-02-06,Nissan,Rogue,2018,Sedan,Black,35243,Good,74979.12,73413.26,CUST0658,Timothy Wright,Francis-Nash Auto,Jessicaton,CA,Cash,Bank of America
+659,2025-05-22,Honda,CR-V,2025,Hatchback,Silver,67678,Good,76197.04,72808.54,CUST0659,Casey Carter,Rhodes Inc Auto,West Malikville,MI,Financing,US Bank
+660,2024-11-13,Subaru,Outback,2019,Convertible,Silver,46654,Fair,36803.01,36050.68,CUST0660,Kara Hall,"Miller, Richardson and Williams Auto",Reyeshaven,IL,Lease,Citi
+661,2024-04-25,Chevrolet,Silverado,2023,Truck,Silver,62810,Certified Pre-Owned,68353.84,65444.19,CUST0661,Linda Underwood,Hernandez PLC Auto,East Williamberg,NY,Lease,Capital One
+662,2025-03-20,Nissan,Altima,2024,Sedan,White,43814,Excellent,69590.04,69222.03,CUST0662,Jon Monroe,Webb PLC Auto,East Terryview,TX,Cash,Wells Fargo
+663,2024-07-31,Volkswagen,Jetta,2025,Hatchback,Green,64580,Excellent,24646.88,23748.61,CUST0663,Ryan Jones,"Campbell, White and Reed Auto",Pierceton,PA,Financing,Citi
+664,2024-09-14,Nissan,Rogue,2024,Coupe,White,66935,Excellent,44608.59,43510.32,CUST0664,Andrew Anderson,"Cooper, Campbell and Rodriguez Auto",Joneshaven,FL,Financing,Chase
+665,2024-12-24,Audi,Q5,2021,SUV,Black,46591,Good,56148.48,53574.76,CUST0665,Jacob Bush,Jackson-Koch Auto,Cindyton,PA,Lease,Wells Fargo
+666,2025-01-27,Toyota,Corolla,2020,Sedan,Green,21492,Certified Pre-Owned,58669.17,58057.41,CUST0666,Cynthia Woodard,"Fitzpatrick, Summers and Harmon Auto",Boylemouth,CA,Cash,LightStream
+667,2025-01-30,Tesla,Model Y,2020,Hatchback,Silver,49985,Excellent,53325.98,53238.42,CUST0667,Justin Harmon,"Randall, Harrington and Hernandez Auto",Ronaldland,GA,Cash,Capital One
+668,2024-12-01,Hyundai,Tucson,2024,Convertible,Blue,215,Excellent,65432.51,65359.07,CUST0668,Andrea Andrade,Arellano-Russell Auto,Teresashire,NY,Lease,Chase
+669,2024-03-10,Subaru,Outback,2020,Coupe,Beige,28357,Certified Pre-Owned,57788.79,56839.93,CUST0669,Rita Ho,"Johnson, Barton and Gomez Auto",North Michele,GA,Cash,Capital One
+670,2024-12-10,Ford,F-150,2021,Sedan,Green,51254,Fair,29205.36,28596.74,CUST0670,Tony Brown,Thomas-Wilson Auto,South Veronicashire,GA,Lease,LightStream
+671,2025-03-05,Mercedes,C-Class,2018,Convertible,White,4838,Excellent,66482.92,64290.21,CUST0671,Scott Jones,Jimenez Inc Auto,North Stephenton,OH,Cash,Chase
+672,2025-05-25,Hyundai,Elantra,2021,Truck,White,77403,Good,17798.32,17465.25,CUST0672,Kyle Brown,Smith-Mayer Auto,North Brittanyton,MI,Cash,Ally Financial
+673,2024-01-02,BMW,3 Series,2024,Convertible,Blue,8851,Excellent,75328.23,72735.54,CUST0673,Raymond Hansen,Richards LLC Auto,West Sara,FL,Financing,Citi
+674,2024-05-19,Mercedes,C-Class,2019,Convertible,White,57700,Good,40508.48,39236.11,CUST0674,Pamela Juarez,Guerra-Neal Auto,New Danielshire,GA,Cash,Bank of America
+675,2024-10-16,Mazda,CX-5,2019,Coupe,Beige,68403,Good,63228.4,62912.62,CUST0675,Justin Kelley DDS,Young Group Auto,New Taylor,IL,Lease,Chase
+676,2024-04-22,Ford,F-150,2020,Truck,Black,15584,Certified Pre-Owned,69443.05,66296.15,CUST0676,Roberto Murillo,Allison Ltd Auto,North Sherry,PA,Financing,LightStream
+677,2024-02-14,Chevrolet,Tahoe,2023,Truck,Gray,64711,Excellent,16513.89,16260.48,CUST0677,Anthony Cannon,"Ramirez, Smith and Guerrero Auto",South Jeffrey,OH,Lease,Citi
+678,2025-01-27,Subaru,Outback,2019,SUV,Red,6873,Good,36606.29,35591.88,CUST0678,Randy Hopkins,Ferguson-Williams Auto,Rhondachester,MI,Cash,Capital One
+679,2025-03-29,Toyota,Corolla,2021,Coupe,Blue,72773,Certified Pre-Owned,76543.83,72942.01,CUST0679,Jennifer Henry,Mccarthy-Osborne Auto,Port Daniel,GA,Financing,Ally Financial
+680,2024-10-10,BMW,X5,2025,Sedan,Red,32549,Fair,76848.57,76285.37,CUST0680,Rachel Williams,Wade Group Auto,Lake Walterfurt,IL,Lease,LightStream
+681,2024-05-06,Chevrolet,Silverado,2021,Convertible,Black,22384,Excellent,53899.69,51572.92,CUST0681,Brenda Robertson,Lewis Ltd Auto,Mannton,CA,Financing,Chase
+682,2024-02-17,Mazda,CX-5,2018,Sedan,White,32647,Excellent,28486.75,27831.23,CUST0682,Melinda Alvarado,Williams-Warren Auto,Blackwellfort,FL,Cash,Wells Fargo
+683,2024-11-14,Ford,F-150,2022,Sedan,White,75602,Certified Pre-Owned,73930.63,73238.42,CUST0683,Gabrielle Prince,"Gonzalez, Owens and Cannon Auto",Josephfurt,PA,Financing,LightStream
+684,2024-07-04,Volkswagen,Jetta,2023,Convertible,White,65363,Excellent,22395.1,21723.86,CUST0684,Steven Campbell,Stewart-Smith Auto,Andrewchester,GA,Financing,US Bank
+685,2024-06-14,Ford,Explorer,2018,Hatchback,Green,9816,Fair,33245.27,32886.35,CUST0685,Jonathon Davis,Graves-Moreno Auto,West Howardland,GA,Lease,Wells Fargo
+686,2025-04-09,Honda,Accord,2020,SUV,Green,13717,Certified Pre-Owned,79037.4,77811.6,CUST0686,Robert Anderson,"Mathews, Weiss and Hahn Auto",Josefurt,CA,Financing,US Bank
+687,2024-05-21,Mazda,CX-5,2018,Convertible,Blue,54036,Good,26009.26,25205.01,CUST0687,Adam Harvey,Maddox Inc Auto,East Luis,OH,Lease,Ally Financial
+688,2025-02-28,Hyundai,Tucson,2020,Coupe,Green,32790,Fair,73684.45,72606.04,CUST0688,Thomas Boyd,Estrada LLC Auto,Lake Emmaside,AZ,Lease,Citi
+689,2024-03-01,Ford,Mustang,2025,Convertible,White,23098,Excellent,78649.97,76102.8,CUST0689,Marie Hurst,"Lane, Porter and Moore Auto",West Stephenstad,NY,Lease,US Bank
+690,2025-05-20,Hyundai,Elantra,2025,Truck,Blue,29341,Fair,41690.27,41241.88,CUST0690,Karen Olson,Ramsey-Roth Auto,East Nicoletown,NY,Lease,LightStream
+691,2024-08-16,Ford,F-150,2024,Convertible,Red,57456,Excellent,65123.9,63971.05,CUST0691,Noah Kim,"Coleman, Austin and Perez Auto",Carlosberg,OH,Cash,LightStream
+692,2024-11-28,Kia,Sportage,2022,Convertible,Gray,33413,Excellent,43781.17,43242.12,CUST0692,Kimberly Reyes,Smith-Rodriguez Auto,Adamschester,FL,Lease,Chase
+693,2024-06-15,Toyota,Camry,2020,Convertible,Red,20587,Certified Pre-Owned,33558.21,32876.37,CUST0693,Paula Doyle,"Valentine, Gray and Davila Auto",East Suzannebury,NY,Financing,Capital One
+694,2024-09-29,Subaru,Outback,2019,Sedan,Green,64479,Good,35627.41,35252.42,CUST0694,Mr. Keith Stafford DDS,Hutchinson Group Auto,East Matthew,GA,Lease,Chase
+695,2025-04-30,Tesla,Model Y,2024,Truck,Beige,65803,Certified Pre-Owned,17874.6,16998.5,CUST0695,Heather Barrera,Oconnor-Johnson Auto,West Christopher,FL,Lease,US Bank
+696,2024-08-10,Honda,Accord,2023,Convertible,Gray,72979,Good,70089.55,67848.55,CUST0696,Crystal Nelson,Lee and Sons Auto,North John,OH,Financing,Chase
+697,2024-05-26,Nissan,Altima,2022,Hatchback,Gray,75269,Excellent,61923.43,60765.48,CUST0697,William Rios,Pitts Group Auto,Stephenston,MI,Financing,Citi
+698,2024-05-30,Audi,Q5,2021,Convertible,White,68573,Certified Pre-Owned,63522.71,61544.01,CUST0698,Bruce Campbell,"Smith, Rosales and Hicks Auto",Lake Shelbyside,TX,Financing,US Bank
+699,2025-06-03,Kia,Sportage,2024,Truck,Gray,24026,Certified Pre-Owned,79768.1,76327.89,CUST0699,Amy Frost MD,Murphy LLC Auto,East Aliciatown,MI,Lease,Citi
+700,2024-05-31,Toyota,RAV4,2023,Sedan,Beige,78764,Certified Pre-Owned,58081.78,55762.58,CUST0700,Emily Cooper,Oconnor LLC Auto,New Maryview,TX,Lease,Chase
+701,2025-03-04,Tesla,Model 3,2022,Sedan,Black,47043,Certified Pre-Owned,60855.22,59930.29,CUST0701,Laura Graham,"Morgan, Green and Pena Auto",East Drew,CA,Lease,Citi
+702,2024-08-01,Ford,F-150,2022,Convertible,Blue,45490,Good,67609.12,64466.78,CUST0702,Jennifer Gardner,Jenkins-Pollard Auto,Larrybury,IL,Cash,Citi
+703,2024-05-22,Ford,Mustang,2025,Hatchback,Blue,18966,Certified Pre-Owned,51404.41,49111.9,CUST0703,Clayton Alexander,"Davis, Campos and Wiggins Auto",New Joshuaton,OH,Cash,LightStream
+704,2025-05-31,Tesla,Model 3,2022,SUV,Red,7807,Excellent,29454.28,29224.77,CUST0704,Lisa Anderson,Woodard Group Auto,Shieldsstad,CA,Financing,Capital One
+705,2024-10-21,Mercedes,E-Class,2025,Truck,Gray,41770,Excellent,71365.63,68989.33,CUST0705,Jonathan Tran,"Johnson, Reynolds and Hernandez Auto",Arnoldmouth,PA,Lease,Capital One
+706,2025-01-19,Volkswagen,Jetta,2018,SUV,Gray,50993,Certified Pre-Owned,57400.17,55656.53,CUST0706,Amber Walters,"Nelson, Martin and Turner Auto",Kennethhaven,TX,Financing,Wells Fargo
+707,2024-02-01,Ford,Explorer,2025,Coupe,Gray,19638,Excellent,33254.65,33246.49,CUST0707,Emily Williams,Sellers LLC Auto,Samanthahaven,AZ,Financing,Capital One
+708,2024-07-07,Mercedes,C-Class,2019,Hatchback,Blue,31729,Good,56682.2,55288.68,CUST0708,Sandra Wallace,Ward-Abbott Auto,Burkebury,GA,Financing,Ally Financial
+709,2025-06-12,Toyota,RAV4,2025,Hatchback,Beige,62137,Fair,49287.14,48536.47,CUST0709,Wendy Reed,"Parker, Cox and Faulkner Auto",Orrview,NY,Cash,Capital One
+710,2025-03-13,Toyota,RAV4,2022,Coupe,Blue,11268,Excellent,71576.33,69396.88,CUST0710,Katelyn Turner,Petersen PLC Auto,Lake Erica,AZ,Financing,US Bank
+711,2024-04-25,Toyota,Camry,2018,Truck,Green,66945,Good,18991.14,18733.25,CUST0711,Wesley Fuller,Myers-Green Auto,North Danieltown,NY,Lease,Ally Financial
+712,2025-02-14,Kia,Sportage,2024,Hatchback,Beige,62597,Good,68883.99,66976.28,CUST0712,Kenneth Waters,"Washington, Mitchell and Heath Auto",New Donnabury,PA,Financing,Ally Financial
+713,2025-02-07,Ford,Explorer,2018,Sedan,Blue,45160,Certified Pre-Owned,23714.3,22881.53,CUST0713,Richard Robinson,Smith-Downs Auto,Port Roberta,TX,Cash,LightStream
+714,2024-06-02,Ford,Explorer,2018,Coupe,Red,56562,Good,65671.1,64133.42,CUST0714,Anna Gates,"Cannon, Leach and Wells Auto",Zacharyfort,OH,Cash,Citi
+715,2024-03-24,Nissan,Rogue,2024,Truck,Blue,44702,Certified Pre-Owned,46114.07,44704.12,CUST0715,Alex Crawford,Rivers Inc Auto,Pollardmouth,IL,Cash,Citi
+716,2025-03-22,Mazda,CX-5,2022,Convertible,Beige,47349,Good,52969.5,52886.46,CUST0716,Riley Barnett,Wood-Williams Auto,South Elizabethborough,AZ,Financing,Ally Financial
+717,2024-07-13,Ford,F-150,2024,SUV,White,75809,Good,57685.67,56613.81,CUST0717,Lindsay Rojas,Adams Ltd Auto,Kristinaside,IL,Financing,Chase
+718,2024-12-30,Chevrolet,Tahoe,2022,Truck,Gray,79997,Certified Pre-Owned,72553.59,70721.16,CUST0718,Francisco Holland,"Charles, Mayer and Miller Auto",Johnsonfurt,CA,Cash,LightStream
+719,2024-05-04,BMW,X5,2020,Convertible,Red,19234,Good,69263.37,66016.43,CUST0719,Vincent Reyes,Roberts PLC Auto,Peterfort,MI,Financing,Bank of America
+720,2024-09-24,BMW,3 Series,2021,SUV,White,17229,Fair,32642.26,32597.22,CUST0720,Pam Kelley,Robertson Inc Auto,Port Kimberly,AZ,Lease,LightStream
+721,2025-04-05,Volkswagen,Jetta,2021,Truck,White,20425,Good,50692.47,48945.43,CUST0721,Jamie Adams,"Liu, Wells and Young Auto",New Kevinborough,AZ,Financing,Chase
+722,2025-01-06,Chevrolet,Silverado,2024,Convertible,Beige,52503,Excellent,48511.51,47020.35,CUST0722,Jodi Ochoa,Cabrera-Williams Auto,Parkerfurt,NY,Financing,Wells Fargo
+723,2024-01-09,Audi,A4,2020,Sedan,Red,58383,Excellent,34977.24,34636.59,CUST0723,Gail Adams,"Fox, Moore and Brewer Auto",Josemouth,MI,Financing,Citi
+724,2024-08-02,Audi,A4,2019,SUV,Black,64066,Certified Pre-Owned,37189.52,36086.17,CUST0724,Dr. David Carr,"Jimenez, Thomas and Medina Auto",Estesfurt,NY,Financing,LightStream
+725,2025-03-06,Toyota,RAV4,2021,Sedan,Blue,2628,Good,63233.42,62356.04,CUST0725,Patricia Kennedy,Beasley-Baker Auto,Bookerhaven,NY,Cash,Bank of America
+726,2024-07-08,BMW,X5,2024,Coupe,Silver,40726,Excellent,42000.44,41527.47,CUST0726,Amy Francis,"Booker, Gonzales and Warren Auto",Jillstad,GA,Lease,Capital One
+727,2025-01-12,Audi,A4,2024,SUV,Blue,60875,Good,26199.03,25853.92,CUST0727,Scott Stone,Steele Inc Auto,Woodville,AZ,Lease,Wells Fargo
+728,2024-01-10,Honda,Accord,2022,Coupe,White,59748,Certified Pre-Owned,47112.29,46293.13,CUST0728,Erik King,Weaver PLC Auto,Lucasshire,TX,Financing,LightStream
+729,2024-05-01,Toyota,RAV4,2022,Convertible,Silver,43775,Certified Pre-Owned,48722.83,47677.19,CUST0729,Kathleen Herrera,Miles Ltd Auto,Jennifermouth,PA,Lease,Ally Financial
+730,2024-02-04,Volkswagen,Jetta,2020,Convertible,White,3393,Good,27498.29,26557.09,CUST0730,Steven Wall,Moon Inc Auto,Clarkeberg,AZ,Cash,US Bank
+731,2025-06-12,Mazda,CX-5,2019,Truck,Blue,16852,Fair,29475.82,28652.67,CUST0731,Mitchell Neal,Gross-Lynch Auto,Watershaven,IL,Financing,Bank of America
+732,2024-10-22,Toyota,RAV4,2023,SUV,Black,73055,Good,71927.47,70193.64,CUST0732,Logan Hamilton,Wright Inc Auto,South Valeriechester,TX,Lease,Ally Financial
+733,2024-12-22,Toyota,RAV4,2025,Coupe,White,56988,Excellent,20985.13,20569.27,CUST0733,Rachel Fletcher,"Guerra, Nicholson and Pruitt Auto",Mortonport,PA,Financing,Capital One
+734,2024-05-08,Nissan,Rogue,2021,Coupe,Blue,40988,Excellent,68736.0,65701.2,CUST0734,Laura White,Brown-Johnson Auto,East Melissatown,NY,Lease,Citi
+735,2024-10-12,Ford,Mustang,2024,Sedan,Gray,47283,Fair,72831.1,69777.12,CUST0735,Maria Howe,Willis-Marquez Auto,East Erik,NY,Cash,Wells Fargo
+736,2024-11-22,Tesla,Model Y,2019,Hatchback,Green,59133,Fair,17149.17,16429.33,CUST0736,John Wiley,Martin LLC Auto,South Kristi,OH,Lease,Bank of America
+737,2024-10-16,Chevrolet,Silverado,2023,Coupe,White,30470,Certified Pre-Owned,70189.87,69357.99,CUST0737,Frank Lopez,Richards Group Auto,Noblestad,TX,Lease,LightStream
+738,2024-09-28,Toyota,Camry,2023,Truck,Gray,24459,Good,42858.7,42125.7,CUST0738,Julia Adams,"Hughes, Price and Young Auto",Aaronstad,CA,Cash,US Bank
+739,2025-01-27,Tesla,Model 3,2021,Coupe,Beige,66885,Good,36433.83,35287.8,CUST0739,James Gallagher,Wheeler Group Auto,Robertsmouth,MI,Lease,Citi
+740,2024-07-31,Mercedes,C-Class,2024,Hatchback,Blue,40557,Fair,30292.73,29736.41,CUST0740,Laura Hunt,Williams Ltd Auto,Murphyside,AZ,Lease,Bank of America
+741,2024-12-16,Toyota,Camry,2024,Coupe,Beige,25281,Good,75505.98,72463.04,CUST0741,Yolanda Spencer,Jones Group Auto,Monroetown,AZ,Cash,Chase
+742,2024-03-16,BMW,X5,2018,SUV,Silver,10009,Fair,32859.0,32641.39,CUST0742,Tammy Snyder,"Huber, Davis and Davis Auto",Lake Matthewhaven,TX,Lease,Wells Fargo
+743,2025-01-14,Ford,Explorer,2025,Sedan,Green,78912,Fair,32071.88,30809.02,CUST0743,Angela David,Cox and Sons Auto,Port James,PA,Lease,Wells Fargo
+744,2024-06-19,Toyota,Corolla,2021,Sedan,Silver,2427,Excellent,47671.57,45608.32,CUST0744,Brenda Flynn,Snyder-Nguyen Auto,Kaitlynmouth,NY,Lease,Wells Fargo
+745,2024-03-18,Subaru,Outback,2021,Sedan,Red,338,Excellent,53189.01,52712.02,CUST0745,Charles Stewart,Parsons and Sons Auto,West Danashire,OH,Lease,Ally Financial
+746,2024-07-03,Chevrolet,Silverado,2025,Hatchback,Green,67221,Excellent,78976.94,75338.57,CUST0746,Dr. Elizabeth Cortez,Howard-West Auto,Port Brandon,CA,Cash,Chase
+747,2024-10-30,Chevrolet,Silverado,2018,Coupe,White,10386,Fair,15398.59,15377.36,CUST0747,Mark King,Garcia-Jackson Auto,Lake Marc,NY,Cash,US Bank
+748,2024-12-08,Ford,Mustang,2021,Truck,Gray,24348,Certified Pre-Owned,42058.67,41881.43,CUST0748,Sharon Harris,"Hernandez, Owen and Rodriguez Auto",Ryanstad,TX,Lease,Bank of America
+749,2025-03-08,Honda,Civic,2023,Convertible,Black,62125,Good,32294.19,31216.17,CUST0749,James Wheeler,Cooper-Wright Auto,East Sonyaview,AZ,Lease,Bank of America
+750,2024-04-10,Kia,Sportage,2024,Convertible,Black,30794,Excellent,69759.29,69734.38,CUST0750,Karen Harvey,"Roth, Hull and Lam Auto",Lake Nicholas,GA,Financing,Bank of America
+751,2024-10-24,Audi,A4,2024,Sedan,Red,75228,Good,35604.63,35069.42,CUST0751,Raymond Velasquez,Tyler-English Auto,New Anthony,IL,Lease,Citi
+752,2025-01-15,Tesla,Model 3,2024,Sedan,Green,68136,Excellent,16628.82,16271.32,CUST0752,Melissa Santiago,Banks Group Auto,Lake Krystaltown,CA,Cash,Bank of America
+753,2024-09-24,Chevrolet,Tahoe,2021,Truck,Gray,79752,Certified Pre-Owned,79351.88,77036.21,CUST0753,Joshua Molina,Brown-Baker Auto,West Christianville,IL,Financing,Citi
+754,2024-09-24,Nissan,Altima,2022,Sedan,White,76466,Good,73165.87,71310.75,CUST0754,Jennifer Rivera,Jones PLC Auto,Lake Joseph,GA,Cash,Bank of America
+755,2024-08-23,BMW,3 Series,2021,Truck,Gray,23470,Excellent,36759.98,36399.91,CUST0755,Ray Coleman,Yu-Glover Auto,Richardside,OH,Financing,Wells Fargo
+756,2024-08-19,Chevrolet,Silverado,2018,Sedan,Blue,53975,Certified Pre-Owned,71169.96,68680.55,CUST0756,Jerry Hoover,"Parker, Sanders and Stevenson Auto",Nicoleton,IL,Lease,Ally Financial
+757,2024-11-16,Chevrolet,Tahoe,2023,Convertible,Gray,21362,Certified Pre-Owned,78802.66,75245.78,CUST0757,Lisa Howard,"Griffin, Gardner and James Auto",Alejandrohaven,IL,Cash,Ally Financial
+758,2024-01-10,Mazda,CX-5,2025,Sedan,Black,74153,Fair,64186.74,63134.77,CUST0758,Brian Miller,Owen-Wong Auto,New Brianside,NY,Financing,Citi
+759,2024-07-06,Hyundai,Tucson,2019,Hatchback,Green,52478,Excellent,55739.85,53606.26,CUST0759,Tracie Cummings,"Hernandez, Collins and Hampton Auto",North Ericside,PA,Financing,Chase
+760,2025-05-25,Kia,Sportage,2023,Hatchback,Green,69552,Fair,25086.28,25064.06,CUST0760,Kimberly Brown,Smith and Sons Auto,East Teresaville,CA,Financing,Citi
+761,2025-01-21,Kia,Sportage,2022,Truck,Red,63447,Good,24386.25,23184.02,CUST0761,Betty Evans,Ramirez-Washington Auto,Fergusonshire,MI,Cash,Chase
+762,2024-12-12,Ford,Mustang,2025,Sedan,Silver,6782,Good,16540.96,16087.9,CUST0762,Sharon Diaz,Smith-Mitchell Auto,Johnsonmouth,OH,Lease,Capital One
+763,2024-03-27,Hyundai,Tucson,2022,Coupe,Blue,68223,Excellent,48758.52,46820.98,CUST0763,Christopher Edwards,"Gonzalez, Reed and Bush Auto",East Donnabury,PA,Lease,Bank of America
+764,2025-01-24,Tesla,Model 3,2021,Hatchback,Black,35887,Fair,31662.42,30114.8,CUST0764,Felicia Williams,Diaz-Lee Auto,Hardyville,CA,Financing,Chase
+765,2024-03-16,Subaru,Outback,2019,Sedan,Beige,4388,Certified Pre-Owned,50980.9,49050.65,CUST0765,David Warren,Gibbs Ltd Auto,East Meghanview,CA,Cash,US Bank
+766,2024-02-20,Audi,Q5,2023,Hatchback,Gray,32877,Good,34787.31,34191.0,CUST0766,Emily Meyer,Allen and Sons Auto,Coopertown,MI,Cash,Chase
+767,2024-12-21,Subaru,Outback,2022,SUV,Green,19150,Fair,59094.99,56629.0,CUST0767,Justin Byrd,Lee Ltd Auto,East Kyle,OH,Financing,Capital One
+768,2024-07-02,Toyota,RAV4,2022,Sedan,Black,7675,Certified Pre-Owned,32480.46,32377.77,CUST0768,Ms. Dawn Wilson,King-Harrison Auto,North Stevenbury,AZ,Cash,Wells Fargo
+769,2025-02-10,Honda,Civic,2023,Coupe,Black,14507,Certified Pre-Owned,24467.18,23556.69,CUST0769,Melissa Lee,Griffin Group Auto,North Brianburgh,TX,Financing,Citi
+770,2025-01-05,Honda,CR-V,2022,Hatchback,Red,17763,Certified Pre-Owned,63758.76,60691.28,CUST0770,Joseph Costa,Fry-Nguyen Auto,Robertview,GA,Cash,Wells Fargo
+771,2025-02-21,Honda,Civic,2024,Convertible,Black,7909,Fair,68157.34,66156.69,CUST0771,Jeffery Melton,Scott Inc Auto,Stonemouth,CA,Cash,Bank of America
+772,2024-08-22,Honda,CR-V,2021,Coupe,Beige,75982,Excellent,29251.31,28806.68,CUST0772,James Summers,Blake-Johnson Auto,Carlastad,GA,Financing,Ally Financial
+773,2024-01-17,Nissan,Altima,2024,SUV,Gray,50886,Good,57285.0,57014.85,CUST0773,Michael Brown,Vega-Meyers Auto,Transtad,MI,Financing,Bank of America
+774,2024-10-18,Chevrolet,Silverado,2021,SUV,White,63788,Good,34973.33,33912.03,CUST0774,Yesenia Walker,Mahoney-Harrington Auto,Lake Christopherburgh,IL,Lease,Chase
+775,2024-09-06,Chevrolet,Tahoe,2021,Truck,Red,971,Excellent,48308.52,48298.38,CUST0775,Brittany Russo,Simmons Ltd Auto,Port Brandonfurt,AZ,Lease,US Bank
+776,2024-10-24,Honda,CR-V,2019,Truck,Beige,64465,Good,43339.56,41674.09,CUST0776,Christopher Graham,Webb-Mckenzie Auto,Estradabury,FL,Cash,Chase
+777,2025-02-25,Volkswagen,Jetta,2025,Sedan,Red,76415,Excellent,27026.62,26062.7,CUST0777,Justin Davis,"Faulkner, Beard and Sanchez Auto",South Lisaside,TX,Financing,LightStream
+778,2024-06-24,Hyundai,Tucson,2019,Convertible,Red,48241,Fair,39253.19,37950.28,CUST0778,Jeremy Lopez,Warner-Smith Auto,Jacobburgh,FL,Lease,Capital One
+779,2024-02-16,Ford,Explorer,2021,Coupe,Gray,16805,Excellent,55749.75,53354.07,CUST0779,Jill Adams,Carrillo Group Auto,Perryberg,MI,Financing,Wells Fargo
+780,2024-01-17,Ford,Explorer,2025,Hatchback,Silver,2948,Excellent,75201.92,73961.08,CUST0780,Andrea Baker,"Cooper, Thomas and Holt Auto",Lake Zachary,FL,Lease,Bank of America
+781,2024-07-15,Nissan,Altima,2025,Hatchback,Gray,34432,Excellent,79284.02,76841.91,CUST0781,Crystal Ellis,"Quinn, Castillo and Perez Auto",New Brianchester,FL,Cash,US Bank
+782,2025-04-27,Nissan,Altima,2023,SUV,Black,38143,Excellent,69665.58,67978.61,CUST0782,Tammy Pena,Richard Inc Auto,East Glennstad,OH,Financing,Wells Fargo
+783,2024-10-09,Subaru,Outback,2023,Truck,Black,28784,Good,29763.78,28601.03,CUST0783,Patrick Mcpherson,Oneal-Griffith Auto,Kimhaven,CA,Cash,Bank of America
+784,2024-06-26,Honda,Civic,2021,SUV,Black,36961,Fair,19284.25,18729.15,CUST0784,Marc Diaz,Hart Ltd Auto,East Kevin,NY,Financing,LightStream
+785,2024-02-09,Audi,Q5,2018,Hatchback,Silver,62707,Good,77694.06,75251.78,CUST0785,Brent Ellis,Duffy and Sons Auto,New Jonathanborough,PA,Cash,Wells Fargo
+786,2025-01-24,Mercedes,C-Class,2018,Convertible,Beige,76507,Certified Pre-Owned,63131.77,61753.49,CUST0786,Eric Mclaughlin,Sullivan-Erickson Auto,West Sandra,MI,Financing,Wells Fargo
+787,2025-03-29,BMW,3 Series,2024,Sedan,Black,27746,Fair,58670.65,57016.24,CUST0787,Mitchell Daniels,"Smith, Lutz and Chase Auto",South Dana,OH,Cash,LightStream
+788,2024-09-17,Volkswagen,Jetta,2024,Coupe,Silver,58618,Certified Pre-Owned,66106.97,64844.75,CUST0788,Margaret Williams,Nguyen-Compton Auto,Michelleside,GA,Cash,Citi
+789,2024-06-24,Hyundai,Tucson,2024,Sedan,Black,37051,Certified Pre-Owned,47891.92,47761.58,CUST0789,Sydney Taylor,Larson and Sons Auto,Smithview,PA,Financing,Chase
+790,2025-05-08,Nissan,Rogue,2023,Sedan,Silver,63384,Excellent,56274.86,53821.66,CUST0790,Michelle Holmes,Dennis Ltd Auto,North Randy,CA,Lease,US Bank
+791,2024-10-19,Honda,Accord,2020,SUV,Silver,27555,Good,77154.42,74721.5,CUST0791,Dwayne Schneider,"Sullivan, Williams and Reyes Auto",East Jenniferfurt,MI,Cash,US Bank
+792,2024-03-29,Ford,F-150,2021,Coupe,Green,61822,Excellent,22261.02,22144.14,CUST0792,Teresa Jones,Thomas LLC Auto,Hallfurt,IL,Lease,US Bank
+793,2024-05-02,Mercedes,C-Class,2025,Sedan,Black,15427,Fair,17578.44,16800.13,CUST0793,Kristen Moore,Murphy-Perry Auto,Port Lynnton,OH,Financing,LightStream
+794,2024-11-08,Honda,Accord,2021,Sedan,Red,48358,Certified Pre-Owned,52888.34,52659.61,CUST0794,Adam Ward,Patterson-Stone Auto,Tamaraberg,MI,Financing,Chase
+795,2024-05-24,Honda,CR-V,2024,Hatchback,Blue,44422,Good,34592.6,33226.6,CUST0795,Dorothy Olson,"Holloway, Hess and Williams Auto",Martinhaven,MI,Lease,US Bank
+796,2024-01-21,Volkswagen,Jetta,2024,Sedan,Blue,60514,Certified Pre-Owned,63149.89,62678.4,CUST0796,Connie Rhodes DDS,Campbell-Giles Auto,Lake Jennifer,MI,Financing,Ally Financial
+797,2024-02-02,Toyota,Camry,2018,Sedan,Beige,69286,Excellent,38203.44,37618.38,CUST0797,Stephanie Finley,"Ballard, Kennedy and Delgado Auto",West Steven,IL,Lease,US Bank
+798,2024-08-04,Ford,Explorer,2018,Convertible,Blue,22280,Fair,18929.04,18676.62,CUST0798,Jessica Walsh,"Gibson, Sherman and Gray Auto",Johnbury,IL,Financing,Citi
+799,2024-02-02,Mercedes,E-Class,2021,Truck,Blue,70612,Excellent,41390.9,40206.63,CUST0799,Christopher Scott,Scott-Colon Auto,South Kristinside,GA,Lease,LightStream
+800,2024-05-21,Honda,Civic,2019,Convertible,Silver,64196,Excellent,50006.79,47696.53,CUST0800,Brandon James,Cantrell LLC Auto,Mcdowellton,PA,Lease,Citi

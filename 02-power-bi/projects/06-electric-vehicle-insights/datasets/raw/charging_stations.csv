@@ -1,0 +1,201 @@
+station_id,station_name,city,state,zip,ev_level,num_ports,status,opening_date,cost_per_kwh
+1,Gonzalez-Larson Charging,Lake Veronica,NV,61949,Level 1,15,Active,2022-11-29,0.1
+2,Tanner Inc Charging,Clarkeshire,NJ,97905,Level 1,14,Active,2021-08-21,0.3
+3,"Turner, Manning and Walter Charging",North Teresa,CO,90730,Tesla Supercharger,20,Active,2022-09-06,0.47
+4,Strong Ltd Charging,Aliciastad,CA,98013,Level 1,5,Active,2023-09-01,0.56
+5,Riley-Walker Charging,Port Karen,CO,36712,Tesla Supercharger,8,Under Maintenance,2020-12-20,0.32
+6,Silva-Walters Charging,West Nathan,NY,99145,DC Fast Charger,3,Active,2025-01-28,0.23
+7,"Garcia, Marquez and Valenzuela Charging",Lake Grace,NV,85405,Level 2,8,Active,2024-07-31,0.29
+8,Henson LLC Charging,Samanthaside,IL,41988,Level 1,7,Coming Soon,2024-07-29,0.57
+9,Rocha-Davidson Charging,Campbellshire,GA,53950,DC Fast Charger,5,Under Maintenance,2020-03-15,0.4
+10,Hill-Ellis Charging,Perezmouth,OR,97451,Tesla Supercharger,15,Active,2020-04-28,0.48
+11,Hernandez-Mcdaniel Charging,New Bonniechester,IL,90949,Level 2,13,Coming Soon,2023-10-26,0.32
+12,"Baldwin, Compton and Young Charging",Veronicabury,VA,65538,Tesla Supercharger,7,Active,2020-02-12,0.37
+13,Simpson LLC Charging,Johnsonstad,WA,63295,Level 2,6,Coming Soon,2024-07-26,0.22
+14,Martin LLC Charging,West Carlos,FL,33971,Tesla Supercharger,4,Active,2023-11-12,0.54
+15,"Rodriguez, Mack and Mckee Charging",West Elizabeth,FL,73535,Level 1,18,Active,2020-10-15,0.37
+16,"Smith, Faulkner and Ellis Charging",South Timothy,FL,69782,DC Fast Charger,3,Active,2020-07-14,0.59
+17,"Wilson, Torres and Simmons Charging",Martinezburgh,GA,75311,DC Fast Charger,1,Coming Soon,2022-12-20,0.18
+18,"Williams, Wilkins and Howe Charging",Moorehaven,NV,59332,DC Fast Charger,18,Under Maintenance,2022-06-28,0.36
+19,"Fisher, Campbell and Porter Charging",Gonzalezburgh,MD,77078,Level 2,5,Active,2021-06-03,0.24
+20,Stewart-Booker Charging,Mooreshire,MA,86971,DC Fast Charger,5,Active,2022-08-13,0.42
+21,"Colon, Parker and Hansen Charging",Port Wendy,GA,57656,Level 1,17,Active,2023-05-17,0.58
+22,"Schwartz, Martinez and Paul Charging",South Paigeside,NY,68039,Level 1,8,Coming Soon,2021-09-18,0.14
+23,Cole Group Charging,Leslieborough,TX,54751,Level 1,19,Coming Soon,2024-02-07,0.14
+24,Herrera Group Charging,Lake Diana,VA,99973,DC Fast Charger,2,Under Maintenance,2020-07-13,0.48
+25,Waters and Sons Charging,Stevenbury,CA,58990,Tesla Supercharger,15,Coming Soon,2022-04-30,0.25
+26,Freeman Group Charging,Katiehaven,NY,71964,Level 1,14,Active,2020-01-28,0.41
+27,Rodriguez-Ramos Charging,New Dawnchester,IL,49697,DC Fast Charger,15,Active,2022-06-24,0.58
+28,Nolan PLC Charging,Wongport,NY,86770,DC Fast Charger,6,Active,2024-04-02,0.19
+29,Brown-White Charging,Leefort,VA,68153,DC Fast Charger,5,Under Maintenance,2020-04-10,0.49
+30,Taylor and Sons Charging,Bradfordhaven,CO,51491,Tesla Supercharger,4,Active,2021-07-02,0.48
+31,"Lewis, Buchanan and Lamb Charging",Barbaramouth,WA,44412,Level 2,11,Active,2021-03-21,0.17
+32,Morris-Carter Charging,North Jenniferborough,MA,82243,Level 2,6,Coming Soon,2020-11-01,0.37
+33,"Johns, Conner and Bryant Charging",Christinatown,FL,99686,Tesla Supercharger,20,Under Maintenance,2022-01-30,0.54
+34,"Duran, Sloan and Tucker Charging",Nicolefurt,CO,80991,Tesla Supercharger,10,Active,2020-05-05,0.33
+35,Molina PLC Charging,Marilynville,CA,26494,Tesla Supercharger,7,Under Maintenance,2025-06-27,0.33
+36,Campbell PLC Charging,Candaceside,TX,12700,DC Fast Charger,19,Active,2024-11-08,0.54
+37,"Shaw, Owen and Hurley Charging",Sarashire,OR,82581,Level 2,14,Active,2024-03-30,0.42
+38,Davis-Smith Charging,Knightshire,OR,87004,Level 2,9,Active,2023-03-23,0.12
+39,Martinez-West Charging,North Richard,WA,18548,Level 1,11,Active,2021-09-01,0.26
+40,Horn-Hubbard Charging,Lake Dawn,NJ,39232,Tesla Supercharger,19,Active,2022-10-11,0.18
+41,Fernandez Inc Charging,West Mark,CA,30910,Level 2,13,Active,2023-02-16,0.18
+42,Patton LLC Charging,Greentown,AZ,33653,DC Fast Charger,13,Active,2025-06-15,0.58
+43,Kim-Buchanan Charging,Williamsstad,GA,55047,Level 2,5,Active,2023-08-14,0.14
+44,Brown-Wade Charging,Perezborough,CA,41466,DC Fast Charger,11,Active,2024-07-24,0.31
+45,Guerra PLC Charging,Jamesside,TX,78308,Level 1,3,Active,2024-06-08,0.13
+46,"Wilson, Ball and Baird Charging",North Jenniferside,NY,88822,Level 2,7,Under Maintenance,2021-02-25,0.45
+47,"Nixon, Stewart and Curry Charging",West Jonathan,VA,26377,Level 2,16,Coming Soon,2021-03-04,0.54
+48,Gould-Lara Charging,South Jennifer,GA,40171,Level 1,1,Under Maintenance,2020-10-04,0.43
+49,"Maddox, Frank and Crosby Charging",East Kimberly,IL,74697,DC Fast Charger,3,Active,2023-11-03,0.27
+50,"Lopez, Ramos and Frank Charging",New Todd,OR,72760,DC Fast Charger,11,Active,2021-08-31,0.1
+51,"Dawson, Brown and Morgan Charging",Valenzuelaborough,MD,36836,Level 2,19,Active,2022-03-25,0.54
+52,Murray-Taylor Charging,South Melissa,OR,46819,DC Fast Charger,14,Active,2023-10-11,0.49
+53,Palmer Group Charging,North Sean,OR,91408,Level 2,4,Active,2024-12-12,0.27
+54,Tucker-Moore Charging,Bennettborough,MA,42995,Level 1,4,Active,2025-04-07,0.21
+55,Henderson LLC Charging,South Kathleenmouth,MA,43403,DC Fast Charger,9,Under Maintenance,2024-08-12,0.36
+56,"Barker, Randall and Wilson Charging",New Kelly,MA,58219,Level 2,16,Under Maintenance,2022-05-21,0.54
+57,King Ltd Charging,Barbaraberg,TX,63155,Level 1,9,Under Maintenance,2021-06-11,0.51
+58,"Doyle, Johnson and Howe Charging",Erikchester,WA,20643,DC Fast Charger,8,Under Maintenance,2022-07-19,0.43
+59,Meyer-Taylor Charging,Gregoryfurt,NV,55763,DC Fast Charger,19,Active,2021-07-06,0.14
+60,Dennis and Sons Charging,Torresport,TX,58186,Tesla Supercharger,2,Under Maintenance,2022-02-14,0.52
+61,"Parker, Bell and Strong Charging",Kendraberg,NY,89298,DC Fast Charger,13,Active,2024-11-18,0.45
+62,Dillon Ltd Charging,East William,WA,26229,Tesla Supercharger,19,Coming Soon,2020-05-07,0.32
+63,"Bryant, Adams and Mcfarland Charging",East Leslie,VA,35403,Tesla Supercharger,10,Active,2024-06-02,0.2
+64,Ramsey Ltd Charging,New Nancychester,MA,33976,DC Fast Charger,2,Under Maintenance,2022-04-29,0.56
+65,"Hardin, Hudson and Williams Charging",Brendaview,WA,97621,Level 1,5,Active,2024-04-03,0.49
+66,Ashley-Fuentes Charging,East Gabriel,IL,78335,DC Fast Charger,16,Coming Soon,2024-07-16,0.4
+67,Nelson Group Charging,South Karenview,VA,38918,Level 2,7,Coming Soon,2023-05-10,0.41
+68,Williams LLC Charging,Steinborough,IL,82868,Tesla Supercharger,17,Active,2021-09-03,0.29
+69,"Thompson, Ellison and Rose Charging",Brandonland,OR,98104,Tesla Supercharger,10,Coming Soon,2023-07-08,0.55
+70,Mitchell Group Charging,Wattsfort,CO,28979,Level 2,10,Active,2021-03-28,0.33
+71,Bean Group Charging,Samanthamouth,MD,60251,Level 1,11,Active,2020-01-21,0.14
+72,Acosta and Sons Charging,Port Nancy,MA,79247,DC Fast Charger,4,Active,2025-06-18,0.49
+73,"Hughes, Calhoun and Hayes Charging",Leahton,TX,80896,Tesla Supercharger,9,Active,2024-04-20,0.48
+74,Owens-Cole Charging,South Jamesville,NY,60485,Level 1,17,Active,2023-07-24,0.58
+75,Buchanan LLC Charging,North Holly,CA,89643,Level 2,4,Active,2023-09-30,0.29
+76,"Bryant, Thompson and Cunningham Charging",South Adam,TX,21372,Level 1,15,Coming Soon,2021-10-18,0.21
+77,"Bryant, Allen and Thomas Charging",North Vincent,WA,83621,Tesla Supercharger,9,Active,2023-06-08,0.31
+78,"Williams, Cooper and Moore Charging",East Erica,MD,34649,Level 2,12,Active,2021-04-12,0.17
+79,Nelson Inc Charging,North Ericborough,MD,81661,Tesla Supercharger,17,Active,2023-05-18,0.29
+80,Cannon Group Charging,South Brentbury,IL,85744,Tesla Supercharger,5,Coming Soon,2023-03-24,0.59
+81,Kelley-Jones Charging,Port Ashleymouth,CA,35542,DC Fast Charger,3,Active,2025-02-23,0.39
+82,Kim-Jordan Charging,Laurieland,WA,87321,Level 1,12,Active,2025-06-11,0.36
+83,Decker-Chapman Charging,Barbershire,IL,67746,DC Fast Charger,6,Coming Soon,2020-10-22,0.12
+84,Russell-Wilson Charging,Moralesville,FL,34189,Tesla Supercharger,9,Coming Soon,2022-10-05,0.31
+85,Smith and Sons Charging,Lake Kevin,NV,61262,Level 2,2,Active,2021-07-22,0.56
+86,Young LLC Charging,Davisburgh,NJ,20830,Level 2,15,Active,2024-01-07,0.46
+87,Jennings LLC Charging,Basston,AZ,45320,Level 2,7,Active,2022-01-02,0.49
+88,"Alexander, Jenkins and Vincent Charging",Hollandmouth,WA,40973,DC Fast Charger,14,Coming Soon,2023-04-28,0.53
+89,Johnson-Lopez Charging,East Lauren,NJ,89623,DC Fast Charger,20,Active,2021-05-07,0.53
+90,Harrison-Ball Charging,Masonside,VA,24071,Tesla Supercharger,1,Active,2021-12-17,0.57
+91,"Nguyen, Humphrey and Bolton Charging",Stacytown,AZ,59720,Level 1,10,Active,2024-01-07,0.36
+92,Parker LLC Charging,Katelynton,NV,94104,Level 2,12,Under Maintenance,2022-01-11,0.3
+93,"Wallace, Simpson and Morgan Charging",Tinamouth,NJ,48215,Tesla Supercharger,13,Active,2024-12-08,0.46
+94,Robinson-Randolph Charging,East Julieland,NV,55626,Level 1,6,Coming Soon,2021-09-26,0.57
+95,"Moore, Castaneda and Hernandez Charging",East Sergioport,MD,65719,Tesla Supercharger,20,Active,2021-03-30,0.46
+96,"Parker, Reid and Preston Charging",Bobbyville,NJ,26730,DC Fast Charger,4,Under Maintenance,2021-07-01,0.3
+97,"Robinson, Andrade and Martin Charging",South Samanthafurt,FL,90338,Level 1,13,Coming Soon,2020-04-29,0.2
+98,Mitchell-Phillips Charging,North Andrea,NY,12767,Level 2,7,Active,2021-07-06,0.4
+99,"Jenkins, Sharp and Jones Charging",Goodwinberg,OR,45405,DC Fast Charger,16,Under Maintenance,2020-03-20,0.41
+100,Livingston Inc Charging,East Wesley,WA,35432,Level 2,16,Under Maintenance,2020-02-09,0.1
+101,Scott PLC Charging,Vernonside,VA,56825,Level 2,1,Under Maintenance,2025-01-19,0.18
+102,Reed-Richardson Charging,Jonesport,GA,22380,Level 1,3,Active,2021-01-27,0.52
+103,Collins LLC Charging,New Allison,OR,19453,Level 1,17,Under Maintenance,2025-03-09,0.11
+104,Thomas-Gomez Charging,Debbieberg,CO,86188,DC Fast Charger,16,Active,2021-03-16,0.56
+105,Houston Ltd Charging,Campbelltown,FL,27587,DC Fast Charger,6,Active,2023-08-08,0.23
+106,Stanton-Sims Charging,East Joanneland,VA,67126,Tesla Supercharger,20,Under Maintenance,2024-02-24,0.25
+107,"Young, Sanchez and Becker Charging",West Lori,NV,13308,Level 1,10,Active,2021-12-13,0.41
+108,Mcintosh PLC Charging,Ramirezmouth,CA,95513,Level 1,1,Active,2025-06-23,0.57
+109,Orr-Cummings Charging,Reginamouth,IL,87875,Level 2,16,Active,2020-12-02,0.6
+110,Washington-Hernandez Charging,Loristad,MD,69893,Level 1,11,Coming Soon,2020-07-15,0.53
+111,Cantrell-Graves Charging,Medinaborough,MA,45053,Level 2,5,Active,2020-09-05,0.3
+112,Adams PLC Charging,Gibbsland,OR,95790,DC Fast Charger,2,Coming Soon,2021-09-26,0.59
+113,Walker-Wade Charging,Port Barryberg,IL,93686,Tesla Supercharger,18,Active,2025-01-16,0.25
+114,Snyder Ltd Charging,South Jennifer,TX,13850,DC Fast Charger,5,Coming Soon,2024-08-26,0.38
+115,Mercer-Larson Charging,Lake Brianshire,OR,55980,Tesla Supercharger,20,Active,2020-10-18,0.37
+116,Jackson Inc Charging,Baileybury,CO,97677,DC Fast Charger,7,Active,2023-09-05,0.21
+117,"Hoffman, Warner and Bauer Charging",East Allentown,NJ,85387,Tesla Supercharger,19,Active,2020-11-26,0.29
+118,Warren PLC Charging,Lopezview,WA,56467,Level 1,8,Under Maintenance,2025-03-21,0.58
+119,"Walker, Green and Dixon Charging",Ortegashire,TX,99727,DC Fast Charger,4,Under Maintenance,2024-06-26,0.18
+120,Becker Inc Charging,Christopherfort,AZ,92874,Level 1,8,Active,2023-01-22,0.3
+121,"Johns, Mcdonald and Hill Charging",Jessicamouth,GA,37664,Level 2,16,Under Maintenance,2025-03-05,0.15
+122,Moore Group Charging,Johnsonland,NJ,58264,Level 2,12,Coming Soon,2020-10-07,0.5
+123,Perkins Group Charging,New Kevinton,FL,64597,Level 2,7,Under Maintenance,2025-03-15,0.49
+124,Adkins Inc Charging,Monicachester,MA,44637,Level 1,12,Under Maintenance,2025-06-13,0.4
+125,Lee-Boone Charging,New Carlos,IL,45088,Level 1,19,Active,2023-07-22,0.26
+126,"Landry, Norman and Sexton Charging",Lake Nicoleshire,FL,50927,Level 2,3,Active,2025-01-15,0.51
+127,Tucker-Black Charging,Vazqueztown,AZ,71038,Level 2,1,Coming Soon,2020-10-29,0.39
+128,Stone and Sons Charging,Bryanfort,AZ,36874,Level 2,1,Active,2025-05-26,0.14
+129,Fuller-Bolton Charging,East Thomasville,TX,53542,Level 1,12,Active,2021-08-02,0.56
+130,"Hamilton, Smith and Thompson Charging",East Elizabethmouth,NJ,15659,DC Fast Charger,14,Under Maintenance,2022-09-23,0.45
+131,Logan PLC Charging,Port Christopher,NV,74297,Level 2,17,Active,2025-03-22,0.52
+132,Lewis-Nguyen Charging,Shepardshire,NJ,69018,Level 1,13,Under Maintenance,2020-12-16,0.36
+133,Moore LLC Charging,West Sandra,FL,35780,Level 2,18,Active,2023-10-19,0.54
+134,Munoz and Sons Charging,East Debra,WA,73479,DC Fast Charger,11,Coming Soon,2020-08-18,0.33
+135,Perez PLC Charging,New Adamhaven,VA,85403,Tesla Supercharger,15,Active,2024-02-16,0.12
+136,Oneal LLC Charging,Alexisburgh,OR,96817,DC Fast Charger,5,Active,2025-01-30,0.41
+137,"Cabrera, White and Rodriguez Charging",West Johntown,CA,52662,Level 1,2,Active,2021-12-21,0.24
+138,Meyer Ltd Charging,Danielsfurt,MA,79417,DC Fast Charger,17,Active,2023-02-08,0.18
+139,Morton-Martinez Charging,Alexanderberg,GA,34188,Tesla Supercharger,15,Active,2020-05-20,0.17
+140,Adams PLC Charging,Lake Victor,MD,24059,DC Fast Charger,6,Under Maintenance,2023-04-02,0.29
+141,Pugh LLC Charging,New Mark,NY,67190,DC Fast Charger,3,Under Maintenance,2024-07-19,0.12
+142,Garrett-Huerta Charging,South Brittanyborough,CA,71718,DC Fast Charger,11,Active,2022-11-17,0.29
+143,"Lawson, Fox and Turner Charging",Michaelport,WA,97817,Level 2,10,Active,2024-12-10,0.37
+144,Gallagher Group Charging,Andreaton,CA,56936,Level 1,6,Under Maintenance,2021-02-02,0.33
+145,Orozco-Wilson Charging,South John,GA,96827,Level 1,5,Active,2022-07-09,0.33
+146,"Wang, Berry and Armstrong Charging",East Franciscoborough,NV,21060,Level 2,3,Active,2024-09-03,0.36
+147,Keller-Cook Charging,Edwardport,VA,46569,Level 1,6,Active,2021-07-23,0.42
+148,"Taylor, Powers and Singh Charging",Murphyburgh,CO,90191,Level 2,1,Active,2020-01-24,0.51
+149,Smith Ltd Charging,West David,VA,15596,Tesla Supercharger,6,Active,2023-08-08,0.12
+150,"Schultz, Thomas and Johnson Charging",Ramirezstad,OR,85275,Level 2,12,Under Maintenance,2024-02-08,0.12
+151,Dean-Williams Charging,Jenniferton,AZ,65807,DC Fast Charger,13,Active,2023-02-25,0.54
+152,Gilbert-Williams Charging,North Richard,GA,14082,DC Fast Charger,3,Active,2023-09-13,0.34
+153,"Barton, French and Chase Charging",West Kathleenburgh,MD,51972,Level 2,7,Active,2021-10-01,0.1
+154,Phillips-Wilson Charging,Sarahmouth,MA,47163,Level 1,15,Active,2025-04-21,0.17
+155,Brown-Andrade Charging,North Barbaraside,CO,46799,Level 1,20,Under Maintenance,2023-07-14,0.22
+156,"Fowler, Espinoza and Perez Charging",Horneport,MD,74699,Tesla Supercharger,18,Active,2023-06-15,0.58
+157,"Schneider, Davis and Miller Charging",Sarahborough,AZ,74848,DC Fast Charger,7,Active,2020-11-17,0.21
+158,Russo-Lawrence Charging,Spencerfurt,NV,64483,Level 1,11,Active,2020-06-27,0.18
+159,"Herrera, Jones and Williams Charging",New Jennaview,NY,35223,DC Fast Charger,7,Coming Soon,2020-07-12,0.49
+160,Jackson and Sons Charging,Lake Tiffanyhaven,AZ,49909,Level 2,4,Active,2020-08-19,0.48
+161,Lee Inc Charging,Port Ericside,NJ,36987,Level 1,11,Under Maintenance,2022-04-15,0.41
+162,Atkins Group Charging,New Cynthiamouth,MD,26688,Tesla Supercharger,18,Under Maintenance,2020-02-15,0.46
+163,"Frye, Montgomery and Romero Charging",North Joanchester,CA,35082,Level 1,8,Under Maintenance,2021-06-20,0.33
+164,Lloyd-Davis Charging,Cantubury,IL,87300,DC Fast Charger,4,Active,2024-11-29,0.15
+165,Harris Inc Charging,Lauraview,AZ,35974,DC Fast Charger,14,Under Maintenance,2023-01-22,0.2
+166,Williams Inc Charging,Zacharyhaven,CA,78994,Level 2,10,Under Maintenance,2020-09-12,0.53
+167,Mcgee-Spencer Charging,South Charles,OR,22315,Level 2,20,Active,2023-03-03,0.44
+168,Boyd LLC Charging,Lake Kevin,AZ,35272,DC Fast Charger,18,Under Maintenance,2023-01-28,0.1
+169,Ferguson-Davis Charging,West Andrea,MD,99954,DC Fast Charger,11,Active,2023-09-24,0.23
+170,Liu Inc Charging,Martinshire,IL,84264,Level 2,17,Active,2023-11-25,0.59
+171,"Franklin, Woods and White Charging",Kathystad,CO,44319,Tesla Supercharger,6,Active,2022-03-13,0.5
+172,Dennis-Huber Charging,Rodriguezburgh,VA,26696,Level 1,16,Active,2020-03-04,0.46
+173,Berry-Nichols Charging,Lake Robertside,CA,77454,Level 2,12,Active,2022-12-03,0.49
+174,"Morrison, Ford and Frederick Charging",East Laura,CO,85917,DC Fast Charger,11,Coming Soon,2022-05-23,0.47
+175,Wright Ltd Charging,Jensentown,MD,83759,Level 1,1,Coming Soon,2020-06-11,0.28
+176,Sullivan Group Charging,East Bethside,AZ,54490,DC Fast Charger,10,Active,2021-11-24,0.24
+177,"Reid, Figueroa and Adams Charging",Sheltonfurt,TX,67917,Level 1,5,Active,2021-06-08,0.12
+178,Meadows-Taylor Charging,New Gregory,NJ,70246,Tesla Supercharger,20,Active,2024-08-23,0.17
+179,"Holmes, Garcia and Kramer Charging",Christopherport,WA,45048,Tesla Supercharger,4,Coming Soon,2024-04-06,0.26
+180,"Black, Taylor and Wilson Charging",Craigside,WA,79080,Tesla Supercharger,4,Under Maintenance,2025-06-10,0.41
+181,Miller Inc Charging,Marshallmouth,TX,26851,Level 2,17,Active,2023-06-13,0.17
+182,"Mcbride, Dudley and Hall Charging",Randallstad,CO,45648,DC Fast Charger,17,Active,2024-12-09,0.54
+183,Thomas-Roberts Charging,South Paul,NV,14363,Tesla Supercharger,13,Coming Soon,2025-05-19,0.31
+184,Reynolds-Williams Charging,Goodmanmouth,TX,25454,DC Fast Charger,19,Active,2020-08-10,0.45
+185,"Williams, Warren and Faulkner Charging",West Judith,TX,14871,DC Fast Charger,5,Active,2023-04-09,0.5
+186,Williams Inc Charging,Dawnview,MD,48997,DC Fast Charger,4,Under Maintenance,2024-07-31,0.43
+187,"Deleon, Jackson and Mills Charging",South Keithberg,FL,36649,Level 1,1,Active,2020-04-15,0.23
+188,Stein-Cunningham Charging,Port Juliemouth,NY,26089,Level 1,5,Under Maintenance,2021-01-08,0.4
+189,"Rogers, Baird and Carlson Charging",Lake Michellefurt,AZ,28033,DC Fast Charger,14,Coming Soon,2023-05-11,0.29
+190,West Ltd Charging,West Christy,MD,13322,DC Fast Charger,4,Coming Soon,2023-05-30,0.58
+191,"Woodward, Murillo and Cox Charging",New Luis,AZ,45024,Tesla Supercharger,17,Active,2025-04-19,0.45
+192,Carney-Rowland Charging,New Veronicastad,CO,10485,Level 1,7,Coming Soon,2021-04-16,0.49
+193,"Williams, Schwartz and Torres Charging",Wilsonville,FL,11166,DC Fast Charger,19,Under Maintenance,2023-08-22,0.51
+194,Harris Group Charging,Lake Brandon,OR,86837,Level 1,13,Active,2021-10-17,0.51
+195,Carter Inc Charging,New Kathy,NY,47306,Level 2,1,Active,2024-02-20,0.48
+196,Kramer-Meza Charging,Sarahfurt,CA,53777,Tesla Supercharger,7,Active,2023-12-07,0.22
+197,"Cox, Andrews and Hayes Charging",West Elizabethberg,TX,40052,DC Fast Charger,5,Active,2025-05-18,0.37
+198,"Wade, Conway and Skinner Charging",North Katrinaborough,CA,46338,Level 2,8,Active,2024-03-11,0.12
+199,Johnson LLC Charging,North Benjamin,FL,67813,Level 2,10,Active,2025-05-22,0.26
+200,Middleton-Moyer Charging,Lake Charles,CA,16726,Level 2,1,Coming Soon,2020-12-01,0.45

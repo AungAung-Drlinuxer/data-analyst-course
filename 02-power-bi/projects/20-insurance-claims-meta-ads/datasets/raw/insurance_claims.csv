@@ -1,0 +1,601 @@
+claim_id,policy_id,customer_id,customer_age,customer_gender,policy_type,policy_tenure_years,incident_type,incident_date,incident_severity,incident_city,incident_state,claimed_amount,approved_amount,claim_status,settlement_days,fraud_flag,claim_channel
+1,POL00001,CUST0001,63,Female,Health,6,Home Damage,2024-12-28,Moderate,South Gregory,IL,153292.61,92358.8,Settled,7,No,Mobile App
+2,POL00002,CUST0002,48,Male,Commercial,22,Home Damage,2024-03-12,Major,North Kellyland,FL,193513.77,86436.02,Settled,90,No,Mobile App
+3,POL00003,CUST0003,22,Male,Home,7,Home Damage,2024-01-13,Moderate,North Brianville,CA,190637.15,182250.13,Rejected,0,No,Online
+4,POL00004,CUST0004,73,Male,Commercial,13,Flood,2025-02-05,Major,North Mark,IL,431596.59,337007.53,Settled,26,No,Mobile App
+5,POL00005,CUST0005,31,Male,Health,20,Flood,2023-11-08,Critical,Lake Victoriafurt,NY,208252.1,203409.78,Settled,88,No,Mobile App
+6,POL00006,CUST0006,22,Male,Health,19,Travel Cancellation,2023-03-15,Major,Angelaborough,WA,206920.58,73055.28,Settled,24,No,Phone
+7,POL00007,CUST0007,73,Female,Home,17,Flood,2025-01-26,Minor,Port Rebecca,AZ,416176.21,314250.85,Settled,8,No,Phone
+8,POL00008,CUST0008,51,Female,Travel,20,Natural Disaster,2023-12-30,Moderate,West Robert,OH,196141.23,183654.0,Settled,4,No,Online
+9,POL00009,CUST0009,28,Male,Travel,4,Car Accident,2024-04-05,Moderate,Hernandezview,NY,147131.34,114538.22,Settled,23,No,Phone
+10,POL00010,CUST0010,62,Female,Home,13,Natural Disaster,2024-06-13,Critical,Port Anthony,TX,157653.44,57302.32,Under Review,0,No,Online
+11,POL00011,CUST0011,69,Female,Life,12,Health Issue,2023-02-18,Minor,North Janetville,OH,84300.75,84089.26,Rejected,0,Yes,Agent
+12,POL00012,CUST0012,72,Male,Travel,15,Travel Cancellation,2024-09-02,Minor,Brittanyside,TX,391132.46,177561.33,Rejected,0,No,Online
+13,POL00013,CUST0013,37,Male,Health,5,Life Claim,2023-05-13,Critical,Rebeccamouth,AZ,467275.15,258564.72,Settled,30,No,Phone
+14,POL00014,CUST0014,42,Male,Auto,17,Natural Disaster,2023-08-23,Minor,Audreyland,WA,214395.51,187374.76,Settled,57,No,Online
+15,POL00015,CUST0015,58,Male,Home,21,Third Party Injury,2024-01-24,Minor,Anthonychester,FL,301534.32,102066.87,Under Review,0,No,Agent
+16,POL00016,CUST0016,61,Male,Home,17,Fire,2023-03-27,Moderate,Cliffordfort,OH,352627.59,258525.2,Under Review,0,No,Agent
+17,POL00017,CUST0017,23,Female,Life,5,Home Damage,2024-06-20,Major,Donnastad,WA,206515.73,124275.94,Settled,90,No,Mobile App
+18,POL00018,CUST0018,69,Female,Life,2,Theft,2023-04-02,Moderate,Beckerport,OH,101873.11,97845.56,Settled,29,No,Phone
+19,POL00019,CUST0019,72,Male,Life,4,Health Issue,2023-10-23,Minor,Lake Barbara,IL,386991.81,372324.03,Settled,80,Yes,Online
+20,POL00020,CUST0020,48,Female,Travel,10,Travel Cancellation,2024-08-12,Moderate,Port Jessica,AZ,67023.74,27819.23,Settled,5,No,Agent
+21,POL00021,CUST0021,40,Male,Commercial,23,Home Damage,2024-06-01,Minor,Westport,CA,415194.89,306699.99,Pending,0,No,Phone
+22,POL00022,CUST0022,61,Male,Home,16,Car Accident,2024-12-05,Moderate,Lake Jenniferfort,NY,344696.64,121361.9,Settled,81,No,Phone
+23,POL00023,CUST0023,66,Female,Home,2,Travel Cancellation,2025-03-29,Major,Travistown,TX,479849.93,460101.6,Settled,70,No,Agent
+24,POL00024,CUST0024,23,Male,Commercial,11,Fire,2024-09-07,Minor,Andersonstad,NY,204032.56,150094.18,Under Review,0,No,Online
+25,POL00025,CUST0025,40,Male,Auto,16,Health Issue,2024-06-09,Critical,East Brian,IL,14743.56,14607.89,Settled,19,No,Mobile App
+26,POL00026,CUST0026,66,Female,Life,16,Natural Disaster,2025-01-08,Minor,New Edwardfurt,AZ,182770.08,68329.6,Settled,25,No,Mobile App
+27,POL00027,CUST0027,60,Female,Health,7,Home Damage,2025-03-17,Critical,Nortonborough,TX,498829.14,242406.74,Disputed,0,No,Mobile App
+28,POL00028,CUST0028,25,Male,Home,19,Travel Cancellation,2024-09-21,Critical,North Rebecca,WA,358793.5,201516.34,Settled,47,No,Agent
+29,POL00029,CUST0029,73,Female,Travel,3,Home Damage,2024-08-24,Minor,East Michael,FL,98176.12,48563.25,Under Review,0,No,Online
+30,POL00030,CUST0030,61,Male,Auto,24,Fire,2025-02-11,Moderate,Flowersshire,WA,204044.12,189844.93,Settled,86,No,Mobile App
+31,POL00031,CUST0031,24,Female,Commercial,18,Car Accident,2023-07-04,Critical,Edgarside,TX,35633.3,13907.85,Settled,70,No,Mobile App
+32,POL00032,CUST0032,38,Female,Life,22,Life Claim,2023-02-02,Major,Tiffanymouth,WA,97647.25,43987.14,Settled,74,No,Phone
+33,POL00033,CUST0033,31,Male,Health,21,Health Issue,2024-01-18,Moderate,Watsonberg,WA,498223.91,305251.22,Settled,74,No,Phone
+34,POL00034,CUST0034,49,Male,Home,3,Theft,2023-08-13,Moderate,Hamiltonport,WA,328029.86,177112.96,Settled,25,No,Mobile App
+35,POL00035,CUST0035,32,Male,Commercial,19,Theft,2024-05-07,Critical,Ashleystad,FL,65604.0,34115.86,Settled,89,No,Mobile App
+36,POL00036,CUST0036,56,Female,Health,17,Travel Cancellation,2023-05-01,Minor,Ericberg,AZ,123203.47,86486.65,Settled,20,No,Online
+37,POL00037,CUST0037,46,Female,Home,1,Car Accident,2023-07-24,Minor,Brownburgh,FL,289396.45,198572.63,Disputed,0,No,Mobile App
+38,POL00038,CUST0038,42,Male,Home,7,Travel Cancellation,2024-04-17,Major,North Tracyberg,AZ,13466.51,12280.75,Settled,34,Yes,Phone
+39,POL00039,CUST0039,72,Male,Travel,2,Third Party Injury,2023-07-03,Critical,North Robert,TX,325973.88,184593.13,Rejected,0,No,Agent
+40,POL00040,CUST0040,30,Female,Auto,16,Third Party Injury,2024-01-28,Critical,Andrewport,AZ,466764.68,178787.38,Settled,22,No,Mobile App
+41,POL00041,CUST0041,63,Male,Travel,16,Life Claim,2024-07-23,Critical,Browntown,IL,79475.43,30301.07,Settled,62,No,Agent
+42,POL00042,CUST0042,61,Female,Auto,4,Natural Disaster,2023-11-24,Major,East Eugenemouth,TX,193988.23,88743.31,Settled,89,No,Phone
+43,POL00043,CUST0043,24,Female,Health,17,Third Party Injury,2023-01-30,Major,Samuelville,FL,207070.33,205531.11,Settled,38,No,Phone
+44,POL00044,CUST0044,25,Female,Home,7,Health Issue,2023-10-25,Critical,West Luis,TX,22960.12,12412.43,Settled,79,No,Phone
+45,POL00045,CUST0045,45,Female,Home,19,Fire,2025-02-20,Critical,Lake Carlos,CA,215616.26,137516.68,Disputed,0,No,Mobile App
+46,POL00046,CUST0046,52,Male,Home,22,Car Accident,2025-03-19,Moderate,Woodberg,FL,443578.11,243978.44,Settled,47,No,Mobile App
+47,POL00047,CUST0047,61,Male,Travel,13,Life Claim,2023-05-30,Minor,Lake Christopher,AZ,69329.96,23193.62,Settled,9,No,Phone
+48,POL00048,CUST0048,32,Female,Travel,24,Natural Disaster,2023-02-06,Moderate,New Melanie,OH,194986.8,159708.0,Settled,10,No,Mobile App
+49,POL00049,CUST0049,72,Male,Health,5,Third Party Injury,2023-10-06,Major,Andrewshaven,WA,90177.34,49431.16,Settled,45,No,Agent
+50,POL00050,CUST0050,30,Male,Home,16,Fire,2025-02-07,Minor,East Jennifer,AZ,201870.32,154153.9,Settled,26,No,Agent
+51,POL00051,CUST0051,68,Male,Life,9,Health Issue,2023-12-16,Major,Port David,TX,226969.8,90208.0,Under Review,0,No,Agent
+52,POL00052,CUST0052,62,Male,Auto,24,Car Accident,2025-02-07,Major,Simonshire,OH,347310.04,336933.31,Settled,61,No,Online
+53,POL00053,CUST0053,25,Female,Auto,4,Third Party Injury,2024-11-09,Moderate,Williamsfurt,OH,65122.85,35909.74,Settled,50,No,Agent
+54,POL00054,CUST0054,59,Male,Travel,12,Fire,2023-07-22,Moderate,Fordview,CA,345590.83,217826.59,Settled,56,No,Online
+55,POL00055,CUST0055,70,Male,Health,16,Health Issue,2024-04-30,Major,Rodriguezhaven,CA,62918.0,42402.35,Settled,17,No,Phone
+56,POL00056,CUST0056,48,Male,Health,1,Life Claim,2023-02-14,Major,Martinezborough,OH,247263.12,205749.31,Settled,24,No,Mobile App
+57,POL00057,CUST0057,55,Female,Home,17,Natural Disaster,2024-02-29,Critical,South Ryanview,AZ,22044.62,16128.87,Settled,23,No,Agent
+58,POL00058,CUST0058,26,Male,Life,7,Home Damage,2024-02-02,Minor,Lake Crystalland,OH,347622.86,254168.73,Settled,56,No,Phone
+59,POL00059,CUST0059,60,Female,Travel,25,Car Accident,2024-09-04,Minor,Coopertown,CA,477536.64,200188.38,Settled,69,No,Online
+60,POL00060,CUST0060,40,Female,Home,21,Home Damage,2025-04-01,Minor,East Walterport,TX,245212.58,73884.95,Settled,34,No,Phone
+61,POL00061,CUST0061,31,Male,Life,6,Home Damage,2024-02-18,Critical,New Melissashire,IL,95970.49,47557.18,Settled,67,No,Mobile App
+62,POL00062,CUST0062,27,Male,Commercial,17,Natural Disaster,2025-03-07,Minor,Marcusstad,WA,144627.68,110094.1,Disputed,0,No,Mobile App
+63,POL00063,CUST0063,27,Male,Home,17,Health Issue,2023-01-26,Moderate,Lake Bryanland,OH,360445.41,267194.14,Settled,16,No,Online
+64,POL00064,CUST0064,48,Male,Auto,1,Natural Disaster,2024-08-25,Critical,West Gordon,IL,234571.69,158305.44,Settled,7,Yes,Mobile App
+65,POL00065,CUST0065,48,Female,Auto,14,Travel Cancellation,2023-04-22,Minor,Ortizburgh,FL,260717.4,124500.38,Settled,54,No,Agent
+66,POL00066,CUST0066,63,Female,Travel,9,Life Claim,2025-03-07,Critical,Anthonyview,FL,214952.83,134790.7,Disputed,0,No,Phone
+67,POL00067,CUST0067,58,Female,Home,2,Travel Cancellation,2025-05-02,Moderate,Blakeborough,NY,6736.62,3115.26,Settled,7,No,Mobile App
+68,POL00068,CUST0068,23,Female,Home,13,Car Accident,2024-10-04,Critical,Andrewchester,OH,120273.85,37068.78,Under Review,0,No,Agent
+69,POL00069,CUST0069,67,Male,Health,7,Natural Disaster,2023-09-22,Critical,New Brittany,IL,477692.38,149668.5,Settled,80,No,Mobile App
+70,POL00070,CUST0070,59,Male,Commercial,17,Home Damage,2025-05-08,Moderate,Lake Michaelville,IL,41292.11,15198.97,Settled,58,No,Agent
+71,POL00071,CUST0071,56,Female,Commercial,1,Travel Cancellation,2024-10-02,Moderate,Wallside,AZ,81746.97,74666.21,Settled,66,Yes,Phone
+72,POL00072,CUST0072,25,Female,Commercial,11,Natural Disaster,2024-04-11,Critical,East Benjaminshire,TX,245198.37,151716.9,Settled,53,No,Online
+73,POL00073,CUST0073,39,Male,Travel,13,Life Claim,2023-11-22,Critical,Port Jessica,CA,369015.51,218763.61,Settled,90,Yes,Online
+74,POL00074,CUST0074,53,Male,Auto,6,Fire,2023-12-16,Major,South Billyborough,NY,174653.19,134783.09,Settled,34,No,Online
+75,POL00075,CUST0075,28,Male,Home,7,Car Accident,2024-08-27,Critical,Milestown,WA,50953.08,37668.48,Settled,12,No,Agent
+76,POL00076,CUST0076,40,Male,Auto,10,Theft,2025-05-28,Moderate,East Shawnstad,CA,147126.27,135893.59,Settled,80,No,Mobile App
+77,POL00077,CUST0077,36,Female,Auto,14,Flood,2025-04-06,Minor,Port Stephen,AZ,263219.69,240443.06,Settled,12,No,Mobile App
+78,POL00078,CUST0078,61,Female,Home,11,Life Claim,2025-01-07,Major,Porterport,TX,17111.63,14720.08,Settled,10,No,Mobile App
+79,POL00079,CUST0079,49,Male,Travel,18,Theft,2025-02-08,Critical,Lake Jameshaven,CA,12107.72,7202.6,Settled,48,No,Mobile App
+80,POL00080,CUST0080,70,Female,Auto,24,Life Claim,2023-08-03,Minor,Floresmouth,TX,436670.03,236952.04,Settled,43,No,Mobile App
+81,POL00081,CUST0081,59,Female,Home,5,Fire,2023-07-03,Minor,South Scott,WA,205424.47,179618.56,Settled,9,No,Agent
+82,POL00082,CUST0082,75,Male,Auto,18,Home Damage,2024-10-19,Major,New Tyler,FL,198625.64,158753.65,Settled,41,No,Phone
+83,POL00083,CUST0083,23,Female,Life,1,Health Issue,2024-11-22,Moderate,Port Mariachester,FL,430242.66,325291.81,Disputed,0,No,Agent
+84,POL00084,CUST0084,55,Female,Travel,11,Home Damage,2024-06-25,Critical,Susanshire,WA,117842.27,39127.1,Pending,0,No,Agent
+85,POL00085,CUST0085,38,Female,Travel,8,Natural Disaster,2023-01-27,Major,West Calvin,NY,177136.57,103451.98,Settled,36,No,Agent
+86,POL00086,CUST0086,50,Male,Health,25,Life Claim,2025-01-30,Moderate,Deborahfurt,TX,366045.35,148860.19,Pending,0,No,Phone
+87,POL00087,CUST0087,67,Male,Auto,24,Theft,2024-01-13,Minor,New Joseph,AZ,146668.65,80684.7,Settled,17,No,Mobile App
+88,POL00088,CUST0088,38,Female,Auto,7,Travel Cancellation,2023-05-02,Moderate,Garciaville,AZ,266879.82,191369.7,Settled,50,No,Online
+89,POL00089,CUST0089,40,Female,Commercial,5,Travel Cancellation,2023-09-22,Minor,Rossport,TX,161836.05,145723.81,Settled,10,No,Phone
+90,POL00090,CUST0090,54,Male,Home,12,Natural Disaster,2025-02-22,Critical,North Brent,FL,312606.17,291471.58,Pending,0,No,Mobile App
+91,POL00091,CUST0091,65,Male,Life,9,Theft,2023-01-25,Critical,South Richard,TX,144037.9,122884.71,Disputed,0,Yes,Phone
+92,POL00092,CUST0092,59,Male,Travel,6,Life Claim,2025-04-11,Minor,New Kathyhaven,WA,43796.69,41553.01,Rejected,0,No,Agent
+93,POL00093,CUST0093,51,Female,Home,13,Natural Disaster,2023-07-12,Critical,Washingtontown,TX,324553.5,194155.01,Settled,61,No,Online
+94,POL00094,CUST0094,69,Female,Travel,22,Third Party Injury,2024-10-05,Critical,Richardshire,AZ,189486.36,102087.96,Settled,55,Yes,Phone
+95,POL00095,CUST0095,61,Male,Life,2,Health Issue,2025-04-01,Minor,East Richard,CA,28448.66,20937.34,Settled,20,No,Agent
+96,POL00096,CUST0096,26,Female,Health,6,Car Accident,2024-05-22,Minor,East Amanda,FL,489246.14,377321.39,Settled,7,No,Online
+97,POL00097,CUST0097,37,Male,Travel,4,Theft,2025-01-27,Major,East Mike,WA,139454.62,120986.19,Settled,79,No,Phone
+98,POL00098,CUST0098,61,Female,Health,24,Car Accident,2024-08-11,Moderate,New Rubenmouth,TX,273260.31,240994.54,Settled,55,No,Phone
+99,POL00099,CUST0099,71,Male,Health,15,Life Claim,2024-03-09,Critical,Strongville,AZ,399383.56,249374.35,Rejected,0,No,Phone
+100,POL00100,CUST0100,66,Female,Travel,14,Health Issue,2023-05-31,Minor,West Barbaraview,IL,433148.5,203473.17,Pending,0,No,Online
+101,POL00101,CUST0101,24,Female,Life,3,Theft,2024-10-11,Moderate,Leefort,OH,33088.79,10574.04,Settled,71,No,Online
+102,POL00102,CUST0102,25,Male,Travel,7,Fire,2025-02-11,Critical,New Valerie,NY,67971.48,21399.08,Disputed,0,No,Phone
+103,POL00103,CUST0103,75,Male,Life,10,Fire,2023-10-29,Major,East Emilychester,FL,89288.78,31675.02,Settled,57,No,Online
+104,POL00104,CUST0104,45,Female,Home,11,Life Claim,2024-08-08,Moderate,Lake Anthonychester,WA,296533.33,90017.89,Settled,44,No,Agent
+105,POL00105,CUST0105,36,Female,Auto,18,Natural Disaster,2023-05-13,Major,Paulview,FL,273735.54,169597.17,Settled,67,No,Mobile App
+106,POL00106,CUST0106,64,Female,Health,8,Home Damage,2025-06-27,Major,North Sean,TX,92022.13,77593.03,Pending,0,Yes,Mobile App
+107,POL00107,CUST0107,30,Female,Life,15,Home Damage,2023-11-01,Critical,South Lauramouth,WA,231775.62,153824.11,Settled,10,No,Online
+108,POL00108,CUST0108,25,Female,Health,20,Home Damage,2024-03-04,Critical,Collierport,IL,217917.35,173852.58,Settled,25,Yes,Agent
+109,POL00109,CUST0109,54,Female,Auto,4,Travel Cancellation,2024-12-13,Moderate,Victoriaborough,OH,274914.13,252099.58,Settled,20,No,Mobile App
+110,POL00110,CUST0110,58,Male,Life,7,Natural Disaster,2024-03-25,Major,Port Leslieview,FL,84397.27,81358.62,Settled,40,Yes,Phone
+111,POL00111,CUST0111,25,Female,Commercial,17,Natural Disaster,2025-04-17,Critical,Smithfurt,FL,95045.4,66124.3,Rejected,0,No,Online
+112,POL00112,CUST0112,73,Male,Health,7,Car Accident,2023-01-21,Minor,Port Joshua,OH,29661.47,19731.35,Settled,50,No,Phone
+113,POL00113,CUST0113,29,Male,Health,21,Home Damage,2025-05-17,Major,Lake Jennifer,AZ,329106.96,266004.16,Settled,44,No,Phone
+114,POL00114,CUST0114,27,Female,Home,13,Travel Cancellation,2024-10-26,Major,North Williammouth,NY,320641.69,259235.01,Settled,31,No,Phone
+115,POL00115,CUST0115,22,Male,Life,25,Home Damage,2023-01-22,Moderate,Grantmouth,NY,499281.31,440218.78,Settled,62,No,Agent
+116,POL00116,CUST0116,39,Female,Health,20,Fire,2023-02-23,Critical,West Barbaraville,NY,428294.54,215225.79,Settled,23,No,Online
+117,POL00117,CUST0117,54,Female,Life,3,Flood,2025-03-11,Minor,North Justin,AZ,337602.62,196669.43,Disputed,0,Yes,Agent
+118,POL00118,CUST0118,38,Male,Life,20,Natural Disaster,2024-12-01,Major,Michaelberg,OH,485195.1,352620.49,Rejected,0,No,Agent
+119,POL00119,CUST0119,55,Male,Commercial,16,Fire,2023-05-17,Critical,Thompsonshire,CA,365179.74,126612.99,Settled,44,No,Agent
+120,POL00120,CUST0120,55,Female,Commercial,5,Natural Disaster,2025-03-13,Moderate,East Garystad,TX,269482.16,257031.0,Settled,30,No,Mobile App
+121,POL00121,CUST0121,45,Female,Home,5,Life Claim,2024-11-20,Moderate,South Nicholaston,TX,324543.42,212556.55,Settled,69,No,Agent
+122,POL00122,CUST0122,45,Male,Travel,9,Travel Cancellation,2025-01-30,Critical,Jacksonberg,IL,415184.62,157484.19,Settled,56,No,Mobile App
+123,POL00123,CUST0123,57,Female,Life,22,Home Damage,2023-09-24,Moderate,Coxview,AZ,98137.19,93806.01,Under Review,0,No,Online
+124,POL00124,CUST0124,54,Male,Commercial,18,Third Party Injury,2023-11-21,Moderate,West Thomas,AZ,95698.73,32452.1,Settled,57,No,Phone
+125,POL00125,CUST0125,36,Male,Auto,4,Life Claim,2023-10-25,Major,New Stevenchester,OH,328928.25,194184.63,Under Review,0,No,Mobile App
+126,POL00126,CUST0126,28,Male,Auto,6,Car Accident,2025-03-18,Moderate,Toddport,OH,106771.66,67050.69,Disputed,0,No,Phone
+127,POL00127,CUST0127,44,Male,Home,19,Life Claim,2025-04-01,Critical,Adamsfurt,IL,356878.04,289892.13,Settled,52,No,Phone
+128,POL00128,CUST0128,33,Male,Home,20,Health Issue,2023-01-17,Major,Dalemouth,WA,190739.82,104128.84,Settled,65,No,Phone
+129,POL00129,CUST0129,73,Male,Commercial,4,Health Issue,2025-05-30,Major,Bakershire,NY,244351.31,152377.09,Settled,35,No,Mobile App
+130,POL00130,CUST0130,55,Male,Travel,1,Natural Disaster,2024-10-25,Critical,Christopherport,FL,184504.75,139757.0,Settled,84,No,Mobile App
+131,POL00131,CUST0131,31,Female,Commercial,10,Home Damage,2024-06-09,Minor,South Samanthafurt,FL,179964.61,167432.05,Settled,74,No,Mobile App
+132,POL00132,CUST0132,42,Female,Home,22,Health Issue,2024-03-07,Moderate,Port Melissaside,IL,345273.45,315508.47,Settled,9,No,Agent
+133,POL00133,CUST0133,45,Male,Home,9,Natural Disaster,2025-04-07,Critical,Port Maryfort,IL,217698.14,141435.58,Settled,90,No,Online
+134,POL00134,CUST0134,25,Male,Travel,16,Car Accident,2024-03-26,Major,North Kevinchester,IL,389490.67,257600.53,Settled,61,No,Mobile App
+135,POL00135,CUST0135,73,Male,Auto,10,Travel Cancellation,2023-05-04,Moderate,Mccoyburgh,CA,103537.45,67811.13,Settled,80,Yes,Online
+136,POL00136,CUST0136,49,Male,Auto,5,Theft,2023-04-01,Critical,East Joshuastad,AZ,233013.09,191090.17,Settled,36,Yes,Online
+137,POL00137,CUST0137,46,Female,Health,2,Life Claim,2025-05-01,Critical,Rodriguezshire,CA,167989.73,125695.29,Settled,62,No,Mobile App
+138,POL00138,CUST0138,47,Female,Auto,15,Fire,2025-04-25,Minor,New Joelville,FL,22187.54,8429.51,Settled,67,No,Phone
+139,POL00139,CUST0139,37,Female,Travel,1,Travel Cancellation,2024-02-20,Moderate,Conleyfort,NY,229338.2,215005.68,Settled,36,Yes,Phone
+140,POL00140,CUST0140,45,Female,Commercial,11,Third Party Injury,2023-01-05,Major,Leachport,OH,166325.26,159117.82,Settled,85,No,Mobile App
+141,POL00141,CUST0141,64,Female,Auto,7,Flood,2024-04-07,Moderate,Port Destiny,AZ,337899.06,167154.71,Settled,40,No,Online
+142,POL00142,CUST0142,75,Male,Auto,11,Natural Disaster,2024-07-01,Moderate,Lake Benjaminstad,OH,68411.81,62294.89,Settled,80,No,Agent
+143,POL00143,CUST0143,28,Female,Auto,17,Fire,2024-06-14,Minor,Lake Davidfurt,TX,123624.53,118055.29,Settled,3,No,Online
+144,POL00144,CUST0144,44,Female,Health,13,Natural Disaster,2024-05-02,Critical,South Amber,WA,69015.47,64172.0,Settled,15,No,Agent
+145,POL00145,CUST0145,52,Male,Auto,16,Flood,2025-04-16,Minor,North Christinaborough,CA,427441.61,263625.93,Under Review,0,Yes,Online
+146,POL00146,CUST0146,30,Female,Travel,12,Flood,2024-06-10,Moderate,Toddview,WA,43928.41,28057.59,Disputed,0,No,Phone
+147,POL00147,CUST0147,49,Male,Commercial,13,Home Damage,2023-07-14,Critical,Susanstad,OH,166423.68,126703.2,Settled,55,No,Mobile App
+148,POL00148,CUST0148,63,Female,Travel,11,Home Damage,2023-03-25,Minor,East Stephanie,OH,140013.49,130779.7,Disputed,0,No,Mobile App
+149,POL00149,CUST0149,41,Male,Travel,6,Car Accident,2024-08-17,Minor,Jenniferchester,NY,283328.66,274684.75,Settled,87,No,Mobile App
+150,POL00150,CUST0150,55,Male,Commercial,14,Life Claim,2024-10-15,Moderate,Juliaton,CA,198613.0,139568.02,Settled,84,No,Agent
+151,POL00151,CUST0151,68,Male,Travel,19,Travel Cancellation,2025-04-20,Minor,New Joshua,IL,417984.64,155391.14,Under Review,0,No,Agent
+152,POL00152,CUST0152,45,Male,Commercial,16,Life Claim,2023-06-13,Moderate,Watkinsview,IL,334131.95,275407.81,Settled,47,No,Phone
+153,POL00153,CUST0153,44,Male,Life,7,Flood,2024-11-22,Minor,Scottchester,TX,466341.59,371814.64,Settled,83,No,Agent
+154,POL00154,CUST0154,55,Female,Home,6,Life Claim,2023-03-11,Moderate,Valerieburgh,FL,266489.9,193877.23,Settled,46,No,Agent
+155,POL00155,CUST0155,44,Male,Life,25,Third Party Injury,2023-10-10,Critical,Marshfort,NY,394817.7,349052.22,Settled,59,No,Phone
+156,POL00156,CUST0156,30,Female,Travel,4,Third Party Injury,2023-07-03,Moderate,Nunezfurt,IL,219014.03,122844.3,Settled,84,No,Phone
+157,POL00157,CUST0157,47,Female,Health,24,Travel Cancellation,2024-08-18,Moderate,West John,WA,142621.94,45933.58,Settled,88,No,Online
+158,POL00158,CUST0158,74,Male,Health,10,Health Issue,2024-03-21,Minor,Victorview,TX,277077.01,204072.24,Settled,17,No,Phone
+159,POL00159,CUST0159,26,Male,Commercial,24,Health Issue,2025-06-02,Moderate,Shawview,IL,115881.62,111994.39,Settled,36,Yes,Online
+160,POL00160,CUST0160,50,Female,Home,14,Third Party Injury,2023-12-09,Critical,Curtisshire,IL,75097.54,71618.88,Settled,10,No,Online
+161,POL00161,CUST0161,29,Female,Home,22,Third Party Injury,2023-02-17,Major,New Michelle,FL,181607.88,87391.63,Disputed,0,No,Mobile App
+162,POL00162,CUST0162,48,Female,Auto,23,Natural Disaster,2023-11-27,Major,North Charles,WA,294134.16,240916.73,Settled,90,No,Agent
+163,POL00163,CUST0163,44,Male,Home,9,Car Accident,2023-11-08,Moderate,South Olivia,WA,79746.14,39175.0,Under Review,0,No,Online
+164,POL00164,CUST0164,67,Female,Travel,12,Theft,2023-07-01,Critical,New Elizabethland,AZ,23542.08,21579.77,Settled,32,No,Online
+165,POL00165,CUST0165,54,Female,Travel,18,Flood,2024-01-17,Moderate,Whiteheadfort,NY,491273.99,397458.57,Settled,28,No,Agent
+166,POL00166,CUST0166,74,Female,Health,6,Flood,2024-08-07,Moderate,North Christopherton,NY,317619.07,138086.41,Settled,56,No,Agent
+167,POL00167,CUST0167,46,Female,Travel,18,Natural Disaster,2024-05-14,Critical,Navarroside,FL,494523.06,394204.03,Settled,8,Yes,Agent
+168,POL00168,CUST0168,64,Female,Health,25,Flood,2024-08-01,Major,Port Claudiabury,TX,259189.04,147673.33,Settled,49,No,Agent
+169,POL00169,CUST0169,56,Male,Travel,4,Natural Disaster,2023-05-13,Critical,Clarkfurt,WA,471293.58,233803.49,Settled,34,No,Agent
+170,POL00170,CUST0170,36,Male,Travel,6,Natural Disaster,2024-02-07,Minor,North Alan,NY,427216.29,322695.69,Disputed,0,No,Phone
+171,POL00171,CUST0171,60,Male,Commercial,6,Life Claim,2024-12-29,Major,New Tammy,NY,471583.74,211291.21,Settled,74,Yes,Phone
+172,POL00172,CUST0172,68,Male,Health,3,Home Damage,2025-06-17,Moderate,New Melissa,AZ,186382.49,83413.36,Settled,3,No,Agent
+173,POL00173,CUST0173,62,Male,Life,6,Health Issue,2025-04-28,Moderate,Kristenland,CA,450375.94,384008.41,Settled,12,No,Phone
+174,POL00174,CUST0174,42,Female,Life,10,Car Accident,2023-06-23,Major,Deannaville,TX,489619.35,433675.19,Settled,60,No,Mobile App
+175,POL00175,CUST0175,56,Male,Commercial,3,Travel Cancellation,2024-10-21,Critical,North Jeffrey,IL,179032.24,95071.03,Settled,85,Yes,Agent
+176,POL00176,CUST0176,70,Female,Home,25,Natural Disaster,2024-11-26,Minor,North Johnathanborough,NY,57326.02,46250.24,Settled,17,No,Online
+177,POL00177,CUST0177,75,Male,Home,25,Third Party Injury,2024-03-10,Moderate,Smithview,TX,406658.59,363011.52,Settled,4,No,Mobile App
+178,POL00178,CUST0178,32,Male,Home,12,Flood,2023-03-07,Major,Port Philip,CA,478791.88,315432.45,Settled,13,No,Agent
+179,POL00179,CUST0179,25,Male,Home,13,Life Claim,2023-11-11,Moderate,Christinemouth,CA,478811.2,203433.96,Settled,42,No,Online
+180,POL00180,CUST0180,25,Male,Commercial,14,Fire,2023-08-28,Major,Jeffersonmouth,NY,136448.04,76208.43,Settled,8,No,Agent
+181,POL00181,CUST0181,29,Male,Travel,16,Fire,2024-03-21,Moderate,Villanuevaport,NY,469844.65,347362.64,Settled,6,No,Online
+182,POL00182,CUST0182,71,Female,Auto,23,Third Party Injury,2024-02-21,Critical,Wheelerborough,NY,76871.3,57774.56,Settled,9,No,Online
+183,POL00183,CUST0183,24,Male,Life,17,Travel Cancellation,2023-08-27,Minor,Port Christopher,AZ,41974.92,21734.74,Settled,41,No,Agent
+184,POL00184,CUST0184,24,Male,Health,17,Theft,2023-10-12,Minor,Maynardmouth,FL,448709.64,190726.07,Settled,67,Yes,Agent
+185,POL00185,CUST0185,73,Male,Life,22,Fire,2024-08-07,Major,Brandonport,WA,84342.7,68525.74,Settled,48,Yes,Agent
+186,POL00186,CUST0186,26,Female,Commercial,24,Travel Cancellation,2023-11-17,Critical,Timothymouth,IL,238519.25,139511.9,Settled,30,No,Online
+187,POL00187,CUST0187,64,Female,Home,6,Third Party Injury,2025-03-23,Minor,Port Haroldborough,OH,477662.75,347471.53,Settled,17,Yes,Mobile App
+188,POL00188,CUST0188,31,Female,Travel,4,Flood,2023-07-26,Major,Royfort,AZ,26746.51,12701.14,Settled,84,No,Agent
+189,POL00189,CUST0189,34,Male,Commercial,22,Life Claim,2024-11-07,Minor,East Taylorville,AZ,133856.1,105879.07,Settled,57,No,Agent
+190,POL00190,CUST0190,62,Female,Health,17,Car Accident,2025-05-24,Minor,Port Loritown,FL,262856.04,223674.97,Under Review,0,No,Online
+191,POL00191,CUST0191,63,Male,Auto,5,Life Claim,2023-05-07,Moderate,Port Phillipfort,TX,271185.42,174869.77,Settled,46,No,Online
+192,POL00192,CUST0192,26,Female,Home,18,Home Damage,2025-05-05,Moderate,South Charlottemouth,OH,34241.75,31125.98,Settled,12,Yes,Phone
+193,POL00193,CUST0193,26,Male,Life,15,Life Claim,2023-06-19,Critical,North Leslie,NY,84029.65,68529.63,Pending,0,No,Agent
+194,POL00194,CUST0194,39,Female,Commercial,25,Natural Disaster,2023-09-21,Moderate,Alyssafurt,CA,265211.6,227310.83,Settled,6,No,Online
+195,POL00195,CUST0195,63,Female,Commercial,16,Fire,2023-11-08,Major,Donaldmouth,NY,332037.67,132244.69,Rejected,0,No,Mobile App
+196,POL00196,CUST0196,44,Female,Travel,3,Natural Disaster,2024-05-05,Major,East Zachary,NY,82456.61,59172.75,Settled,40,No,Agent
+197,POL00197,CUST0197,22,Male,Auto,5,Health Issue,2024-02-01,Critical,West Sylvia,NY,90244.62,53228.26,Settled,68,No,Agent
+198,POL00198,CUST0198,58,Female,Commercial,2,Flood,2023-10-05,Minor,East John,NY,146712.48,49049.1,Settled,42,No,Agent
+199,POL00199,CUST0199,22,Female,Life,15,Home Damage,2024-05-17,Major,East Candacefort,TX,159115.59,74186.62,Settled,37,No,Mobile App
+200,POL00200,CUST0200,42,Female,Travel,20,Life Claim,2023-08-05,Major,West Whitney,IL,295340.8,174001.65,Rejected,0,No,Mobile App
+201,POL00201,CUST0201,45,Male,Life,3,Fire,2024-01-12,Critical,Doyleview,WA,466171.67,312981.55,Under Review,0,No,Online
+202,POL00202,CUST0202,73,Male,Auto,13,Home Damage,2025-03-30,Major,Lake Brendanbury,NY,258486.21,240441.66,Settled,12,No,Phone
+203,POL00203,CUST0203,35,Male,Travel,24,Flood,2023-03-09,Minor,East Jenniferstad,AZ,159802.05,85677.9,Settled,69,No,Phone
+204,POL00204,CUST0204,64,Male,Life,14,Theft,2024-08-06,Major,New Timothymouth,WA,458218.19,208182.03,Settled,83,No,Online
+205,POL00205,CUST0205,51,Female,Health,9,Fire,2024-05-06,Minor,Thomasfurt,TX,100777.96,48451.61,Settled,89,No,Phone
+206,POL00206,CUST0206,60,Female,Home,6,Natural Disaster,2025-02-01,Minor,Jonathonside,WA,90100.16,29720.57,Settled,8,No,Online
+207,POL00207,CUST0207,53,Female,Travel,17,Life Claim,2025-06-23,Moderate,Medinamouth,IL,14989.35,14466.56,Under Review,0,No,Mobile App
+208,POL00208,CUST0208,61,Male,Home,8,Home Damage,2024-03-26,Critical,Charleshaven,IL,173420.79,149425.41,Settled,77,No,Mobile App
+209,POL00209,CUST0209,72,Male,Auto,21,Third Party Injury,2025-02-11,Minor,North Douglas,IL,285835.87,187868.25,Disputed,0,Yes,Mobile App
+210,POL00210,CUST0210,49,Male,Travel,9,Health Issue,2025-05-09,Minor,Vegaburgh,IL,278910.5,247523.76,Under Review,0,No,Online
+211,POL00211,CUST0211,72,Male,Commercial,14,Fire,2024-08-22,Moderate,Williamside,AZ,124031.68,100029.89,Under Review,0,No,Agent
+212,POL00212,CUST0212,67,Male,Home,5,Theft,2023-02-12,Moderate,New Robert,CA,275286.73,158363.76,Pending,0,No,Phone
+213,POL00213,CUST0213,53,Male,Commercial,3,Home Damage,2025-04-27,Critical,West Courtney,WA,149450.96,77787.98,Disputed,0,No,Mobile App
+214,POL00214,CUST0214,36,Female,Auto,4,Life Claim,2024-07-08,Major,Rodneymouth,CA,108172.63,88507.1,Settled,36,No,Phone
+215,POL00215,CUST0215,34,Male,Commercial,15,Car Accident,2025-04-09,Major,Lake Allisonton,FL,277194.8,170339.43,Pending,0,No,Phone
+216,POL00216,CUST0216,59,Female,Health,16,Car Accident,2024-04-09,Critical,Port Jasonshire,FL,235631.31,205168.68,Settled,69,No,Mobile App
+217,POL00217,CUST0217,39,Male,Commercial,1,Natural Disaster,2024-03-14,Major,Johnsonborough,NY,449209.62,299920.27,Rejected,0,No,Online
+218,POL00218,CUST0218,35,Male,Auto,8,Health Issue,2025-05-09,Moderate,North Emily,TX,44368.39,36843.17,Settled,84,No,Phone
+219,POL00219,CUST0219,69,Male,Home,5,Life Claim,2024-08-21,Minor,Lambertville,IL,224919.92,136212.27,Settled,24,No,Phone
+220,POL00220,CUST0220,60,Female,Auto,22,Car Accident,2024-11-04,Critical,Kevinland,CA,283450.95,128935.97,Settled,16,No,Phone
+221,POL00221,CUST0221,44,Male,Life,2,Flood,2024-06-14,Critical,East Jamie,TX,192487.27,181036.38,Settled,83,No,Mobile App
+222,POL00222,CUST0222,66,Male,Commercial,18,Travel Cancellation,2023-04-01,Critical,South Adriana,IL,13673.14,7247.87,Rejected,0,No,Phone
+223,POL00223,CUST0223,34,Female,Commercial,12,Health Issue,2023-03-26,Major,Port Cheryl,CA,192801.49,122259.61,Settled,29,No,Phone
+224,POL00224,CUST0224,40,Male,Life,13,Life Claim,2024-12-29,Moderate,South Cassandrachester,IL,41475.74,26920.66,Pending,0,No,Phone
+225,POL00225,CUST0225,30,Female,Health,23,Third Party Injury,2024-11-03,Critical,Gilberthaven,CA,117991.51,100616.59,Settled,4,Yes,Agent
+226,POL00226,CUST0226,54,Male,Travel,24,Fire,2024-09-30,Moderate,New Kimberly,IL,405771.57,359358.58,Disputed,0,No,Agent
+227,POL00227,CUST0227,64,Female,Commercial,2,Health Issue,2023-09-11,Minor,New Melissa,TX,174393.9,168370.39,Settled,54,Yes,Online
+228,POL00228,CUST0228,26,Female,Health,21,Natural Disaster,2023-03-28,Critical,Lake Chelseamouth,NY,138002.18,137127.04,Settled,85,No,Online
+229,POL00229,CUST0229,70,Female,Auto,22,Health Issue,2023-05-01,Moderate,Port Shannon,AZ,480916.68,289157.13,Settled,62,No,Agent
+230,POL00230,CUST0230,41,Female,Commercial,17,Health Issue,2025-03-01,Minor,Mendozaborough,TX,371777.58,201084.12,Settled,16,No,Agent
+231,POL00231,CUST0231,51,Female,Auto,2,Life Claim,2023-01-19,Major,Christophershire,NY,492332.32,371194.15,Rejected,0,No,Mobile App
+232,POL00232,CUST0232,71,Male,Commercial,19,Theft,2023-06-23,Critical,South Christopherfurt,IL,15404.82,7532.75,Pending,0,No,Phone
+233,POL00233,CUST0233,56,Female,Home,3,Third Party Injury,2025-03-29,Major,Lake Blakeshire,IL,268920.55,163307.33,Settled,54,No,Phone
+234,POL00234,CUST0234,44,Male,Life,15,Health Issue,2023-08-28,Critical,Aaronstad,IL,125091.07,114459.85,Settled,80,No,Agent
+235,POL00235,CUST0235,67,Female,Home,8,Third Party Injury,2025-02-12,Major,South Deborah,AZ,275051.2,118231.79,Settled,32,No,Online
+236,POL00236,CUST0236,24,Male,Travel,7,Flood,2024-02-04,Moderate,Lake Joseview,OH,142916.89,126890.36,Settled,52,No,Phone
+237,POL00237,CUST0237,31,Female,Health,6,Car Accident,2024-06-01,Critical,Litown,IL,331350.41,302875.66,Settled,3,No,Online
+238,POL00238,CUST0238,22,Female,Health,23,Travel Cancellation,2024-08-07,Critical,South Cindy,CA,444980.24,241975.45,Settled,46,No,Mobile App
+239,POL00239,CUST0239,28,Female,Auto,12,Home Damage,2023-06-21,Minor,Andrewhaven,AZ,354847.78,233415.64,Settled,26,No,Online
+240,POL00240,CUST0240,74,Male,Life,11,Life Claim,2023-12-18,Minor,Heatherfort,IL,95220.86,34525.87,Settled,36,No,Online
+241,POL00241,CUST0241,41,Female,Travel,9,Travel Cancellation,2024-04-25,Minor,New Jenny,IL,287570.39,160538.7,Pending,0,No,Mobile App
+242,POL00242,CUST0242,24,Female,Commercial,24,Car Accident,2024-10-08,Minor,Adrienneberg,CA,85055.51,51878.3,Disputed,0,No,Agent
+243,POL00243,CUST0243,56,Female,Life,10,Life Claim,2024-09-17,Moderate,East Bethany,WA,428349.01,152954.8,Settled,72,No,Agent
+244,POL00244,CUST0244,74,Female,Auto,3,Car Accident,2023-12-30,Moderate,Brandonton,AZ,6183.04,3301.55,Settled,17,No,Agent
+245,POL00245,CUST0245,34,Female,Auto,12,Theft,2023-01-25,Major,South Brendamouth,AZ,38728.16,25529.51,Settled,37,No,Phone
+246,POL00246,CUST0246,52,Female,Health,2,Natural Disaster,2024-03-27,Critical,Parkershire,CA,384309.81,233555.48,Settled,55,No,Phone
+247,POL00247,CUST0247,47,Female,Travel,24,Fire,2023-06-19,Minor,Brandonhaven,OH,300118.21,177369.47,Under Review,0,No,Phone
+248,POL00248,CUST0248,24,Female,Life,4,Life Claim,2024-03-22,Moderate,Griffinhaven,FL,349547.33,339482.29,Under Review,0,No,Phone
+249,POL00249,CUST0249,58,Female,Travel,24,Natural Disaster,2023-10-12,Critical,Cassandraland,TX,122781.09,77436.13,Settled,33,No,Phone
+250,POL00250,CUST0250,69,Female,Commercial,25,Health Issue,2025-01-14,Moderate,North Josephberg,CA,219717.59,89316.94,Settled,29,No,Online
+251,POL00251,CUST0251,35,Female,Auto,4,Flood,2024-12-25,Moderate,Stevenburgh,AZ,342017.41,135355.66,Settled,12,No,Online
+252,POL00252,CUST0252,52,Male,Commercial,6,Life Claim,2024-12-05,Major,Port John,AZ,368013.81,344532.93,Settled,45,No,Online
+253,POL00253,CUST0253,38,Male,Life,6,Theft,2024-02-14,Minor,New Benjamin,WA,136286.7,116826.85,Settled,3,No,Agent
+254,POL00254,CUST0254,46,Female,Commercial,13,Travel Cancellation,2023-11-17,Critical,Julieton,AZ,365201.38,268568.68,Settled,34,No,Online
+255,POL00255,CUST0255,46,Male,Home,25,Travel Cancellation,2023-08-07,Major,Graybury,NY,335902.32,147403.16,Settled,29,No,Online
+256,POL00256,CUST0256,39,Male,Commercial,18,Natural Disaster,2024-08-02,Major,Danielhaven,AZ,381253.59,174509.39,Settled,28,No,Online
+257,POL00257,CUST0257,26,Male,Commercial,2,Life Claim,2023-02-01,Major,Greeneville,FL,119047.78,118514.16,Settled,3,No,Agent
+258,POL00258,CUST0258,44,Male,Health,15,Theft,2024-02-25,Moderate,Christianborough,IL,37442.57,32234.43,Settled,71,No,Online
+259,POL00259,CUST0259,51,Male,Auto,12,Fire,2024-11-13,Critical,Kennethstad,TX,293679.38,232945.14,Settled,88,No,Phone
+260,POL00260,CUST0260,46,Male,Auto,21,Travel Cancellation,2025-01-06,Critical,Karenton,OH,428647.53,384755.3,Settled,7,No,Agent
+261,POL00261,CUST0261,38,Female,Travel,22,Third Party Injury,2023-02-04,Minor,Port Kristinaburgh,FL,167193.17,98971.06,Settled,5,No,Online
+262,POL00262,CUST0262,45,Female,Travel,21,Flood,2024-08-01,Critical,New Lee,OH,351163.96,200567.75,Settled,5,No,Online
+263,POL00263,CUST0263,45,Male,Home,10,Health Issue,2023-01-22,Major,Gonzalesville,FL,259204.38,231699.87,Settled,36,No,Online
+264,POL00264,CUST0264,65,Female,Commercial,17,Life Claim,2023-12-09,Major,Edwardstown,CA,315416.02,116553.78,Rejected,0,No,Online
+265,POL00265,CUST0265,51,Male,Commercial,24,Travel Cancellation,2023-01-07,Moderate,Port Adrienneview,FL,260250.11,86960.94,Disputed,0,No,Mobile App
+266,POL00266,CUST0266,37,Male,Travel,12,Life Claim,2023-04-22,Minor,Danielberg,WA,449606.83,321723.4,Settled,46,No,Mobile App
+267,POL00267,CUST0267,65,Male,Home,5,Car Accident,2024-05-20,Major,Buchananbury,CA,327812.22,110550.76,Settled,69,No,Agent
+268,POL00268,CUST0268,39,Female,Commercial,11,Theft,2025-06-25,Moderate,Schmittland,FL,253134.1,104602.68,Settled,7,No,Mobile App
+269,POL00269,CUST0269,25,Male,Commercial,13,Car Accident,2023-11-26,Major,Collinsfurt,AZ,14706.11,4618.26,Settled,89,No,Online
+270,POL00270,CUST0270,29,Male,Health,12,Theft,2023-03-01,Major,South Lisa,FL,457484.96,447483.38,Settled,51,No,Phone
+271,POL00271,CUST0271,71,Male,Health,17,Third Party Injury,2024-09-09,Critical,Besttown,OH,67580.52,23261.1,Settled,37,No,Agent
+272,POL00272,CUST0272,41,Female,Travel,20,Fire,2023-02-18,Major,South Jorgeview,TX,72318.22,26858.0,Settled,30,No,Phone
+273,POL00273,CUST0273,31,Female,Health,23,Fire,2023-05-26,Critical,East Erika,IL,316103.19,204786.38,Settled,88,Yes,Agent
+274,POL00274,CUST0274,37,Female,Health,5,Health Issue,2024-09-26,Major,Amandaburgh,FL,108775.22,54562.4,Settled,57,No,Agent
+275,POL00275,CUST0275,43,Female,Life,21,Flood,2024-08-12,Critical,Lake Kelliville,CA,418147.47,312701.59,Settled,42,No,Online
+276,POL00276,CUST0276,22,Female,Life,16,Fire,2023-08-19,Moderate,New Kimberly,AZ,56276.38,47606.22,Settled,32,No,Online
+277,POL00277,CUST0277,49,Female,Home,4,Fire,2025-05-29,Moderate,Meghanton,OH,349410.38,163390.02,Settled,5,No,Online
+278,POL00278,CUST0278,61,Male,Home,9,Health Issue,2023-10-23,Critical,Katelynview,FL,472416.64,224358.92,Settled,14,No,Online
+279,POL00279,CUST0279,47,Female,Commercial,11,Home Damage,2024-04-26,Critical,Lawsonmouth,OH,383542.26,117508.59,Settled,11,No,Agent
+280,POL00280,CUST0280,30,Male,Travel,15,Life Claim,2024-09-26,Critical,Hernandezchester,IL,36392.47,33949.66,Settled,85,Yes,Agent
+281,POL00281,CUST0281,55,Female,Health,25,Flood,2025-04-06,Minor,East Alexisside,CA,477803.35,468861.5,Pending,0,No,Agent
+282,POL00282,CUST0282,64,Male,Health,12,Third Party Injury,2024-04-29,Critical,Port Billy,TX,235924.87,114983.35,Settled,35,No,Mobile App
+283,POL00283,CUST0283,69,Female,Commercial,14,Car Accident,2024-03-16,Critical,Jesseburgh,AZ,187404.95,74561.88,Pending,0,No,Mobile App
+284,POL00284,CUST0284,36,Male,Commercial,18,Theft,2024-05-11,Moderate,West James,NY,167602.3,62521.62,Settled,14,No,Mobile App
+285,POL00285,CUST0285,57,Female,Auto,14,Fire,2023-08-23,Moderate,Andrewville,FL,38832.59,17120.3,Settled,62,No,Agent
+286,POL00286,CUST0286,43,Male,Travel,18,Theft,2024-09-20,Critical,Greenshire,OH,378139.65,150827.28,Settled,29,No,Agent
+287,POL00287,CUST0287,64,Female,Home,4,Third Party Injury,2023-07-05,Critical,Ryanport,FL,465519.22,228058.42,Settled,12,No,Phone
+288,POL00288,CUST0288,44,Female,Auto,13,Health Issue,2024-10-15,Minor,West Maria,OH,294175.47,166633.28,Settled,25,No,Phone
+289,POL00289,CUST0289,24,Female,Home,15,Natural Disaster,2023-10-13,Major,Claytonside,TX,81178.84,68946.92,Settled,56,No,Mobile App
+290,POL00290,CUST0290,66,Female,Commercial,1,Health Issue,2023-10-17,Minor,Lake Mariamouth,OH,232199.87,113771.74,Under Review,0,No,Online
+291,POL00291,CUST0291,73,Male,Auto,24,Car Accident,2025-03-21,Moderate,Alexandraton,CA,241051.06,152749.24,Settled,55,No,Mobile App
+292,POL00292,CUST0292,32,Male,Home,24,Life Claim,2024-06-25,Major,Elizabethland,OH,172319.0,85658.3,Rejected,0,No,Online
+293,POL00293,CUST0293,67,Male,Life,10,Car Accident,2023-02-19,Moderate,West Aaron,AZ,120128.01,88461.7,Settled,83,No,Agent
+294,POL00294,CUST0294,60,Male,Travel,24,Health Issue,2023-09-29,Major,New Vanessachester,WA,446651.27,261362.67,Settled,28,No,Online
+295,POL00295,CUST0295,38,Male,Home,10,Theft,2024-04-13,Major,North Tara,IL,161146.24,96289.94,Settled,12,No,Mobile App
+296,POL00296,CUST0296,23,Female,Auto,3,Third Party Injury,2023-05-06,Moderate,Lake Amyhaven,TX,123629.62,95860.94,Settled,59,No,Agent
+297,POL00297,CUST0297,44,Male,Commercial,10,Travel Cancellation,2025-05-30,Critical,Mendozafort,AZ,321884.28,271083.66,Settled,70,No,Online
+298,POL00298,CUST0298,64,Female,Life,4,Natural Disaster,2023-05-07,Major,East Tiffany,AZ,250808.18,225704.42,Pending,0,Yes,Agent
+299,POL00299,CUST0299,71,Female,Travel,7,Life Claim,2024-10-08,Moderate,East Suzanne,OH,390536.15,230683.66,Pending,0,No,Mobile App
+300,POL00300,CUST0300,60,Female,Travel,2,Flood,2023-03-29,Minor,North Christian,TX,21136.87,11353.72,Pending,0,No,Online
+301,POL00301,CUST0301,70,Female,Home,20,Car Accident,2024-08-06,Major,Cohenbury,NY,183306.34,112743.47,Disputed,0,No,Phone
+302,POL00302,CUST0302,38,Female,Auto,20,Life Claim,2024-04-18,Moderate,Larryport,FL,68033.33,66947.95,Pending,0,No,Online
+303,POL00303,CUST0303,53,Male,Commercial,20,Car Accident,2024-08-20,Critical,Jacobchester,TX,105596.54,72268.78,Settled,55,No,Mobile App
+304,POL00304,CUST0304,58,Male,Commercial,5,Car Accident,2024-02-20,Minor,North Robertview,NY,107391.98,96514.03,Disputed,0,No,Phone
+305,POL00305,CUST0305,25,Male,Auto,25,Third Party Injury,2023-06-07,Minor,West Timothyborough,FL,458187.38,149408.21,Settled,70,No,Phone
+306,POL00306,CUST0306,22,Female,Commercial,22,Health Issue,2025-04-27,Major,Johntown,AZ,78427.92,77432.22,Settled,30,No,Online
+307,POL00307,CUST0307,44,Male,Home,5,Car Accident,2024-07-19,Moderate,Burkeburgh,CA,367268.92,263755.93,Settled,45,Yes,Online
+308,POL00308,CUST0308,49,Female,Life,10,Life Claim,2025-01-10,Minor,Duncanfurt,AZ,152886.6,132391.71,Settled,88,No,Agent
+309,POL00309,CUST0309,65,Female,Auto,16,Third Party Injury,2025-04-14,Moderate,Fowlermouth,TX,401347.1,328155.4,Settled,17,No,Mobile App
+310,POL00310,CUST0310,56,Female,Home,11,Natural Disaster,2025-06-12,Moderate,Kimberlymouth,IL,263990.24,215562.73,Settled,11,No,Agent
+311,POL00311,CUST0311,75,Female,Travel,15,Third Party Injury,2023-06-03,Minor,South Daniel,AZ,422863.11,211709.21,Settled,66,No,Phone
+312,POL00312,CUST0312,25,Male,Life,7,Flood,2024-09-01,Critical,Torresshire,WA,147412.97,78018.98,Settled,73,No,Online
+313,POL00313,CUST0313,24,Female,Life,11,Fire,2024-12-12,Critical,New Thomasside,OH,362669.05,307879.75,Settled,53,No,Mobile App
+314,POL00314,CUST0314,55,Male,Health,18,Car Accident,2023-05-16,Minor,South Melvin,AZ,100872.72,49862.62,Settled,88,No,Mobile App
+315,POL00315,CUST0315,63,Female,Auto,10,Car Accident,2023-05-15,Critical,Davidfurt,WA,112061.26,103668.36,Settled,86,No,Online
+316,POL00316,CUST0316,57,Female,Home,1,Fire,2024-05-15,Moderate,New Tiffany,NY,259650.32,142241.83,Settled,16,Yes,Mobile App
+317,POL00317,CUST0317,58,Female,Life,22,Home Damage,2023-04-29,Minor,Youngshire,IL,483037.13,221945.29,Settled,24,No,Agent
+318,POL00318,CUST0318,25,Male,Home,9,Health Issue,2024-02-26,Critical,New Michaelfort,WA,330466.89,234989.04,Settled,60,No,Phone
+319,POL00319,CUST0319,71,Male,Life,15,Fire,2025-03-23,Major,West Brookeshire,IL,164150.45,132688.17,Settled,76,No,Mobile App
+320,POL00320,CUST0320,28,Male,Home,16,Natural Disaster,2023-10-31,Minor,Stewartland,OH,133967.86,46734.31,Settled,13,No,Agent
+321,POL00321,CUST0321,61,Female,Home,10,Theft,2023-10-14,Critical,Jonesside,NY,409840.69,146603.03,Settled,48,Yes,Phone
+322,POL00322,CUST0322,26,Male,Travel,16,Travel Cancellation,2025-02-11,Critical,Jesusbury,WA,481611.67,421519.33,Settled,4,No,Agent
+323,POL00323,CUST0323,35,Male,Auto,20,Fire,2024-07-11,Moderate,Brookstown,AZ,160572.03,48891.23,Settled,90,Yes,Phone
+324,POL00324,CUST0324,36,Female,Health,1,Life Claim,2023-03-20,Minor,Port Jennifershire,NY,497082.88,340976.27,Disputed,0,No,Online
+325,POL00325,CUST0325,46,Female,Life,4,Car Accident,2025-04-26,Minor,Port Michael,TX,409786.14,387003.27,Settled,51,No,Mobile App
+326,POL00326,CUST0326,63,Male,Home,1,Fire,2023-06-06,Critical,West Robert,IL,386736.27,292380.4,Settled,30,No,Mobile App
+327,POL00327,CUST0327,67,Female,Health,18,Third Party Injury,2023-02-13,Moderate,Port Sonyaview,OH,210946.89,71917.45,Settled,80,No,Mobile App
+328,POL00328,CUST0328,32,Female,Commercial,20,Health Issue,2023-04-25,Moderate,New Natalie,WA,41606.15,22219.44,Settled,31,No,Mobile App
+329,POL00329,CUST0329,54,Female,Travel,21,Travel Cancellation,2024-03-03,Minor,Tinaville,OH,471297.33,446661.51,Settled,53,No,Phone
+330,POL00330,CUST0330,31,Female,Health,7,Third Party Injury,2025-02-11,Moderate,Newmanburgh,OH,184193.93,77391.24,Settled,58,No,Phone
+331,POL00331,CUST0331,27,Female,Home,19,Natural Disaster,2024-06-02,Major,Kingburgh,TX,188715.73,155943.73,Settled,74,No,Mobile App
+332,POL00332,CUST0332,61,Female,Health,18,Home Damage,2025-02-14,Major,West Aprilmouth,TX,43334.05,21981.25,Settled,14,No,Mobile App
+333,POL00333,CUST0333,70,Male,Health,21,Home Damage,2023-04-30,Moderate,Morganfurt,CA,262809.95,254707.65,Settled,18,No,Online
+334,POL00334,CUST0334,33,Female,Travel,23,Third Party Injury,2024-10-08,Minor,Christopherburgh,AZ,139663.64,127514.12,Rejected,0,No,Phone
+335,POL00335,CUST0335,61,Male,Auto,6,Theft,2023-07-07,Moderate,Woodberg,NY,444577.49,362965.68,Settled,50,No,Phone
+336,POL00336,CUST0336,43,Male,Home,14,Car Accident,2024-09-04,Critical,Colemanport,WA,474933.46,295157.87,Settled,31,No,Mobile App
+337,POL00337,CUST0337,69,Male,Auto,14,Natural Disaster,2025-03-25,Minor,Scotttown,FL,387293.35,138269.3,Settled,27,No,Agent
+338,POL00338,CUST0338,68,Female,Life,5,Home Damage,2023-10-30,Major,Jamesside,OH,257478.29,166728.81,Disputed,0,No,Mobile App
+339,POL00339,CUST0339,60,Female,Auto,11,Natural Disaster,2025-01-25,Critical,Thomasburgh,IL,333933.79,116284.58,Settled,34,No,Mobile App
+340,POL00340,CUST0340,26,Male,Auto,5,Car Accident,2023-11-10,Major,Lesliechester,AZ,480752.32,206998.75,Settled,38,No,Online
+341,POL00341,CUST0341,60,Female,Home,14,Theft,2023-02-07,Minor,Fordfurt,TX,251528.96,233797.28,Disputed,0,No,Agent
+342,POL00342,CUST0342,45,Female,Health,14,Health Issue,2024-11-24,Critical,West Robert,AZ,101668.57,58849.47,Rejected,0,No,Online
+343,POL00343,CUST0343,50,Male,Auto,20,Health Issue,2023-07-20,Minor,Port Benjaminchester,TX,181647.5,172407.07,Settled,82,No,Agent
+344,POL00344,CUST0344,65,Male,Travel,25,Natural Disaster,2024-05-05,Moderate,South Brandi,IL,60042.78,44191.68,Settled,81,No,Phone
+345,POL00345,CUST0345,30,Male,Home,13,Life Claim,2023-09-07,Minor,Emilyborough,AZ,390488.27,157675.23,Under Review,0,No,Online
+346,POL00346,CUST0346,75,Male,Auto,23,Theft,2024-01-08,Critical,Erinland,OH,193256.5,153610.86,Settled,53,No,Phone
+347,POL00347,CUST0347,70,Male,Commercial,15,Travel Cancellation,2025-01-25,Moderate,West Alejandraville,IL,394371.0,178835.72,Settled,53,No,Mobile App
+348,POL00348,CUST0348,66,Male,Home,21,Natural Disaster,2023-01-02,Minor,South Brianstad,FL,385238.83,279442.96,Settled,10,No,Mobile App
+349,POL00349,CUST0349,34,Male,Travel,1,Home Damage,2023-12-26,Minor,West Timothy,NY,269053.78,183773.73,Settled,21,No,Mobile App
+350,POL00350,CUST0350,38,Female,Health,24,Theft,2025-06-28,Major,Leefort,WA,201881.66,131396.2,Settled,60,Yes,Phone
+351,POL00351,CUST0351,31,Male,Home,13,Health Issue,2024-06-21,Moderate,Stevenside,TX,463762.56,223720.49,Settled,35,Yes,Mobile App
+352,POL00352,CUST0352,54,Male,Travel,21,Flood,2023-12-23,Minor,Josephton,OH,24933.7,8449.83,Settled,70,No,Agent
+353,POL00353,CUST0353,45,Female,Life,5,Health Issue,2024-03-11,Major,East Mary,NY,433918.86,215326.51,Settled,9,No,Mobile App
+354,POL00354,CUST0354,51,Female,Home,13,Life Claim,2023-05-13,Moderate,Kellybury,IL,448082.78,276258.41,Settled,71,No,Agent
+355,POL00355,CUST0355,68,Female,Commercial,25,Theft,2023-01-10,Moderate,Dixonshire,CA,63156.42,61928.71,Settled,64,No,Agent
+356,POL00356,CUST0356,28,Male,Commercial,8,Fire,2025-05-15,Critical,Port Marilyn,FL,139486.41,112396.85,Settled,38,No,Phone
+357,POL00357,CUST0357,40,Male,Life,9,Car Accident,2024-01-26,Moderate,Denisefurt,TX,363950.55,117944.33,Pending,0,No,Phone
+358,POL00358,CUST0358,51,Male,Commercial,21,Natural Disaster,2023-02-10,Major,Evanfurt,NY,95413.1,68359.04,Settled,36,No,Phone
+359,POL00359,CUST0359,62,Male,Travel,1,Theft,2023-07-06,Minor,Port Samuelbury,WA,445063.25,417515.81,Settled,71,No,Mobile App
+360,POL00360,CUST0360,65,Female,Home,14,Flood,2024-11-28,Moderate,South Brian,TX,78082.1,76594.2,Settled,42,No,Mobile App
+361,POL00361,CUST0361,58,Male,Health,12,Fire,2024-04-26,Minor,New Ericview,FL,293213.25,281988.85,Settled,40,No,Phone
+362,POL00362,CUST0362,63,Male,Home,14,Travel Cancellation,2023-07-06,Major,Cathyshire,WA,408597.57,199325.64,Settled,85,No,Agent
+363,POL00363,CUST0363,68,Female,Health,12,Home Damage,2023-09-11,Critical,Lake Adam,WA,93352.3,91676.58,Settled,59,No,Mobile App
+364,POL00364,CUST0364,29,Male,Travel,4,Home Damage,2023-09-22,Moderate,Miketon,OH,84541.83,71588.43,Settled,26,No,Mobile App
+365,POL00365,CUST0365,66,Female,Auto,5,Car Accident,2023-09-28,Minor,Petermouth,NY,232048.28,204668.42,Settled,23,No,Online
+366,POL00366,CUST0366,62,Female,Commercial,8,Life Claim,2023-11-30,Major,Hectorchester,FL,118896.08,101901.2,Settled,54,No,Phone
+367,POL00367,CUST0367,49,Male,Home,7,Flood,2025-06-04,Critical,East Michael,WA,129665.49,120243.03,Settled,81,No,Phone
+368,POL00368,CUST0368,49,Male,Travel,7,Fire,2024-06-30,Moderate,Soniafort,OH,313244.01,176668.98,Under Review,0,No,Agent
+369,POL00369,CUST0369,34,Male,Travel,12,Natural Disaster,2025-06-29,Major,Lake Erin,FL,370644.88,343206.28,Settled,32,No,Phone
+370,POL00370,CUST0370,25,Female,Auto,9,Natural Disaster,2024-10-03,Critical,West Robertmouth,CA,101665.37,60330.0,Settled,33,No,Online
+371,POL00371,CUST0371,65,Male,Commercial,19,Travel Cancellation,2023-02-05,Critical,Lake Natalieberg,CA,403046.7,169350.28,Settled,90,No,Online
+372,POL00372,CUST0372,69,Male,Travel,8,Third Party Injury,2025-01-22,Major,South Wesley,NY,308195.19,150419.58,Settled,84,No,Agent
+373,POL00373,CUST0373,38,Female,Commercial,14,Flood,2024-08-19,Moderate,South Melissa,IL,121809.24,87885.4,Settled,51,No,Agent
+374,POL00374,CUST0374,53,Male,Travel,20,Travel Cancellation,2024-05-17,Critical,Simmonston,IL,413968.66,196518.96,Settled,30,No,Online
+375,POL00375,CUST0375,60,Female,Home,23,Life Claim,2025-06-05,Moderate,Campbelltown,TX,368358.21,119464.26,Settled,68,No,Agent
+376,POL00376,CUST0376,41,Female,Travel,22,Third Party Injury,2024-09-06,Major,Wadefort,IL,105225.72,99968.62,Settled,82,No,Online
+377,POL00377,CUST0377,51,Female,Auto,11,Home Damage,2023-01-29,Major,Johnmouth,AZ,375678.17,225621.47,Settled,26,No,Online
+378,POL00378,CUST0378,32,Female,Life,24,Theft,2023-01-01,Minor,Russellhaven,OH,407340.88,252067.98,Pending,0,Yes,Phone
+379,POL00379,CUST0379,48,Male,Health,21,Theft,2023-07-17,Moderate,Rossmouth,TX,179535.91,74052.86,Under Review,0,No,Mobile App
+380,POL00380,CUST0380,73,Male,Travel,9,Natural Disaster,2023-11-07,Major,Jacobborough,CA,166395.9,145945.89,Settled,40,No,Mobile App
+381,POL00381,CUST0381,37,Male,Commercial,8,Natural Disaster,2023-07-24,Moderate,Lopezburgh,AZ,64160.74,47219.0,Settled,36,No,Mobile App
+382,POL00382,CUST0382,54,Male,Travel,11,Flood,2024-09-14,Critical,Roberthaven,NY,251832.29,98166.72,Settled,25,No,Phone
+383,POL00383,CUST0383,28,Male,Health,15,Life Claim,2025-01-10,Critical,West Patriciaborough,CA,357888.75,310292.15,Settled,9,No,Mobile App
+384,POL00384,CUST0384,71,Male,Auto,12,Third Party Injury,2023-02-04,Minor,Donovanburgh,IL,466123.11,200133.5,Settled,41,No,Online
+385,POL00385,CUST0385,40,Male,Auto,19,Fire,2024-07-05,Minor,Janetmouth,AZ,80179.56,53696.08,Settled,42,No,Phone
+386,POL00386,CUST0386,29,Female,Auto,24,Life Claim,2024-02-03,Minor,Lake Christopherland,IL,384689.51,352430.36,Settled,38,No,Mobile App
+387,POL00387,CUST0387,72,Female,Health,6,Car Accident,2023-12-02,Critical,South Michele,TX,315599.04,195747.09,Settled,65,No,Mobile App
+388,POL00388,CUST0388,47,Male,Commercial,16,Home Damage,2025-02-10,Minor,South Raven,AZ,363284.74,224657.03,Settled,45,No,Phone
+389,POL00389,CUST0389,38,Male,Health,21,Natural Disaster,2025-01-06,Minor,Lake Michael,FL,375101.32,269681.05,Settled,36,Yes,Mobile App
+390,POL00390,CUST0390,45,Female,Commercial,2,Car Accident,2025-06-19,Critical,Dillonfurt,IL,393625.3,372738.2,Disputed,0,No,Mobile App
+391,POL00391,CUST0391,68,Female,Home,18,Car Accident,2023-11-18,Critical,Jermainefurt,CA,120679.17,44996.85,Settled,75,No,Online
+392,POL00392,CUST0392,40,Male,Health,3,Car Accident,2023-06-05,Critical,East Raystad,AZ,260155.75,145874.18,Settled,71,No,Phone
+393,POL00393,CUST0393,51,Male,Auto,7,Travel Cancellation,2023-05-03,Moderate,West Jason,CA,231172.15,83227.32,Pending,0,No,Phone
+394,POL00394,CUST0394,23,Male,Home,20,Third Party Injury,2025-02-27,Minor,Nicholasberg,TX,382444.24,279054.57,Settled,48,No,Phone
+395,POL00395,CUST0395,61,Female,Auto,6,Flood,2024-09-16,Major,North Steven,TX,70782.62,23970.04,Settled,60,No,Agent
+396,POL00396,CUST0396,44,Female,Auto,19,Health Issue,2025-02-04,Critical,West Meganshire,AZ,338346.7,177287.33,Settled,7,No,Online
+397,POL00397,CUST0397,67,Female,Commercial,25,Health Issue,2023-11-16,Critical,West Cassandra,IL,462890.58,320394.4,Settled,52,No,Mobile App
+398,POL00398,CUST0398,53,Female,Auto,20,Car Accident,2025-06-13,Critical,Thomasland,CA,275717.12,231719.31,Settled,53,Yes,Mobile App
+399,POL00399,CUST0399,33,Female,Auto,8,Life Claim,2025-01-01,Minor,West Nicholasfurt,CA,173574.86,62559.88,Settled,17,No,Agent
+400,POL00400,CUST0400,38,Male,Home,8,Fire,2024-02-06,Critical,Poncefort,FL,292260.71,251410.47,Settled,79,Yes,Phone
+401,POL00401,CUST0401,23,Male,Commercial,6,Car Accident,2025-02-18,Critical,Helenmouth,OH,391024.62,180732.18,Settled,88,No,Agent
+402,POL00402,CUST0402,27,Female,Life,19,Life Claim,2024-01-30,Moderate,Diazmouth,FL,34397.1,14030.84,Pending,0,No,Phone
+403,POL00403,CUST0403,73,Female,Life,3,Fire,2023-04-02,Major,Davidport,FL,367388.65,120795.46,Settled,80,Yes,Mobile App
+404,POL00404,CUST0404,40,Female,Life,16,Theft,2025-04-15,Major,Schmidtview,IL,136215.56,126528.85,Settled,37,No,Online
+405,POL00405,CUST0405,50,Female,Commercial,13,Flood,2023-02-09,Moderate,Evansville,OH,449418.27,134858.76,Settled,44,No,Online
+406,POL00406,CUST0406,63,Male,Auto,17,Life Claim,2024-09-16,Minor,Heathertown,FL,369471.6,155610.54,Settled,60,No,Phone
+407,POL00407,CUST0407,41,Female,Travel,1,Fire,2025-06-14,Critical,New Kellystad,IL,346888.94,177174.7,Settled,85,No,Phone
+408,POL00408,CUST0408,44,Female,Travel,4,Third Party Injury,2024-06-07,Moderate,Kennethville,OH,96711.85,31680.9,Settled,41,No,Agent
+409,POL00409,CUST0409,39,Male,Life,8,Life Claim,2024-09-29,Critical,Gilbertbury,FL,474481.58,413862.01,Settled,53,No,Mobile App
+410,POL00410,CUST0410,75,Male,Commercial,24,Flood,2024-12-30,Minor,Shawborough,OH,354928.95,247691.06,Settled,50,No,Agent
+411,POL00411,CUST0411,31,Male,Home,15,Natural Disaster,2024-01-11,Moderate,North Zachary,FL,296113.58,253360.77,Settled,56,No,Online
+412,POL00412,CUST0412,64,Female,Travel,6,Home Damage,2024-07-17,Moderate,Jessicatown,IL,359956.81,352444.87,Under Review,0,No,Online
+413,POL00413,CUST0413,64,Male,Travel,12,Natural Disaster,2025-03-06,Major,Johnsonmouth,TX,353325.11,194430.53,Settled,75,No,Mobile App
+414,POL00414,CUST0414,46,Male,Commercial,3,Health Issue,2023-06-05,Minor,Michaelstad,FL,41568.25,17845.94,Settled,46,Yes,Phone
+415,POL00415,CUST0415,73,Female,Auto,10,Third Party Injury,2023-08-06,Minor,Samuelhaven,TX,389902.56,264680.55,Settled,20,No,Agent
+416,POL00416,CUST0416,30,Male,Travel,19,Life Claim,2023-06-20,Moderate,Samanthaland,CA,394966.71,154638.76,Rejected,0,No,Online
+417,POL00417,CUST0417,41,Female,Health,17,Flood,2025-03-28,Minor,Fowlerstad,CA,106693.76,77450.42,Settled,88,No,Mobile App
+418,POL00418,CUST0418,29,Female,Auto,10,Natural Disaster,2024-02-17,Moderate,Lake Cynthia,CA,431211.97,229622.81,Settled,5,No,Mobile App
+419,POL00419,CUST0419,29,Male,Life,20,Health Issue,2025-04-01,Moderate,East Joel,TX,56935.82,17457.89,Settled,35,No,Phone
+420,POL00420,CUST0420,51,Female,Commercial,3,Travel Cancellation,2025-06-18,Critical,Louishaven,TX,61038.71,59608.54,Settled,50,No,Agent
+421,POL00421,CUST0421,31,Male,Travel,20,Health Issue,2023-09-08,Moderate,West Danielland,TX,51362.4,41309.08,Settled,67,Yes,Agent
+422,POL00422,CUST0422,25,Female,Auto,11,Health Issue,2024-08-03,Critical,Bradyville,NY,16416.64,12838.79,Settled,60,No,Mobile App
+423,POL00423,CUST0423,39,Male,Commercial,21,Third Party Injury,2025-03-03,Major,Port Christopherborough,NY,446396.46,199034.47,Settled,38,Yes,Online
+424,POL00424,CUST0424,67,Female,Home,24,Life Claim,2023-05-05,Moderate,Bakerberg,AZ,112304.18,60816.73,Settled,19,No,Mobile App
+425,POL00425,CUST0425,29,Male,Health,3,Third Party Injury,2024-05-16,Critical,Davisfort,FL,481946.7,292128.99,Settled,13,No,Online
+426,POL00426,CUST0426,46,Female,Travel,22,Travel Cancellation,2024-03-21,Critical,West Joanmouth,IL,467931.48,336499.95,Settled,3,No,Phone
+427,POL00427,CUST0427,53,Female,Life,3,Life Claim,2024-07-18,Major,New Ericfort,OH,270099.48,98387.19,Settled,9,No,Agent
+428,POL00428,CUST0428,73,Female,Life,21,Car Accident,2024-03-03,Minor,Roweland,NY,328484.31,292309.0,Settled,10,No,Phone
+429,POL00429,CUST0429,68,Female,Travel,15,Fire,2023-12-01,Critical,Daisyville,OH,292511.02,200771.07,Settled,8,No,Agent
+430,POL00430,CUST0430,33,Male,Travel,4,Home Damage,2024-08-02,Major,Lake Troy,CA,199458.84,108643.82,Settled,69,No,Online
+431,POL00431,CUST0431,53,Male,Auto,12,Theft,2025-06-18,Minor,Danielchester,FL,13238.37,5510.29,Rejected,0,Yes,Phone
+432,POL00432,CUST0432,52,Male,Health,8,Natural Disaster,2023-01-09,Minor,Lake Richardborough,WA,137907.11,51368.52,Settled,68,No,Agent
+433,POL00433,CUST0433,46,Male,Commercial,24,Health Issue,2023-05-26,Major,South Katherineport,CA,361212.77,328895.1,Settled,84,No,Agent
+434,POL00434,CUST0434,68,Female,Commercial,16,Travel Cancellation,2024-04-22,Critical,West Dawn,CA,256193.91,194019.25,Settled,77,No,Online
+435,POL00435,CUST0435,50,Female,Health,24,Third Party Injury,2025-06-12,Minor,South Georgeborough,FL,159274.64,152182.81,Settled,38,No,Mobile App
+436,POL00436,CUST0436,38,Female,Travel,15,Health Issue,2025-03-24,Major,North Lori,TX,123509.79,113684.94,Settled,53,No,Online
+437,POL00437,CUST0437,56,Male,Auto,10,Flood,2024-09-15,Minor,Floresshire,TX,11365.28,4815.55,Settled,16,No,Agent
+438,POL00438,CUST0438,24,Female,Travel,13,Flood,2024-09-27,Moderate,Nortonfurt,TX,144552.63,134161.3,Settled,17,No,Agent
+439,POL00439,CUST0439,38,Male,Auto,19,Third Party Injury,2024-08-26,Moderate,New Brandonfurt,WA,433318.71,186019.98,Settled,41,No,Mobile App
+440,POL00440,CUST0440,49,Male,Home,3,Car Accident,2024-12-13,Major,Erintown,IL,59511.11,45251.5,Settled,3,No,Mobile App
+441,POL00441,CUST0441,74,Male,Life,16,Car Accident,2024-01-21,Moderate,Margarethaven,NY,273580.1,135768.61,Settled,55,No,Online
+442,POL00442,CUST0442,24,Male,Health,14,Health Issue,2024-05-14,Moderate,Fernandezside,WA,140542.46,80199.31,Settled,69,No,Mobile App
+443,POL00443,CUST0443,52,Male,Commercial,23,Life Claim,2023-11-10,Critical,Thomasmouth,CA,188821.06,157317.13,Settled,74,No,Mobile App
+444,POL00444,CUST0444,63,Male,Commercial,11,Fire,2023-08-19,Minor,Smithshire,IL,45682.83,32532.57,Settled,44,No,Phone
+445,POL00445,CUST0445,71,Female,Commercial,2,Car Accident,2024-10-19,Moderate,North Elizabeth,NY,416666.11,291783.56,Settled,65,No,Online
+446,POL00446,CUST0446,50,Male,Health,3,Natural Disaster,2023-04-26,Minor,New Linda,TX,256878.74,85843.73,Settled,41,No,Online
+447,POL00447,CUST0447,64,Female,Commercial,8,Home Damage,2024-06-06,Critical,Lake Maryside,OH,304246.98,302853.85,Disputed,0,No,Phone
+448,POL00448,CUST0448,68,Female,Health,18,Home Damage,2025-03-06,Critical,South Larry,NY,457649.79,138867.86,Settled,41,No,Online
+449,POL00449,CUST0449,63,Female,Auto,2,Flood,2025-02-03,Minor,Guerreroburgh,CA,473674.15,439287.37,Settled,4,No,Phone
+450,POL00450,CUST0450,28,Female,Life,13,Fire,2023-09-18,Moderate,New Travis,WA,466001.95,321184.66,Settled,20,No,Mobile App
+451,POL00451,CUST0451,23,Female,Travel,20,Natural Disaster,2023-04-15,Critical,Wernerbury,AZ,418307.04,323627.1,Settled,17,No,Online
+452,POL00452,CUST0452,37,Female,Travel,15,Travel Cancellation,2024-05-27,Moderate,Russellchester,TX,322887.64,317511.15,Settled,46,No,Agent
+453,POL00453,CUST0453,55,Male,Home,10,Fire,2025-05-22,Moderate,Wilkinsstad,TX,23427.58,16150.33,Settled,8,No,Agent
+454,POL00454,CUST0454,53,Female,Auto,4,Home Damage,2025-04-21,Major,Clarencetown,NY,158993.41,125531.2,Settled,69,No,Agent
+455,POL00455,CUST0455,68,Female,Home,15,Travel Cancellation,2023-03-31,Minor,Codyville,IL,82021.03,59213.75,Settled,74,Yes,Online
+456,POL00456,CUST0456,46,Male,Commercial,20,Car Accident,2024-02-26,Major,Stephanieport,NY,356829.81,234812.69,Settled,89,No,Phone
+457,POL00457,CUST0457,50,Female,Commercial,22,Natural Disaster,2025-06-11,Moderate,North Brett,AZ,481300.56,430364.21,Settled,90,No,Online
+458,POL00458,CUST0458,35,Male,Health,7,Health Issue,2023-02-03,Minor,East Jeffrey,NY,111792.36,53451.38,Settled,59,Yes,Agent
+459,POL00459,CUST0459,60,Male,Home,6,Home Damage,2025-05-15,Major,Lake Anthonybury,FL,228206.91,95636.02,Settled,66,No,Mobile App
+460,POL00460,CUST0460,63,Female,Life,16,Health Issue,2024-09-23,Minor,Lindaport,TX,97407.01,86387.21,Rejected,0,No,Mobile App
+461,POL00461,CUST0461,36,Female,Life,13,Health Issue,2023-05-13,Critical,Lake Matthewland,AZ,402301.04,151239.27,Settled,39,No,Online
+462,POL00462,CUST0462,29,Female,Travel,25,Natural Disaster,2023-10-24,Minor,Leeberg,TX,173920.14,155771.65,Settled,45,No,Phone
+463,POL00463,CUST0463,65,Female,Auto,6,Home Damage,2024-06-04,Critical,Robertshire,AZ,493452.84,295905.99,Settled,66,No,Mobile App
+464,POL00464,CUST0464,32,Female,Commercial,13,Home Damage,2023-11-17,Moderate,Francisfurt,IL,414880.32,286737.15,Disputed,0,No,Mobile App
+465,POL00465,CUST0465,51,Male,Health,8,Travel Cancellation,2025-04-24,Moderate,New Robert,AZ,356926.53,179139.5,Settled,65,No,Phone
+466,POL00466,CUST0466,66,Female,Commercial,7,Flood,2023-11-17,Critical,West Robert,AZ,240543.2,200846.51,Pending,0,No,Phone
+467,POL00467,CUST0467,71,Male,Life,1,Natural Disaster,2024-06-01,Critical,South Brianburgh,TX,70763.96,48931.66,Settled,45,No,Online
+468,POL00468,CUST0468,58,Female,Travel,19,Home Damage,2023-04-15,Moderate,Bellfurt,AZ,354700.1,274866.67,Settled,82,No,Online
+469,POL00469,CUST0469,31,Male,Travel,21,Car Accident,2024-04-20,Minor,Clarkville,TX,122124.31,56232.98,Under Review,0,No,Online
+470,POL00470,CUST0470,25,Female,Health,1,Home Damage,2023-01-24,Major,South Joshuafurt,FL,428685.15,332399.14,Disputed,0,No,Agent
+471,POL00471,CUST0471,30,Female,Health,4,Theft,2024-12-03,Minor,East Jacob,TX,100807.9,60800.72,Disputed,0,No,Mobile App
+472,POL00472,CUST0472,43,Male,Health,22,Travel Cancellation,2025-03-17,Minor,North Mark,OH,484562.01,233234.78,Settled,64,No,Online
+473,POL00473,CUST0473,40,Male,Life,14,Third Party Injury,2024-12-20,Moderate,Henryview,CA,462757.1,396850.44,Rejected,0,No,Agent
+474,POL00474,CUST0474,71,Male,Health,23,Natural Disaster,2024-11-01,Critical,Aaronborough,NY,418366.42,414951.44,Pending,0,No,Agent
+475,POL00475,CUST0475,45,Male,Life,25,Third Party Injury,2023-02-07,Major,Brianside,OH,290027.16,126652.62,Settled,27,No,Agent
+476,POL00476,CUST0476,67,Female,Auto,3,Theft,2023-05-30,Major,Jamieborough,OH,163301.29,107074.71,Settled,30,No,Phone
+477,POL00477,CUST0477,59,Male,Commercial,3,Flood,2024-03-22,Major,Port Chelsea,IL,111879.53,75910.98,Settled,90,No,Agent
+478,POL00478,CUST0478,28,Female,Life,7,Flood,2025-06-01,Major,South Mark,IL,137386.21,129556.34,Settled,81,Yes,Online
+479,POL00479,CUST0479,28,Female,Travel,14,Third Party Injury,2024-05-12,Moderate,West Justinton,WA,156622.05,91256.45,Settled,82,No,Online
+480,POL00480,CUST0480,30,Female,Travel,20,Car Accident,2024-04-16,Minor,Port Justin,CA,478668.69,443719.94,Pending,0,No,Phone
+481,POL00481,CUST0481,33,Male,Commercial,18,Life Claim,2025-02-10,Major,West Samuel,NY,23186.84,11134.7,Settled,87,No,Agent
+482,POL00482,CUST0482,66,Male,Auto,25,Flood,2023-07-11,Moderate,New Williamport,WA,76147.6,64887.82,Settled,56,No,Mobile App
+483,POL00483,CUST0483,63,Male,Health,11,Home Damage,2023-05-21,Major,New Jasminebury,CA,463844.62,384462.72,Settled,63,Yes,Phone
+484,POL00484,CUST0484,49,Male,Home,22,Third Party Injury,2025-06-04,Major,Lake Sarahmouth,TX,410016.21,140228.4,Disputed,0,No,Mobile App
+485,POL00485,CUST0485,38,Female,Home,22,Life Claim,2025-05-17,Major,Jennyfort,WA,454594.72,146711.21,Settled,88,Yes,Mobile App
+486,POL00486,CUST0486,63,Male,Life,19,Natural Disaster,2024-11-27,Major,Davisfurt,IL,336818.46,254447.37,Settled,60,No,Phone
+487,POL00487,CUST0487,28,Female,Auto,13,Third Party Injury,2024-08-13,Critical,Kristentown,WA,424956.73,357501.96,Settled,53,No,Mobile App
+488,POL00488,CUST0488,47,Female,Health,12,Flood,2023-10-07,Moderate,Victoriamouth,WA,22356.61,8672.68,Settled,73,No,Phone
+489,POL00489,CUST0489,37,Male,Travel,4,Theft,2024-06-18,Major,Knoxview,WA,23143.27,18218.92,Settled,58,No,Phone
+490,POL00490,CUST0490,63,Female,Life,14,Home Damage,2023-04-12,Moderate,Hunterhaven,NY,492079.38,400247.69,Settled,57,Yes,Online
+491,POL00491,CUST0491,29,Female,Home,8,Car Accident,2023-08-19,Minor,North Robert,WA,25427.31,12049.35,Pending,0,No,Mobile App
+492,POL00492,CUST0492,57,Male,Auto,4,Health Issue,2025-03-17,Major,Buckside,FL,29239.05,18179.83,Settled,19,No,Phone
+493,POL00493,CUST0493,25,Male,Commercial,25,Health Issue,2024-01-19,Major,South Patrickborough,OH,39770.22,26180.47,Pending,0,No,Online
+494,POL00494,CUST0494,49,Female,Home,21,Travel Cancellation,2025-03-31,Major,Morrisfort,OH,476743.22,222686.13,Settled,11,No,Online
+495,POL00495,CUST0495,37,Male,Health,14,Third Party Injury,2024-09-22,Moderate,New Chris,AZ,274062.17,194098.33,Settled,76,No,Agent
+496,POL00496,CUST0496,41,Female,Travel,9,Health Issue,2024-09-07,Moderate,Port Joshua,IL,268857.1,257727.73,Settled,82,No,Agent
+497,POL00497,CUST0497,64,Male,Home,25,Flood,2024-05-22,Minor,Robertville,AZ,44782.66,25711.37,Under Review,0,No,Phone
+498,POL00498,CUST0498,43,Male,Auto,9,Natural Disaster,2023-01-28,Moderate,Natalieport,AZ,46206.41,37402.63,Disputed,0,No,Phone
+499,POL00499,CUST0499,66,Female,Auto,25,Fire,2023-11-25,Critical,Lake Shelia,CA,129246.54,102463.39,Settled,79,No,Agent
+500,POL00500,CUST0500,59,Female,Travel,17,Life Claim,2025-03-30,Critical,Irwinside,IL,16812.82,9647.28,Settled,83,No,Mobile App
+501,POL00501,CUST0501,72,Female,Home,17,Life Claim,2024-01-24,Major,Ginaview,FL,273420.77,102309.83,Settled,58,No,Agent
+502,POL00502,CUST0502,32,Female,Life,24,Fire,2024-04-07,Major,East Juanstad,WA,45448.27,24481.49,Settled,14,No,Phone
+503,POL00503,CUST0503,70,Male,Life,4,Home Damage,2024-10-17,Critical,Port Johnny,CA,162185.79,133120.06,Settled,83,No,Phone
+504,POL00504,CUST0504,74,Female,Home,7,Flood,2023-06-02,Minor,South Zacharyborough,IL,360226.84,118739.28,Pending,0,No,Online
+505,POL00505,CUST0505,66,Male,Commercial,23,Flood,2025-02-03,Moderate,Port Sherryshire,AZ,189563.34,61753.96,Settled,31,Yes,Agent
+506,POL00506,CUST0506,70,Female,Home,15,Theft,2024-12-08,Critical,Lake Benjaminmouth,NY,84788.09,42583.69,Settled,89,No,Phone
+507,POL00507,CUST0507,72,Male,Auto,11,Car Accident,2024-05-05,Moderate,Tracyberg,CA,253095.63,242236.66,Settled,55,No,Agent
+508,POL00508,CUST0508,58,Male,Travel,19,Health Issue,2023-03-22,Major,Angelaville,OH,266166.24,157525.8,Settled,34,No,Online
+509,POL00509,CUST0509,44,Male,Life,21,Life Claim,2023-06-15,Moderate,Ashleyhaven,TX,367347.04,351450.08,Settled,30,No,Phone
+510,POL00510,CUST0510,42,Female,Auto,18,Fire,2024-05-09,Critical,Ericstad,IL,32473.73,20266.02,Settled,55,No,Mobile App
+511,POL00511,CUST0511,74,Male,Home,13,Natural Disaster,2024-11-27,Moderate,North Christineshire,CA,367519.82,197400.15,Settled,36,No,Online
+512,POL00512,CUST0512,34,Female,Health,10,Travel Cancellation,2024-08-28,Critical,South Scottton,AZ,457816.73,196480.86,Settled,8,No,Phone
+513,POL00513,CUST0513,55,Female,Health,19,Travel Cancellation,2023-02-09,Minor,Jessicabury,WA,144434.69,118424.57,Settled,31,No,Agent
+514,POL00514,CUST0514,56,Female,Health,8,Theft,2023-04-13,Moderate,New Paul,OH,437818.72,169953.46,Settled,46,No,Phone
+515,POL00515,CUST0515,74,Male,Home,12,Health Issue,2025-03-22,Minor,Port Peterhaven,CA,337389.27,219728.15,Pending,0,No,Online
+516,POL00516,CUST0516,45,Male,Travel,14,Fire,2025-06-18,Major,New Ashley,IL,365675.98,311114.92,Settled,77,No,Online
+517,POL00517,CUST0517,70,Male,Health,25,Health Issue,2025-06-04,Major,Whitakerview,CA,264988.33,188705.53,Settled,73,No,Phone
+518,POL00518,CUST0518,50,Male,Travel,20,Home Damage,2023-08-27,Minor,Alexanderport,AZ,381252.2,238754.71,Settled,27,No,Online
+519,POL00519,CUST0519,44,Male,Commercial,9,Theft,2023-01-27,Major,Davidburgh,IL,132389.36,106986.73,Settled,37,No,Agent
+520,POL00520,CUST0520,57,Female,Travel,10,Flood,2025-05-21,Critical,East Julia,WA,85067.84,31774.39,Settled,13,No,Mobile App
+521,POL00521,CUST0521,73,Male,Life,2,Travel Cancellation,2024-04-20,Major,East Tyler,OH,119416.34,52207.61,Settled,17,No,Agent
+522,POL00522,CUST0522,51,Female,Travel,25,Theft,2024-11-15,Critical,Watersberg,AZ,276989.15,209576.06,Rejected,0,No,Online
+523,POL00523,CUST0523,55,Female,Auto,4,Third Party Injury,2023-01-11,Major,Vincentfurt,WA,477851.49,449554.67,Settled,26,Yes,Online
+524,POL00524,CUST0524,66,Female,Auto,13,Natural Disaster,2024-08-23,Critical,New Jennifer,AZ,119376.36,73527.54,Settled,60,No,Mobile App
+525,POL00525,CUST0525,72,Male,Life,15,Flood,2025-05-26,Minor,West Mark,NY,390047.06,356513.44,Settled,77,No,Online
+526,POL00526,CUST0526,23,Female,Life,20,Travel Cancellation,2024-02-11,Minor,Rogersside,TX,250127.88,198319.89,Settled,40,No,Agent
+527,POL00527,CUST0527,75,Female,Commercial,5,Life Claim,2023-12-31,Moderate,Lorimouth,TX,61607.61,23803.89,Settled,66,No,Mobile App
+528,POL00528,CUST0528,36,Female,Home,23,Car Accident,2023-07-01,Minor,East Robert,FL,53287.61,24936.26,Settled,71,No,Phone
+529,POL00529,CUST0529,23,Female,Travel,21,Travel Cancellation,2024-06-16,Critical,East Kaitlyn,OH,417583.95,196866.73,Settled,82,No,Mobile App
+530,POL00530,CUST0530,69,Male,Travel,11,Car Accident,2025-04-17,Major,Port Craig,CA,389975.62,345195.11,Under Review,0,No,Mobile App
+531,POL00531,CUST0531,40,Female,Auto,24,Travel Cancellation,2024-04-24,Critical,East Sara,AZ,357829.68,253884.91,Under Review,0,Yes,Phone
+532,POL00532,CUST0532,22,Male,Life,24,Travel Cancellation,2025-06-08,Critical,Penningtonberg,FL,139430.15,81484.17,Settled,70,No,Online
+533,POL00533,CUST0533,36,Male,Auto,1,Life Claim,2024-05-03,Critical,Jacksonport,WA,79959.87,36258.49,Settled,53,No,Mobile App
+534,POL00534,CUST0534,33,Male,Travel,24,Third Party Injury,2023-10-27,Moderate,Katiemouth,IL,392646.21,187706.55,Settled,39,No,Online
+535,POL00535,CUST0535,30,Male,Auto,17,Life Claim,2024-10-18,Minor,Smithfurt,FL,471828.86,298696.24,Settled,80,No,Online
+536,POL00536,CUST0536,36,Male,Commercial,4,Theft,2023-01-21,Moderate,New Joe,FL,129613.56,114144.59,Settled,69,No,Phone
+537,POL00537,CUST0537,31,Female,Life,17,Life Claim,2025-04-25,Minor,Lake Michaelshire,CA,338415.66,116778.6,Pending,0,No,Agent
+538,POL00538,CUST0538,45,Female,Travel,17,Theft,2024-05-09,Critical,South Cody,TX,128074.39,107876.94,Settled,72,No,Online
+539,POL00539,CUST0539,28,Female,Commercial,17,Natural Disaster,2025-03-10,Moderate,Foxberg,WA,134299.42,40702.44,Settled,52,No,Mobile App
+540,POL00540,CUST0540,32,Female,Travel,10,Natural Disaster,2023-06-11,Minor,Hillville,NY,211519.28,103559.97,Settled,50,No,Phone
+541,POL00541,CUST0541,66,Female,Commercial,23,Home Damage,2023-08-16,Moderate,Port Derrick,FL,163281.06,74890.03,Rejected,0,No,Mobile App
+542,POL00542,CUST0542,49,Male,Health,25,Flood,2025-05-02,Major,South Johnfurt,CA,392085.16,348689.39,Rejected,0,No,Mobile App
+543,POL00543,CUST0543,30,Male,Auto,4,Theft,2025-02-26,Critical,Lake Jenniferberg,TX,81573.73,52139.09,Disputed,0,No,Agent
+544,POL00544,CUST0544,27,Female,Commercial,21,Flood,2024-02-08,Moderate,West Jessicaport,AZ,417542.5,211744.02,Rejected,0,No,Mobile App
+545,POL00545,CUST0545,41,Male,Commercial,4,Home Damage,2025-01-03,Minor,North Cheryl,OH,415615.68,306269.48,Settled,56,No,Phone
+546,POL00546,CUST0546,23,Male,Commercial,25,Third Party Injury,2024-04-20,Major,Russellchester,OH,360550.24,319487.04,Settled,22,No,Phone
+547,POL00547,CUST0547,60,Female,Auto,18,Flood,2023-03-04,Moderate,New Tiffanyville,TX,160879.52,114996.8,Under Review,0,No,Mobile App
+548,POL00548,CUST0548,24,Male,Home,22,Natural Disaster,2024-09-06,Critical,New James,TX,63047.44,33463.15,Settled,17,No,Online
+549,POL00549,CUST0549,44,Male,Life,25,Flood,2025-03-12,Moderate,Campbellton,AZ,461793.09,228317.77,Rejected,0,No,Online
+550,POL00550,CUST0550,28,Male,Travel,2,Fire,2024-12-15,Moderate,South Makaylaton,AZ,405333.12,186985.11,Settled,24,No,Agent
+551,POL00551,CUST0551,34,Male,Travel,13,Home Damage,2023-05-15,Major,Annaland,CA,124832.19,80428.29,Settled,38,Yes,Online
+552,POL00552,CUST0552,52,Male,Health,5,Flood,2024-10-25,Minor,East Leroychester,FL,316868.43,274168.13,Settled,67,No,Online
+553,POL00553,CUST0553,73,Female,Health,16,Flood,2023-01-28,Major,Tonyland,TX,338950.77,187713.11,Settled,63,No,Agent
+554,POL00554,CUST0554,47,Male,Life,3,Natural Disaster,2023-04-14,Moderate,Markside,CA,420729.59,223061.71,Settled,65,No,Online
+555,POL00555,CUST0555,46,Male,Travel,22,Life Claim,2025-01-21,Major,Hawkinsville,AZ,186725.08,135594.93,Settled,86,No,Mobile App
+556,POL00556,CUST0556,75,Female,Travel,6,Health Issue,2023-07-28,Critical,East Sierra,OH,15140.9,8087.78,Settled,75,No,Agent
+557,POL00557,CUST0557,37,Female,Health,4,Third Party Injury,2023-09-19,Minor,Wilsonfurt,TX,33399.36,22177.44,Settled,6,No,Online
+558,POL00558,CUST0558,75,Female,Auto,22,Car Accident,2024-01-28,Major,Port Billyville,NY,237139.57,171723.93,Settled,17,No,Agent
+559,POL00559,CUST0559,48,Female,Auto,22,Life Claim,2025-04-07,Minor,West Jasontown,FL,41489.9,18681.37,Settled,45,No,Phone
+560,POL00560,CUST0560,60,Female,Health,17,Life Claim,2025-05-13,Minor,Kanetown,NY,133931.45,132080.64,Settled,43,No,Online
+561,POL00561,CUST0561,29,Female,Commercial,1,Home Damage,2024-04-23,Critical,Carlsonview,FL,125060.22,92877.01,Settled,75,No,Phone
+562,POL00562,CUST0562,55,Female,Home,11,Natural Disaster,2024-01-14,Major,West Kimberly,TX,84978.9,61640.23,Settled,60,No,Phone
+563,POL00563,CUST0563,58,Female,Travel,16,Flood,2025-03-27,Minor,Howardmouth,IL,44640.65,23140.5,Pending,0,Yes,Mobile App
+564,POL00564,CUST0564,73,Female,Health,21,Travel Cancellation,2025-05-13,Critical,Kennedyshire,IL,126410.69,83875.43,Settled,80,No,Agent
+565,POL00565,CUST0565,49,Female,Health,22,Life Claim,2025-04-22,Minor,Melissastad,AZ,84698.56,65087.15,Settled,32,No,Mobile App
+566,POL00566,CUST0566,35,Female,Travel,7,Home Damage,2025-05-29,Major,Velezside,OH,139865.68,108569.21,Settled,11,No,Online
+567,POL00567,CUST0567,55,Female,Home,13,Car Accident,2024-10-01,Major,Port Ashleyborough,AZ,427407.22,380682.34,Settled,79,No,Agent
+568,POL00568,CUST0568,69,Female,Travel,11,Home Damage,2023-02-11,Minor,Elizabethfort,FL,261421.58,164657.92,Rejected,0,No,Mobile App
+569,POL00569,CUST0569,24,Female,Home,21,Travel Cancellation,2023-01-05,Minor,Lake Josephside,FL,431035.02,366985.53,Settled,72,No,Phone
+570,POL00570,CUST0570,57,Female,Travel,16,Theft,2023-07-11,Major,West Michelle,NY,252080.78,243774.38,Settled,61,No,Mobile App
+571,POL00571,CUST0571,55,Female,Travel,23,Home Damage,2024-12-23,Moderate,South Jamesfort,CA,48062.14,37966.57,Settled,37,No,Online
+572,POL00572,CUST0572,43,Female,Commercial,23,Car Accident,2024-10-26,Critical,Port Amyton,OH,428935.86,213906.66,Under Review,0,No,Phone
+573,POL00573,CUST0573,72,Male,Travel,18,Theft,2024-11-08,Moderate,Levyberg,AZ,295472.02,128707.89,Settled,44,No,Mobile App
+574,POL00574,CUST0574,60,Male,Home,2,Theft,2023-09-11,Critical,West Alicia,TX,475442.23,298297.49,Disputed,0,No,Mobile App
+575,POL00575,CUST0575,50,Female,Auto,1,Natural Disaster,2023-09-14,Critical,North Margaret,FL,367174.54,298994.1,Settled,49,No,Mobile App
+576,POL00576,CUST0576,73,Male,Travel,11,Travel Cancellation,2025-05-13,Minor,Stephaniefort,NY,93920.81,39522.98,Settled,11,No,Agent
+577,POL00577,CUST0577,56,Female,Home,4,Home Damage,2025-02-12,Minor,North Laura,NY,206872.66,126659.41,Settled,32,No,Online
+578,POL00578,CUST0578,30,Female,Travel,10,Travel Cancellation,2024-02-28,Major,Millerside,CA,398146.99,213061.97,Disputed,0,No,Agent
+579,POL00579,CUST0579,54,Female,Health,17,Travel Cancellation,2024-08-09,Critical,Dunnchester,AZ,427639.86,218638.19,Settled,19,No,Agent
+580,POL00580,CUST0580,44,Male,Auto,13,Fire,2023-06-01,Major,Lisafort,IL,288055.38,194899.4,Settled,54,No,Mobile App
+581,POL00581,CUST0581,40,Female,Travel,9,Life Claim,2023-05-07,Minor,Port Meganbury,TX,351813.28,137511.35,Disputed,0,No,Mobile App
+582,POL00582,CUST0582,27,Female,Travel,5,Third Party Injury,2024-05-22,Minor,New Elijah,OH,129560.45,96825.1,Settled,51,No,Agent
+583,POL00583,CUST0583,23,Female,Auto,11,Home Damage,2025-03-14,Minor,Geraldmouth,TX,468610.05,332987.27,Settled,38,No,Online
+584,POL00584,CUST0584,52,Female,Life,21,Fire,2023-07-16,Critical,East Bethburgh,AZ,437466.58,250770.03,Settled,57,No,Online
+585,POL00585,CUST0585,31,Female,Auto,7,Health Issue,2023-05-14,Moderate,Collinsmouth,FL,369100.42,366688.86,Settled,47,No,Mobile App
+586,POL00586,CUST0586,46,Male,Auto,14,Life Claim,2023-08-04,Major,Justinchester,OH,57091.56,35857.04,Under Review,0,No,Phone
+587,POL00587,CUST0587,75,Male,Life,13,Car Accident,2023-04-07,Moderate,Stevenberg,TX,466690.46,372937.31,Under Review,0,No,Phone
+588,POL00588,CUST0588,71,Female,Travel,19,Health Issue,2024-05-07,Minor,South Brianna,IL,392546.93,253557.24,Pending,0,No,Agent
+589,POL00589,CUST0589,57,Male,Commercial,3,Theft,2023-07-04,Major,Danielsstad,IL,201756.7,82671.58,Settled,33,No,Mobile App
+590,POL00590,CUST0590,24,Male,Health,5,Travel Cancellation,2024-09-22,Major,South Colton,TX,326946.31,303747.96,Settled,34,No,Online
+591,POL00591,CUST0591,57,Male,Home,10,Life Claim,2025-06-08,Major,West Deborah,IL,229319.14,108190.09,Settled,61,No,Phone
+592,POL00592,CUST0592,53,Female,Commercial,11,Third Party Injury,2024-06-10,Minor,New Rachel,FL,198280.88,112844.17,Rejected,0,Yes,Phone
+593,POL00593,CUST0593,60,Male,Auto,13,Flood,2023-07-20,Critical,Angelaland,FL,433532.78,232519.98,Pending,0,No,Online
+594,POL00594,CUST0594,54,Male,Travel,21,Third Party Injury,2023-11-23,Minor,West Denise,CA,389835.5,389244.86,Settled,59,No,Agent
+595,POL00595,CUST0595,29,Male,Auto,14,Fire,2023-07-11,Major,Keithbury,FL,206120.48,92327.24,Settled,62,No,Online
+596,POL00596,CUST0596,53,Male,Travel,23,Flood,2023-07-12,Critical,North Vanessa,AZ,171536.22,64973.75,Settled,18,No,Mobile App
+597,POL00597,CUST0597,57,Female,Commercial,12,Fire,2023-12-21,Major,Cookstad,IL,274800.51,254999.15,Disputed,0,No,Mobile App
+598,POL00598,CUST0598,58,Male,Health,17,Home Damage,2024-01-31,Minor,Millershire,CA,183572.63,80383.67,Settled,52,No,Agent
+599,POL00599,CUST0599,56,Female,Life,6,Third Party Injury,2024-03-16,Minor,North Paul,NY,248131.63,169999.0,Settled,53,No,Phone
+600,POL00600,CUST0600,64,Female,Home,10,Life Claim,2025-04-30,Major,North Angelicabury,TX,469647.96,294476.3,Settled,4,No,Agent
