@@ -1,0 +1,21 @@
+constituency_id,constituency_name,state,total_voters,valid_votes,party,candidate,votes,vote_share_pct,position,election_year,category,winner_margin,result_type
+1,Karaview Constituency,Maharashtra,1087191,789108,AAP,Joel Berger,450266,57.06,4,2019,ST,0,Lost
+2,North Brandon Constituency,West Bengal,677075,414199,Others,Johnny Smith,244967,59.14,5,2024,SC,0,Lost
+3,Tylermouth Constituency,Karnataka,1313609,763463,AAP,Ryan Hill,74936,9.82,4,2014,ST,0,Lost
+4,Michellefurt Constituency,Bihar,2319423,1853953,TDP,Tracy Whitaker,917143,49.47,2,2019,ST,0,Lost
+5,South Michaelstad Constituency,Madhya Pradesh,543520,406079,AAP,James Meyer,218469,53.8,4,2024,ST,0,Lost
+6,Garyville Constituency,Delhi,853172,541994,AIADMK,Nicole Cordova,204048,37.65,5,2014,ST,0,Lost
+7,Ashleyland Constituency,Haryana,1122107,674897,SP,Michaela Collins,101115,14.98,3,2019,General,0,Lost
+8,Murraychester Constituency,Maharashtra,1146129,943184,Shiv Sena,Michael Harmon,508762,53.94,2,2014,ST,0,Lost
+9,East Johnview Constituency,West Bengal,1960757,1157112,Shiv Sena,Laura Lucero,139511,12.06,3,2024,General,0,Lost
+10,Lake Lisafort Constituency,Delhi,1336480,800917,Left Parties,Lisa Carter,184322,23.01,5,2014,General,0,Lost
+11,Martinezhaven Constituency,Gujarat,1237363,810154,Shiv Sena,Angela Williamson,54370,6.71,2,2019,SC,0,Lost
+12,Millshaven Constituency,Haryana,1372912,987686,Others,Morgan Yoder,579088,58.63,6,2024,ST,0,Lost
+13,Josemouth Constituency,West Bengal,1307692,830510,YSRCP,Alisha Oneal,141265,17.01,5,2014,ST,0,Lost
+14,North Brian Constituency,Karnataka,1507418,1254201,JDU,Gabriel Torres,585582,46.69,2,2019,ST,0,Lost
+15,East Anitaport Constituency,Delhi,1499832,1117178,AAP,Katherine Mclaughlin,647185,57.93,2,2014,ST,0,Lost
+16,Ronaldburgh Constituency,Haryana,854738,631314,DMK,Kimberly Sampson,259969,41.18,5,2024,SC,0,Lost
+17,Alexberg Constituency,Andhra Pradesh,2278187,1383387,BJP,Martha Lopez,626468,45.29,6,2024,SC,0,Lost
+18,Jesseview Constituency,Uttar Pradesh,1689890,1197090,JDU,Elizabeth Hawkins,378656,31.63,3,2024,ST,0,Lost
+19,Baileymouth Constituency,Maharashtra,2566728,1463358,TDP,Robert Flores,805365,55.04,1,2024,SC,154510,Won
+20,Pearsonmouth Constituency,Uttar Pradesh,925352,517313,TDP,James Carter,226062,43.7,1,2024,SC,345580,Won

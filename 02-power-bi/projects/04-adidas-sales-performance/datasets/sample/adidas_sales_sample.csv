@@ -1,0 +1,21 @@
+sale_id,date,product_sku,product_name,category,gender,region,state,city,retailer,sales_channel,units_sold,unit_price,total_sales,operating_profit,margin_pct
+1,2025-06-15,ADS6362,Training,Training,Unisex,West,Pennsylvania,Ninaside,Dicks Sporting Goods,Online,3,203.62,610.86,229.68,37.6
+2,2024-06-09,ADS9871,X Speedportal,Football,Men,Southeast,Illinois,West Janet,Dicks Sporting Goods,Retail,34,66.09,2247.06,975.22,43.4
+3,2024-06-05,ADS9518,Training,Training,Unisex,Midwest,Georgia,Stewartside,Adidas.com,Online,4,123.2,492.8,256.26,52.0
+4,2024-09-13,ADS4342,NMD,Lifestyle,Women,Southeast,Illinois,Kristinburgh,Adidas.com,Online,18,243.73,4387.14,1544.27,35.2
+5,2024-10-01,ADS7139,Adicross,Golf,Men,West,Georgia,Jonesland,Champs Sports,Outlet,29,222.15,6442.35,3697.91,57.4
+6,2024-08-24,ADS5465,Forum,Lifestyle,Women,Southwest,California,Riddleshire,Nordstrom,Online,23,57.43,1320.89,591.76,44.8
+7,2024-06-10,ADS8166,Stan Smith,Lifestyle,Unisex,Southwest,Illinois,Thomastown,Champs Sports,Outlet,3,226.89,680.67,364.16,53.5
+8,2025-01-15,ADS4378,Stan Smith,Lifestyle,Unisex,Southwest,Illinois,Williamston,Foot Locker,Online,4,141.59,566.36,305.27,53.9
+9,2025-04-17,ADS3515,Stan Smith,Lifestyle,Unisex,West,Ohio,South Jose,Adidas.com,Online,23,187.78,4318.94,2042.86,47.3
+10,2024-11-13,ADS4563,Adizero,Running,Men,West,Florida,New Tyler,Adidas.com,Outlet,23,224.09,5154.07,3303.76,64.1
+11,2025-01-18,ADS2463,Forum,Lifestyle,Women,Southeast,Georgia,Mariaview,Dicks Sporting Goods,Retail,21,132.61,2784.81,1434.18,51.5
+12,2024-10-12,ADS8826,X Speedportal,Football,Men,West,Illinois,Lake Joseport,Macys,Outlet,39,81.77,3189.03,1470.14,46.1
+13,2024-10-26,ADS1366,Training,Training,Unisex,Southwest,Ohio,Port Tiffany,Foot Locker,Outlet,36,35.54,1279.44,681.94,53.3
+14,2025-06-07,ADS7138,Forum,Lifestyle,Men,Midwest,Texas,North Eric,Dicks Sporting Goods,Outlet,5,165.54,827.7,403.09,48.7
+15,2025-02-23,ADS3706,X Speedportal,Football,Men,Midwest,Florida,North Shaun,Foot Locker,Retail,20,99.27,1985.4,1054.25,53.1
+16,2024-06-12,ADS5006,X Speedportal,Football,Men,West,Ohio,Lyonsmouth,Eastbay,Retail,12,168.28,2019.36,1021.8,50.6
+17,2025-02-07,ADS6230,Ultraboost,Running,Women,West,California,Jonathanville,Eastbay,Online,23,130.66,3005.18,1394.4,46.4
+18,2025-05-29,ADS4444,Terrex,Outdoor,Men,Midwest,Florida,Torresshire,Champs Sports,Outlet,47,105.12,4940.64,2638.3,53.4
+19,2024-03-22,ADS7726,Forum,Lifestyle,Women,West,New York,Blackborough,Dicks Sporting Goods,Outlet,7,176.31,1234.17,556.61,45.1
+20,2024-01-09,ADS1880,Ultraboost,Running,Men,Southwest,Georgia,West Joshuastad,Finish Line,Retail,18,213.46,3842.28,2228.52,58.0

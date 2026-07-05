@@ -1,0 +1,21 @@
+order_id,customer_id,order_datetime,zone,category,product_name,sku,order_qty,unit_price,total_amount,delivery_fee,discount,payment_method,estimated_delivery_min,actual_delivery_min,delivery_status,order_source,store_name
+1,CUST0001,2025-01-15 09:55:32,Zone-D,Baby Care,Stay,SKU00001,7,193.3,1353.1,35.15,0.11,Credit Card,10,30,Delivered,App,Blinkit Store #5
+2,CUST0002,2025-02-14 20:09:18,Zone-E,Snacks,Center,SKU00002,3,142.32,426.96,12.73,0.14,Net Banking,11,8,Delivered,Web,Blinkit Store #6
+3,CUST0003,2025-05-15 08:35:11,Zone-D,Baby Care,Close,SKU00003,8,434.69,3477.52,0.67,0.1,COD,20,32,Delayed,App,Blinkit Store #2
+4,CUST0004,2025-02-14 11:19:10,Zone-D,Household,Church,SKU00004,3,129.71,389.13,20.97,0.06,Blinkit Wallet,19,16,Delivered,WhatsApp,Blinkit Store #3
+5,CUST0005,2025-03-14 07:34:32,Zone-B,Household,Involve,SKU00005,12,611.57,7338.84,32.4,0.25,UPI,9,4,Delivered,App,Blinkit Store #6
+6,CUST0006,2025-02-16 11:39:45,Zone-E,Household,Little,SKU00006,2,426.83,853.66,5.88,0.04,Blinkit Wallet,11,19,Delivered,WhatsApp,Blinkit Store #1
+7,CUST0007,2025-03-09 17:47:12,Zone-C,Pet Supplies,According,SKU00007,6,749.28,4495.68,33.2,0.03,COD,9,26,Delivered,WhatsApp,Blinkit Store #1
+8,CUST0008,2025-03-31 16:28:36,Zone-B,Personal Care,Ability,SKU00008,2,786.78,1573.56,29.0,0.02,COD,20,28,Delivered,App,Blinkit Store #1
+9,CUST0009,2025-02-09 17:18:58,Zone-D,Baby Care,Heavy,SKU00009,5,666.86,3334.3,48.04,0.23,UPI,17,33,Delayed,WhatsApp,Blinkit Store #6
+10,CUST0010,2025-03-01 04:45:42,Zone-B,Dairy,Successful,SKU00010,7,316.05,2212.35,1.62,0.24,Net Banking,8,22,Delivered,App,Blinkit Store #3
+11,CUST0011,2025-05-24 08:43:08,Zone-B,Baby Care,Radio,SKU00011,6,89.11,534.66,0.78,0.12,Debit Card,26,43,Delivered,WhatsApp,Blinkit Store #3
+12,CUST0012,2025-03-17 03:36:03,Zone-E,Beverages,One,SKU00012,15,758.74,11381.1,1.61,0.0,Blinkit Wallet,19,29,Delivered,WhatsApp,Blinkit Store #2
+13,CUST0013,2025-06-25 00:58:01,Zone-A,Personal Care,Cup,SKU00013,5,719.62,3598.1,29.57,0.16,COD,11,8,Delivered,Web,Blinkit Store #5
+14,CUST0014,2025-06-20 04:52:26,Zone-D,Household,High,SKU00014,13,754.24,9805.12,4.32,0.01,Credit Card,20,16,Delivered,Web,Blinkit Store #5
+15,CUST0015,2025-03-22 00:17:00,Zone-D,Pet Supplies,Senior,SKU00015,1,491.37,491.37,21.21,0.01,UPI,21,35,Delayed,Web,Blinkit Store #6
+16,CUST0016,2025-04-05 05:09:49,Zone-E,Personal Care,Our,SKU00016,14,548.53,7679.42,28.23,0.17,COD,18,29,Delivered,WhatsApp,Blinkit Store #5
+17,CUST0017,2025-04-22 17:37:54,Zone-A,Beverages,Several,SKU00017,3,73.81,221.43,38.55,0.06,Debit Card,5,11,Delivered,App,Blinkit Store #6
+18,CUST0018,2025-05-13 16:08:05,Zone-B,Household,Option,SKU00018,2,14.5,29.0,2.44,0.16,Debit Card,26,30,Delivered,Web,Blinkit Store #3
+19,CUST0019,2025-06-23 05:53:46,Zone-C,Personal Care,Thousand,SKU00019,13,350.45,4555.85,4.59,0.21,Debit Card,14,25,Delivered,Web,Blinkit Store #1
+20,CUST0020,2025-05-08 10:09:26,Zone-B,Household,Religious,SKU00020,10,793.1,7931.0,8.16,0.14,Debit Card,20,23,Delivered,App,Blinkit Store #4

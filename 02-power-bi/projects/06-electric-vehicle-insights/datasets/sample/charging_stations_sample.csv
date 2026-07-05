@@ -1,0 +1,21 @@
+station_id,station_name,city,state,zip,ev_level,num_ports,status,opening_date,cost_per_kwh
+1,Gonzalez-Larson Charging,Lake Veronica,NV,61949,Level 1,15,Active,2022-11-29,0.1
+2,Tanner Inc Charging,Clarkeshire,NJ,97905,Level 1,14,Active,2021-08-21,0.3
+3,"Turner, Manning and Walter Charging",North Teresa,CO,90730,Tesla Supercharger,20,Active,2022-09-06,0.47
+4,Strong Ltd Charging,Aliciastad,CA,98013,Level 1,5,Active,2023-09-01,0.56
+5,Riley-Walker Charging,Port Karen,CO,36712,Tesla Supercharger,8,Under Maintenance,2020-12-20,0.32
+6,Silva-Walters Charging,West Nathan,NY,99145,DC Fast Charger,3,Active,2025-01-28,0.23
+7,"Garcia, Marquez and Valenzuela Charging",Lake Grace,NV,85405,Level 2,8,Active,2024-07-31,0.29
+8,Henson LLC Charging,Samanthaside,IL,41988,Level 1,7,Coming Soon,2024-07-29,0.57
+9,Rocha-Davidson Charging,Campbellshire,GA,53950,DC Fast Charger,5,Under Maintenance,2020-03-15,0.4
+10,Hill-Ellis Charging,Perezmouth,OR,97451,Tesla Supercharger,15,Active,2020-04-28,0.48
+11,Hernandez-Mcdaniel Charging,New Bonniechester,IL,90949,Level 2,13,Coming Soon,2023-10-26,0.32
+12,"Baldwin, Compton and Young Charging",Veronicabury,VA,65538,Tesla Supercharger,7,Active,2020-02-12,0.37
+13,Simpson LLC Charging,Johnsonstad,WA,63295,Level 2,6,Coming Soon,2024-07-26,0.22
+14,Martin LLC Charging,West Carlos,FL,33971,Tesla Supercharger,4,Active,2023-11-12,0.54
+15,"Rodriguez, Mack and Mckee Charging",West Elizabeth,FL,73535,Level 1,18,Active,2020-10-15,0.37
+16,"Smith, Faulkner and Ellis Charging",South Timothy,FL,69782,DC Fast Charger,3,Active,2020-07-14,0.59
+17,"Wilson, Torres and Simmons Charging",Martinezburgh,GA,75311,DC Fast Charger,1,Coming Soon,2022-12-20,0.18
+18,"Williams, Wilkins and Howe Charging",Moorehaven,NV,59332,DC Fast Charger,18,Under Maintenance,2022-06-28,0.36
+19,"Fisher, Campbell and Porter Charging",Gonzalezburgh,MD,77078,Level 2,5,Active,2021-06-03,0.24
+20,Stewart-Booker Charging,Mooreshire,MA,86971,DC Fast Charger,5,Active,2022-08-13,0.42

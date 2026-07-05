@@ -1,0 +1,21 @@
+return_id,order_id,return_date,reason,refund_amount,condition
+1,723,2024-08-24,Quality Issue,632.77,Open Box
+2,814,2024-12-13,Not Needed,1002.72,Open Box
+3,247,2024-04-02,Quality Issue,231.59,Open Box
+4,38,2024-02-27,Defective,97.53,New
+5,152,2024-01-30,Defective,1497.36,Open Box
+6,153,2024-11-18,Defective,430.89,Used
+7,705,2024-04-08,Not Needed,873.11,Damaged
+8,446,2024-11-27,Quality Issue,192.7,Used
+9,960,2025-01-20,Wrong Item,1344.43,New
+10,373,2024-03-22,Wrong Item,592.28,Used
+11,68,2025-06-26,Defective,56.76,Used
+12,399,2024-09-13,Wrong Item,1220.65,Damaged
+13,675,2024-12-30,Quality Issue,1177.75,Used
+14,461,2025-05-03,Wrong Item,1225.51,Damaged
+15,675,2025-01-29,Not Needed,1437.52,Open Box
+16,8,2025-03-07,Wrong Item,1431.89,Damaged
+17,96,2024-07-30,Quality Issue,1314.53,Used
+18,152,2025-03-10,Defective,1327.49,Open Box
+19,526,2024-12-24,Damaged,748.08,Used
+20,930,2024-07-18,Wrong Item,1083.97,Damaged

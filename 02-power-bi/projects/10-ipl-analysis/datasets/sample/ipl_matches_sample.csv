@@ -1,0 +1,21 @@
+match_id,season,date,venue,city,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,player_of_match,first_innings_score,first_innings_wickets,second_innings_score,second_innings_wickets,result_type,highlights
+1,2015,2015-04-13,Narendra Modi Stadium,BRSABV,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Chennai Super Kings,148,0,Pat Cummins,160,5,181,2,Normal,Last Over Thriller
+2,2022,2022-05-18,PCA Stadium,HPCA,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Field,Rajasthan Royals,0,0,KL Rahul,175,10,204,8,Tie,Close Match
+3,2021,2021-04-29,PCA Stadium,M.,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Bat,Sunrisers Hyderabad,118,0,Bumrah,203,3,222,6,Normal,One-sided
+4,2023,2023-03-17,PCA Stadium,DY,Mumbai Indians,Punjab Kings,Mumbai Indians,Field,Mumbai Indians,0,0,Rohit Sharma,140,6,109,8,Tie,Close Match
+5,2014,2014-05-02,M. Chinnaswamy Stadium,HPCA,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Mumbai Indians,0,0,Andre Russell,150,8,135,10,Tie,Close Match
+6,2023,2023-03-25,M.A. Chidambaram Stadium,Narendra,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Field,Kolkata Knight Riders,32,0,Shubman Gill,176,5,181,2,Normal,Close Match
+7,2025,2025-03-29,Arun Jaitley Stadium,M.A.,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Bat,Punjab Kings,0,0,Rinku Singh,205,5,186,8,Tie,Dominant Win
+8,2019,2019-05-24,Arun Jaitley Stadium,M.,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Bat,Lucknow Super Giants,0,0,Jadeja,159,4,155,2,Tie,Last Over Thriller
+9,2025,2025-04-26,HPCA Stadium,Wankhede,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Field,Punjab Kings,0,0,Chahal,127,9,97,6,Tie,Close Match
+10,2021,2021-05-25,Sawai Mansingh Stadium,M.,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Rajasthan Royals,0,0,Rashid Khan,162,7,130,9,Tie,Last Over Thriller
+11,2017,2017-04-15,Eden Gardens,Wankhede,Punjab Kings,Mumbai Indians,Punjab Kings,Field,Punjab Kings,0,0,KL Rahul,254,8,227,3,Tie,One-sided
+12,2021,2021-05-13,BRSABV Ekana Stadium,Arun,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Bat,Delhi Capitals,0,0,Jasprit Bumrah,241,4,281,10,Tie,Dominant Win
+13,2024,2024-03-29,BRSABV Ekana Stadium,Arun,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Field,Kolkata Knight Riders,82,0,Boult,250,7,278,3,Normal,Last Over Thriller
+14,2020,2020-05-28,Narendra Modi Stadium,BRSABV,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Bat,Chennai Super Kings,0,0,MS Dhoni,167,7,175,9,Normal,Last Over Thriller
+15,2014,2014-05-15,HPCA Stadium,PCA,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Delhi Capitals,112,0,Rinku Singh,241,10,233,9,Normal,Thrilling Finish
+16,2018,2018-05-19,Narendra Modi Stadium,Eden,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Field,Royal Challengers Bangalore,149,0,Jadeja,157,3,160,10,Normal,Thrilling Finish
+17,2018,2018-03-22,Rajiv Gandhi Stadium,Wankhede,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Bat,Chennai Super Kings,0,4,Pat Cummins,151,9,166,3,Normal,One-sided
+18,2019,2019-05-15,M. Chinnaswamy Stadium,BRSABV,Mumbai Indians,Delhi Capitals,Mumbai Indians,Bat,Mumbai Indians,60,0,R Ashwin,184,9,178,6,Normal,One-sided
+19,2021,2021-05-07,Sawai Mansingh Stadium,M.,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Field,Mumbai Indians,26,0,Boult,244,8,233,4,Normal,Dominant Win
+20,2019,2019-05-28,Sawai Mansingh Stadium,Rajiv,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Rajasthan Royals,96,0,Pat Cummins,178,4,209,9,Normal,One-sided

@@ -1,0 +1,21 @@
+call_id,agent_id,agent_name,department,call_datetime,duration_sec,call_type,customer_rating,issue_category,resolution_status,hold_time_sec,caller_phone,caller_city
+1,AGT002,Amber Jackson,General Inquiry,2025-05-14 12:15:03,2229,Outbound,4.0,Technical Fault,Escalated,45,357.377.5823,Darlenetown
+2,AGT003,Brian Brown,Sales,2025-06-07 17:56:38,2246,Outbound,1.7,Technical Fault,Resolved,862,709.298.9032x08700,New Christianstad
+3,AGT004,Robert Jones,Technical Support,2025-02-09 17:10:36,3289,Inbound,2.6,Product Info,Resolved,90,930.791.8816x08973,New Michelle
+4,AGT005,Amanda Jones,General Inquiry,2025-06-18 21:34:58,1167,Outbound,1.0,Order Status,Follow-up Required,365,820.655.8639x63234,Lake Tinaton
+5,AGT006,Peter Obrien,General Inquiry,2025-06-03 12:30:41,2880,Inbound,1.7,Order Status,Resolved,642,+1-806-586-2975x787,Braybury
+6,AGT007,Jose Beard,Sales,2025-01-15 21:35:15,818,Inbound,1.7,Network Problem,Escalated,755,582-908-8260,Andrewstad
+7,AGT008,Daniel Palmer,Technical Support,2025-05-25 02:55:17,832,Outbound,4.3,Network Problem,Escalated,302,+1-568-384-2725x0416,Stewartfort
+8,AGT009,Brittney Knight,Billing,2025-02-14 21:19:30,2740,Inbound,2.8,Account Access,Escalated,32,001-248-458-1044,North Donna
+9,AGT010,Jay Howard,Technical Support,2025-04-26 21:42:04,1531,Outbound,3.5,Technical Fault,Follow-up Required,854,655.897.4888x8797,Kingstad
+10,AGT011,Luis Morrow,Technical Support,2025-01-14 03:06:45,2847,Inbound,1.3,Network Problem,Dropped,387,+1-875-678-0709,Sheaberg
+11,AGT012,Timothy Allen,Technical Support,2025-04-09 16:48:03,1564,Inbound,1.1,Network Problem,Dropped,111,+1-927-526-5154,Lake Kathytown
+12,AGT013,Andre Richards,Technical Support,2025-06-28 16:29:20,897,Inbound,1.3,Complaint,Resolved,445,327.789.4435,West Matthew
+13,AGT014,Luke Gibson,Technical Support,2025-03-10 19:34:52,1120,Inbound,3.9,Order Status,Follow-up Required,463,328.620.9531,East Jasonville
+14,AGT015,Kathryn Nelson,General Inquiry,2025-02-21 11:08:38,2212,Inbound,3.6,Network Problem,Dropped,435,225.560.1091x542,West Michael
+15,AGT016,Stephen Rodgers,General Inquiry,2025-03-14 10:14:23,3457,Inbound,4.2,Product Info,Follow-up Required,266,273.519.1013,East Heathershire
+16,AGT017,Ms. Veronica Munoz,Billing,2025-03-24 06:47:29,833,Inbound,2.6,Complaint,Dropped,93,555-442-9888x89547,South Ashley
+17,AGT018,Stephanie Smith,Technical Support,2025-06-22 08:40:00,250,Outbound,1.9,Order Status,Resolved,573,718-765-6430x60844,North Ronald
+18,AGT019,Jennifer Baker,Account Management,2025-02-28 15:13:14,2690,Inbound,3.3,Order Status,Escalated,54,(671)875-3326x334,Allenberg
+19,AGT020,Carol Jones,General Inquiry,2025-01-20 19:53:25,979,Inbound,4.2,Network Problem,Resolved,520,001-328-795-7304x3186,South Jeffrey
+20,AGT021,Latasha Wells,Technical Support,2025-04-18 09:22:05,2237,Outbound,3.2,Product Info,Resolved,265,690-693-5633x9831,Johnsonberg

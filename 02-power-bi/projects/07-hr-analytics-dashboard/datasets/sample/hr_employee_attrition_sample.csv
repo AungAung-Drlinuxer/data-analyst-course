@@ -1,0 +1,21 @@
+employee_id,age,gender,marital_status,department,job_role,education,education_field,distance_from_km,business_travel,environment_satisfaction,job_satisfaction,work_life_balance,job_involvement,performance_rating,overtime,num_companies_worked,years_at_company,years_in_current_role,years_since_last_promotion,total_working_years,monthly_income,salary_slab,attrition,attrition_label,over_time_bin
+1,49,Male,Divorced,Human Resources,Senior Analyst,Masters,Marketing,65,Travel Frequently,1,3,4,3,1,Yes,4,22,1,5,24,117568.88,Medium,No,Staying,No
+2,58,Female,Divorced,Operations,Executive,Bachelors,Life Sciences,30,Travel Frequently,1,2,3,4,2,No,2,17,5,4,36,93656.5,Low,Yes,Leaving,Yes
+3,53,Other,Single,Technology,VP,Associate,Marketing,53,Non-Travel,1,2,2,1,4,No,8,8,6,2,6,42932.67,Medium,No,Staying,No
+4,53,Other,Single,Marketing,Lead,Bachelors,Business Management,77,Non-Travel,4,3,1,1,1,Yes,6,18,8,4,33,68766.38,High,No,Staying,No
+5,25,Female,Divorced,Finance,Executive,High School,Medical,43,Non-Travel,2,1,3,4,1,Yes,5,12,12,1,27,83376.72,High,No,Staying,No
+6,51,Other,Married,Technology,Analyst,High School,Marketing,56,Travel Rarely,1,1,2,4,1,Yes,5,23,7,7,3,81416.46,Medium,No,Staying,Yes
+7,44,Other,Married,Legal,Director,PhD,Human Resources,39,Travel Frequently,1,4,4,4,1,Yes,7,27,15,3,0,143688.54,Medium,Yes,Leaving,Yes
+8,42,Other,Married,Marketing,Junior Associate,High School,Human Resources,3,Travel Rarely,2,2,3,1,2,No,5,12,7,7,3,129510.29,Medium,No,Staying,Yes
+9,25,Other,Divorced,Operations,VP,PhD,Life Sciences,50,Travel Frequently,4,3,4,4,1,No,5,17,10,2,8,102632.61,Very High,No,Staying,No
+10,33,Male,Divorced,Finance,Senior Analyst,High School,Marketing,53,Travel Frequently,1,1,1,4,2,Yes,8,7,2,4,32,120512.13,High,No,Staying,Yes
+11,40,Other,Married,Marketing,Lead,Masters,Life Sciences,8,Travel Rarely,1,3,2,2,2,No,8,14,4,5,20,98438.7,Medium,No,Staying,Yes
+12,57,Other,Single,Human Resources,Lead,PhD,Medical,53,Travel Frequently,3,3,1,3,2,No,4,23,8,1,1,126115.33,High,No,Staying,No
+13,42,Other,Single,Marketing,Director,High School,Other,24,Non-Travel,4,4,3,1,2,No,4,3,3,2,27,90940.35,Medium,No,Staying,No
+14,53,Other,Divorced,Legal,Specialist,Bachelors,Technical Degree,29,Travel Rarely,3,1,3,3,3,No,0,16,10,8,11,64623.26,Very High,No,Staying,No
+15,45,Other,Single,R&D,Manager,Bachelors,Marketing,42,Travel Frequently,2,2,1,4,4,Yes,6,20,12,8,23,45774.61,Medium,No,Staying,Yes
+16,24,Female,Married,Sales,Lead,PhD,Medical,65,Travel Frequently,2,2,4,2,4,No,8,26,15,6,23,120592.99,Very High,No,Staying,No
+17,28,Male,Divorced,Sales,Associate,PhD,Business Management,28,Travel Frequently,2,2,2,2,1,No,2,16,0,3,23,127378.12,Very High,No,Staying,No
+18,41,Male,Divorced,Legal,Associate,Bachelors,Other,25,Non-Travel,3,1,4,3,4,No,3,20,3,7,30,100232.57,Low,Yes,Leaving,No
+19,34,Female,Married,Legal,Director,PhD,Business Management,29,Non-Travel,2,4,3,2,4,No,8,17,11,7,14,89191.36,Low,Yes,Leaving,Yes
+20,29,Other,Divorced,R&D,Manager,Associate,Medical,61,Non-Travel,3,4,3,4,1,Yes,3,20,9,7,2,125144.99,Very High,No,Staying,Yes

@@ -1,0 +1,21 @@
+patient_id,visit_id,arrival_datetime,departure_datetime,age,gender,severity,chief_complaint,department_referred,wait_time_min,treatment_time_min,total_time_min,bed_assigned,nurse_id,doctor_id,heart_rate,blood_pressure,temperature,visit_type,follow_up_required
+PAT0001,VIS00001,2025-01-14 04:50:30,,55,Other,Critical,Headache,Ophthalmology,14,185,199,Yes,NR02,DR02,102,126/75,36.4,Emergency,Yes
+PAT0002,VIS00002,2025-02-27 08:25:55,,1,Female,Non-Urgent,Headache,Dermatology,107,231,338,No,NR03,DR03,80,147/95,37.5,Emergency,No
+PAT0003,VIS00003,2025-02-11 19:57:23,,65,Other,Semi-Urgent,Chest Pain,Orthopedics,2,174,176,No,NR04,DR04,93,160/65,38.5,Emergency,No
+PAT0004,VIS00004,2025-03-10 18:41:32,,68,Male,Semi-Urgent,Injury,Orthopedics,88,32,120,No,NR05,DR05,120,120/61,38.3,New Visit,No
+PAT0005,VIS00005,2025-01-10 23:16:10,,46,Female,Urgent,Allergic Reaction,Ophthalmology,20,85,105,No,NR06,DR06,92,105/77,36.8,New Visit,Yes
+PAT0006,VIS00006,2025-04-13 07:31:42,,65,Other,Emergency,Chest Pain,Orthopedics,18,230,248,No,NR07,DR07,69,125/70,37.9,Referral,No
+PAT0007,VIS00007,2025-02-07 21:58:37,,79,Female,Urgent,Fracture,ENT,11,229,240,No,NR08,DR08,108,111/89,36.9,Follow-up,Yes
+PAT0008,VIS00008,2025-06-10 06:16:55,,74,Other,Critical,Abdominal Pain,General Medicine,2,25,27,No,NR09,DR01,100,151/71,36.2,Follow-up,Yes
+PAT0009,VIS00009,2025-02-15 19:08:51,,71,Other,Semi-Urgent,Fever,Cardiology,48,36,84,Yes,NR10,DR02,94,113/81,37.6,Emergency,No
+PAT0010,VIS00010,2025-01-15 05:55:09,,59,Female,Semi-Urgent,Allergic Reaction,Dermatology,72,78,150,No,NR01,DR03,96,138/91,38.2,Emergency,No
+PAT0011,VIS00011,2025-02-26 02:42:25,,59,Female,Semi-Urgent,Injury,Orthopedics,35,107,142,Yes,NR02,DR04,74,106/69,36.1,New Visit,Yes
+PAT0012,VIS00012,2025-02-19 22:29:02,,88,Other,Emergency,Fracture,Dermatology,14,175,189,No,NR03,DR05,88,158/70,38.1,Follow-up,Yes
+PAT0013,VIS00013,2025-04-11 08:49:18,,22,Other,Urgent,Fracture,General Medicine,30,60,90,No,NR04,DR06,92,108/80,36.5,Referral,No
+PAT0014,VIS00014,2025-01-14 01:55:47,,14,Other,Urgent,Injury,Ophthalmology,23,138,161,No,NR05,DR07,75,150/82,38.0,Emergency,Yes
+PAT0015,VIS00015,2025-06-26 02:41:31,,6,Other,Non-Urgent,Fracture,ENT,101,90,191,No,NR06,DR08,91,141/94,38.1,Referral,Yes
+PAT0016,VIS00016,2025-03-04 08:34:27,,27,Male,Non-Urgent,Fever,Cardiology,73,182,255,No,NR07,DR01,96,128/62,39.5,New Visit,No
+PAT0017,VIS00017,2025-04-08 14:45:35,,45,Female,Semi-Urgent,Shortness of Breath,Cardiology,25,228,253,No,NR08,DR02,94,101/66,37.3,Emergency,No
+PAT0018,VIS00018,2025-04-01 03:40:23,,83,Male,Urgent,Injury,Neurology,0,237,237,No,NR09,DR03,101,158/66,37.5,Follow-up,No
+PAT0019,VIS00019,2025-06-01 08:00:45,,77,Female,Semi-Urgent,Allergic Reaction,Pediatrics,72,178,250,Yes,NR10,DR04,61,134/72,38.4,Emergency,No
+PAT0020,VIS00020,2025-03-30 10:29:24,,63,Other,Semi-Urgent,Allergic Reaction,Orthopedics,80,240,320,No,NR01,DR05,103,149/96,37.2,Emergency,No

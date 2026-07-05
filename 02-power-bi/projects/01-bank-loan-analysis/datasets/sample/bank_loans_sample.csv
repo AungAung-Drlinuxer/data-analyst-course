@@ -1,0 +1,21 @@
+loan_id,customer_id,customer_name,age,income,credit_score,loan_amount,loan_term_months,interest_rate,loan_purpose,loan_type,region,employment_status,debt_to_income_ratio,loan_status,approval_date,funded_date
+1,CUST0001,Michael Freeman,62,54184,325,393786,36,6.07,Home,Business,North,Retired,15.6,Approved,2024-11-17,2025-05-11
+2,CUST0002,Isaac Cox,27,82314,538,269951,60,3.78,Debt Consolidation,Business,West,Self-Employed,18.0,Under Review,2023-01-20,
+3,CUST0003,Rodney Perez,39,26703,463,371026,48,7.07,Education,Personal,North,Retired,16.2,Approved,2024-08-29,2024-11-25
+4,CUST0004,Colleen Schultz,44,183263,570,428167,12,11.16,Business,Personal,Central,Unemployed,31.4,Rejected,2024-05-20,
+5,CUST0005,Lucas Patterson,61,119800,496,374398,12,3.98,Education,Personal,South,Employed,19.1,Under Review,2024-04-21,
+6,CUST0006,Holly Fowler,51,191640,673,90277,36,7.23,Debt Consolidation,Personal,Central,Self-Employed,36.8,Approved,2023-08-25,2024-06-11
+7,CUST0007,Patrick Waters,37,67834,773,203943,36,13.89,Personal,Mortgage,East,Employed,35.6,Approved,2024-09-15,2024-09-17
+8,CUST0008,Charles Ramirez,24,107694,710,145373,12,5.72,Debt Consolidation,Auto,South,Retired,47.7,Under Review,2023-08-19,
+9,CUST0009,Andrew White,63,145285,446,143873,24,6.09,Education,Business,West,Retired,32.5,Under Review,2024-01-10,
+10,CUST0010,Kimberly Villanueva,30,158569,805,52662,12,12.54,Auto,Student,Central,Employed,16.1,Approved,2023-08-07,2024-08-28
+11,CUST0011,Sarah Smith,46,125039,779,282408,36,13.7,Home,Personal,Central,Unemployed,44.4,Rejected,2024-01-26,
+12,CUST0012,Jacob Curtis,43,54242,600,232942,24,8.26,Debt Consolidation,Auto,Central,Self-Employed,48.2,Rejected,2023-11-06,
+13,CUST0013,Tiffany Richardson,28,188918,605,446277,60,9.89,Auto,Business,Central,Employed,16.1,Approved,2023-07-27,2024-05-29
+14,CUST0014,Lisa Smith,53,30105,414,492115,36,12.73,Education,Mortgage,North,Self-Employed,43.3,Rejected,2023-08-12,
+15,CUST0015,Melissa Dean,27,47453,797,432831,12,13.77,Auto,Mortgage,West,Self-Employed,31.3,Approved,2023-04-19,2024-02-15
+16,CUST0016,Michael Wiley,60,135923,516,492018,60,11.43,Debt Consolidation,Auto,West,Unemployed,37.6,Under Review,2023-12-24,
+17,CUST0017,Amy Allison,55,143354,423,134973,24,4.17,Personal,Mortgage,Central,Self-Employed,10.8,Approved,2023-03-27,2023-09-16
+18,CUST0018,Jacqueline Robinson,62,40433,534,40337,12,12.53,Auto,Auto,West,Self-Employed,12.8,Rejected,2024-07-12,
+19,CUST0019,Taylor Frost,58,176050,784,132400,48,11.98,Home,Student,East,Retired,17.6,Approved,2023-07-20,2025-05-28
+20,CUST0020,Michael Reed,48,147427,355,358036,12,4.14,Home,Mortgage,South,Self-Employed,39.1,Rejected,2023-05-10,

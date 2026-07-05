@@ -1,0 +1,21 @@
+session_id,date,customer_id,utm_source,utm_medium,landing_page,product_viewed,added_to_cart,reached_checkout,purchase_completed,revenue,device_type,browser,country,city,new_vs_returning,session_duration_sec,pages_visited,abandonment_reason
+1,2024-10-13,CUST0001,Email,cpc,/,No,No,No,No,0,Mobile,Edge,US,Port Alexis,Returning,22,1,Bounced
+2,2025-06-16,CUST0002,Facebook Ads,cpc,/about,Yes,Yes,Yes,Yes,476.85,Mobile,Edge,CA,Mcdonaldchester,Returning,510,5,
+3,2025-06-09,CUST0003,Instagram,referral,/collections,Yes,Yes,No,No,0,Desktop,Firefox,AU,North John,Returning,139,4,Checkout Abandoned
+4,2025-01-10,CUST0004,Organic Search,email,/sale,Yes,Yes,No,No,0,Tablet,Safari,BR,Lake Ericaborough,New Visitor,31,7,Checkout Abandoned
+5,2024-12-19,CUST0005,Twitter,email,/sale,Yes,Yes,No,No,0,Tablet,Opera,UK,Salazarstad,Returning,76,2,Checkout Abandoned
+6,2025-04-25,CUST0006,Twitter,organic,/collections,Yes,Yes,No,No,0,Desktop,Edge,MX,East Thomas,Returning,86,7,Checkout Abandoned
+7,2024-11-27,CUST0007,Pinterest,cpc,/about,Yes,Yes,No,No,0,Tablet,Firefox,US,Martinezport,New Visitor,144,4,Checkout Abandoned
+8,2024-12-11,CUST0008,Facebook Ads,email,/,Yes,Yes,Yes,No,0,Tablet,Safari,AU,Lake Elizabethbury,New Visitor,180,4,No Reason
+9,2025-01-11,CUST0009,Facebook Ads,referral,/collections,Yes,Yes,Yes,Yes,417.71,Tablet,Edge,IN,Carpenterport,Returning,82,8,
+10,2024-09-05,CUST0010,TikTok,cpc,/collections,Yes,Yes,Yes,No,0,Tablet,Firefox,UK,Tamaraburgh,New Visitor,203,10,Price Comparison
+11,2025-06-12,CUST0011,Email,organic,/about,Yes,Yes,No,No,0,Tablet,Firefox,AU,New Joelstad,Returning,106,10,Checkout Abandoned
+12,2025-04-27,CUST0012,Referral,organic,/collections,No,No,No,No,0,Tablet,Firefox,BR,New Alexandermouth,Returning,19,2,Bounced
+13,2024-08-29,CUST0013,Google Ads,cpc,/sale,Yes,Yes,Yes,Yes,359.36,Desktop,Edge,BR,Longmouth,New Visitor,165,9,
+14,2024-12-04,CUST0014,Twitter,cpc,/products,No,No,No,No,0,Desktop,Chrome,US,North Michael,Returning,12,1,Bounced
+15,2025-01-08,CUST0015,Instagram,cpc,/,Yes,No,No,No,0,Desktop,Safari,IN,New Danfort,Returning,490,15,Cart Not Initiated
+16,2025-03-18,CUST0016,Direct,organic,/,Yes,Yes,Yes,Yes,491.14,Tablet,Edge,JP,Davidfort,New Visitor,381,8,
+17,2024-11-28,CUST0017,Facebook Ads,email,/products,No,No,No,No,0,Tablet,Opera,IN,North Jordan,New Visitor,11,2,Bounced
+18,2024-11-10,CUST0018,Pinterest,cpc,/,Yes,No,No,No,0,Tablet,Edge,BR,Robertsonmouth,Returning,41,7,Cart Not Initiated
+19,2025-04-22,CUST0019,Google Ads,cpc,/,No,No,No,No,0,Tablet,Firefox,CA,East Dylanfort,Returning,29,2,Bounced
+20,2025-04-06,CUST0020,Direct,cpc,/sale,Yes,Yes,No,No,0,Mobile,Firefox,CA,Lisaland,Returning,207,3,Checkout Abandoned

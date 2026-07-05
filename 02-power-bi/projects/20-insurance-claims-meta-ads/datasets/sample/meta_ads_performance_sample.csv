@@ -1,0 +1,21 @@
+ad_id,campaign_name,ad_set_name,ad_date,impressions,clicks,ctr,spend,conversions,conversion_rate,cpa,roas,target_audience,platform,ad_format,objective
+1,Summer Travel Cover,Ad Set 16,2024-08-04,161051,1906,1.18,4401.24,20,1.05,220.06,3.79,Young Families,Facebook,Video,CONVERSIONS
+2,Summer Travel Cover,Ad Set 18,2025-01-15,46606,1781,3.82,8795.18,164,9.21,53.63,7.7,Small Business Owners,Instagram,Single Image,BRAND_AWARENESS
+3,Life Insure Campaign,Ad Set 2,2025-03-27,198759,6221,3.13,4791.97,655,10.53,7.32,1.22,Senior Citizens,Instagram,Stories,TRAFFIC
+4,Summer Travel Cover,Ad Set 12,2024-08-19,10888,82,0.75,4913.76,4,4.88,1228.44,0.78,Frequent Travelers,Instagram,Carousel,REACH
+5,Auto Insurance Drive,Ad Set 6,2025-01-19,183280,1176,0.64,129.06,164,13.95,0.79,6.65,Young Families,Facebook,Collection,CONVERSIONS
+6,Insurance Awareness Q3,Ad Set 19,2025-01-27,42578,1984,4.66,6509.55,289,14.57,22.52,6.38,Frequent Travelers,Instagram,Carousel,CONVERSIONS
+7,Health Enrollment Push,Ad Set 9,2024-12-13,102569,516,0.5,4248.77,29,5.62,146.51,2.52,"Ages 25-40, Homeowners",Instagram,Video,REACH
+8,Auto Insurance Drive,Ad Set 6,2024-11-27,101689,628,0.62,6627.9,85,13.54,77.98,5.95,"Ages 25-40, Homeowners",Instagram,Stories,REACH
+9,Insurance Awareness Q3,Ad Set 11,2024-09-16,126251,803,0.64,5369.18,8,1.0,671.15,4.02,Small Business Owners,Instagram,Carousel,TRAFFIC
+10,Auto Insurance Drive,Ad Set 10,2024-10-10,90481,2822,3.12,8320.32,141,5.0,59.01,0.78,Young Families,Audience Network,Stories,REACH
+11,Insurance Awareness Q3,Ad Set 2,2024-06-27,25213,312,1.24,3332.05,30,9.62,111.07,7.83,Small Business Owners,Instagram,Collection,CONVERSIONS
+12,Home Defense Series,Ad Set 17,2024-11-14,34527,499,1.45,5913.27,24,4.81,246.39,6.4,"Ages 25-40, Homeowners",Instagram,Single Image,BRAND_AWARENESS
+13,Home Defense Series,Ad Set 12,2025-05-19,103676,3416,3.29,6508.62,233,6.82,27.93,7.09,Small Business Owners,Instagram,Carousel,REACH
+14,Home Defense Series,Ad Set 11,2025-02-20,71412,1323,1.85,1411.05,121,9.15,11.66,2.44,Small Business Owners,Audience Network,Stories,TRAFFIC
+15,Home Defense Series,Ad Set 10,2025-01-02,98634,2778,2.82,6509.9,29,1.04,224.48,5.22,Young Families,Facebook,Single Image,CONVERSIONS
+16,Health Enrollment Push,Ad Set 10,2024-12-29,53694,2486,4.63,6088.74,311,12.51,19.58,2.41,Frequent Travelers,Facebook,Collection,TRAFFIC
+17,Auto Insurance Drive,Ad Set 13,2025-06-24,10353,227,2.19,4255.78,21,9.25,202.66,4.22,Frequent Travelers,Facebook,Video,CONVERSIONS
+18,Auto Insurance Drive,Ad Set 7,2024-11-26,21328,751,3.52,6073.28,27,3.6,224.94,1.92,"Ages 25-40, Homeowners",Audience Network,Stories,CONVERSIONS
+19,Life Insure Campaign,Ad Set 16,2025-05-26,49026,2222,4.53,9906.93,178,8.01,55.66,3.77,"Ages 35-60, Car Owners",Audience Network,Collection,CONVERSIONS
+20,Insurance Awareness Q3,Ad Set 13,2025-02-25,38981,345,0.89,5781.14,16,4.64,361.32,3.21,Frequent Travelers,Facebook,Stories,BRAND_AWARENESS

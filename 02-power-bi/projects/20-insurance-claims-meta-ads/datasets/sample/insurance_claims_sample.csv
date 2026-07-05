@@ -1,0 +1,21 @@
+claim_id,policy_id,customer_id,customer_age,customer_gender,policy_type,policy_tenure_years,incident_type,incident_date,incident_severity,incident_city,incident_state,claimed_amount,approved_amount,claim_status,settlement_days,fraud_flag,claim_channel
+1,POL00001,CUST0001,63,Female,Health,6,Home Damage,2024-12-28,Moderate,South Gregory,IL,153292.61,92358.8,Settled,7,No,Mobile App
+2,POL00002,CUST0002,48,Male,Commercial,22,Home Damage,2024-03-12,Major,North Kellyland,FL,193513.77,86436.02,Settled,90,No,Mobile App
+3,POL00003,CUST0003,22,Male,Home,7,Home Damage,2024-01-13,Moderate,North Brianville,CA,190637.15,182250.13,Rejected,0,No,Online
+4,POL00004,CUST0004,73,Male,Commercial,13,Flood,2025-02-05,Major,North Mark,IL,431596.59,337007.53,Settled,26,No,Mobile App
+5,POL00005,CUST0005,31,Male,Health,20,Flood,2023-11-08,Critical,Lake Victoriafurt,NY,208252.1,203409.78,Settled,88,No,Mobile App
+6,POL00006,CUST0006,22,Male,Health,19,Travel Cancellation,2023-03-15,Major,Angelaborough,WA,206920.58,73055.28,Settled,24,No,Phone
+7,POL00007,CUST0007,73,Female,Home,17,Flood,2025-01-26,Minor,Port Rebecca,AZ,416176.21,314250.85,Settled,8,No,Phone
+8,POL00008,CUST0008,51,Female,Travel,20,Natural Disaster,2023-12-30,Moderate,West Robert,OH,196141.23,183654.0,Settled,4,No,Online
+9,POL00009,CUST0009,28,Male,Travel,4,Car Accident,2024-04-05,Moderate,Hernandezview,NY,147131.34,114538.22,Settled,23,No,Phone
+10,POL00010,CUST0010,62,Female,Home,13,Natural Disaster,2024-06-13,Critical,Port Anthony,TX,157653.44,57302.32,Under Review,0,No,Online
+11,POL00011,CUST0011,69,Female,Life,12,Health Issue,2023-02-18,Minor,North Janetville,OH,84300.75,84089.26,Rejected,0,Yes,Agent
+12,POL00012,CUST0012,72,Male,Travel,15,Travel Cancellation,2024-09-02,Minor,Brittanyside,TX,391132.46,177561.33,Rejected,0,No,Online
+13,POL00013,CUST0013,37,Male,Health,5,Life Claim,2023-05-13,Critical,Rebeccamouth,AZ,467275.15,258564.72,Settled,30,No,Phone
+14,POL00014,CUST0014,42,Male,Auto,17,Natural Disaster,2023-08-23,Minor,Audreyland,WA,214395.51,187374.76,Settled,57,No,Online
+15,POL00015,CUST0015,58,Male,Home,21,Third Party Injury,2024-01-24,Minor,Anthonychester,FL,301534.32,102066.87,Under Review,0,No,Agent
+16,POL00016,CUST0016,61,Male,Home,17,Fire,2023-03-27,Moderate,Cliffordfort,OH,352627.59,258525.2,Under Review,0,No,Agent
+17,POL00017,CUST0017,23,Female,Life,5,Home Damage,2024-06-20,Major,Donnastad,WA,206515.73,124275.94,Settled,90,No,Mobile App
+18,POL00018,CUST0018,69,Female,Life,2,Theft,2023-04-02,Moderate,Beckerport,OH,101873.11,97845.56,Settled,29,No,Phone
+19,POL00019,CUST0019,72,Male,Life,4,Health Issue,2023-10-23,Minor,Lake Barbara,IL,386991.81,372324.03,Settled,80,Yes,Online
+20,POL00020,CUST0020,48,Female,Travel,10,Travel Cancellation,2024-08-12,Moderate,Port Jessica,AZ,67023.74,27819.23,Settled,5,No,Agent

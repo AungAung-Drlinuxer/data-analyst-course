@@ -1,0 +1,21 @@
+sale_id,date,make,model,year,body_style,color,mileage,condition,price,sale_price,customer_id,customer_name,dealer_name,city,state,payment_type,financing_bank
+1,2025-05-30,Subaru,Outback,2018,Truck,Green,64987,Excellent,31890.24,30633.32,CUST0001,Daniel Ward,Norris-Kramer Auto,Riddlemouth,FL,Financing,Bank of America
+2,2024-03-04,Chevrolet,Silverado,2018,Sedan,Beige,27624,Certified Pre-Owned,59682.61,57821.94,CUST0002,Elizabeth Smith,Smith-Anderson Auto,Michaelport,TX,Financing,Chase
+3,2024-06-03,Hyundai,Tucson,2019,SUV,White,30123,Excellent,72690.09,72579.72,CUST0003,Bryce Butler,"Miller, Knight and Rodgers Auto",West Ronald,MI,Financing,Capital One
+4,2024-07-04,Kia,Sportage,2019,Sedan,Black,49941,Fair,59158.64,57826.14,CUST0004,Daniel Porter,Hudson Group Auto,Websterberg,IL,Financing,US Bank
+5,2024-07-13,Mercedes,C-Class,2024,Sedan,Silver,45767,Good,79696.32,77184.66,CUST0005,Mary Turner,Riddle-Krueger Auto,Elizabethton,NY,Financing,Bank of America
+6,2024-12-02,Honda,Accord,2025,SUV,Silver,76546,Certified Pre-Owned,41158.26,40130.49,CUST0006,Eric Freeman,Hess and Sons Auto,North Chelseashire,OH,Financing,US Bank
+7,2024-10-15,Audi,A4,2022,Sedan,Beige,30348,Certified Pre-Owned,38650.9,37791.64,CUST0007,Michelle Jenkins,Jimenez LLC Auto,Bradfordburgh,NY,Cash,Ally Financial
+8,2025-01-31,Mazda,CX-5,2025,SUV,Green,10811,Fair,21113.1,20505.36,CUST0008,Jeffrey Wilkins,Adams-Brennan Auto,Lake Catherinestad,IL,Financing,LightStream
+9,2024-01-18,Toyota,RAV4,2024,Sedan,Red,24294,Fair,36642.95,36364.76,CUST0009,Matthew Williams,Becker-Perez Auto,Jennaland,GA,Financing,US Bank
+10,2025-01-27,BMW,3 Series,2020,Hatchback,Red,33679,Fair,53973.68,53411.15,CUST0010,Shelly Parrish,Mcdonald Inc Auto,New Trevor,TX,Lease,Bank of America
+11,2024-11-21,Tesla,Model Y,2021,Truck,Beige,56173,Excellent,75581.74,74893.19,CUST0011,John Jones,Casey-Davis Auto,Lawrenceburgh,FL,Cash,Citi
+12,2025-03-30,Tesla,Model 3,2021,Hatchback,Silver,40954,Fair,43875.85,42985.67,CUST0012,Justin Rodgers,"Sanchez, Murillo and Gibson Auto",North Angela,FL,Financing,Capital One
+13,2024-07-12,Toyota,Camry,2025,Coupe,Blue,35423,Fair,33285.67,32746.23,CUST0013,Eric Fletcher,Joseph PLC Auto,North Steventown,CA,Cash,Capital One
+14,2024-02-11,Volkswagen,Jetta,2019,Truck,Red,44759,Good,27371.79,26264.99,CUST0014,Dale Williamson,Thomas-Sutton Auto,South Tammytown,GA,Cash,Citi
+15,2025-05-06,Honda,Accord,2024,Convertible,Blue,16106,Good,61791.71,61269.95,CUST0015,Stephanie Richards,Young PLC Auto,West Luisport,OH,Financing,Bank of America
+16,2025-04-03,Tesla,Model Y,2018,Hatchback,Red,18528,Good,52416.57,50717.15,CUST0016,Heather Martin,"Orozco, Nguyen and Jones Auto",New Kelly,PA,Financing,Chase
+17,2024-03-08,BMW,3 Series,2024,Convertible,Blue,68890,Excellent,73670.01,71840.48,CUST0017,Joshua Hamilton,Jackson-Zimmerman Auto,Birdburgh,FL,Lease,Chase
+18,2025-03-15,Mercedes,E-Class,2020,SUV,Blue,4275,Good,45602.85,43667.69,CUST0018,Pam Williams,Norman-Gomez Auto,Thomashaven,FL,Lease,Citi
+19,2024-08-22,Audi,A4,2019,Coupe,Silver,59153,Certified Pre-Owned,62664.71,60309.24,CUST0019,Monica Martinez,"Oliver, Henderson and Galvan Auto",Alexanderbury,NY,Cash,Wells Fargo
+20,2024-12-25,Mercedes,C-Class,2020,Coupe,Blue,56939,Certified Pre-Owned,44173.65,43987.88,CUST0020,Christopher Jones,Larson Group Auto,Port Brittanystad,AZ,Financing,Bank of America

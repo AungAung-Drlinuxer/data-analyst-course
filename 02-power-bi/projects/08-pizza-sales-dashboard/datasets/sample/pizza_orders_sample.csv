@@ -1,0 +1,21 @@
+order_id,order_date,order_time,pizza_id,pizza_name,pizza_category,pizza_size,quantity,unit_price,total_price,ingredients,pizza_type
+1,2024-07-19,13:47:45,PIZ0001,Margherita,Classic,Large,5,16.18,80.9,"Cheese, Sauce, Toppings",Vegetarian
+2,2024-02-06,14:50:00,PIZ0002,Chicken Pesto,Chicken,Medium,1,16.77,16.77,"Cheese, Sauce, Toppings",Vegetarian
+3,2024-05-07,13:38:39,PIZ0003,Chicken Supreme,Chicken,Large,4,12.4,49.6,"Cheese, Sauce, Toppings",Non-Veg
+4,2024-09-25,12:30:40,PIZ0004,Chicken Supreme,Chicken,Large,3,9.6,28.8,"Cheese, Sauce, Toppings",Vegetarian
+5,2025-03-17,23:19:50,PIZ0005,Vegetarian Supreme,Supreme,Medium,2,8.43,16.86,"Cheese, Sauce, Toppings",Non-Veg
+6,2025-06-01,11:03:59,PIZ0006,BBQ Chicken,Chicken,Large,5,8.59,42.95,"Cheese, Sauce, Toppings",Vegetarian
+7,2025-06-15,19:06:09,PIZ0007,Pepperoni Feast,Classic,Large,5,24.08,120.4,"Cheese, Sauce, Toppings",Non-Veg
+8,2024-08-12,23:00:31,PIZ0008,Pepperoni Feast,Classic,Large,1,22.31,22.31,"Cheese, Sauce, Toppings",Vegetarian
+9,2024-07-02,11:27:36,PIZ0009,Margherita,Classic,Large,1,22.08,22.08,"Cheese, Sauce, Toppings",Non-Veg
+10,2024-01-01,18:52:25,PIZ0010,Spicy Italian,Supreme,Medium,3,18.65,55.95,"Cheese, Sauce, Toppings",Non-Veg
+11,2025-05-31,22:45:22,PIZ0011,Chicken Supreme,Chicken,Large,4,13.23,52.92,"Cheese, Sauce, Toppings",Vegetarian
+12,2024-05-08,14:01:03,PIZ0012,Chicken Supreme,Chicken,Large,1,17.86,17.86,"Cheese, Sauce, Toppings",Non-Veg
+13,2024-03-16,17:11:33,PIZ0013,Pepperoni Feast,Classic,Large,5,16.67,83.35,"Cheese, Sauce, Toppings",Non-Veg
+14,2024-12-12,16:17:27,PIZ0014,Spicy Italian,Supreme,Medium,2,21.92,43.84,"Cheese, Sauce, Toppings",Vegetarian
+15,2024-01-08,17:03:28,PIZ0015,Mushroom & Olive,Vegetarian,Small,5,9.12,45.6,"Cheese, Sauce, Toppings",Vegetarian
+16,2025-05-25,21:09:56,PIZ0016,Vegetarian Supreme,Supreme,Medium,3,17.23,51.69,"Cheese, Sauce, Toppings",Vegetarian
+17,2025-03-27,20:08:07,PIZ0017,Spicy Italian,Supreme,Medium,3,12.28,36.84,"Cheese, Sauce, Toppings",Vegetarian
+18,2024-09-17,13:17:56,PIZ0018,Vegetarian Supreme,Supreme,Medium,5,10.24,51.2,"Cheese, Sauce, Toppings",Vegetarian
+19,2024-07-11,23:14:50,PIZ0019,Truffle Mushroom,Supreme,Small,5,21.58,107.9,"Cheese, Sauce, Toppings",Non-Veg
+20,2025-05-08,15:32:23,PIZ0020,Mushroom & Olive,Vegetarian,Small,4,9.39,37.56,"Cheese, Sauce, Toppings",Vegetarian

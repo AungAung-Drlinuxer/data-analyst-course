@@ -1,0 +1,21 @@
+accident_id,accident_date,accident_time,day_of_week,weather_condition,road_type,speed_limit,road_surface,light_condition,number_of_vehicles,number_of_casualties,severity,latitude,longitude,location_district,location_city,accident_reason,police_region
+1,2024-03-29,11:47,Sat,Snow,A-Road,50,Mud,Darkness - Lighting Unknown,4,6,Serious,52.7999,-3.3291,Michaelmouth District,Curtisbury,Vehicle Fault,West Region
+2,2023-08-27,12:01,Sat,Fog,Roundabout,52,Wet,Twilight,5,4,Slight,51.16,-0.1637,Port Danny District,Lake Brittany,Unknown,South Region
+3,2024-06-13,12:53,Mon,Fog,Dual Carriageway,32,Snow,Darkness - No Lighting,3,3,Slight,52.3557,0.587,Kristymouth District,Davidview,Driver Error,West Region
+4,2024-05-15,23:48,Tue,Rain,Roundabout,23,Flood,Daylight,5,4,Slight,50.3324,-1.6716,South Kristyfort District,North Katrinaborough,Speeding,Metropolitan
+5,2024-05-22,10:11,Sun,Hail,Junction,24,Ice,Daylight,2,5,Slight,51.3931,-0.104,South Gregoryfurt District,Zacharyborough,Unknown,West Region
+6,2024-03-13,16:45,Thu,Fog,Roundabout,50,Dry,Twilight,4,2,Serious,50.4238,-4.7631,Christopherchester District,Brettfort,Unknown,South Region
+7,2023-01-06,09:19,Mon,Hail,Motorway,64,Snow,Darkness - Lighting Unknown,2,4,Slight,51.7455,-3.4508,North Melissa District,Jenniferborough,Weather Conditions,East Region
+8,2023-10-16,07:22,Tue,Snow,Motorway,39,Mud,Darkness - Lights Lit,1,3,Serious,55.2867,-0.218,Powellville District,Port Rhondaville,Unknown,Metropolitan
+9,2024-01-01,22:59,Sun,Snow,B-Road,30,Snow,Darkness - Lights Lit,5,5,Slight,55.1711,1.7241,Davidton District,Lindseyville,Driver Error,South Region
+10,2025-06-22,08:34,Tue,Windy,One Way Street,56,Flood,Twilight,5,6,Slight,55.4286,1.7379,New Jenniferfurt District,Johnsonhaven,Pedestrian Error,West Region
+11,2023-05-17,09:12,Fri,Fog,Motorway,52,Ice,Daylight,2,0,Fatal,56.2437,-4.414,Samuelfort District,Port Lisatown,Pedestrian Error,South Region
+12,2024-01-14,12:03,Sun,Rain,Junction,54,Ice,Darkness - No Lighting,2,0,Serious,54.2763,-1.5435,Lake Michaeltown District,Shawbury,Vehicle Fault,East Region
+13,2023-02-14,04:22,Thu,Snow,Junction,23,Snow,Darkness - No Lighting,1,0,Slight,54.4563,-1.5331,Michellebury District,New Thomasburgh,Vehicle Fault,West Region
+14,2024-06-16,00:41,Tue,Snow,Junction,32,Flood,Twilight,2,4,Slight,56.1849,-1.7076,Lewisfort District,North Mary,Vehicle Fault,South Region
+15,2024-07-22,16:34,Tue,Fine,Junction,46,Dry,Darkness - Lights Lit,5,2,Slight,52.2131,-2.8335,Lake Robertside District,New Jason,Road Condition,Metropolitan
+16,2023-07-17,01:04,Sat,Windy,A-Road,65,Wet,Darkness - Lights Lit,1,6,Slight,56.0189,-0.6306,Blackwellmouth District,Martineztown,Driver Error,North Region
+17,2023-01-01,09:41,Wed,Windy,Motorway,63,Wet,Daylight,3,3,Slight,54.6226,0.9763,West Carolmouth District,East Michael,Road Condition,South Region
+18,2024-05-23,10:58,Wed,Snow,Dual Carriageway,24,Dry,Darkness - No Lighting,1,2,Slight,56.2914,-2.5579,East Brendafort District,Joshuaside,Weather Conditions,South Region
+19,2025-03-31,04:17,Thu,Rain,Motorway,27,Dry,Darkness - Lights Lit,5,6,Slight,54.7374,-4.3208,Emmaland District,New Timothy,Pedestrian Error,North Region
+20,2023-05-26,05:00,Fri,Snow,One Way Street,28,Wet,Darkness - Lights Lit,3,4,Slight,56.1861,-0.7435,Flemingtown District,New Haley,Weather Conditions,Metropolitan
